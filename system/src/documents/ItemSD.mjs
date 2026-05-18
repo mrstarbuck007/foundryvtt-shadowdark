@@ -172,44 +172,6 @@ export default class ItemSD extends foundry.documents.Item {
 	}
 
 
-	/* -------------------------------------------- */
-	/*  Roll Methods                                */
-	/* -------------------------------------------- */
-
-	async rollItem(parts, data, options={}) {
-		options.dialogTemplate =  "systems/shadowdark/templates/dialog/roll-item-dialog.hbs";
-		options.chatCardTemplate = "systems/shadowdark/templates/chat/item-card.hbs";
-		await CONFIG.DiceSD.RollDialog(parts, data, options);
-	}
-
-
-	async rollNpcAttack(parts, data, options={}) {
-		options.dialogTemplate =  "systems/shadowdark/templates/dialog/roll-npc-attack-dialog.hbs";
-		options.chatCardTemplate = "systems/shadowdark/templates/chat/item-card.hbs";
-		await CONFIG.DiceSD.RollDialog(parts, data, options);
-	}
-
-
-	async rollSpell(parts, data, options={}) {
-		options.dialogTemplate = "systems/shadowdark/templates/dialog/roll-spell-dialog.hbs";
-		options.chatCardTemplate = "systems/shadowdark/templates/chat/item-card.hbs";
-		options.isSpell = true;
-		const roll = await CONFIG.DiceSD.RollDialog(parts, data, options);
-
-		if (roll) {
-			if (this.system.isScroll) {
-				data.actor.deleteEmbeddedDocuments("Item", [this._id]);
-			}
-			else if (this.system.isWand) {
-				if (roll.rolls.main.critical === "failure") {
-					data.actor.deleteEmbeddedDocuments("Item", [this._id]);
-				}
-			}
-		}
-
-		return roll;
-	}
-
 	isActiveLight() {
 		return this.isLight() && this.system.light.active;
 	}
