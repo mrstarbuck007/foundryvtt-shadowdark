@@ -2,11 +2,11 @@
 {{{description}}}
 {{#if isIdentified}}
 	{{#each spells}}
+		<span class="spell-name">
+			{{this.name}}
+		</span>
 		<span class="item-subtext">
-			<b>
-				{{this.name}}
-			</b>
-			{{{spanBullets this.subtext}}}
+			{{subtext this.subtext}}
 		</span>
 	{{/each}}
 {{/if}}

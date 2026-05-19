@@ -216,17 +216,13 @@ export default function registerHandlebarsHelpers() {
 		return html.replace(rgx, "$& selected");
 	});
 
-	Handlebars.registerHelper("spanBullets", subtext => {
-		return (subtext ?? "").replaceAll("•", "<span> • </span>");
-	});
-
-	Handlebars.registerHelper("weaponSubtext", function(subtext, attackType) {
-		if (typeof subtext !== "string") return "";
+	Handlebars.registerHelper("subtext", function(text, attackType) {
+		if (typeof text !== "string") return new Handlebars.SafeString("");
 		if (attackType === "ranged") {
 			const melee = game.i18n.localize("SHADOWDARK.weapon.type.melee");
 			const ranged = game.i18n.localize("SHADOWDARK.weapon.type.ranged");
-			subtext = subtext.split(melee).join(ranged);
+			text = text.split(melee).join(ranged);
 		}
-		return new Handlebars.SafeString(subtext.replaceAll("•", "<span> • </span>"));
+		return new Handlebars.SafeString(text.replaceAll("•", "<span> • </span>"));
 	});
 }

@@ -5,7 +5,7 @@
 				{{{this.spellDescription}}}
 			</div>
 			<span class="item-subtext">
-				{{{spanBullets this.subtext}}}
+				{{subtext this.subtext}}
 			</span>
 		{{/each}}
 	{{else}}
@@ -16,7 +16,7 @@
 					<b>
 						{{this.name}}
 					</b>
-					{{{spanBullets this.subtext}}}
+					{{subtext this.subtext}}
 				</span>
 			{{/each}}
 		{{/if}}
@@ -25,7 +25,7 @@
 	{{{description}}}
 	{{#if item.system.subtext}}
 		<span class="item-subtext">
-			{{{spanBullets item.system.subtext}}}
+			{{subtext item.system.subtext}}
 		</span>
 	{{/if}}
 {{/if}}

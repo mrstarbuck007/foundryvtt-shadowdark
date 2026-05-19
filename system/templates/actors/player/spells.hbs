@@ -15,9 +15,7 @@
 					</li>
 					{{#each tier as |spell|}}
 						<li class="item" data-item-id="{{spell._id}}" data-uuid="{{spell.uuid}}">
-							<div class="item-image" style="background-image: url({{spell.img}})">
-								<i class="fas fa-comment fa-lg"></i>
-							</div>
+							<div class="item-image" style="background-image: url({{spell.img}})" data-tooltip="Output to Chat"></div>
 							<a class="item-name {{#if spell.system.lost}}strike-through{{/if}}" data-action="show-details">
 								{{this.name}}
 							</a>
