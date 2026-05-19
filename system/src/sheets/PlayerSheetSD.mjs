@@ -515,10 +515,17 @@ export default class PlayerSheetSD extends ActorSheetSD {
 
 	async _onItemChatClick(event) {
 		event.preventDefault();
-		const itemId = $(event.currentTarget.parentElement).data("item-id");
-		const item = this.actor.getEmbeddedDocument("Item", itemId);
-
-		item.displayCard();
+		const el = event.target.closest("[data-item-id]");
+		if (el?.dataset?.spellId) {
+			const spell = await fromUuid(el.dataset.spellId);
+			if (!spell) return;
+			spell.displayCard();
+		}
+		else {
+			const item = this.actor.getEmbeddedDocument("Item", el?.dataset?.itemId);
+			if (!item) return;
+			item.displayCard();
+		}
 	}
 
 	async _onItemQuantityDecrement(event) {
