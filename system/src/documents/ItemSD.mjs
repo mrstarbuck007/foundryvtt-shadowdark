@@ -63,7 +63,7 @@ export default class ItemSD extends foundry.documents.Item {
 
 	async displayCard() {
 		shadowdark.chat.renderItemCardMessage(this.actor, {
-			template: "systems/shadowdark/templates/chat/item/default.hbs",
+			template: "systems/shadowdark/templates/chat/item.hbs",
 			templateData: await this.getDisplayData(),
 		});
 	}
@@ -82,10 +82,8 @@ export default class ItemSD extends foundry.documents.Item {
 		let spells = [];
 
 		const data = {
-			actor: this.actor,
 			description,
-			item: this.toObject(),
-			subtext: this.system.subtext || "",
+			item: this,
 			isSpellsTab: !!spellId,
 			isIdentified: this.system.isIdentified,
 		};

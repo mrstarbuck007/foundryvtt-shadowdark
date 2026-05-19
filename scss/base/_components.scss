@@ -226,17 +226,8 @@
 		}
 	}
 
-	.subtext {
-		font-size: 12px;
-		font-style: italic;
-		> b {
-			font-style: initial;
-		}
-		& span {
-			font-size: 16px;
-			line-height: 0;
-			vertical-align: -0.05em;
-		}
+	.item-subtext {
+		@include item-subtext(0.9em);
 	}
 
 	.tags {

@@ -1,5 +1,7 @@
-<b style="font-size:16px">{{this.item.name}}</b>
+<b class="item-name">{{this.item.name}}</b>
 ({{this.attack.range}})
 {{this.mainRoll.bonus}}
 ({{this.damageRoll.formula}})
-<div style="font-size: 12px;">{{this.item.system.subtext}}</div>
+<span class="item-subtext">
+	{{weaponSubtext this.item.system.subtext attackType}}
+</span>

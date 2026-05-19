@@ -1,0 +1,12 @@
+{{> chat/item-summary }}
+{{{description}}}
+{{#if isIdentified}}
+	{{#each spells}}
+		<span class="item-subtext">
+			<b>
+				{{this.name}}
+			</b>
+			{{{spanBullets this.subtext}}}
+		</span>
+	{{/each}}
+{{/if}}

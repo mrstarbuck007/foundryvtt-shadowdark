@@ -220,4 +220,13 @@ export default function registerHandlebarsHelpers() {
 		return (subtext ?? "").replaceAll("•", "<span> • </span>");
 	});
 
+	Handlebars.registerHelper("weaponSubtext", function(subtext, attackType) {
+		if (typeof subtext !== "string") return "";
+		if (attackType === "ranged") {
+			const melee = game.i18n.localize("SHADOWDARK.weapon.type.melee");
+			const ranged = game.i18n.localize("SHADOWDARK.weapon.type.ranged");
+			subtext = subtext.split(melee).join(ranged);
+		}
+		return new Handlebars.SafeString(subtext.replaceAll("•", "<span> • </span>"));
+	});
 }

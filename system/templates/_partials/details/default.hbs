@@ -4,28 +4,28 @@
 			<div class="details-description">
 				{{{this.spellDescription}}}
 			</div>
-			<p class="subtext">
+			<span class="item-subtext">
 				{{{spanBullets this.subtext}}}
-			</p>
+			</span>
 		{{/each}}
 	{{else}}
 		{{{description}}}
 		{{#if isIdentified}}
 			{{#each spells}}
-				<p class="subtext">
+				<span class="item-subtext">
 					<b>
 						{{this.name}}
 					</b>
 					{{{spanBullets this.subtext}}}
-				</p>
+				</span>
 			{{/each}}
 		{{/if}}
 	{{/if}}
 {{else}}
 	{{{description}}}
-	{{#if subtext}}
-		<p class="subtext">
-			{{{spanBullets subtext}}}
-		</p>
+	{{#if item.system.subtext}}
+		<span class="item-subtext">
+			{{{spanBullets item.system.subtext}}}
+		</span>
 	{{/if}}
 {{/if}}
