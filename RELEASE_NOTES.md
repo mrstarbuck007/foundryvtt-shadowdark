@@ -1,6 +1,7 @@
 # v4.0.5
 
 ## Bugfixes
+- [#1326] Bug: Players missing attribute bonus tooltip on spell cast
 - [#1333] Fix apply to token/target tooltips
 - [#1335] Editor icon on Identify Tab hidden by wrapping div when it contains no content
 
