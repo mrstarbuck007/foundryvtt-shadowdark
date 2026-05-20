@@ -480,8 +480,11 @@ export default class PlayerSD extends ActorBaseSD {
 		// calculate spell crit modifiers
 		const critTooltips = this._calcCriticalConfig(spell, config, "spell");
 
+		const abilityMod = this._getAbilityModifier(config.cast.ability);
+
 		// generate tooltips
 		const tooltips = [];
+		if (abilityMod.tooltip) tooltips.push(abilityMod.tooltip);
 		tooltips.push(spellRollKey.tooltips);
 		tooltips.push(...critTooltips);
 		tooltips.push(spellAdvKey.tooltips);

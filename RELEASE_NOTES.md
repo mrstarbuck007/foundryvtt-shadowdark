@@ -2,6 +2,7 @@
 
 ## Bugfixes
 - [#1333] Fix apply to token/target tooltips
+- [#1326] Bug: Players missing attribute bonus tooltip on spell cast
 
 ---
 
