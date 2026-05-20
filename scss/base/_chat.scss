@@ -18,6 +18,33 @@
 	}
 }
 
+.shadowdark.item-card {
+	.card-header {
+		&[data-action="expandDescription"] {
+			cursor: pointer;
+		}
+
+		i {
+			margin-left: 4px;
+			transition: transform 250ms ease;
+		}
+	}
+
+	.card-content {
+		display: grid;
+		grid-template-rows: 0fr;
+		transition: grid-template-rows 250ms ease;
+
+		.wrapper {
+			overflow: hidden;
+		}
+
+		&.expanded {
+			grid-template-rows: 1fr;
+		}
+	}
+}
+
 .chat-message {
 	font-family: "Montserrat-Medium";
 
