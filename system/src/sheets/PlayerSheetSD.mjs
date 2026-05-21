@@ -499,9 +499,9 @@ export default class PlayerSheetSD extends ActorSheetSD {
 							system: {
 								treasure: true,
 								cost: {
-									gp: parseInt(html.find("#item-gp").val() ?? 0),
-									sp: parseInt(html.find("#item-sp")?.val() ?? 0),
-									cp: parseInt(html.find("#item-cp").val() ?? 0),
+									gp: parseInt(html.find("#item-gp").val() || 0),
+									sp: parseInt(html.find("#item-sp")?.val() || 0),
+									cp: parseInt(html.find("#item-cp").val() || 0),
 								},
 							},
 						};
