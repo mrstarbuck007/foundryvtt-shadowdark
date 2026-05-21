@@ -6,6 +6,7 @@
 - [#1335] Editor icon on Identify Tab hidden by wrapping div when it contains no content
 - [#1341] Farsight (Spell) talent had incorrect spell bonus effect
 - [#1348] Knight of St. Ydris talent had incorrect spellcasting class set
+- [#1349] Fixed validation errors when creating treasure items
 
 ---
 
