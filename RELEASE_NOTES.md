@@ -5,6 +5,7 @@
 - [#1333] Fix apply to token/target tooltips
 - [#1335] Editor icon on Identify Tab hidden by wrapping div when it contains no content
 - [#1341] Farsight (Spell) talent had incorrect spell bonus effect
+- [#1348] Knight of St. Ydris talent had incorrect spellcasting class set
 
 ---
 
