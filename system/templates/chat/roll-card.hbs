@@ -10,17 +10,9 @@
 		{{{mainRoll.html}}}
 	{{/if}}
 
-	<!-- Item -->
+	<!-- Description -->
 	{{#if item}}
-		{{> chat/item-summary attackType=attack.type }}
-	{{/if}}
-
-	{{#if (eq actor.type "NPC")}}
-		<div class="descriptions">
-			{{#each descriptions}}
-				{{{this}}}
-			{{/each}}
-		</div>
+		{{> chat/description attackType=attack.type}}
 	{{/if}}
 
 	<!-- Damage Roll -->

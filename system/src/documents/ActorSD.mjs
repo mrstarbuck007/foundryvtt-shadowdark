@@ -378,13 +378,12 @@ export default class ActorSD extends foundry.documents.Actor {
 						icon: "<i class=\"fa fa-check\"></i>",
 						label: `${game.i18n.localize("SHADOWDARK.dialog.general.yes")}`,
 						callback: async () => {
-							let potionDescription = await item.getEnrichedDescription();
-							// If unidentified, append the identified description
-							if (item.system?.isIdentified === false
-								&& item.system?.identification.description) {
-								potionDescription = potionDescription.concat(
-									item.system.identification.description
-								);
+							let potionName = item.name;
+							let potionDescription = await item.system.getDescription();
+							if (!item.system.isIdentified
+								&& item.system.identification?.description) {
+								potionName = item.system.identification.name;
+								potionDescription = item.system.identification.description;
 							}
 							const cardData = {
 								actor: this,
@@ -393,9 +392,10 @@ export default class ActorSD extends foundry.documents.Actor {
 									"SHADOWDARK.chat.potion_used",
 									{
 										name: this.name,
-										potionName: item.name,
+										potionName,
 									}
 								),
+								potionName,
 								potionDescription,
 							};
 

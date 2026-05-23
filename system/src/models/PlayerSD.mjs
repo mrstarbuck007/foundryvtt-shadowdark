@@ -360,8 +360,7 @@ export default class PlayerSD extends ActorBaseSD {
 		if (!ability) return;
 		config.type = "ability";
 
-		config.descriptions = [];
-		config.descriptions.push(ability.system.description);
+		config.description = await ability.system.getDescription();
 
 		// roll required?
 		if (ability.system.ability) {
@@ -415,8 +414,7 @@ export default class PlayerSD extends ActorBaseSD {
 		config.attack.type ??= weapon.system.type;
 		config.attack.range ??= weapon.system.range;
 
-		config.descriptions = [];
-		config.descriptions.push(weapon.system?.description);
+		config.description = await weapon.system.getDescription();
 
 		// calulate attack config
 		this._calcAttackMainConfig(weapon, config);
@@ -451,8 +449,7 @@ export default class PlayerSD extends ActorBaseSD {
 			}
 		}
 
-		config.descriptions = [];
-		config.descriptions.push(spell.system?.description);
+		config.description = await spell.system.getDescription();
 
 		shadowdark.dice.initializeD20Check(config);
 		config.mainRoll.label = game.i18n.localize("SHADOWDARK.roll.spell_cast");

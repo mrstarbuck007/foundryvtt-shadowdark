@@ -23,4 +23,23 @@ export default class ScrollSD extends PhysicalItemSD {
 	get isScroll() {
 		return true;
 	}
+
+	async getDescription() {
+		const parts = [await super.getDescription()];
+
+		if (this.isIdentified && this.spellUuid) {
+			const spell = await fromUuid(this.spellUuid);
+			if (!spell) return parts.join("");
+			const classes = await spell.system.getClassNames();
+			const subtext = [spell.system.subtext, classes].filter(Boolean).join(" • ");
+			parts.push(
+				`<span class="spell-name">${spell.name}</span>`
+				+ `<span class="item-subtext">${subtext}</span>`
+			);
+		}
+
+		return parts.join("");
+
+	}
+
 }

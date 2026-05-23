@@ -174,9 +174,8 @@ export default class ChatMessageSD extends ChatMessage {
 	}
 
 	_onExpandDescription(event) {
-		event.currentTarget.closest(".chat-card")
-			.querySelector(".card-content")
-			.classList.toggle("expanded");
+		const cardContent = event.currentTarget.closest(".message-content").querySelector(".card-content");
+		cardContent.classList.toggle("expanded");
 		event.currentTarget.querySelector("i").classList.toggle("fa-rotate-90");
 	}
 

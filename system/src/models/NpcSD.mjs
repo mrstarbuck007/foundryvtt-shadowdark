@@ -217,24 +217,7 @@ export default class NpcSD extends ActorBaseSD {
 		config.attack.range ??= attack.system.ranges[0];
 		config.attack.type ??= (config.attack.range === "close") ? "melee" : "ranged";
 
-		config.descriptions = [];
-		config.descriptions.push(attack.system?.description);
-
-		// add attack features to descriptions
-		if (attack.system.damage?.special) {
-			const featureNames = attack.system.damage.special.split(",").map(s => s.trim().toLowerCase());
-			for (const name of featureNames) {
-				const feature = this.parent.items.find(
-					i => i.system.isNPCFeature && i.name.toLowerCase() === name
-				);
-				if (!feature) continue;
-				const header = `<strong>${feature.name}.</strong> `;
-				const desc = feature.system.description.startsWith("<p>")
-					? feature.system.description.replace("<p>", `<p>${header}`)
-					: header + feature.system.description;
-				config.descriptions.push(desc);
-			}
-		}
+		config.description = await attack.system.getDescription();
 
 		shadowdark.dice.initializeD20Check(config);
 		config.mainRoll.label ??= game.i18n.localize("SHADOWDARK.roll.attack");
@@ -272,8 +255,7 @@ export default class NpcSD extends ActorBaseSD {
 		config.cast.duration ??= spell.system?.duration;
 		config.cast.damageType ??= spell.system?.damageType;
 
-		config.descriptions = [];
-		config.descriptions.push(spell.system?.description);
+		config.description = await spell.system.getDescription();
 
 		shadowdark.dice.initializeD20Check(config);
 		config.mainRoll.label = game.i18n.localize("SHADOWDARK.roll.spell_cast");

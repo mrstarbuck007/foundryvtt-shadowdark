@@ -63,7 +63,7 @@ export default class ItemSD extends foundry.documents.Item {
 
 	async displayCard() {
 		shadowdark.chat.renderItemCardMessage(this.actor, {
-			template: "systems/shadowdark/templates/chat/item.hbs",
+			template: "systems/shadowdark/templates/chat/description.hbs",
 			templateData: await this.getDisplayData(),
 		});
 	}
@@ -74,69 +74,14 @@ export default class ItemSD extends foundry.documents.Item {
 		return await foundry.applications.handlebars.renderTemplate(templatePath, data);
 	}
 
-	// If passed, spellId does double duty. It tells us:
-	// 1. the template is being output on the Spells tab
-	// 2. the uuid of the Wand spell clicked (out of possibly several listed).
+	// spellId means a Spell on a Wand was clicked on the Spells tab.
 	async getDisplayData(spellId = null) {
-		const description = await this.getEnrichedDescription();
-		let spells = [];
-
-		const data = {
-			description,
+		const source = spellId ? await fromUuid(spellId) : this;
+		return {
+			description: await source.system.getDescription(),
 			item: this,
-			isSpellsTab: !!spellId,
-			isIdentified: this.system.isIdentified,
 		};
-
-		if (this.isSpell()) {
-			switch (this.type) {
-				case "Scroll":
-					if (this.system.spellUuid) spells.push(await fromUuid(this.system.spellUuid));
-					break;
-				case "Wand":
-					if (spellId) {
-						spells.push(await fromUuid(spellId));
-					}
-					else {
-						spells = await Promise.all(
-							data.item.system.spells
-								.filter(s => s.uuid)
-								.map(s => fromUuid(s.uuid))
-						);
-					}
-					break;
-				case "Spell":
-					spells.push(this);
-					break;
-			}
-			spells = spells.filter(Boolean);
-
-			data.spells = await Promise.all(
-				spells.map(async spell => {
-					const obj = spell.toObject();
-					const [classes, spellDescription] = await Promise.all([
-						spell.getSpellClassesDisplay(),
-						spell.getEnrichedDescription(),
-					]);
-					obj.spellDescription = spellDescription;
-					obj.subtext = [spell.system.subtext, classes].filter(Boolean).join(" • ");
-					return obj;
-				})
-			);
-		}
-		return data;
 	}
-
-
-	async getEnrichedDescription() {
-		return await foundry.applications.ux.TextEditor.implementation.enrichHTML(
-			this.system.description,
-			{
-				async: true,
-			}
-		);
-	}
-
 
 	lightRemainingString() {
 		if (this.type !== "Basic" && !this.system.light.isSource) return;
@@ -289,18 +234,5 @@ export default class ItemSD extends foundry.documents.Item {
 			const result = { expired: remaining <= 0, remaining, progress };
 			return result;
 		}
-	}
-
-	async getSpellClassesDisplay() {
-		const classes = [];
-
-		for (const uuid of this.system.class ?? []) {
-			const item = await fromUuid(uuid);
-			classes.push(item.name);
-		}
-
-		classes.sort((a, b) => a.localeCompare(b));
-
-		return classes.join(", ");
 	}
 }

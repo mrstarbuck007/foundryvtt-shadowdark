@@ -35,4 +35,31 @@ export default class NpcAttackSD extends BaseItemSD {
 			.join("/");
 		return [ranges, this.damage.special].filter(Boolean).join(" • ");
 	}
+
+	async getDescription() {
+		const parts = [await super.getDescription()];
+
+		if (this.damage?.special) {
+			const featureNames = this.damage.special
+				.split(",")
+				.map(s => s.trim().toLowerCase());
+
+			for (const name of featureNames) {
+				const feature = this.parent.actor?.items.find(
+					i => i.system.isNPCFeature && i.name.toLowerCase() === name
+				);
+				if (!feature) continue;
+
+				const featureDesc = await feature.system.getDescription();
+				const header = `<strong>${feature.name}.</strong> `;
+				const desc = featureDesc.startsWith("<p>")
+					? featureDesc.replace("<p>", `<p>${header}`)
+					: header + featureDesc;
+				parts.push(desc);
+			}
+		}
+
+		return parts.join("");
+	}
+
 }

@@ -1,0 +1,23 @@
+<div class="item-wrapper">
+	<a data-link data-uuid="{{item.uuid}}">
+		<img class="item-image" src="{{item.img}}">
+	</a>
+	<div class="item-text-wrapper">
+		<span class="item-name" {{#if description}}data-action="expandDescription"{{/if}}>
+			{{item.name}}
+			{{#if description}}
+				<i class="fa-thin fa-caret-right {{#unless attackType}}fa-rotate-90{{/unless}}"></i>
+			{{/if}}
+		</span>
+		<span class="item-subtext">
+			{{subtext item.system.subtext attackType}}
+			{{#if ammunitionName}}<span> • </span>{{ammunitionName}}{{/if}}
+		</span>
+	</div>
+</div>
+
+<div class="card-content {{#unless attackType}}expanded{{/unless}}">
+	<div class="description">
+		{{{description}}}
+	</div>
+</div>

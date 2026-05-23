@@ -34,4 +34,10 @@ export class BaseItemSD extends foundry.abstract.TypeDataModel {
 		return propertyItem ? true : false;
 	}
 
+	async getDescription() {
+		return await foundry.applications.ux.TextEditor.implementation.enrichHTML(
+			this.description, {async: true}
+		);
+	}
+
 }
