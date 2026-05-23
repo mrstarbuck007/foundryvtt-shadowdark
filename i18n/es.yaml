@@ -16,13 +16,13 @@ SHADOWDARK.alignment.neutral: Neutral
 SHADOWDARK.ancestry.choice_count: Número de opciones
 SHADOWDARK.ancestry.choice: Opción
 SHADOWDARK.ancestry.fixed: Fijo
-SHADOWDARK.ancestry.languages.label: Idiomas de ancestro
+SHADOWDARK.ancestry.languages.label: Idiomas de Ancestría
 SHADOWDARK.ancestry.languages.prompt: Seleccionar idioma...
 SHADOWDARK.ancestry.nametable.label: Tabla de nombres aleatorios
 SHADOWDARK.ancestry.nametable.placeholder: Arrastra tabla aquí
 SHADOWDARK.ancestry.nametable.random_weight: Peso aleatorio
 SHADOWDARK.ancestry.nametable.tooltip.weight: Afecta la probabilidad de lanzamiento usando el generador de personajes. Valores más altos incrementan la probabilidad. Valor por defecto a 1.
-SHADOWDARK.ancestry.talents.label: Talentos de ancestro
+SHADOWDARK.ancestry.talents.label: Talentos de Ancestría
 SHADOWDARK.ancestry.talents.prompt: Seleccionar talento...
 SHADOWDARK.app.active_effects.title: Efectos activos
 SHADOWDARK.app.gem_bag.sell_all: Vender todas las gemas
@@ -50,7 +50,7 @@ SHADOWDARK.apps.character-generator.choose: Elegir
 SHADOWDARK.apps.character-generator.create_character: Crear personaje
 SHADOWDARK.apps.character-generator.error.create: Error al crear el personaje jugador {error}
 SHADOWDARK.apps.character-generator.error.name: El nombre del personaje no puede estar en blanco
-SHADOWDARK.apps.character-generator.error.no_ancestry_for_name: No se puede generar un nombre aleatorio sin seleccionar un ancestro
+SHADOWDARK.apps.character-generator.error.no_ancestry_for_name: No se puede generar un nombre aleatorio sin seleccionar una Ancestría
 SHADOWDARK.apps.character-generator.gear: Equipo
 SHADOWDARK.apps.character-generator.gold: Oro
 SHADOWDARK.apps.character-generator.name: Nombre del personaje
@@ -99,9 +99,9 @@ SHADOWDARK.apps.level-up.level_up: '¡Subir nivel!'
 SHADOWDARK.apps.level-up.leveling_to: Subiendo nivel
 SHADOWDARK.apps.level-up.missing_selections: Faltan selecciones
 SHADOWDARK.apps.level-up.notalent: Sin talentos ganados en este nivel
-SHADOWDARK.apps.level-up.or_boons: o Bendiciones
+SHADOWDARK.apps.level-up.or_boons: o Favores
 SHADOWDARK.apps.level-up.prompt: No se han realizado las selecciones requeridas. ¿Continuar con la subida de nivel?
-SHADOWDARK.apps.level-up.roll_boon: Tirar Bendición
+SHADOWDARK.apps.level-up.roll_boon: Tirar Favor
 SHADOWDARK.apps.level-up.roll_talent: Lanzar talento
 SHADOWDARK.apps.level-up.spell_tier_out_of_range: Spell tier out of range
 SHADOWDARK.apps.level-up.title: Subiendo nivel
@@ -328,8 +328,8 @@ SHADOWDARK.dialog.roll_using_ability: Using Ability {name}
 SHADOWDARK.dialog.roll: Tirada
 SHADOWDARK.dialog.scroll.learn_spell_class_warning: "ADVERTENCIA: Este hechizo no pertenece a la misma clase que el personaje. ¿Estás seguro de que deseas intentar aprenderlo?"
 SHADOWDARK.dialog.scroll.wrong_class_confirm: Confirmar Aprendizaje de Hechizo
-SHADOWDARK.dialog.select_ancestry.prompt: Seleccionar ancestro...
-SHADOWDARK.dialog.select_ancestry.title: Elige ancestro
+SHADOWDARK.dialog.select_ancestry.prompt: Seleccionar Ancestría...
+SHADOWDARK.dialog.select_ancestry.title: Elige una Ancestría
 SHADOWDARK.dialog.select_armor_property.prompt: Seleccionar Propiedad de Armadura...
 SHADOWDARK.dialog.select_armor_property.title: Elegir propiedades de armadura
 SHADOWDARK.dialog.select_background.prompt: Seleccionar trasfondo...
@@ -400,9 +400,9 @@ SHADOWDARK.hotbar.moreThanOneItemWithName: Más de un elemento encontrado con es
 SHADOWDARK.hotbar.noActorSelected: Debes seleccionar un actor para usar esta macro
 SHADOWDARK.hotbar.noItemWithName: No se encontró el ítem en el personaje
 SHADOWDARK.hotbar.wandAllSpellsLost: All spells in this wand are lost
-SHADOWDARK.inventory.carried_gear: Carried Gear
+SHADOWDARK.inventory.carried_gear: Transportado
 SHADOWDARK.inventory.coins: Monedas
-SHADOWDARK.inventory.equipped_gear: Equipo Equipado
+SHADOWDARK.inventory.equipped_gear: Equipado
 SHADOWDARK.inventory.gear: Equipo
 SHADOWDARK.inventory.gems: Gemas
 SHADOWDARK.inventory.item.light_remaining: "{timeRemaining} Minutos restantes"
@@ -420,7 +420,7 @@ SHADOWDARK.inventory.section.weapon: Armas
 SHADOWDARK.inventory.slots_max: Máx
 SHADOWDARK.inventory.slots_used: Usado
 SHADOWDARK.inventory.slots: Espacios
-SHADOWDARK.inventory.stashed_gear: Equipo guardado
+SHADOWDARK.inventory.stashed_gear: Almacenado
 SHADOWDARK.inventory.tooltip.gem_bag: Abrir bolsa de gemas
 SHADOWDARK.inventory.tooltip.item_decrement: Reducir cantidad
 SHADOWDARK.inventory.tooltip.item_increment: Aumentar cantidad
@@ -456,7 +456,7 @@ SHADOWDARK.item.effect.category.condition: Condición
 SHADOWDARK.item.effect.category.effect: Efecto
 SHADOWDARK.item.effect.category.title: Categoría del efecto
 SHADOWDARK.item.effect.lightSource.lantern: Farol
-SHADOWDARK.item.effect.lightSource.lightSpellDouble: Luz (doble rango)
+SHADOWDARK.item.effect.lightSource.lightSpellDouble: Luz (Doble Rango)
 SHADOWDARK.item.effect.lightSource.lightSpellNear: Luz
 SHADOWDARK.item.effect.lightSource.lightSuppression: Supresión de luz
 SHADOWDARK.item.effect.lightSource.purpleGlow: Brillo púrpura
@@ -619,8 +619,8 @@ SHADOWDARK.language.sylvan: Silvano
 SHADOWDARK.language.thanian: Thanio
 SHADOWDARK.language.who_speaks_it: Hablantes
 SHADOWDARK.light_source.lantern: Farol
-SHADOWDARK.light_source.light_spell.double_near: Hechizo de luz (doble próximo)
-SHADOWDARK.light_source.light_spell.near: Hechizo de luz (Próximo)
+SHADOWDARK.light_source.light_spell.double_near: Hechizo de Luz (Doble Rango Medio)
+SHADOWDARK.light_source.light_spell.near: Hechizo de Luz (Rango Medio)
 SHADOWDARK.light_source.torch: Antorcha
 SHADOWDARK.light-source.dropped: '{name} caído'
 SHADOWDARK.light-source.pick-up-lightsource.tooltip: Recoger fuente de luz
@@ -642,26 +642,26 @@ SHADOWDARK.module_art_config.tokens: Fichas
 SHADOWDARK.notify.combat.clockwise_initiative_only_gm: When Clockwise Initiative is enabled, only the GM can roll initiative.
 SHADOWDARK.npc_attack.type.physical: Físico
 SHADOWDARK.npc_attack.type.special: Especial
-SHADOWDARK.npc_move.close: Cerca
-SHADOWDARK.npc_move.double_near: Doble próximo
-SHADOWDARK.npc_move.far: Lejos
-SHADOWDARK.npc_move.near: Próximo
+SHADOWDARK.npc_move.close: Rango Corto
+SHADOWDARK.npc_move.double_near: Doble Rango Medio
+SHADOWDARK.npc_move.far: Rango Lejano
+SHADOWDARK.npc_move.near: Rango Medio
 SHADOWDARK.npc_move.none: Nada
 SHADOWDARK.npc_move.special: Especial
-SHADOWDARK.npc_move.triple_near: Triple próximo
+SHADOWDARK.npc_move.triple_near: Triple Rango Medio
 SHADOWDARK.patron.boons_table.label: Patron Boons Table
 SHADOWDARK.property.type.option.armor: Armadura
 SHADOWDARK.property.type.option.weapon: Arma
 SHADOWDARK.property.type.title: Tipo de propiedad
 SHADOWDARK.range.close_short: C
-SHADOWDARK.range.close: Cerca
-SHADOWDARK.range.double_near: Double Near
+SHADOWDARK.range.close: Rango Corto
+SHADOWDARK.range.double_near: Doble Rango Medio
 SHADOWDARK.range.far_short: L
-SHADOWDARK.range.far: Lejos
-SHADOWDARK.range.near_short: "P"
-SHADOWDARK.range.near: Próximo
-SHADOWDARK.range.nearLine_short: PL
-SHADOWDARK.range.nearLine: Línea próxima
+SHADOWDARK.range.far: Rango Lejano
+SHADOWDARK.range.near_short: "M"
+SHADOWDARK.range.near: Rango Medio
+SHADOWDARK.range.nearLine_short: LM
+SHADOWDARK.range.nearLine: Línea de Rango Medio
 SHADOWDARK.range.oneMile_short: 1mi
 SHADOWDARK.range.oneMile: 1 Milla
 SHADOWDARK.range.samePlane_short: MP
@@ -839,9 +839,9 @@ SHADOWDARK.sheet.player.melee_attacks: Ataque cuerpo a cuerpo
 SHADOWDARK.sheet.player.name.label: Nombre
 SHADOWDARK.sheet.player.open_spellbook.tooltip: Open Spellbook
 SHADOWDARK.sheet.player.patron.tooltip: Tu patrón es la fuente de tus regalos sobrenaturales
-SHADOWDARK.sheet.player.ranged_attacks: Ataques a distancia.
+SHADOWDARK.sheet.player.ranged_attacks: Ataques a distancia
 SHADOWDARK.sheet.player.renown: Renombre
-SHADOWDARK.sheet.player.spells_from_items: Spells From Items
+SHADOWDARK.sheet.player.spells_from_items: Hechizos de Objetos
 SHADOWDARK.sheet.player.spells_tier: Nivel
 SHADOWDARK.sheet.player.spells: Hechizos
 SHADOWDARK.sheet.player.tab.abilities: Habilidades
@@ -891,13 +891,13 @@ SHADOWDARK.spell_duration.permanent: Permanente
 SHADOWDARK.spell_duration.real_time: Tiempo real
 SHADOWDARK.spell_duration.rounds: Rondas
 SHADOWDARK.spell_duration.turns: Turnos
-SHADOWDARK.spell_range.close: Cerca
-SHADOWDARK.spell_range.far: Lejos
-SHADOWDARK.spell_range.near: Próximo
+SHADOWDARK.spell_range.close: Rango Corto
+SHADOWDARK.spell_range.far: Rango Lejano
+SHADOWDARK.spell_range.near: Rango Medio
 SHADOWDARK.spell.classes.label: Clases de hechicero
 SHADOWDARK.spell.classes.prompt: Seleccionar clase...
 SHADOWDARK.talent.backstab: Puñalada
-SHADOWDARK.talent.class.ancestry: Ancestro
+SHADOWDARK.talent.class.ancestry: Ancestría
 SHADOWDARK.talent.class.class: Clase
 SHADOWDARK.talent.class.level: Nivel
 SHADOWDARK.talent.class.patronBoon: Patron Boon
