@@ -207,9 +207,9 @@ export async function rollDamageFromMessage(msg) {
 		return;
 	}
 	if (!config.damageRoll?.formula || msg.getRoll("damage")) return false;
-	const actor = game.actors.get(config.actorId);
+	const actor = await fromUuid(config.actorUuid);
 	if (!actor) {
-		console.error(`Error: Actor ${config.actorId} not found`);
+		console.error(`Error: Actor ${config.actorUuid} not found`);
 		return;
 	}
 
@@ -246,7 +246,7 @@ export async function rerollFromMessage(msg, rollType) {
 		console.error("Error: No roll config found on message");
 		return;
 	}
-	const actor = game.actors.get(config.actorId);
+	const actor = await fromUuid(config.actorUuid);
 
 	if (!game.user.isGM) {
 		if (actor.system.hasLuckToken) {
@@ -337,7 +337,7 @@ export async function rollFromConfig(config) {
 		console.error("Error: missing required config property: mainRoll.formula");
 		return false;
 	}
-	const actor = game.actors.get(config.actorId);
+	const actor = await fromUuid(config.actorUuid);
 	if (!actor) {
 		console.error("Error: missing or invalid config property: actorId");
 		return false;
