@@ -160,7 +160,7 @@ SHADOWDARK.armor.properties.disadvantage_swimming: Desventaja/Nadar
 SHADOWDARK.armor.properties.no_swimming: Sin nadar
 SHADOWDARK.armor.properties.one_handed: Ocupa una mano
 SHADOWDARK.armor.properties.shield: Escudo
-SHADOWDARK.boon.type.label: Tipo de regalo
+SHADOWDARK.boon.type.label: Tipo
 SHADOWDARK.boons.blessing: Bendición
 SHADOWDARK.boons.oath: Juramento
 SHADOWDARK.boons.secret: Secreto
@@ -220,7 +220,7 @@ SHADOWDARK.class-ability.ability.check: Prueba de habilidad
 SHADOWDARK.class-ability.ability.group: "{group} Ability"
 SHADOWDARK.class-ability.ability.label: Habilidad
 SHADOWDARK.class-ability.available.label: Disponible
-SHADOWDARK.class-ability.boons: Boons
+SHADOWDARK.class-ability.boons: Favores
 SHADOWDARK.class-ability.dc.label: CD
 SHADOWDARK.class-ability.group.label: Grupo de habilidades
 SHADOWDARK.class-ability.limited-uses.label: '¿Usos limitados?'
@@ -248,7 +248,7 @@ SHADOWDARK.class.spellcasting_class.label: Clase de hechizo
 SHADOWDARK.class.spellcasting_class.this_class: "This ({name})"
 SHADOWDARK.class.spellcasting.base_difficulty.label: Prueba de lanzamiento de hechizo
 SHADOWDARK.class.spells_Known.label: Conocido por el nivel de hechizos
-SHADOWDARK.class.starting_boons.count.label: Empezando Bonus
+SHADOWDARK.class.starting_boons.count.label: Favores Iniciales
 SHADOWDARK.class.talent_choices.count.label: Número de opciones
 SHADOWDARK.class.talent_choices.label: Elecciones de talento
 SHADOWDARK.class.talent_choices.prompt: Seleccionar talento...
@@ -409,7 +409,7 @@ SHADOWDARK.inventory.item.light_remaining: "{timeRemaining} Minutos restantes"
 SHADOWDARK.inventory.item.light_seconds_remaining: Menos de 1 minuto restante
 SHADOWDARK.inventory.item.light_used: (usado)
 SHADOWDARK.inventory.label.quantity: Cant.
-SHADOWDARK.inventory.label.slots: Huecos
+SHADOWDARK.inventory.label.slots: Espacios
 SHADOWDARK.inventory.section.armor: Armadura
 SHADOWDARK.inventory.section.basic: Equipo básico
 SHADOWDARK.inventory.section.potions: Pociones
@@ -419,7 +419,7 @@ SHADOWDARK.inventory.section.wands: Varitas
 SHADOWDARK.inventory.section.weapon: Armas
 SHADOWDARK.inventory.slots_max: Máx
 SHADOWDARK.inventory.slots_used: Usado
-SHADOWDARK.inventory.slots: Huecos
+SHADOWDARK.inventory.slots: Espacios
 SHADOWDARK.inventory.stashed_gear: Equipo guardado
 SHADOWDARK.inventory.tooltip.gem_bag: Abrir bolsa de gemas
 SHADOWDARK.inventory.tooltip.item_decrement: Reducir cantidad
@@ -471,7 +471,7 @@ SHADOWDARK.item.effect.predefined_effect.abilityImprovementStr: Mejora de la pun
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementWis: Mejora de la puntuación de habilidad (Sab)
 SHADOWDARK.item.effect.predefined_effect.acBonus: Bonus CA
 SHADOWDARK.item.effect.predefined_effect.acBonusFromAttribute: Bonus de CA del atributo
-SHADOWDARK.item.effect.predefined_effect.additionalGearSlots: Huecos de equipo adicionales
+SHADOWDARK.item.effect.predefined_effect.additionalGearSlots: Espacios de equipo adicionales
 SHADOWDARK.item.effect.predefined_effect.armorMastery: Maestría de armaduras
 SHADOWDARK.item.effect.predefined_effect.backstabDie: Dado de apuñalamiento adicional
 SHADOWDARK.item.effect.predefined_effect.criticalFailureThreshold: Umbral de fallo crítico
@@ -517,7 +517,7 @@ SHADOWDARK.item.gm_only: GM Only
 SHADOWDARK.item.inventory_free_carry: Llevar libremente
 SHADOWDARK.item.inventory_per_slot: Máximo por espacio
 SHADOWDARK.item.inventory_quantity: Cantidad
-SHADOWDARK.item.inventory_slots: Huecos por ítem
+SHADOWDARK.item.inventory_slots: Espacios por objeto
 SHADOWDARK.item.level: Nivel
 SHADOWDARK.item.light.in_use_tooltip: This field cannot be edited while the light is active
 SHADOWDARK.item.light.is_source: Fuente de luz
@@ -814,10 +814,10 @@ SHADOWDARK.sheet.player.ancestry.tooltip: La herencia cultural y ancestral de tu
 SHADOWDARK.sheet.player.available_spells: Hechizos disponibles
 SHADOWDARK.sheet.player.background.label: Trasfondo
 SHADOWDARK.sheet.player.background.tooltip: Tu historia y experiencia pasada. Tu eres adepto a las tareas relacionadas con su trasfondo.
-SHADOWDARK.sheet.player.boon.label: Boon
+SHADOWDARK.sheet.player.boon.label: Favor
 SHADOWDARK.sheet.player.boons.blessings.label: Bendiciones
-SHADOWDARK.sheet.player.boons.label: Regalos
-SHADOWDARK.sheet.player.boons.name: Boon Name
+SHADOWDARK.sheet.player.boons.label: Favores
+SHADOWDARK.sheet.player.boons.name: Nombre del favor
 SHADOWDARK.sheet.player.boons.oaths.label: Juramentos
 SHADOWDARK.sheet.player.boons.secrets.label: Secretos
 SHADOWDARK.sheet.player.class_spells: Lista de hechizos de clase
@@ -840,7 +840,7 @@ SHADOWDARK.sheet.player.name.label: Nombre
 SHADOWDARK.sheet.player.open_spellbook.tooltip: Open Spellbook
 SHADOWDARK.sheet.player.patron.tooltip: Tu patrón es la fuente de tus regalos sobrenaturales
 SHADOWDARK.sheet.player.ranged_attacks: Ataques a distancia.
-SHADOWDARK.sheet.player.renown: Renown
+SHADOWDARK.sheet.player.renown: Renombre
 SHADOWDARK.sheet.player.spells_from_items: Spells From Items
 SHADOWDARK.sheet.player.spells_tier: Nivel
 SHADOWDARK.sheet.player.spells: Hechizos
@@ -935,7 +935,7 @@ TYPES.Item.Ancestry: Ancestría
 TYPES.Item.Armor: Armadura
 TYPES.Item.Background: Trasfondo
 TYPES.Item.Basic: Básico
-TYPES.Item.Boon: Boon
+TYPES.Item.Boon: Favor
 TYPES.Item.Class Ability: Habilidad de Clase
 TYPES.Item.Class: Clase
 TYPES.Item.Deity: Deidad
