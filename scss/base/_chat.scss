@@ -27,16 +27,6 @@
 		margin: 4px 0px;
 	}
 
-	.card-content {
-		display: grid;
-		grid-template-rows: 0fr;
-		transition: grid-template-rows 250ms ease;
-
-		&.expanded {
-			grid-template-rows: 1fr;
-		}
-	}
-
 	.message-header {
 		margin-bottom: 4px;
 
@@ -70,62 +60,70 @@
 	.message-content {
 		font-family: "Montserrat-Medium";
 
-		.description {
-			margin: 0px 4px;
-			font-size: 13px;
-			overflow: hidden;
+		.item-wrapper {
 
-			.content-link,
-			.inline-roll {
-				font-size: 11px;
+			.item-header {
+				display: flex;
+				flex-direction: row;
+				gap: 4px;
+				line-height: 1;
+				margin: 4px;
+
+				.item-image {
+					width: 30px;
+					height: 30px;
+					display: inline-block;
+					flex-shrink: 0;
+					border-radius: 3px;
+				}
+
+				.item-text-wrapper {
+					display: flex;
+					flex-direction: column;
+					gap: 2px;
+					flex: 1;
+					justify-content: center;
+
+					.item-name {
+						font-size: 1.1em;
+					}
+
+					&[data-action="expandDescription"] {
+						cursor: pointer;
+					}
+				}
+
+				.fa-caret-right {
+					transition: transform 250ms ease;
+					align-self: center;
+				}
+			}
+
+			.description {
+				display: grid;
+				grid-template-rows: 0fr;
+				transition: grid-template-rows 250ms ease;
+
+				&.expanded {
+					grid-template-rows: 1fr;
+				}
+
+				.description-wrapper {
+					margin: 0px 4px;
+					font-size: 13px;
+					overflow: hidden;
+
+					.content-link,
+					.inline-roll {
+						font-size: 11px;
+					}
+				}
+
 			}
 		}
 
 		.item-subtext {
 			@include item-subtext;
-		}
-
-		.item-wrapper {
-			display: flex;
-			flex-direction: row;
-			gap: 4px;
-			line-height: 1;
-			margin: 4px;
-
-			.item-image {
-				width: 30px;
-				height: 30px;
-				display: inline-block;
-				flex-shrink: 0;
-				border-radius: 3px;
-			}
-
-			.item-text-wrapper {
-				display: flex;
-				flex-direction: column;
-				gap: 2px;
-				flex: 1;
-				justify-content: center;
-
-				.item-name {
-					font-size: 1.1em;
-					&[data-action="expandDescription"] {
-						cursor: pointer;
-					}
-					i {
-						margin-left: 4px;
-						transition: transform 250ms ease;
-					}
-				}
-			}
-			.action-title {
-				font-size: var(--font-size-18);
-				font-family: "Montserrat-Bold";
-			}
-
-			.action-subtitle {
-				font-size: var(--font-size-12);
-			}
 		}
 
 		.dice-roll {

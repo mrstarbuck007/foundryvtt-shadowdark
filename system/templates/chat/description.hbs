@@ -1,23 +1,24 @@
 <div class="item-wrapper">
-	<a data-link data-uuid="{{item.uuid}}">
-		<img class="item-image" src="{{item.img}}">
-	</a>
-	<div class="item-text-wrapper">
-		<span class="item-name" {{#if description}}data-action="expandDescription"{{/if}}>
-			{{item.name}}
-			{{#if description}}
-				<i class="fa-thin fa-caret-right {{#unless attackType}}fa-rotate-90{{/unless}}"></i>
-			{{/if}}
-		</span>
-		<span class="item-subtext">
-			{{subtext item.system.subtext attackType}}
-			{{#if ammunitionName}}<span> • </span>{{ammunitionName}}{{/if}}
-		</span>
-	</div>
-</div>
+	<div class="item-header">
+		<a data-link data-uuid="{{item.uuid}}">
+			<img class="item-image" src="{{item.img}}">
+		</a>
+		<div class="item-text-wrapper" {{#if description}}data-action="expandDescription"{{/if}}>
+			<span class="item-name">
+				{{item.name}}
 
-<div class="card-content {{#unless attackType}}expanded{{/unless}}">
+			</span>
+			<span class="item-subtext">
+				{{subtext item.system.subtext attackType}}
+				{{#if ammunitionName}}<span> • </span>{{ammunitionName}}{{/if}}
+			</span>
+		</div>
+		{{#if description}}<i class="fa-thin fa-caret-right"></i>{{/if}}
+	</div>
+
 	<div class="description">
-		{{{description}}}
+		<div class="description-wrapper">
+			{{{description}}}
+		</div>
 	</div>
 </div>
