@@ -682,7 +682,7 @@ export default class PlayerSD extends ActorBaseSD {
 			);
 		}
 
-		config.actorId = this.parent.id;
+		config.actorUuid = this.parent.uuid;
 		config.itemUuid ??= spellUuid;
 
 		const triggeringItem = config.itemUuid
@@ -988,7 +988,7 @@ export default class PlayerSD extends ActorBaseSD {
 
 	async rollAttack(weaponUuid, config={}) {
 
-		config.actorId = this.parent.id;
+		config.actorUuid = this.parent.uuid;
 		config.itemUuid = weaponUuid;
 
 		const weapon = await fromUuid(weaponUuid);
@@ -1121,7 +1121,7 @@ export default class PlayerSD extends ActorBaseSD {
 			);
 		}
 
-		config.actorId = this.parent.id;
+		config.actorUuid = this.parent.uuid;
 		config.itemUuid = abilityUuid;
 		config.heading = game.i18n.format("SHADOWDARK.dialog.roll_using_ability", { name: ability.name });
 		await this.rollConfigGenerators.ability?.(config);

@@ -8,6 +8,7 @@
 - [#1341] Farsight (Spell) talent had incorrect spell bonus effect
 - [#1348] Knight of St. Ydris talent had incorrect spellcasting class set
 - [#1349] Fixed validation errors when creating treasure items
+- [#1353] Fixed chat cards showing the incorrect actor when rolling from unlinked token actors
 
 ---
 
