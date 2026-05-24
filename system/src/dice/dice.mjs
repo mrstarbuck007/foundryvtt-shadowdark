@@ -112,6 +112,14 @@ export function initializeD20Check(config={}) {
 	config.mainRoll.base = "d20";
 	config.mainRoll.canCritical = true;
 	config.situational = [];
+
+	config.messages = {
+		any: [],
+		success: [],
+		failure: [],
+		criticalSuccess: [],
+		criticalFailure: [],
+	};
 	return config;
 }
 

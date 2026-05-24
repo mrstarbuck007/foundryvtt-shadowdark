@@ -65,13 +65,6 @@ export default class ChatSD {
 		);
 	}
 
-	static async renderUseAbilityMessage(actor, data, mode) {
-		this._renderChatMessage(actor, data,
-			"systems/shadowdark/templates/chat/use-ability.hbs",
-			mode
-		);
-	}
-
 	static async renderRollHTML(config, rolls = []) {
 		if (!Array.isArray(rolls)) return;
 
@@ -85,6 +78,8 @@ export default class ChatSD {
 		const templateData = foundry.utils.deepClone(config);
 
 		templateData.actor = actor;
+
+		templateData.messages = this.resolveMessages(config.messages, mainRoll);
 
 		if (config.itemUuid) {
 			let item = await fromUuid(config.itemUuid);
@@ -156,5 +151,16 @@ export default class ChatSD {
 		}
 
 		return chatData;
+	}
+
+	static resolveMessages(messages, roll) {
+		if (!messages || !roll) return [];
+		let keys;
+		if (roll.criticalSuccess)      keys = ["any", "success", "criticalSuccess"];
+		else if (roll.criticalFailure) keys = ["any", "failure", "criticalFailure"];
+		else if (roll.success)         keys = ["any", "success"];
+		else                           keys = ["any", "failure"];
+
+		return keys.flatMap(key => messages[key] ?? []);
 	}
 }

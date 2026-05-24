@@ -731,7 +731,7 @@ export default class PlayerSheetSD extends ActorSheetSD {
 
 		const itemId = event.currentTarget.dataset.itemId;
 
-		this.actor.usePotion(itemId);
+		this.actor.system.usePotion(itemId);
 	}
 
 	async _sendToggledLightSourceToChat(active, item, options = {}) {
