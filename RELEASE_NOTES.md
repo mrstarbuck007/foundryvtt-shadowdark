@@ -2,6 +2,7 @@
 
 ## Bugfixes
 - [#1326] Bug: Players missing attribute bonus tooltip on spell cast
+- [#1332] Bug: Reroll button not showing up for players using foundry v14
 - [#1333] Fix apply to token/target tooltips
 - [#1335] Editor icon on Identify Tab hidden by wrapping div when it contains no content
 - [#1341] Farsight (Spell) talent had incorrect spell bonus effect
