@@ -622,7 +622,7 @@ SHADOWDARK.light_source.lantern: Farol
 SHADOWDARK.light_source.light_spell.double_near: Hechizo de Luz (Doble Rango Medio)
 SHADOWDARK.light_source.light_spell.near: Hechizo de Luz (Rango Medio)
 SHADOWDARK.light_source.torch: Antorcha
-SHADOWDARK.light-source.dropped: '{name} caído'
+SHADOWDARK.light-source.dropped: '{name}'
 SHADOWDARK.light-source.pick-up-lightsource.tooltip: Recoger fuente de luz
 SHADOWDARK.light-tracker.active: Activo
 SHADOWDARK.light-tracker.paused: En pausa
