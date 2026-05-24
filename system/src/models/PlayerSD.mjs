@@ -451,9 +451,10 @@ export default class PlayerSD extends ActorBaseSD {
 		config.mainRoll.label = game.i18n.localize("SHADOWDARK.roll.spell_cast");
 		config.mainRoll.dc = spell.system?.dc;
 
+		const ability = this._getAbilityModifier(config.cast.ability);
 		const spellRollKey = this._getActiveEffectKeys(
 			"system.roll.spell.bonus",
-			this.abilities[config.cast.ability].mod,
+			ability.modifier,
 			spell,
 			config
 		);
@@ -475,6 +476,7 @@ export default class PlayerSD extends ActorBaseSD {
 
 		// generate tooltips
 		const tooltips = [];
+		if (ability.tooltip) tooltips.push(ability.tooltip);
 		tooltips.push(spellRollKey.tooltips);
 		tooltips.push(...critTooltips);
 		tooltips.push(spellAdvKey.tooltips);
@@ -653,7 +655,7 @@ export default class PlayerSD extends ActorBaseSD {
 			);
 		}
 
-		config.actorId = this.parent.id;
+		config.actorUuid = this.parent.uuid;
 		config.itemUuid ??= spellUuid;
 
 		const triggeringItem = config.itemUuid
@@ -959,7 +961,7 @@ export default class PlayerSD extends ActorBaseSD {
 
 	async rollAttack(weaponUuid, config={}) {
 
-		config.actorId = this.parent.id;
+		config.actorUuid = this.parent.uuid;
 		config.itemUuid = weaponUuid;
 
 		const weapon = await fromUuid(weaponUuid);
@@ -1092,7 +1094,7 @@ export default class PlayerSD extends ActorBaseSD {
 			);
 		}
 
-		config.actorId = this.parent.id;
+		config.actorUuid = this.parent.uuid;
 		config.itemUuid = abilityUuid;
 		config.heading = game.i18n.format("SHADOWDARK.dialog.roll_using_ability", { name: ability.name });
 		await this.rollConfigGenerators.ability?.(config);

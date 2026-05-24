@@ -130,7 +130,7 @@ export default class NpcSD extends ActorBaseSD {
 			);
 		}
 
-		config.actorId = this.parent.id;
+		config.actorUuid = this.parent.uuid;
 		config.itemUuid = spellUuid;
 		config.cast ??= {};
 		config.cast.spellUuid = spellUuid;
@@ -154,7 +154,7 @@ export default class NpcSD extends ActorBaseSD {
 	}
 
 	async rollAttack(attackId, config={}) {
-		config.actorId = this.parent.id;
+		config.actorUuid = this.parent.uuid;
 		const attack = this.parent.items.get(attackId);
 		if (!attack) {
 			console.error("invalid attack ID");
@@ -186,7 +186,7 @@ export default class NpcSD extends ActorBaseSD {
 		const formula = level ? `${level}d8${conBonus}` : `1${conBonus}`;
 
 		const config = {
-			actorId: this.parent.id,
+			actorUuid: this.parent.uuid,
 			mainRoll: {
 				label: game.i18n.localize("SHADOWDARK.dialog.hp_roll.title"),
 				formula,

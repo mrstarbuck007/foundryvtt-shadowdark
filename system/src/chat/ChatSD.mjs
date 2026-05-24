@@ -68,7 +68,7 @@ export default class ChatSD {
 	static async renderRollHTML(config, rolls = []) {
 		if (!Array.isArray(rolls)) return;
 
-		const actor = game.actors.get(config.actorId);
+		const actor = await fromUuid(config.actorUuid);
 
 		const mainRoll = rolls.find(r => r && r.options.type === "main");
 		const damageRoll = rolls.find(r => r && r.options.type === "damage");
@@ -130,7 +130,7 @@ export default class ChatSD {
 	static async renderRollMessage(config, rolls=[]) {
 
 		const content = await ChatSD.renderRollHTML(config, rolls);
-		const actor = game.actors.get(config.actorId);
+		const actor = await fromUuid(config.actorUuid);
 
 		// Create Chat Message
 		const chatData = {
