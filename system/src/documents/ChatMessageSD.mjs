@@ -13,6 +13,11 @@ export default class ChatMessageSD extends ChatMessage {
 			damageButton.addEventListener("click", event => this._onRollDamage(event, damageButton));
 		}
 
+		const expandDescription = html.querySelector('[data-action="expandDescription"]');
+		if (expandDescription) {
+			expandDescription.addEventListener("click", event => this._onExpandDescription(event));
+		}
+
 		// reroll
 		html.querySelectorAll('[data-action="reroll"]').forEach(btn => {
 			btn.addEventListener("click", event => this._onReroll(event, btn));
@@ -172,6 +177,12 @@ export default class ChatMessageSD extends ChatMessage {
 		const deleteButton = metadata.querySelector(".message-delete");
 		deleteButton?.remove();
 
+	}
+
+	_onExpandDescription(event) {
+		const itemWrapper = event.currentTarget.closest(".item-wrapper");
+		itemWrapper.querySelector(".description")?.classList.toggle("expanded");
+		itemWrapper.querySelector(".fa-caret-right")?.classList.toggle("fa-rotate-90");
 	}
 
 }

@@ -50,4 +50,25 @@ export default class WandSD extends PhysicalItemSD {
 			},
 		});
 	}
+
+	async render(data={}, template=null) {
+		const parts = [this.description];
+		if (this.isIdentified) {
+			const spellItems = await Promise.all(
+				this.spells.filter(s => s.uuid).map(s => fromUuid(s.uuid))
+			);
+			for (const spell of spellItems) {
+				if (!spell) continue;
+				const classes = await spell.system.getClassNames();
+				const subtext = [spell.system.subtext, classes].filter(Boolean).join(" • ");
+				parts.push(
+					`<span class="spell-name">${spell.name}</span>`
+					+ `<span class="item-subtext">${subtext}</span>`
+				);
+			}
+		}
+		data.description = parts.join("");
+
+		return super.render(data, template);
+	}
 }

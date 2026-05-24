@@ -10,24 +10,13 @@
 		{{{mainRoll.html}}}
 	{{/if}}
 
-	<!-- Item -->
-	{{#if item}}
-		<div class="item-wrapper">
-			<a data-link data-uuid="{{item.uuid}}">
-				<img class="item-image" src="{{item.img}}">
-			</a>
-			<div class="item-text-wrapper">
-				<span class="item-name">{{item.name}}</span>
-				<span class="item-subtext">
-					{{item.system.subtext}}{{#if ammunitionName}}, {{ammunitionName}}{{/if}}
-				</span>
-			</div>
-		</div>
-	{{/if}}
+	<!-- item html -->
+	{{{itemHTML}}}
 
-	<div class="descriptions">
-		{{#each descriptions}}
-			{{{this}}}
+	<!-- Additional Roll Messages -->
+	<div class="messages">
+		{{#each messages}}
+			<p>{{{this}}}</p>
 		{{/each}}
 	</div>
 

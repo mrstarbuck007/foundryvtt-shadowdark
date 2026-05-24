@@ -353,7 +353,8 @@ export default class UtilitySD {
 
 			let details = "";
 			if (item) {
-				details = await item.getDetailsContent();
+				const templatePath = "systems/shadowdark/templates/_partials/item-description.hbs";
+				details = await item.system.render({}, templatePath);
 			}
 
 			const detailsDiv = document.createElement("div");

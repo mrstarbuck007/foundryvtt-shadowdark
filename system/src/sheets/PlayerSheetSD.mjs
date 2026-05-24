@@ -515,10 +515,15 @@ export default class PlayerSheetSD extends ActorSheetSD {
 
 	async _onItemChatClick(event) {
 		event.preventDefault();
-		const itemId = $(event.currentTarget.parentElement).data("item-id");
-		const item = this.actor.getEmbeddedDocument("Item", itemId);
-
-		item.displayCard();
+		const el = event.target.closest("[data-item-id]");
+		if (el?.dataset?.spellId) {
+			shadowdark.chat.showItemCard(el.dataset.spellId);
+		}
+		else {
+			const item = this.actor.getEmbeddedDocument("Item", el?.dataset?.itemId);
+			if (!item) return;
+			shadowdark.chat.showItemCard(item.uuid);
+		}
 	}
 
 	async _onItemQuantityDecrement(event) {
@@ -726,7 +731,7 @@ export default class PlayerSheetSD extends ActorSheetSD {
 
 		const itemId = event.currentTarget.dataset.itemId;
 
-		this.actor.usePotion(itemId);
+		this.actor.system.usePotion(itemId);
 	}
 
 	async _sendToggledLightSourceToChat(active, item, options = {}) {
