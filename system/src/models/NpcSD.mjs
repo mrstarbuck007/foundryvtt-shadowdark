@@ -217,7 +217,6 @@ export default class NpcSD extends ActorBaseSD {
 		config.attack.range ??= attack.system.ranges[0];
 		config.attack.type ??= (config.attack.range === "close") ? "melee" : "ranged";
 
-		config.description = await attack.system.getDescription();
 
 		shadowdark.dice.initializeD20Check(config);
 		config.mainRoll.label ??= game.i18n.localize("SHADOWDARK.roll.attack");
@@ -255,7 +254,6 @@ export default class NpcSD extends ActorBaseSD {
 		config.cast.duration ??= spell.system?.duration;
 		config.cast.damageType ??= spell.system?.damageType;
 
-		config.description = await spell.system.getDescription();
 
 		shadowdark.dice.initializeD20Check(config);
 		config.mainRoll.label = game.i18n.localize("SHADOWDARK.roll.spell_cast");

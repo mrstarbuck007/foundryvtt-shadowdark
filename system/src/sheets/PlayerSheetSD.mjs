@@ -517,14 +517,12 @@ export default class PlayerSheetSD extends ActorSheetSD {
 		event.preventDefault();
 		const el = event.target.closest("[data-item-id]");
 		if (el?.dataset?.spellId) {
-			const spell = await fromUuid(el.dataset.spellId);
-			if (!spell) return;
-			spell.displayCard();
+			shadowdark.chat.showItemCard(el.dataset.spellId);
 		}
 		else {
 			const item = this.actor.getEmbeddedDocument("Item", el?.dataset?.itemId);
 			if (!item) return;
-			item.displayCard();
+			shadowdark.chat.showItemCard(item.uuid);
 		}
 	}
 

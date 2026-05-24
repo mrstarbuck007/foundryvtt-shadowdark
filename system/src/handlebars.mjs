@@ -216,7 +216,7 @@ export default function registerHandlebarsHelpers() {
 		return html.replace(rgx, "$& selected");
 	});
 
-	Handlebars.registerHelper("subtext", function(text, attackType) {
+	Handlebars.registerHelper("formatSubtext", function(text, attackType) {
 		if (typeof text !== "string") return new Handlebars.SafeString("");
 		if (attackType === "ranged") {
 			const melee = game.i18n.localize("SHADOWDARK.weapon.type.melee");

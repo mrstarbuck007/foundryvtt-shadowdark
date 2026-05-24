@@ -10,10 +10,15 @@
 		{{{mainRoll.html}}}
 	{{/if}}
 
-	<!-- Description -->
-	{{#if item}}
-		{{> chat/description attackType=attack.type}}
-	{{/if}}
+	<!-- item html -->
+	{{{itemHTML}}}
+
+	<!-- Additional Description -->
+	<div class="descriptions">
+		{{#each descriptions}}
+			{{{this}}}
+		{{/each}}
+	</div>
 
 	<!-- Damage Roll -->
 	{{#if damageRoll.html}}

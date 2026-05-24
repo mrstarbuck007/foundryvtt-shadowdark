@@ -38,6 +38,22 @@ export default class ChatSD {
 		);
 	}
 
+	static async showItemCard(uuid) {
+		const item = await fromUuid(uuid);
+		if (!item) return;
+
+		const mode = game.settings.get("core", "rollMode");
+
+		const chatData = {
+			content: await item.system.render({expanded: true}),
+			flags: { "core.canPopout": true },
+			rollMode: mode,
+		};
+
+		ChatMessage.applyRollMode(chatData, mode);
+		await ChatMessage.create(chatData);
+	}
+
 	static async renderItemCardMessage(actor, data, mode) {
 		this._renderChatMessage(actor, data, data.template, mode);
 	}
@@ -67,10 +83,36 @@ export default class ChatSD {
 		// generate template data
 		const template = "systems/shadowdark/templates/chat/roll-card.hbs";
 		const templateData = foundry.utils.deepClone(config);
+
 		templateData.actor = actor;
 
 		if (config.itemUuid) {
-			templateData.item = await fromUuid(config.itemUuid);
+			let item = await fromUuid(config.itemUuid);
+			if (item) {
+				let subtext = item.system.subtext;
+
+				// replace sub text if using ranged attack with melee weapon
+				let attackType = config.attack?.type;
+
+				// add any ammunition to subtext
+				if (config.attack?.selectedAmmunition) {
+					const ammoItem = await fromUuid(config.attack.selectedAmmunition);
+					if (ammoItem) {
+						subtext = subtext.concat(
+							` • ${ammoItem.name} (${ammoItem.system.quantity}/${ammoItem.system.slots.per_slot})`
+						);
+					}
+				}
+
+				// replace item with spell item if casting from wand or scroll
+				if (config.cast?.spellUuid && config.cast.spellUuid !== item.uuid) {
+					subtext = `${item.name} • ${subtext}`;
+					const spellItem = await fromUuid(config.cast.spellUuid);
+					item = spellItem ?? item;
+				}
+
+				templateData.itemHTML = await item.system.render({subtext, attackType});
+			}
 		}
 		if (config.targetUuid) {
 			templateData.target = await fromUuid(config.targetUuid);
@@ -82,13 +124,6 @@ export default class ChatSD {
 		}
 		if (damageRoll) {
 			templateData.damageRoll.html = await damageRoll.render();
-		}
-		if (config.attack?.selectedAmmunition) {
-			const ammoItem = await fromUuid(config.attack.selectedAmmunition);
-			if (ammoItem) {
-				templateData.ammunitionName =
-					`${ammoItem.name} (${ammoItem.system.quantity}/${ammoItem.system.slots.per_slot})`;
-			}
 		}
 
 		return foundry.applications.handlebars.renderTemplate(

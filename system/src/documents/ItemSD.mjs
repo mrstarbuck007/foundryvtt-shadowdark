@@ -61,28 +61,6 @@ export default class ItemSD extends foundry.documents.Item {
 	}
 
 
-	async displayCard() {
-		shadowdark.chat.renderItemCardMessage(this.actor, {
-			template: "systems/shadowdark/templates/chat/description.hbs",
-			templateData: await this.getDisplayData(),
-		});
-	}
-
-	async displayDetails(spellId = null) {
-		const data = await this.getDisplayData(spellId);
-		const templatePath = "systems/shadowdark/templates/_partials/details/default.hbs";
-		return await foundry.applications.handlebars.renderTemplate(templatePath, data);
-	}
-
-	// spellId means a Spell on a Wand was clicked on the Spells tab.
-	async getDisplayData(spellId = null) {
-		const source = spellId ? await fromUuid(spellId) : this;
-		return {
-			description: await source.system.getDescription(),
-			item: this,
-		};
-	}
-
 	lightRemainingString() {
 		if (this.type !== "Basic" && !this.system.light.isSource) return;
 

@@ -51,9 +51,8 @@ export default class WandSD extends PhysicalItemSD {
 		});
 	}
 
-	async getDescription() {
-		const parts = [await super.getDescription()];
-
+	async render(data={}, template=null) {
+		const parts = [this.description];
 		if (this.isIdentified) {
 			const spellItems = await Promise.all(
 				this.spells.filter(s => s.uuid).map(s => fromUuid(s.uuid))
@@ -68,8 +67,8 @@ export default class WandSD extends PhysicalItemSD {
 				);
 			}
 		}
+		data.description = parts.join("");
 
-		return parts.join("");
+		return super.render(data, template);
 	}
-
 }

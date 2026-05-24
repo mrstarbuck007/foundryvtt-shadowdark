@@ -54,19 +54,7 @@ export default class SpellSD extends BaseItemSD {
 	}
 
 	async getClassNames() {
-		const spellName = this.parent.name;
-		const pack = game.packs.get("shadowdark.spells");
-		if (!pack) return;
-
-		const index = await pack.getIndex({ fields: ["system.class"] });
-
-		const classUuids = new Set();
-		for (const entry of index) {
-			if (entry.name !== spellName) continue;
-			for (const uuid of entry.system?.class ?? []) classUuids.add(uuid);
-		}
-
-		const classes = await Promise.all([...classUuids].map(uuid => fromUuid(uuid)));
+		const classes = await Promise.all(this.class.map(uuid => fromUuid(uuid)));
 		return classes
 			.filter(Boolean)
 			.map(c => c.name)

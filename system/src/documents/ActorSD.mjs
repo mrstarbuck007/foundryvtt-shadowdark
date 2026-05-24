@@ -300,7 +300,7 @@ export default class ActorSD extends foundry.documents.Actor {
 	async useAbility(itemId, options={}) {
 		const item = this.items.get(itemId);
 
-		if (item.type === "NPC Feature") return item.displayCard();
+		if (item.type === "NPC Feature") return shadowdark.chat.showItemCard(item.uuid);
 
 		// does ability use on a roll check?
 		let success = true;
@@ -379,7 +379,10 @@ export default class ActorSD extends foundry.documents.Actor {
 						label: `${game.i18n.localize("SHADOWDARK.dialog.general.yes")}`,
 						callback: async () => {
 							let potionName = item.name;
-							let potionDescription = await item.system.getDescription();
+							let potionDescription =
+							await foundry.applications.ux.TextEditor.implementation.enrichHTML(
+								item.system.description, {async: true}
+							);
 							if (!item.system.isIdentified
 								&& item.system.identification?.description) {
 								potionName = item.system.identification.name;

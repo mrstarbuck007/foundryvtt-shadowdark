@@ -36,8 +36,9 @@ export default class NpcAttackSD extends BaseItemSD {
 		return [ranges, this.damage.special].filter(Boolean).join(" • ");
 	}
 
-	async getDescription() {
-		const parts = [await super.getDescription()];
+
+	async render(data={}, template=null) {
+		const parts = [this.description];
 
 		if (this.damage?.special) {
 			const featureNames = this.damage.special
@@ -50,16 +51,16 @@ export default class NpcAttackSD extends BaseItemSD {
 				);
 				if (!feature) continue;
 
-				const featureDesc = await feature.system.getDescription();
 				const header = `<strong>${feature.name}.</strong> `;
-				const desc = featureDesc.startsWith("<p>")
-					? featureDesc.replace("<p>", `<p>${header}`)
-					: header + featureDesc;
+				const desc = feature.system.description.startsWith("<p>")
+					? feature.system.description.replace("<p>", `<p>${header}`)
+					: header + feature.system.description;
 				parts.push(desc);
 			}
 		}
 
-		return parts.join("");
+		data.description = parts.join("");
+		return super.render(data, template);
 	}
 
 }
