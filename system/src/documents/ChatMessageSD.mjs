@@ -51,7 +51,7 @@ export default class ChatMessageSD extends ChatMessage {
 	}
 
 	_applyVisibilityRules(html) {
-		const canReroll = game.user.isGM || game.user.id === this.user?.id;
+		const canReroll = game.user.isGM || game.user.id === this.author?.id;
 		if (!canReroll) {
 			html.querySelectorAll('[data-action="reroll"]').forEach(btn => btn.remove());
 		}
