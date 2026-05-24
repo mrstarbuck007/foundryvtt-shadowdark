@@ -322,6 +322,7 @@ SHADOWDARK.dialog.item.use: Usar
 SHADOWDARK.dialog.light_source.pick_up.title: Selecione o ator para dar a fonte de luz
 SHADOWDARK.dialog.roll_attacking_with: Atacando com {name}
 SHADOWDARK.dialog.roll_casting_spell: Conjurando a Magia {name}
+SHADOWDARK.dialog.roll_learn_spell: Attempting to Learn {name} Spell
 SHADOWDARK.dialog.roll_mode_label: Modo de Rolagem
 SHADOWDARK.dialog.roll_situational_bonuses: Bônus Situacional
 SHADOWDARK.dialog.roll_using_ability: Usando Habilidade {name}
