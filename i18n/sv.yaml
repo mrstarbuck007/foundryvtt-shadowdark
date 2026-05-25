@@ -172,6 +172,7 @@ SHADOWDARK.chat_card.button.use_scroll: Använd scroll
 SHADOWDARK.chat_card.button.use_wand: Använd trollspö
 SHADOWDARK.chat_card.context.apply_damage_secondary: Applicera sekundärskada
 SHADOWDARK.chat_card.context.apply_damage: Applicera Skada
+SHADOWDARK.chat_card.context.apply_damageType_to_selectedType: Apply {damageType} to selected {selectedType}
 SHADOWDARK.chat_card.context.apply_healing_secondary: Applicera sekundärläkning
 SHADOWDARK.chat_card.context.apply_healing: Applicera läkning
 SHADOWDARK.chat_card.dialog.reapply_damage.content: Damage has already been applied from this roll. Apply it again?
@@ -321,6 +322,7 @@ SHADOWDARK.dialog.item.use: Användning
 SHADOWDARK.dialog.light_source.pick_up.title: Välj aktör för att ge ljuskällan
 SHADOWDARK.dialog.roll_attacking_with: Attacking with {name}
 SHADOWDARK.dialog.roll_casting_spell: Casting Spell {name}
+SHADOWDARK.dialog.roll_learn_spell: Attempting to Learn {name} Spell
 SHADOWDARK.dialog.roll_mode_label: Rolling Mode
 SHADOWDARK.dialog.roll_situational_bonuses: Situational Bonuses
 SHADOWDARK.dialog.roll_using_ability: Using Ability {name}

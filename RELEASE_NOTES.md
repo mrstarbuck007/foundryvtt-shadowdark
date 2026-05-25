@@ -1,3 +1,21 @@
+# v4.0.5
+
+## Bugfixes
+- [#1326] Bug: Players missing attribute bonus tooltip on spell cast
+- [#1332] Bug: Reroll button not showing up for players using foundry v14
+- [#1333] Fix apply to token/target tooltips
+- [#1335] Editor icon on Identify Tab hidden by wrapping div when it contains no content
+- [#1337] Spell information should not display in info box on unidentified Wand, and display information on identified Wand
+- [#1341] Farsight (Spell) talent had incorrect spell bonus effect
+- [#1348] Knight of St. Ydris talent had incorrect spellcasting class set
+- [#1349] Fixed validation errors when creating treasure items
+- [#1353] Fixed chat cards showing the incorrect actor when rolling from unlinked token actors
+
+## Chores
+- [#1342] Merge Portuguese (Brazilian) and Spanish translation updates from Crowdin
+
+---
+
 # v4.0.4
 
 ## Bugfixes
