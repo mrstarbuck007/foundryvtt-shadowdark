@@ -4,7 +4,7 @@
 		<h3 class="sub-heading">
 			{{mainRoll.label}}
 			{{#unless mainRoll.success}}
-				<i class="fa-solid fa-arrows-rotate reroll-icon" data-action="reroll" data-roll-type="main"></i>
+				<a data-action="reroll" data-roll-type="main"><i class="fa-solid fa-arrows-rotate reroll-icon"></i></a>
 			{{/unless}}
 		</h3>
 		{{{mainRoll.html}}}
