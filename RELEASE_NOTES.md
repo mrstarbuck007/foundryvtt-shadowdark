@@ -11,6 +11,9 @@
 - [#1349] Fixed validation errors when creating treasure items
 - [#1353] Fixed chat cards showing the incorrect actor when rolling from unlinked token actors
 
+## Chores
+- [#1342] Merge Portuguese (Brazilian) and Spanish translation updates from Crowdin
+
 ---
 
 # v4.0.4
