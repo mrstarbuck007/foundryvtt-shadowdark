@@ -10,6 +10,7 @@
 - [#1348] Knight of St. Ydris talent had incorrect spellcasting class set
 - [#1349] Fixed validation errors when creating treasure items
 - [#1353] Fixed chat cards showing the incorrect actor when rolling from unlinked token actors
+- [#1357] Fixed damage roll result not visible to other players after Dice So Nice animation
 
 ## Chores
 - [#1342] Merge Portuguese (Brazilian) and Spanish translation updates from Crowdin
