@@ -1,18 +1,19 @@
 <div class="item-wrapper{{#if expanded}} expanded{{/if}}">
-	<div class="item-header">
+	<div class="item-header" {{#if description}}data-action="expandDescription"{{/if}}>
 		<a data-link data-uuid="{{item.uuid}}">
 			<img class="item-image" src="{{item.img}}">
 		</a>
-		<div class="item-text-wrapper" {{#if description}}data-action="expandDescription"{{/if}}>
+		<div class="item-text-wrapper">
 			<span class="item-name">
 				{{item.name}}
-
 			</span>
 			<span class="item-subtext">
 				{{formatSubtext subtext attackType}}
 			</span>
 		</div>
-		{{#if description}}<i class="fas fa-caret-right"></i>{{/if}}
+		{{#if description}}
+			<i class="fas fa-caret-right"></i>
+		{{/if}}
 	</div>
 
 	<div class="description">

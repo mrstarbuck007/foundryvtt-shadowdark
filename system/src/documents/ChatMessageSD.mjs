@@ -180,6 +180,7 @@ export default class ChatMessageSD extends ChatMessage {
 	}
 
 	_onExpandDescription(event) {
+		if (event.target.closest("[data-link]")) return;
 		const itemWrapper = event.currentTarget.closest(".item-wrapper");
 		itemWrapper?.classList.toggle("expanded");
 	}
