@@ -353,8 +353,11 @@ export default class UtilitySD {
 
 			let details = "";
 			if (item) {
+				const spell = target.closest("[data-spell-id]");
 				const templatePath = "systems/shadowdark/templates/_partials/item-description.hbs";
-				details = await item.system.render({}, templatePath);
+				details = await item.system.render({
+					spellUuid: spell?.dataset?.spellId,
+				}, templatePath);
 			}
 
 			const detailsDiv = document.createElement("div");
