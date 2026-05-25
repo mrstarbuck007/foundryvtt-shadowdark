@@ -265,9 +265,9 @@ SHADOWDARK.class.weapons.all.label: Todas las armas
 SHADOWDARK.class.weapons.label: Armas
 SHADOWDARK.class.weapons.prompt: Seleccionar arma...
 SHADOWDARK.class.wizard: Mago
-SHADOWDARK.coins.cp: PC
-SHADOWDARK.coins.gp: PO
-SHADOWDARK.coins.sp: PP
+SHADOWDARK.coins.cp: MC
+SHADOWDARK.coins.gp: MO
+SHADOWDARK.coins.sp: MP
 SHADOWDARK.dialog.ability_check.cha: Prueba de carisma
 SHADOWDARK.dialog.ability_check.con: Prueba de Constitución
 SHADOWDARK.dialog.ability_check.dex: Prueba de destreza
