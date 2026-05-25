@@ -1,3 +1,16 @@
+export async function ItemPilesDeprecationCheck() {
+	if (!game.user.isGM) return;
+
+	const oldModule = game.modules.get("shadowdark-item-piles");
+	if (!oldModule?.active) return;
+
+	ui.notifications.warn(
+		"SHADOWDARK.notify.shadowdark_item_piles_deprecated",
+		{ permanent: true, localize: true }
+	);
+
+}
+
 export function ItemPilesSetup() {
 
 	Hooks.once("item-piles-ready", async () => {
