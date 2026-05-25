@@ -161,7 +161,7 @@ export default class RollDialogSD extends foundry.applications.api.HandlebarsApp
 
 		this.config.selected = selectedArray;
 
-		const actor = game.actors.get(this.config.actorId);
+		const actor = await fromUuid(this.config.actorUuid);
 		await actor?.system.rollConfigGenerators[this.config.type]?.(this.config);
 		await this.render(true);
 	}
