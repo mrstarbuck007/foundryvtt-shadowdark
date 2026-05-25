@@ -69,6 +69,10 @@
 				line-height: 1;
 				margin: 4px;
 
+				&[data-action="expandDescription"] {
+					cursor: pointer;
+				}
+
 				.item-image {
 					width: 30px;
 					height: 30px;
@@ -86,10 +90,6 @@
 
 					.item-name {
 						font-size: 1.1em;
-					}
-
-					&[data-action="expandDescription"] {
-						cursor: pointer;
 					}
 				}
 
