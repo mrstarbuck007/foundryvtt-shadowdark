@@ -25,8 +25,12 @@ export default class ScrollSD extends PhysicalItemSD {
 	}
 
 	async render(data={}, template=null) {
-		const parts = [this.description];
+		if (this.isIdentified && data?.spellUuid) {
+			const spell = await fromUuid(data.spellUuid);
+			if (spell) return spell.system.render(data, template);
+		}
 
+		const parts = [this.description];
 		if (this.isIdentified && this.spellUuid) {
 			const spell = await fromUuid(this.spellUuid);
 			if (spell) {

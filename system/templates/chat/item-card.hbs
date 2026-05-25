@@ -1,4 +1,4 @@
-<div class="item-wrapper">
+<div class="item-wrapper{{#if expanded}} expanded{{/if}}">
 	<div class="item-header">
 		<a data-link data-uuid="{{item.uuid}}">
 			<img class="item-image" src="{{item.img}}">
@@ -15,7 +15,7 @@
 		{{#if description}}<i class="fas fa-caret-right"></i>{{/if}}
 	</div>
 
-	<div class="description{{#if expanded}} expanded{{/if}}">
+	<div class="description">
 		<div class="description-wrapper">
 			{{{description}}}
 		</div>

@@ -105,10 +105,6 @@
 				grid-template-rows: 0fr;
 				transition: grid-template-rows 250ms ease;
 
-				&.expanded {
-					grid-template-rows: 1fr;
-				}
-
 				.description-wrapper {
 					margin: 0px 4px;
 					font-size: 13px;
@@ -120,6 +116,17 @@
 					}
 				}
 
+			}
+
+			&.expanded {
+
+				.fa-caret-right {
+					transform: rotate(90deg);
+				}
+
+				.description {
+					grid-template-rows: 1fr;
+				}
 			}
 		}
 
