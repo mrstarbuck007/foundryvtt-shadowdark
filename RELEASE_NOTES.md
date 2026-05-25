@@ -1,5 +1,8 @@
 # v4.0.5
 
+## Enhancements
+- [#1340] Added native Item Piles support. The Item Piles: Shadowdark module is no longer required.
+
 ## Bugfixes
 - [#1326] Bug: Players missing attribute bonus tooltip on spell cast
 - [#1332] Bug: Reroll button not showing up for players using foundry v14
