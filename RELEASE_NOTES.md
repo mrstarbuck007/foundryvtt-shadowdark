@@ -1,3 +1,10 @@
+# v4.0.6
+
+## Bugfixes
+- [#1365] Restored accidentally deleted NPC Feature item template
+
+---
+
 # v4.0.5
 
 ## Enhancements
