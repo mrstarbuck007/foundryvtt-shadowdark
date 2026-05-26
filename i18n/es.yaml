@@ -687,9 +687,9 @@ SHADOWDARK.roll.disadvantage: Desventaja
 SHADOWDARK.roll.failure: '¡Fallo! ({value})'
 SHADOWDARK.roll.healing: Healing Roll
 SHADOWDARK.roll.label.critical_failure: Critical Failure
-SHADOWDARK.roll.label.critical_success: Critical Success
+SHADOWDARK.roll.label.critical_success: Éxito crítico
 SHADOWDARK.roll.label.failure: Failure
-SHADOWDARK.roll.label.success: Success
+SHADOWDARK.roll.label.success: Éxito
 SHADOWDARK.roll.normal: Normal
 SHADOWDARK.roll.one_handed_damage: Daño a una mano
 SHADOWDARK.roll.special_ability: Ability Check Roll
