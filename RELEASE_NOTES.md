@@ -1,3 +1,13 @@
+# v4.0.6
+
+## Bugfixes
+- [#1365] Restored accidentally deleted NPC Feature item template
+
+# Chores
+- [#1364] Merge Spanish translation updates from Crowdin
+
+---
+
 # v4.0.5
 
 ## Enhancements
