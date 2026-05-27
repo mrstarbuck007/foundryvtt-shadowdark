@@ -195,7 +195,7 @@ SHADOWDARK.chat.light_source.source.toggle.on: se encendió
 SHADOWDARK.chat.light_source.went_out: "{name} de {lightSource} se apagó"
 SHADOWDARK.chat.luck_token.used: "{name} used a luck token"
 SHADOWDARK.chat.potion_used: "{name} ha usado una poción"
-SHADOWDARK.chat.spell_focus_check: "Chequeo de enfoque"
+SHADOWDARK.chat.spell_focus_check: "Prueba de Concentración"
 SHADOWDARK.chat.spell_learn.failure: "{name} no ha podido aprender nada del pergamino"
 SHADOWDARK.chat.spell_learn.success: "{name} aprendió correctamente el hechizo {spellName}"
 SHADOWDARK.chat.spell_learn.title: Aprender hechizo
@@ -203,7 +203,7 @@ SHADOWDARK.chat.spell_roll.title: "{name}, CD {spellDC}"
 SHADOWDARK.chat.targets: Targets
 SHADOWDARK.chat.use_ability.failure: "{name} no logró usar la habilidad {ability}"
 SHADOWDARK.chat.use_ability.success: "{name} successfully used the {ability} ability"
-SHADOWDARK.chat.use_ability.title: "Usando habilidad"
+SHADOWDARK.chat.use_ability.title: "Usando Habilidad"
 SHADOWDARK.chat.use_ability.used: "{name} usó la habilidad {ability}"
 SHADOWDARK.chat.welcome_message.arcane_library_button: Tienda Shadowdark RPG
 SHADOWDARK.chat.welcome_message.arcane_library_text: Visit the Arcane Library website for official Shadowdark PDFs, books and merch.
@@ -215,8 +215,8 @@ SHADOWDARK.chat.welcome_message.title_text: Bienvenido a Shadowdark RPG. Aquí h
 SHADOWDARK.chat.welcome_message.title: Shadowdark RPG para Foundry
 SHADOWDARK.chat.welcome_message.watch: Ver el video Tutorial
 SHADOWDARK.chatcard.default: Tirada
-SHADOWDARK.check.requesting: Solicitando un cheque
-SHADOWDARK.class-ability.ability.check: Prueba de habilidad
+SHADOWDARK.check.requesting: Solicitando Prueba
+SHADOWDARK.class-ability.ability.check: Prueba de Habilidad
 SHADOWDARK.class-ability.ability.group: "{group} Ability"
 SHADOWDARK.class-ability.ability.label: Habilidad
 SHADOWDARK.class-ability.available.label: Disponible
@@ -246,7 +246,7 @@ SHADOWDARK.class.ranger: Explorador
 SHADOWDARK.class.spellcasting_ability.label: Aptitud Mágica
 SHADOWDARK.class.spellcasting_class.label: Clase de hechizo
 SHADOWDARK.class.spellcasting_class.this_class: "This ({name})"
-SHADOWDARK.class.spellcasting.base_difficulty.label: Prueba de lanzamiento de hechizo
+SHADOWDARK.class.spellcasting.base_difficulty.label: Lanzamiento de Hechizos
 SHADOWDARK.class.spells_Known.label: Conocido por el nivel de hechizos
 SHADOWDARK.class.starting_boons.count.label: Favores Iniciales
 SHADOWDARK.class.talent_choices.count.label: Número de opciones
@@ -268,13 +268,13 @@ SHADOWDARK.class.wizard: Mago
 SHADOWDARK.coins.cp: MC
 SHADOWDARK.coins.gp: MO
 SHADOWDARK.coins.sp: MP
-SHADOWDARK.dialog.ability_check.cha: Prueba de carisma
+SHADOWDARK.dialog.ability_check.cha: Prueba de Carisma
 SHADOWDARK.dialog.ability_check.con: Prueba de Constitución
-SHADOWDARK.dialog.ability_check.dex: Prueba de destreza
-SHADOWDARK.dialog.ability_check.int: Prueba de inteligencia
-SHADOWDARK.dialog.ability_check.str: Prueba de fuerza
-SHADOWDARK.dialog.ability_check.title: Prueba de habilidad
-SHADOWDARK.dialog.ability_check.wis: Prueba de sabiduría
+SHADOWDARK.dialog.ability_check.dex: Prueba de Destreza
+SHADOWDARK.dialog.ability_check.int: Prueba de Inteligencia
+SHADOWDARK.dialog.ability_check.str: Prueba de Fuerza
+SHADOWDARK.dialog.ability_check.title: Prueba de Habilidad
+SHADOWDARK.dialog.ability_check.wis: Prueba de Sabiduría
 SHADOWDARK.dialog.create_custom_item: Crear objeto personalizado
 SHADOWDARK.dialog.create_treasure: Crear Tesoro
 SHADOWDARK.dialog.create: Crear
@@ -321,11 +321,11 @@ SHADOWDARK.dialog.item.sell: Vender
 SHADOWDARK.dialog.item.use: Usar
 SHADOWDARK.dialog.light_source.pick_up.title: Seleccionar actor para dar fuente de luz
 SHADOWDARK.dialog.roll_attacking_with: Attacking with {name}
-SHADOWDARK.dialog.roll_casting_spell: Casting Spell {name}
+SHADOWDARK.dialog.roll_casting_spell: Lanzando Hechizo {name}
 SHADOWDARK.dialog.roll_learn_spell: Attempting to Learn {name} Spell
 SHADOWDARK.dialog.roll_mode_label: Modo de tirada
 SHADOWDARK.dialog.roll_situational_bonuses: Situational Bonuses
-SHADOWDARK.dialog.roll_using_ability: Using Ability {name}
+SHADOWDARK.dialog.roll_using_ability: Usando Habilidad {name}
 SHADOWDARK.dialog.roll: Tirada
 SHADOWDARK.dialog.scroll.learn_spell_class_warning: "ADVERTENCIA: Este hechizo no pertenece a la misma clase que el personaje. ¿Estás seguro de que deseas intentar aprenderlo?"
 SHADOWDARK.dialog.scroll.wrong_class_confirm: Confirmar Aprendizaje de Hechizo
@@ -676,25 +676,25 @@ SHADOWDARK.range.unlimited_short: I
 SHADOWDARK.range.unlimited: Ilimitado
 SHADOWDARK.roll.advantage_title: "{title} con ventaja"
 SHADOWDARK.roll.advantage: Ventaja
-SHADOWDARK.roll.attack: Attack Roll
-SHADOWDARK.roll.check: Check Roll
-SHADOWDARK.roll.critical.failure: '¡Pifia! ({value})'
-SHADOWDARK.roll.critical.success: '¡Éxito crítico! ({value})'
+SHADOWDARK.roll.attack: Tirada de Ataque
+SHADOWDARK.roll.check: Prueba de Característica
+SHADOWDARK.roll.critical.failure: '¡Fallo Crítico! ({value})'
+SHADOWDARK.roll.critical.success: '¡Éxito Crítico! ({value})'
 SHADOWDARK.roll.D20: Tirar D20
 SHADOWDARK.roll.damage: Tirada de daño
 SHADOWDARK.roll.disadvantage_title: "{title} con ventaja"
 SHADOWDARK.roll.disadvantage: Desventaja
 SHADOWDARK.roll.failure: '¡Fallo! ({value})'
-SHADOWDARK.roll.healing: Healing Roll
-SHADOWDARK.roll.label.critical_failure: Critical Failure
-SHADOWDARK.roll.label.critical_success: Éxito crítico
-SHADOWDARK.roll.label.failure: Failure
+SHADOWDARK.roll.healing: Tirada de Curación
+SHADOWDARK.roll.label.critical_failure: Fallo Crítico
+SHADOWDARK.roll.label.critical_success: Éxito Crítico
+SHADOWDARK.roll.label.failure: Fallo
 SHADOWDARK.roll.label.success: Éxito
 SHADOWDARK.roll.normal: Normal
 SHADOWDARK.roll.one_handed_damage: Daño a una mano
-SHADOWDARK.roll.special_ability: Ability Check Roll
-SHADOWDARK.roll.spell_cast: Spell Cast Roll
-SHADOWDARK.roll.spell_casting_check: Prueba de lanzamiento de hechizo
+SHADOWDARK.roll.special_ability: Prueba de Habilidad
+SHADOWDARK.roll.spell_cast: Lanzamiento de Hechizos
+SHADOWDARK.roll.spell_casting_check: Lanzamiento de Hechizos
 SHADOWDARK.roll.success: '¡Éxito! ({value})'
 SHADOWDARK.roll.tooltip.advantage: Adv
 SHADOWDARK.roll.tooltip.critical_failure: Crit.Fail
@@ -703,7 +703,7 @@ SHADOWDARK.roll.tooltip.critical_success: Crit.Succ
 SHADOWDARK.roll.tooltip.disadvantage: Dis
 SHADOWDARK.roll.tooltip.extra_die: Add.Die
 SHADOWDARK.roll.tooltip.formula_replaced: "Formula Replaced ({formula})"
-SHADOWDARK.roll.tooltip.stat_bonus: "{stat} Bonus"
+SHADOWDARK.roll.tooltip.stat_bonus: "Bonificador de {stat}"
 SHADOWDARK.roll.tooltip.upgrade_die: Up.Die
 SHADOWDARK.roll.two_handed_damage: Daño a dos manos
 SHADOWDARK.settings.animate-hp-change.hint: Show changes to HP as scrolling text on the actor's token
@@ -861,7 +861,7 @@ SHADOWDARK.sheet.player.toggle_edit_hp: Alternar Editar PV
 SHADOWDARK.sheet.player.toggle_edit_stats: Toggle Edit Stats
 SHADOWDARK.sheet.player.toggle_spell_lost: Alternar hechizos perdidos
 SHADOWDARK.sheet.player.tooltip.cast_spell: Lanzar hechizo
-SHADOWDARK.sheet.player.tooltip.focus_on_spell: Concéntrate en hechizos
+SHADOWDARK.sheet.player.tooltip.focus_on_spell: Concentración en Hechizos
 SHADOWDARK.sheet.player.tooltip.learn_spell: Aprender hechizo
 SHADOWDARK.sheet.player.tooltip.use_class_ability: Usar habilidad de clase
 SHADOWDARK.sheet.player.tooltip.use_potion: Usar poción
@@ -887,7 +887,7 @@ SHADOWDARK.spell_damage.types.damage: Damage
 SHADOWDARK.spell_damage.types.healing: Healing
 SHADOWDARK.spell_damage.types.none: None
 SHADOWDARK.spell_duration.days: Días
-SHADOWDARK.spell_duration.focus: Foco
+SHADOWDARK.spell_duration.focus: Concentración
 SHADOWDARK.spell_duration.instant: Instantáneo
 SHADOWDARK.spell_duration.permanent: Permanente
 SHADOWDARK.spell_duration.real_time: Tiempo real
