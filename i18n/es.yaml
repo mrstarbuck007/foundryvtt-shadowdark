@@ -324,7 +324,7 @@ SHADOWDARK.dialog.roll_attacking_with: Atacando con {name}
 SHADOWDARK.dialog.roll_casting_spell: Lanzando Hechizo {name}
 SHADOWDARK.dialog.roll_learn_spell: Attempting to Learn {name} Spell
 SHADOWDARK.dialog.roll_mode_label: Modo de tirada
-SHADOWDARK.dialog.roll_situational_bonuses: Situational Bonuses
+SHADOWDARK.dialog.roll_situational_bonuses: Bonus Situacionales
 SHADOWDARK.dialog.roll_using_ability: Usando Habilidad {name}
 SHADOWDARK.dialog.roll: Tirada
 SHADOWDARK.dialog.scroll.learn_spell_class_warning: "ADVERTENCIA: Este hechizo no pertenece a la misma clase que el personaje. ¿Estás seguro de que deseas intentar aprenderlo?"
