@@ -620,8 +620,8 @@ SHADOWDARK.language.sylvan: Silvano
 SHADOWDARK.language.thanian: Thanio
 SHADOWDARK.language.who_speaks_it: Hablantes
 SHADOWDARK.light_source.lantern: Farol
-SHADOWDARK.light_source.light_spell.double_near: Hechizo de Luz (Doble Rango Medio)
-SHADOWDARK.light_source.light_spell.near: Hechizo de Luz (Rango Medio)
+SHADOWDARK.light_source.light_spell.double_near: Hechizo de Luz (Doble Rango Cercano)
+SHADOWDARK.light_source.light_spell.near: Hechizo de Luz (Rango Cercano)
 SHADOWDARK.light_source.torch: Antorcha
 SHADOWDARK.light-source.dropped: '{name}'
 SHADOWDARK.light-source.pick-up-lightsource.tooltip: Recoger fuente de luz
@@ -645,25 +645,25 @@ SHADOWDARK.notify.shadowdark_item_piles_deprecated: "The 'Item Piles: Shadowdark
 SHADOWDARK.npc_attack.type.physical: Físico
 SHADOWDARK.npc_attack.type.special: Especial
 SHADOWDARK.npc_move.close: Rango Melee
-SHADOWDARK.npc_move.double_near: Doble Rango Medio
+SHADOWDARK.npc_move.double_near: Doble Rango Cercano
 SHADOWDARK.npc_move.far: Rango Lejano
-SHADOWDARK.npc_move.near: Rango Medio
+SHADOWDARK.npc_move.near: Rango Cercano
 SHADOWDARK.npc_move.none: Ninguno
 SHADOWDARK.npc_move.special: Especial
-SHADOWDARK.npc_move.triple_near: Triple Rango Medio
+SHADOWDARK.npc_move.triple_near: Triple Rango Cercano
 SHADOWDARK.patron.boons_table.label: Patron Boons Table
 SHADOWDARK.property.type.option.armor: Armadura
 SHADOWDARK.property.type.option.weapon: Arma
 SHADOWDARK.property.type.title: Tipo de propiedad
 SHADOWDARK.range.close_short: C
 SHADOWDARK.range.close: Rango Melee
-SHADOWDARK.range.double_near: Doble Rango Medio
+SHADOWDARK.range.double_near: Doble Rango Cercano
 SHADOWDARK.range.far_short: L
 SHADOWDARK.range.far: Rango Lejano
 SHADOWDARK.range.near_short: "M"
-SHADOWDARK.range.near: Rango Medio
+SHADOWDARK.range.near: Rango Cercano
 SHADOWDARK.range.nearLine_short: LM
-SHADOWDARK.range.nearLine: Línea de Rango Medio
+SHADOWDARK.range.nearLine: Línea de Rango Cercano
 SHADOWDARK.range.oneMile_short: 1mi
 SHADOWDARK.range.oneMile: 1 Milla
 SHADOWDARK.range.samePlane_short: MP
@@ -870,14 +870,14 @@ SHADOWDARK.sheet.player.tooltip.use_wand: Usar varita
 SHADOWDARK.sheet.player.xp: EXP
 SHADOWDARK.sheet.special_abilities.label: Habilidades especiales
 SHADOWDARK.source.bard-and-ranger: "Shadowdark RPG: Bard, Ranger and Kobold"
-SHADOWDARK.source.core-rules: "Shadowdark RPG: Reglas Basicas"
-SHADOWDARK.source.cursed-scroll-1: Pergamino Maldito Vol.1, Diablerie!
-SHADOWDARK.source.cursed-scroll-2: Pergamino Maldito Vol.2, Arenas Rojas
-SHADOWDARK.source.cursed-scroll-3: Pergamino Maldito Vol.3, Sol Medianoche
-SHADOWDARK.source.cursed-scroll-4: Pergamino maldito vol.4, Río de la Noche
+SHADOWDARK.source.core-rules: "Shadowdark RPG: Core Rules"
+SHADOWDARK.source.cursed-scroll-1: Cursed Scroll Vol.1, Diablerie!
+SHADOWDARK.source.cursed-scroll-2: Cursed Scroll Vol.2, Red Sands
+SHADOWDARK.source.cursed-scroll-3: Cursed Scroll Vol.3, Midnight Sun
+SHADOWDARK.source.cursed-scroll-4: Cursed Scroll Vol.4, River of Night
 SHADOWDARK.source.cursed-scroll-5: Cursed Scroll Vol.5, Dwellers in the Deep
 SHADOWDARK.source.cursed-scroll-6: Cursed Scroll Vol.6, City of Masks
-SHADOWDARK.source.quickstart: "Shadowdark RPG: Set de Inicio Rápido"
+SHADOWDARK.source.quickstart: "Shadowdark RPG: Quickstart Set"
 SHADOWDARK.spell_caster.priest: Clérigo
 SHADOWDARK.spell_caster.wizard: Mago
 SHADOWDARK.spell_damage.formula: Formula
@@ -895,7 +895,7 @@ SHADOWDARK.spell_duration.rounds: Rondas
 SHADOWDARK.spell_duration.turns: Turnos
 SHADOWDARK.spell_range.close: Rango Melee
 SHADOWDARK.spell_range.far: Rango Lejano
-SHADOWDARK.spell_range.near: Rango Medio
+SHADOWDARK.spell_range.near: Rango Cercano
 SHADOWDARK.spell.classes.label: Clases de hechicero
 SHADOWDARK.spell.classes.prompt: Seleccionar clase...
 SHADOWDARK.talent.backstab: Puñalada
