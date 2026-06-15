@@ -304,7 +304,7 @@ SHADOWDARK.dialog.hp_roll.roll_per_level: Obtienes {hp} PG por nivel {level}
 SHADOWDARK.dialog.hp_roll.sum_total: Nuevos PG máximos {total}
 SHADOWDARK.dialog.hp_roll.summary: Sumario de Tiradas de PG
 SHADOWDARK.dialog.hp_roll.title: Tirada de PG
-SHADOWDARK.dialog.item_roll.ability_bonus: Bonus de habilidad
+SHADOWDARK.dialog.item_roll.ability_bonus: Bonus de Habilidad
 SHADOWDARK.dialog.item_roll.item_bonus: Bonus de ítem
 SHADOWDARK.dialog.item_roll.talent_bonus: Bonus de talento
 SHADOWDARK.dialog.item_roll.title: Tirada de ataque con
@@ -473,14 +473,14 @@ SHADOWDARK.item.effect.predefined_effect.abilityImprovementWis: Mejora de Puntua
 SHADOWDARK.item.effect.predefined_effect.acBonus: Bonus CA
 SHADOWDARK.item.effect.predefined_effect.acBonusFromAttribute: Bonus de CA del atributo
 SHADOWDARK.item.effect.predefined_effect.additionalGearSlots: Espacios de equipo adicionales
-SHADOWDARK.item.effect.predefined_effect.armorMastery: Maestría en Armaduras
+SHADOWDARK.item.effect.predefined_effect.armorMastery: Armor Mastery
 SHADOWDARK.item.effect.predefined_effect.backstabDie: Dado de apuñalamiento adicional
 SHADOWDARK.item.effect.predefined_effect.criticalFailureThreshold: Umbral de fallo crítico
 SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: Umbral de éxito crítico
 SHADOWDARK.item.effect.predefined_effect.critMultiplier: Multiplicador crítico
 SHADOWDARK.item.effect.predefined_effect.damageMultiplier: Multiplicador de Daño
 SHADOWDARK.item.effect.predefined_effect.hpAdvantage: Ventaja en Tirada de PG
-SHADOWDARK.item.effect.predefined_effect.initAdvantage: Ventaja de iniciativa
+SHADOWDARK.item.effect.predefined_effect.initAdvantage: Ventaja en Iniciativa
 SHADOWDARK.item.effect.predefined_effect.lightSource: Fuente de luz
 SHADOWDARK.item.effect.predefined_effect.meleeAttackBonus: Bonus de Ataque Cuerpo a Cuerpo
 SHADOWDARK.item.effect.predefined_effect.meleeDamageBonus: Bonus de Daño Cuerpo a Cuerpo
@@ -492,7 +492,7 @@ SHADOWDARK.item.effect.predefined_effect.permanentAbilityStr: Habilidad permanen
 SHADOWDARK.item.effect.predefined_effect.permanentAbilityWis: Habilidad permanente (Sab)
 SHADOWDARK.item.effect.predefined_effect.rangedAttackBonus: Bonus de Ataque a Distancia
 SHADOWDARK.item.effect.predefined_effect.rangedDamageBonus: Bonus de daño a distancia
-SHADOWDARK.item.effect.predefined_effect.spellAdvantage: Ventaja en Lanzamiento de Hechizos
+SHADOWDARK.item.effect.predefined_effect.spellAdvantage: Spellcasting Advantage on Spell
 SHADOWDARK.item.effect.predefined_effect.spellCastingBonus: Bonus de Lanzamiento de Hechizos
 SHADOWDARK.item.effect.predefined_effect.spellcastingClasses: Clase de hechizos extra
 SHADOWDARK.item.effect.predefined_effect.spellDamageBonus: Spell Damage Bonus
@@ -500,12 +500,12 @@ SHADOWDARK.item.effect.predefined_effect.stoneSkinTalent: Stone Skin Talent
 SHADOWDARK.item.effect.predefined_effect.unarmoredAcBonus: Bonus de CA sin armaduras
 SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Bonus de Ataque de Arma
 SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Bonus de daño de arma
-SHADOWDARK.item.effect.predefined_effect.weaponDamageDieD12: Dado de Daño de Arma D12
+SHADOWDARK.item.effect.predefined_effect.weaponDamageDieD12: Increased Weapon Damage Die
 SHADOWDARK.item.effect.predefined_effect.weaponDamageDieImprovementByProperty: Weapon Damage Die Improvement By Property
 SHADOWDARK.item.effect.predefined_effect.weaponDamageExtraDieByProperty: Extra Damage Die By Property
 SHADOWDARK.item.effect.predefined_effect.weaponDamageExtraDieImprovementByProperty: Extra Damage Die Improvement by Property
 SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: Multiplicador de daño de arma
-SHADOWDARK.item.effect.predefined_effect.weaponMastery: Maestría en Armas
+SHADOWDARK.item.effect.predefined_effect.weaponMastery: Weapon Mastery
 SHADOWDARK.item.effect.show-on-panel: Mostrar en el panel
 SHADOWDARK.item.effect.show-token-icon: Mostrar icono del token
 SHADOWDARK.item.effect.source.title: Fuente del ítem
@@ -696,11 +696,11 @@ SHADOWDARK.roll.special_ability: Prueba de Habilidad
 SHADOWDARK.roll.spell_cast: Lanzamiento de Hechizos
 SHADOWDARK.roll.spell_casting_check: Lanzamiento de Hechizos
 SHADOWDARK.roll.success: '¡Éxito! ({value})'
-SHADOWDARK.roll.tooltip.advantage: Adv
+SHADOWDARK.roll.tooltip.advantage: Ventaja
 SHADOWDARK.roll.tooltip.critical_failure: Crit.Fail
 SHADOWDARK.roll.tooltip.critical_multiplier: Crit.Multi
 SHADOWDARK.roll.tooltip.critical_success: Crit.Succ
-SHADOWDARK.roll.tooltip.disadvantage: Dis
+SHADOWDARK.roll.tooltip.disadvantage: Desventaja
 SHADOWDARK.roll.tooltip.extra_die: Add.Die
 SHADOWDARK.roll.tooltip.formula_replaced: "Formula Replaced ({formula})"
 SHADOWDARK.roll.tooltip.stat_bonus: "Bonificador de {stat}"
@@ -906,11 +906,11 @@ SHADOWDARK.talent.class.patronBoon: Patron Boon
 SHADOWDARK.talent.level_gained: Nivel Obtenido
 SHADOWDARK.talent.type.ability_improvement: Mejora de Habilidad
 SHADOWDARK.talent.type.advantage.hp: Ventaja en Tirada de PG
-SHADOWDARK.talent.type.advantage.initiative: Ventaja de iniciativa
+SHADOWDARK.talent.type.advantage.initiative: Ventaja en Iniciativa
 SHADOWDARK.talent.type.advantage.spell: Ventaja en Lanzamiento de Hechizos
 SHADOWDARK.talent.type.advantage.title: Bonus de ventaja
 SHADOWDARK.talent.type.armor_bonus: Bono de CA de armadura
-SHADOWDARK.talent.type.armor_mastery: Maestría en Armaduras
+SHADOWDARK.talent.type.armor_mastery: Armor Mastery
 SHADOWDARK.talent.type.backstab_die: Dado extra de puñalada
 SHADOWDARK.talent.type.bonus_caster_classes: Bonus Spellcasting Class
 SHADOWDARK.talent.type.custom: Talento personalizado
@@ -921,7 +921,7 @@ SHADOWDARK.talent.type.ranged_damage_bonus: Bonus de daño a distancia
 SHADOWDARK.talent.type.spell_bonus: Bonus de Lanzamiento de Hechizos
 SHADOWDARK.talent.type.stoneSkinTalent: Stone Skin Talent
 SHADOWDARK.talent.type.title: Tipo(s) de talento
-SHADOWDARK.talent.type.weapon_mastery: Maestría en Armas
+SHADOWDARK.talent.type.weapon_mastery: Weapon Mastery
 SHADOWDARK.tours.lightsource.notification.not_enabled: Necesitas habilitar el Seguimiento de fuente de luz en la configuración para poder ejecutar el tour
 SHADOWDARK.weapon.properties.finesse: Sutilleza
 SHADOWDARK.weapon.properties.loading: Recargando
