@@ -600,7 +600,7 @@ SHADOWDARK.item.weapon.base_weapon.wand: Vara
 SHADOWDARK.item.weapon.base_weapon.warhammer: Martillo de guerra
 SHADOWDARK.item.weapon.weapon_properties.label: Propiedades del arma
 SHADOWDARK.language_choices.common.label: Común adicional
-SHADOWDARK.language_choices.rare.label: Rara adicional
+SHADOWDARK.language_choices.rare.label: Raro adicional
 SHADOWDARK.language.celestial: Celestial
 SHADOWDARK.language.common: Común
 SHADOWDARK.language.diabolic: Diabólico
@@ -614,7 +614,7 @@ SHADOWDARK.language.orcish: Orco
 SHADOWDARK.language.primordial: Antiguo
 SHADOWDARK.language.rarity.common: Común
 SHADOWDARK.language.rarity.label: Rareza
-SHADOWDARK.language.rarity.rare: Rara
+SHADOWDARK.language.rarity.rare: Raro
 SHADOWDARK.language.reptilian: Reptiliano
 SHADOWDARK.language.sylvan: Silvano
 SHADOWDARK.language.thanian: Thanio
