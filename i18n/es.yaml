@@ -880,12 +880,12 @@ SHADOWDARK.source.cursed-scroll-6: Cursed Scroll Vol.6, City of Masks
 SHADOWDARK.source.quickstart: "Shadowdark RPG: Quickstart Set"
 SHADOWDARK.spell_caster.priest: Clérigo
 SHADOWDARK.spell_caster.wizard: Mago
-SHADOWDARK.spell_damage.formula: Formula
+SHADOWDARK.spell_damage.formula: Fórmula
 SHADOWDARK.spell_damage.invalid_formula: Please enter a valid damage formula, e.g. "2d6 + 3"
-SHADOWDARK.spell_damage.type: Type
-SHADOWDARK.spell_damage.types.damage: Damage
-SHADOWDARK.spell_damage.types.healing: Healing
-SHADOWDARK.spell_damage.types.none: None
+SHADOWDARK.spell_damage.type: Tipo
+SHADOWDARK.spell_damage.types.damage: Daño
+SHADOWDARK.spell_damage.types.healing: Curación
+SHADOWDARK.spell_damage.types.none: Ninguno
 SHADOWDARK.spell_duration.days: Días
 SHADOWDARK.spell_duration.focus: Concentración
 SHADOWDARK.spell_duration.instant: Instantáneo
