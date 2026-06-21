@@ -1,3 +1,14 @@
+# v4.0.7
+
+# Enhancements
+- [#1376] Update the Monster Importer to handle various publisher quirks
+
+# Chores
+- [#1369] Merge Spanish translation updates from Crowdin
+- [#1384] Merge Spanish translation updates from Crowdin
+
+---
+
 # v4.0.6
 
 ## Bugfixes
