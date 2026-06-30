@@ -2,6 +2,7 @@
 
 # Enhancements
 - [#1376] Update the Monster Importer to handle various publisher quirks
+- [#1391] Fixed active effects on +1 to Weapon Attacks and Damage talents
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin
