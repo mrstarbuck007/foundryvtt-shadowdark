@@ -1,150 +1,150 @@
-SHADOWDARK.ability_cha: Cha
-SHADOWDARK.ability_charisma: Charisma
+SHADOWDARK.ability_cha: Car
+SHADOWDARK.ability_charisma: Carisma
 SHADOWDARK.ability_con: Con
-SHADOWDARK.ability_constitution: Constitution
-SHADOWDARK.ability_dex: Dex
-SHADOWDARK.ability_dexterity: Dexterity
+SHADOWDARK.ability_constitution: Costituzione
+SHADOWDARK.ability_dex: Des
+SHADOWDARK.ability_dexterity: Destrezza
 SHADOWDARK.ability_int: Int
-SHADOWDARK.ability_intelligence: Intelligence
-SHADOWDARK.ability_str: Str
-SHADOWDARK.ability_strength: Strength
-SHADOWDARK.ability_wis: Wis
-SHADOWDARK.ability_wisdom: Wisdom
-SHADOWDARK.alignment.chaotic: Chaotic
-SHADOWDARK.alignment.lawful: Lawful
+SHADOWDARK.ability_intelligence: Intelligenza
+SHADOWDARK.ability_str: For
+SHADOWDARK.ability_strength: Forza
+SHADOWDARK.ability_wis: Sag
+SHADOWDARK.ability_wisdom: Saggezza
+SHADOWDARK.alignment.chaotic: Caotico
+SHADOWDARK.alignment.lawful: Legale
 SHADOWDARK.alignment.neutral: Neutrale
-SHADOWDARK.ancestry.choice_count: Choice Count
-SHADOWDARK.ancestry.choice: Choice
-SHADOWDARK.ancestry.fixed: Fixed
-SHADOWDARK.ancestry.languages.label: Ancestry Languages
-SHADOWDARK.ancestry.languages.prompt: Select Language...
-SHADOWDARK.ancestry.nametable.label: Random Name Table
-SHADOWDARK.ancestry.nametable.placeholder: Drag Roll Table Here
-SHADOWDARK.ancestry.nametable.random_weight: Randomization Weight
-SHADOWDARK.ancestry.nametable.tooltip.weight: Affects the chance of rolling when using the Character Generator. Higher values increase chance. Default value is 1.
-SHADOWDARK.ancestry.talents.label: Ancestry Talents
-SHADOWDARK.ancestry.talents.prompt: Select Talent...
-SHADOWDARK.app.active_effects.title: Active Effects
-SHADOWDARK.app.gem_bag.sell_all: Sell All Gems
-SHADOWDARK.app.gem_bag.title: Gem Bag
-SHADOWDARK.app.gem_bag.tooltip.sell_gem: Sell Gem
-SHADOWDARK.app.gem_bag.total_value: Total Value
-SHADOWDARK.app.item_properties.armor.title: Armor Properties
-SHADOWDARK.app.item_properties.languages.title: Languages
-SHADOWDARK.app.item_properties.magic_item.effects.title: Magic Item Effects
-SHADOWDARK.app.item_properties.save: Save
-SHADOWDARK.app.item_properties.talent.effects.title: Talent Effect Types
-SHADOWDARK.app.item_properties.title: Properties
-SHADOWDARK.app.item_properties.weapon.title: Weapon Properties
-SHADOWDARK.app.light_tracker.minute_short: min
-SHADOWDARK.app.light_tracker.minutes_short: mins
-SHADOWDARK.app.light_tracker.title: Light Tracker
-SHADOWDARK.app.light-tracker.douse-light: Douse Light
-SHADOWDARK.app.light-tracker.hide-inactive: Hide Actors Without Lights
-SHADOWDARK.app.light-tracker.show-all-actors: Show All Actors
-SHADOWDARK.app.light-tracker.turn-out-the-lights: Turn Out the Lights
-SHADOWDARK.app.loading.body: Searching Distant Lands...
-SHADOWDARK.app.loading.title: Loading
-SHADOWDARK.app.npc_attack_ranges.title: Attack Ranges
-SHADOWDARK.apps.character-generator.choose: Choose
-SHADOWDARK.apps.character-generator.create_character: Create Character
-SHADOWDARK.apps.character-generator.error.create: Failed to create player character {error}
-SHADOWDARK.apps.character-generator.error.name: Character name cannot be blank
-SHADOWDARK.apps.character-generator.error.no_ancestry_for_name: Unable to roll a random name without a selected Ancestry
-SHADOWDARK.apps.character-generator.gear: Gear
-SHADOWDARK.apps.character-generator.gold: Gold
-SHADOWDARK.apps.character-generator.name: Character Name
-SHADOWDARK.apps.character-generator.see_details: See Details
-SHADOWDARK.apps.character-generator.sidebar_create: Create
-SHADOWDARK.apps.character-generator.sidebar_import: Import
-SHADOWDARK.apps.character-generator.starting_gear: Starting Gear
-SHADOWDARK.apps.character-generator.success: Character created
-SHADOWDARK.apps.character-generator.title: Character Generator
-SHADOWDARK.apps.character-generator.tooltip: Fully Random Character
-SHADOWDARK.apps.character-generator.type: Type
-SHADOWDARK.apps.character-generator.update_character: Update Character
-SHADOWDARK.apps.effect_panel.dialog.delete_effect.content: Do you want to delete the {effectName} effect?
-SHADOWDARK.apps.effect_panel.dialog.delete_effect.title: Delete Effect?
-SHADOWDARK.apps.effect_panel.duration_label.expired: Expired
-SHADOWDARK.apps.effect_panel.duration_label.one_day: 1 Day Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_hour: 1 Hour Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_minute: 1 Minute Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_round: 1 Round Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_second: 1 Second Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_week: 1 Week Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_year: 1 Year Remaining
-SHADOWDARK.apps.effect_panel.duration_label.unlimited: Unlimited Duration
-SHADOWDARK.apps.effect_panel.duration_label.x_days: "{days} Days Remaining"
-SHADOWDARK.apps.effect_panel.duration_label.x_hours: "{hours} Hours Remaining"
-SHADOWDARK.apps.effect_panel.duration_label.x_minutes: "{minutes} Minutes Remaining"
-SHADOWDARK.apps.effect_panel.duration_label.x_rounds: "{rounds} Rounds Remaining"
-SHADOWDARK.apps.effect_panel.duration_label.x_seconds: "{seconds} Seconds Remaining"
-SHADOWDARK.apps.effect_panel.duration_label.x_weeks: "{weeks} Weeks Remaining"
-SHADOWDARK.apps.effect_panel.duration_label.x_years: "{years} Years Remaining"
-SHADOWDARK.apps.effect_panel.right_click_to_remove: "[Right click] Remove effect"
-SHADOWDARK.apps.item-importer.header: Item Importer
-SHADOWDARK.apps.item-importer.import_button: Import Item
-SHADOWDARK.apps.item-importer.instruction1: 1. Copy item text from source material.
-SHADOWDARK.apps.item-importer.instruction2a: 2. Paste text into this box following the item format shown in the core rules.
-SHADOWDARK.apps.item-importer.instruction2b: Item Name
-SHADOWDARK.apps.item-importer.instruction2c: Flavor text
-SHADOWDARK.apps.item-importer.instruction2d: Features
-SHADOWDARK.apps.item-importer.instruction3: 3. Click Import Item.
-SHADOWDARK.apps.item-importer.placeholder: Paste item text here...
-SHADOWDARK.apps.item-importer.title: Import Item
-SHADOWDARK.apps.level-up.dragdrop: Drag and Drop Here
-SHADOWDARK.apps.level-up.errors.missing_boon_table: Unable to roll Patron Boon as the configured RollTable could not be loaded
-SHADOWDARK.apps.level-up.hit_points: Hit Points
-SHADOWDARK.apps.level-up.level_up: Level Up!
-SHADOWDARK.apps.level-up.leveling_to: Leveling up to level
-SHADOWDARK.apps.level-up.missing_selections: Missing Selections
-SHADOWDARK.apps.level-up.notalent: No talents gained at this level
-SHADOWDARK.apps.level-up.or_boons: or Boons
-SHADOWDARK.apps.level-up.prompt: Not all required selections have been made. Continue with level up anyways?
-SHADOWDARK.apps.level-up.roll_boon: Roll Boon
-SHADOWDARK.apps.level-up.roll_talent: Roll Talent
-SHADOWDARK.apps.level-up.spell_tier_out_of_range: Spell tier out of range
-SHADOWDARK.apps.level-up.title: Leveling Up
-SHADOWDARK.apps.monster-importer.header: Monster Importer
-SHADOWDARK.apps.monster-importer.import_button: Import Monster
-SHADOWDARK.apps.monster-importer.instruction1: 1. Copy monster text from source material.
-SHADOWDARK.apps.monster-importer.instruction2a: 2. Paste text into the text box following the monster format shown in the core rules. Add a blank line between each ability.
-SHADOWDARK.apps.monster-importer.instruction2b: Monster Name
-SHADOWDARK.apps.monster-importer.instruction2c: Flavor text
-SHADOWDARK.apps.monster-importer.instruction2d: Main stat block
-SHADOWDARK.apps.monster-importer.instruction2e: Feature
-SHADOWDARK.apps.monster-importer.instruction3: 3. Click Import Monster.
-SHADOWDARK.apps.monster-importer.placeholder: Paste monster text here...
-SHADOWDARK.apps.monster-importer.title: Import Monster
-SHADOWDARK.apps.request-check.copied: Copied to Clipboard
-SHADOWDARK.apps.request-check.copy_to_clipboard: Copy to Clipboard
-SHADOWDARK.apps.request-check.custom: Custom
-SHADOWDARK.apps.request-check.easy: Easy
-SHADOWDARK.apps.request-check.extreme: Extreme
-SHADOWDARK.apps.request-check.hard: Hard
-SHADOWDARK.apps.request-check.normal: Normal
-SHADOWDARK.apps.request-check.title: Request Check
-SHADOWDARK.apps.shadowdarkling-importer.errors: Items Not Found
-SHADOWDARK.apps.shadowdarkling-importer.header: Shadowdarkling Importer
-SHADOWDARK.apps.shadowdarkling-importer.import_button: Import
-SHADOWDARK.apps.shadowdarkling-importer.import_button2: Partially Import
-SHADOWDARK.apps.shadowdarkling-importer.instruction1: 1. Visit Shadowdarklings.net.
-SHADOWDARK.apps.shadowdarkling-importer.instruction2: 2. Create Character > Export > copy JSON to clipboard.
-SHADOWDARK.apps.shadowdarkling-importer.instruction3: Paste Character JSON Here
-SHADOWDARK.apps.shadowdarkling-importer.title: Import Shadowdarkling
-SHADOWDARK.apps.solodark.button1: Unlikely or Impossible
-SHADOWDARK.apps.solodark.button2: Even Chance
-SHADOWDARK.apps.solodark.button3: Likely or Certain
-SHADOWDARK.apps.solodark.oracle: The Oracle
-SHADOWDARK.apps.solodark.phrasing: Ask your question with affirmative phrasing. Instead of asking, "Are there no orcs in this room?" ask, "Are there orcs in this room?"
-SHADOWDARK.apps.solodark.question1: What is the question?
-SHADOWDARK.apps.solodark.question2: How likely is a "yes" result?
-SHADOWDARK.apps.solodark.roll_prompt: Roll Prompt
+SHADOWDARK.ancestry.choice_count: Lista scelte
+SHADOWDARK.ancestry.choice: Scelta
+SHADOWDARK.ancestry.fixed: Fisso
+SHADOWDARK.ancestry.languages.label: Linguaggi di stirpe
+SHADOWDARK.ancestry.languages.prompt: Seleziona la Lingua
+SHADOWDARK.ancestry.nametable.label: Tabella Nomi Casuali
+SHADOWDARK.ancestry.nametable.placeholder: Trascina La Tabella Tiri Qui
+SHADOWDARK.ancestry.nametable.random_weight: Casuale
+SHADOWDARK.ancestry.nametable.tooltip.weight: Influisce sulla possibilità dei tiri quando si usa il generatore di personaggi. Valori più alti aumentano le possibilità. Il valore predefinito è 1.
+SHADOWDARK.ancestry.talents.label: Talenti di Stirpe
+SHADOWDARK.ancestry.talents.prompt: Seleziona Talento
+SHADOWDARK.app.active_effects.title: Effetto Attivo
+SHADOWDARK.app.gem_bag.sell_all: Vendi Tutte le Gemme
+SHADOWDARK.app.gem_bag.title: Borsa Gemme
+SHADOWDARK.app.gem_bag.tooltip.sell_gem: Vendi Gemma
+SHADOWDARK.app.gem_bag.total_value: Valore totale
+SHADOWDARK.app.item_properties.armor.title: Proprietà Armatura
+SHADOWDARK.app.item_properties.languages.title: Lingue
+SHADOWDARK.app.item_properties.magic_item.effects.title: Effetti Oggetto Magico
+SHADOWDARK.app.item_properties.save: Salva
+SHADOWDARK.app.item_properties.talent.effects.title: Tipi Di Effetto Talento
+SHADOWDARK.app.item_properties.title: Proprietà
+SHADOWDARK.app.item_properties.weapon.title: Proprietà Arma
+SHADOWDARK.app.light_tracker.minute_short: Min
+SHADOWDARK.app.light_tracker.minutes_short: minuti
+SHADOWDARK.app.light_tracker.title: Controllo Luce
+SHADOWDARK.app.light-tracker.douse-light: Spegni Luce
+SHADOWDARK.app.light-tracker.hide-inactive: Nascondi Attori Senza Luci
+SHADOWDARK.app.light-tracker.show-all-actors: Mostra Tutti Gli Attori
+SHADOWDARK.app.light-tracker.turn-out-the-lights: Spegni le Luci
+SHADOWDARK.app.loading.body: Ricerca in Terre Distanti...
+SHADOWDARK.app.loading.title: Caricamento
+SHADOWDARK.app.npc_attack_ranges.title: Gittata
+SHADOWDARK.apps.character-generator.choose: Scegli
+SHADOWDARK.apps.character-generator.create_character: Crea Personaggio
+SHADOWDARK.apps.character-generator.error.create: Creazione del personaggio non riuscita {error}
+SHADOWDARK.apps.character-generator.error.name: Il nome del personaggio non può essere vuoto
+SHADOWDARK.apps.character-generator.error.no_ancestry_for_name: Impossibile tirare un nome casuale senza una Stirpe selezionata
+SHADOWDARK.apps.character-generator.gear: Equip.
+SHADOWDARK.apps.character-generator.gold: Oro
+SHADOWDARK.apps.character-generator.name: Nome del personaggio
+SHADOWDARK.apps.character-generator.see_details: Vedi Dettagli
+SHADOWDARK.apps.character-generator.sidebar_create: Crea
+SHADOWDARK.apps.character-generator.sidebar_import: Importa
+SHADOWDARK.apps.character-generator.starting_gear: Equipaggiamento Iniziale
+SHADOWDARK.apps.character-generator.success: Personaggio creato
+SHADOWDARK.apps.character-generator.title: Generatore Personaggio
+SHADOWDARK.apps.character-generator.tooltip: Personaggio Completamente Casuale
+SHADOWDARK.apps.character-generator.type: Tipo
+SHADOWDARK.apps.character-generator.update_character: Aggiorna Personaggio
+SHADOWDARK.apps.effect_panel.dialog.delete_effect.content: Vuoi eliminare l'effetto {effectName}?
+SHADOWDARK.apps.effect_panel.dialog.delete_effect.title: Elimina Effetto?
+SHADOWDARK.apps.effect_panel.duration_label.expired: Terminato
+SHADOWDARK.apps.effect_panel.duration_label.one_day: 1 Giorno Rimanente
+SHADOWDARK.apps.effect_panel.duration_label.one_hour: 1 Ora Rimanente
+SHADOWDARK.apps.effect_panel.duration_label.one_minute: 1 Minuto Rimanente
+SHADOWDARK.apps.effect_panel.duration_label.one_round: 1 Round Rimanente
+SHADOWDARK.apps.effect_panel.duration_label.one_second: 1 Secondo Rimanente
+SHADOWDARK.apps.effect_panel.duration_label.one_week: 1 Settimana Rimanente
+SHADOWDARK.apps.effect_panel.duration_label.one_year: 1 Anno Rimanente
+SHADOWDARK.apps.effect_panel.duration_label.unlimited: Durata illimitata
+SHADOWDARK.apps.effect_panel.duration_label.x_days: "{days} Giorni Rimanenti"
+SHADOWDARK.apps.effect_panel.duration_label.x_hours: "{hours} Ore Rimanenti"
+SHADOWDARK.apps.effect_panel.duration_label.x_minutes: "{minutes} Minuti Rimanenti"
+SHADOWDARK.apps.effect_panel.duration_label.x_rounds: "{rounds} Round Rimanenti"
+SHADOWDARK.apps.effect_panel.duration_label.x_seconds: "{seconds} Secondi Rimanenti"
+SHADOWDARK.apps.effect_panel.duration_label.x_weeks: "{weeks} Settimane Rimanenti"
+SHADOWDARK.apps.effect_panel.duration_label.x_years: "{years} Anni Rimanenti"
+SHADOWDARK.apps.effect_panel.right_click_to_remove: "[Click destro] Rimuovi effetto"
+SHADOWDARK.apps.item-importer.header: Importa Oggetti
+SHADOWDARK.apps.item-importer.import_button: Importa Oggetto
+SHADOWDARK.apps.item-importer.instruction1: 1. Copia il testo dell'oggetto dal materiale di origine.
+SHADOWDARK.apps.item-importer.instruction2a: 2. Incolla il testo in questa casella seguendo il formato dell'oggetto mostrato nelle regole di base.
+SHADOWDARK.apps.item-importer.instruction2b: Nome Oggetto
+SHADOWDARK.apps.item-importer.instruction2c: Testo di descrizione
+SHADOWDARK.apps.item-importer.instruction2d: Caratteristiche
+SHADOWDARK.apps.item-importer.instruction3: 3. Clic Importa Oggetto.
+SHADOWDARK.apps.item-importer.placeholder: Incolla il testo dell'oggetto qui...
+SHADOWDARK.apps.item-importer.title: Importa Oggetto
+SHADOWDARK.apps.level-up.dragdrop: Trascina e rilascia qui
+SHADOWDARK.apps.level-up.errors.missing_boon_table: Impossibile tirare Doni Patrono perché la tabella configurata non può essere caricata
+SHADOWDARK.apps.level-up.hit_points: Punti Ferita
+SHADOWDARK.apps.level-up.level_up: Aumento di Livello!
+SHADOWDARK.apps.level-up.leveling_to: Aumenta al livello
+SHADOWDARK.apps.level-up.missing_selections: Selezione mancante
+SHADOWDARK.apps.level-up.notalent: Nessun talento guadagnato a questo livello
+SHADOWDARK.apps.level-up.or_boons: o Doni
+SHADOWDARK.apps.level-up.prompt: Non tutte le selezioni richieste sono state fatte. Continuare con l'aumento di livello comunque?
+SHADOWDARK.apps.level-up.roll_boon: Tira per il Dono
+SHADOWDARK.apps.level-up.roll_talent: Tira per il Talento
+SHADOWDARK.apps.level-up.spell_tier_out_of_range: Grado incantesimo fuori portata
+SHADOWDARK.apps.level-up.title: Aumento di Livello
+SHADOWDARK.apps.monster-importer.header: Importa Mostri
+SHADOWDARK.apps.monster-importer.import_button: Importa Mostro
+SHADOWDARK.apps.monster-importer.instruction1: 1. Copia il testo del mostro dal materiale di origine.
+SHADOWDARK.apps.monster-importer.instruction2a: 2. Incolla il testo nella casella di testo seguendo il formato mostro mostrato nelle regole principali. Aggiungi una linea vuota tra ogni abilità.
+SHADOWDARK.apps.monster-importer.instruction2b: Nome del Mostro
+SHADOWDARK.apps.monster-importer.instruction2c: Testo di descrizione
+SHADOWDARK.apps.monster-importer.instruction2d: Blocco delle statistiche principali
+SHADOWDARK.apps.monster-importer.instruction2e: Caratteristica
+SHADOWDARK.apps.monster-importer.instruction3: 3. Clic Importa Mostro.
+SHADOWDARK.apps.monster-importer.placeholder: Incolla il testo del mostro qui...
+SHADOWDARK.apps.monster-importer.title: Importa Mostro
+SHADOWDARK.apps.request-check.copied: Copiato negli Appunti
+SHADOWDARK.apps.request-check.copy_to_clipboard: Copia negli appunti
+SHADOWDARK.apps.request-check.custom: Personalizzato
+SHADOWDARK.apps.request-check.easy: Facile
+SHADOWDARK.apps.request-check.extreme: Estremo
+SHADOWDARK.apps.request-check.hard: Difficile
+SHADOWDARK.apps.request-check.normal: Normale
+SHADOWDARK.apps.request-check.title: Richiesta Tiro
+SHADOWDARK.apps.shadowdarkling-importer.errors: Oggetto non trovato
+SHADOWDARK.apps.shadowdarkling-importer.header: Importa Shadowdarkling
+SHADOWDARK.apps.shadowdarkling-importer.import_button: Importa
+SHADOWDARK.apps.shadowdarkling-importer.import_button2: Importa Parzialmente
+SHADOWDARK.apps.shadowdarkling-importer.instruction1: 1. Visita Shadowdarklings.net.
+SHADOWDARK.apps.shadowdarkling-importer.instruction2: 2. Crea personaggio > Esporta > copia JSON negli appunti.
+SHADOWDARK.apps.shadowdarkling-importer.instruction3: Incolla JSON Del Personaggio Qui
+SHADOWDARK.apps.shadowdarkling-importer.title: Importa Shadowdarkling
+SHADOWDARK.apps.solodark.button1: Improbabile o Impossibile
+SHADOWDARK.apps.solodark.button2: Pari Possibilità
+SHADOWDARK.apps.solodark.button3: Probabile o Certo
+SHADOWDARK.apps.solodark.oracle: L'Oracolo
+SHADOWDARK.apps.solodark.phrasing: 'Fai la tua domanda con frase affermativa. Invece di chiedere, "Non ci sono orchi in questa stanza?" chiedi: "Ci sono orchi in questa stanza?"'
+SHADOWDARK.apps.solodark.question1: Qual è la domanda?
+SHADOWDARK.apps.solodark.question2: Quanto è probabile un "sì" come risultato?
+SHADOWDARK.apps.solodark.roll_prompt: Tira per il test
 SHADOWDARK.apps.solodark.title: SoloDark
-SHADOWDARK.apps.spell-book.known: Known
-SHADOWDARK.apps.spell-book.title: Class Spell List
-SHADOWDARK.apps.spell-importer.header: Spell Importer
-SHADOWDARK.apps.spell-importer.import_button: Import Spell
+SHADOWDARK.apps.spell-book.known: Conosciuto
+SHADOWDARK.apps.spell-book.title: Lista Incantesimi di Classe
+SHADOWDARK.apps.spell-importer.header: Importa Incantesimi
+SHADOWDARK.apps.spell-importer.import_button: Importa Incantesimo
 SHADOWDARK.apps.spell-importer.instruction1: 1. Copy spell text from source material.
 SHADOWDARK.apps.spell-importer.instruction2a: 2. Paste text into this box following the spell format shown in the core rules.
 SHADOWDARK.apps.spell-importer.instruction2b: Spell Name
@@ -195,92 +195,92 @@ SHADOWDARK.chat.light_source.source.toggle.on: was lit
 SHADOWDARK.chat.light_source.went_out: "{name}'s {lightSource} went out"
 SHADOWDARK.chat.luck_token.used: "{name} used a luck token"
 SHADOWDARK.chat.potion_used: "{name} used a Potion"
-SHADOWDARK.chat.spell_focus_check: "Focus Check"
-SHADOWDARK.chat.spell_learn.failure: "{name} failed to learn anything from the scroll"
-SHADOWDARK.chat.spell_learn.success: "{name} successfully learnt the {spellName} spell"
-SHADOWDARK.chat.spell_learn.title: Learning Spell
-SHADOWDARK.chat.spell_roll.title: "{name}, DC {spellDC}"
-SHADOWDARK.chat.targets: Targets
-SHADOWDARK.chat.use_ability.failure: "{name} failed to use the {ability} ability"
-SHADOWDARK.chat.use_ability.success: "{name} successfully used the {ability} ability"
-SHADOWDARK.chat.use_ability.title: "Using Ability"
-SHADOWDARK.chat.use_ability.used: "{name} used the {ability} ability"
+SHADOWDARK.chat.spell_focus_check: "Controllo Concentrazione"
+SHADOWDARK.chat.spell_learn.failure: "{name} non è riuscito ad imparare nulla dalla pergamena"
+SHADOWDARK.chat.spell_learn.success: "{name} ha imparato con successo l'incantesimo {spellName}"
+SHADOWDARK.chat.spell_learn.title: Apprendere Incantesimo
+SHADOWDARK.chat.spell_roll.title: "{name}, CD {spellDC}"
+SHADOWDARK.chat.targets: Bersagli
+SHADOWDARK.chat.use_ability.failure: "{name} non è riuscito ad utilizzare l'abilità {ability}"
+SHADOWDARK.chat.use_ability.success: "{name} ha usato con successo l'abilità {ability}"
+SHADOWDARK.chat.use_ability.title: "Usa Abilità"
+SHADOWDARK.chat.use_ability.used: "{name} ha usato l'abilità {ability}"
 SHADOWDARK.chat.welcome_message.arcane_library_button: Shop Shadowdark RPG
-SHADOWDARK.chat.welcome_message.arcane_library_text: Visit the Arcane Library website for official Shadowdark PDFs, books and merch.
-SHADOWDARK.chat.welcome_message.arcane_library: Support The Arcane Library
-SHADOWDARK.chat.welcome_message.issues_button: Issue Tracker
-SHADOWDARK.chat.welcome_message.issues_text: "If you find any issues or have ideas for new features for the system, check out our issue tracker."
-SHADOWDARK.chat.welcome_message.issues: Report Issues
-SHADOWDARK.chat.welcome_message.title_text: Welcome to Shadowdark RPG. Here are some resources to get you started.
-SHADOWDARK.chat.welcome_message.title: Shadowdark RPG for Foundry
-SHADOWDARK.chat.welcome_message.watch: Watch the Video Tutorial
-SHADOWDARK.chatcard.default: Roll
-SHADOWDARK.check.requesting: Requesting a check
-SHADOWDARK.class-ability.ability.check: Ability Check
-SHADOWDARK.class-ability.ability.group: "{group} Ability"
-SHADOWDARK.class-ability.ability.label: Ability
-SHADOWDARK.class-ability.available.label: Available
-SHADOWDARK.class-ability.boons: Boons
-SHADOWDARK.class-ability.dc.label: DC
-SHADOWDARK.class-ability.group.label: Ability Group
-SHADOWDARK.class-ability.limited-uses.label: Limited Uses?
-SHADOWDARK.class-ability.lose_on_failure.label: Lose on Failure?
-SHADOWDARK.class-ability.lost.label: Lost
-SHADOWDARK.class-ability.maximum.label: Maximum
-SHADOWDARK.class-ability.options: Options
-SHADOWDARK.class.armor.all.label: All Armor
-SHADOWDARK.class.armor.label: Armor
-SHADOWDARK.class.armor.prompt: Select Armor...
-SHADOWDARK.class.choice_count: Choice Count
-SHADOWDARK.class.choice: Choice
-SHADOWDARK.class.fighter: Fighter
-SHADOWDARK.class.fixed: Fixed
-SHADOWDARK.class.has_patron.count.label: Has Patron?
-SHADOWDARK.class.hit_points.label: HP Die Roll
-SHADOWDARK.class.language_choices.count.label: Choice Count
-SHADOWDARK.class.language_choices.label: Language Choices
-SHADOWDARK.class.language_choices.prompt: Select Language...
-SHADOWDARK.class.languages.label: Class Languages
-SHADOWDARK.class.priest: Priest
+SHADOWDARK.chat.welcome_message.arcane_library_text: Visita il sito di Arcane Library per i PDF ufficiali Shadowdark, libri e merch.
+SHADOWDARK.chat.welcome_message.arcane_library: Supporta Arcane Library
+SHADOWDARK.chat.welcome_message.issues_button: Tracciatore Problemi
+SHADOWDARK.chat.welcome_message.issues_text: "Se trovi qualche problema o hai idee per nuove funzionalità per il sistema, dai un'occhiata al nostro Tracciatore Problemi."
+SHADOWDARK.chat.welcome_message.issues: Segnala un problema
+SHADOWDARK.chat.welcome_message.title_text: Benvenuto in Shadowdark RPG. Ecco alcune risorse per iniziare.
+SHADOWDARK.chat.welcome_message.title: Shadowdark RPG per Foundry
+SHADOWDARK.chat.welcome_message.watch: Guarda il Video Tutorial
+SHADOWDARK.chatcard.default: Tira
+SHADOWDARK.check.requesting: Richiesta tiro
+SHADOWDARK.class-ability.ability.check: Prove di Abilità
+SHADOWDARK.class-ability.ability.group: "Abilità Di {group}"
+SHADOWDARK.class-ability.ability.label: Abilità
+SHADOWDARK.class-ability.available.label: Disponibile
+SHADOWDARK.class-ability.boons: Doni
+SHADOWDARK.class-ability.dc.label: CD
+SHADOWDARK.class-ability.group.label: Abilità di Gruppo
+SHADOWDARK.class-ability.limited-uses.label: Utilizzi Limitati?
+SHADOWDARK.class-ability.lose_on_failure.label: Perdi con fallimento?
+SHADOWDARK.class-ability.lost.label: Perso
+SHADOWDARK.class-ability.maximum.label: Massimo
+SHADOWDARK.class-ability.options: Opzioni
+SHADOWDARK.class.armor.all.label: Tutte Le Armature
+SHADOWDARK.class.armor.label: Armatura
+SHADOWDARK.class.armor.prompt: Seleziona Armatura...
+SHADOWDARK.class.choice_count: Lista scelte
+SHADOWDARK.class.choice: Scegli
+SHADOWDARK.class.fighter: Guerriero
+SHADOWDARK.class.fixed: Fisso
+SHADOWDARK.class.has_patron.count.label: Ha un Patrono?
+SHADOWDARK.class.hit_points.label: Tiro PF
+SHADOWDARK.class.language_choices.count.label: Lista scelte
+SHADOWDARK.class.language_choices.label: Scelte Linguaggi
+SHADOWDARK.class.language_choices.prompt: Selezionare Lingua...
+SHADOWDARK.class.languages.label: Lingue Di Classe
+SHADOWDARK.class.priest: Sacerdote
 SHADOWDARK.class.ranger: Ranger
-SHADOWDARK.class.spellcasting_ability.label: Spellcasting Ability
-SHADOWDARK.class.spellcasting_class.label: Spell Class
-SHADOWDARK.class.spellcasting_class.this_class: "This ({name})"
-SHADOWDARK.class.spellcasting.base_difficulty.label: Spellcasting Base DC
-SHADOWDARK.class.spells_Known.label: Spells Known by Spell Tier
-SHADOWDARK.class.starting_boons.count.label: Starting Boons
-SHADOWDARK.class.talent_choices.count.label: Choice Count
-SHADOWDARK.class.talent_choices.label: Talent Choices
-SHADOWDARK.class.talent_choices.prompt: Select Talent...
-SHADOWDARK.class.talents_table.label: Class Talents Table
-SHADOWDARK.class.talents.label: Talents
-SHADOWDARK.class.talents.prompt: Select Talent...
-SHADOWDARK.class.thief: Thief
-SHADOWDARK.class.titles.levels.from.label: From
-SHADOWDARK.class.titles.levels.label: Levels
-SHADOWDARK.class.titles.levels.to.label: To
-SHADOWDARK.class.weapons.all_melee.label: All Melee Weapons
-SHADOWDARK.class.weapons.all_ranged.label: All Ranged Weapons
-SHADOWDARK.class.weapons.all.label: All Weapons
-SHADOWDARK.class.weapons.label: Weapons
-SHADOWDARK.class.weapons.prompt: Select Weapon...
-SHADOWDARK.class.wizard: Wizard
-SHADOWDARK.coins.cp: CP
-SHADOWDARK.coins.gp: GP
-SHADOWDARK.coins.sp: SP
-SHADOWDARK.dialog.ability_check.cha: Charisma Check
-SHADOWDARK.dialog.ability_check.con: Constitution Check
-SHADOWDARK.dialog.ability_check.dex: Dexterity Check
-SHADOWDARK.dialog.ability_check.int: Intelligence Check
-SHADOWDARK.dialog.ability_check.str: Strength Check
-SHADOWDARK.dialog.ability_check.title: Ability Check
-SHADOWDARK.dialog.ability_check.wis: Wisdom Check
-SHADOWDARK.dialog.create_custom_item: Create Custom Item
-SHADOWDARK.dialog.create_treasure: Create Treasure
-SHADOWDARK.dialog.create: Create
-SHADOWDARK.dialog.edit_hp.title: Edit HP
-SHADOWDARK.dialog.edit_stats.title: Edit Stats
-SHADOWDARK.dialog.effect.choice.armor: Choose Armor Type
+SHADOWDARK.class.spellcasting_ability.label: Lanciare Incantesimi
+SHADOWDARK.class.spellcasting_class.label: Classe Incantesimo
+SHADOWDARK.class.spellcasting_class.this_class: "Questo ({name})"
+SHADOWDARK.class.spellcasting.base_difficulty.label: CD Base Lancio Incantesimi
+SHADOWDARK.class.spells_Known.label: Incantesimi conosciuti per Grado
+SHADOWDARK.class.starting_boons.count.label: Doni Iniziali
+SHADOWDARK.class.talent_choices.count.label: Lista scelte
+SHADOWDARK.class.talent_choices.label: Scelta Talento
+SHADOWDARK.class.talent_choices.prompt: Seleziona Talento...
+SHADOWDARK.class.talents_table.label: Tabella Talenti Di Classe
+SHADOWDARK.class.talents.label: Talenti
+SHADOWDARK.class.talents.prompt: Seleziona Talento...
+SHADOWDARK.class.thief: Ladro
+SHADOWDARK.class.titles.levels.from.label: Da
+SHADOWDARK.class.titles.levels.label: Livelli
+SHADOWDARK.class.titles.levels.to.label: A
+SHADOWDARK.class.weapons.all_melee.label: Tutte Le Armi Da Mischia
+SHADOWDARK.class.weapons.all_ranged.label: Tutte Le Armi A Distanza
+SHADOWDARK.class.weapons.all.label: Tutte le Armi
+SHADOWDARK.class.weapons.label: Armi
+SHADOWDARK.class.weapons.prompt: Seleziona Arma...
+SHADOWDARK.class.wizard: Mago
+SHADOWDARK.coins.cp: MR
+SHADOWDARK.coins.gp: MO
+SHADOWDARK.coins.sp: MA
+SHADOWDARK.dialog.ability_check.cha: Prova di Carisma
+SHADOWDARK.dialog.ability_check.con: Prova di Costituzione
+SHADOWDARK.dialog.ability_check.dex: Prova di Destrezza
+SHADOWDARK.dialog.ability_check.int: Prova d'Intelligenza
+SHADOWDARK.dialog.ability_check.str: Prova di Forza
+SHADOWDARK.dialog.ability_check.title: Prove di Abilità
+SHADOWDARK.dialog.ability_check.wis: Prova di Saggezza
+SHADOWDARK.dialog.create_custom_item: Crea Oggetto Personalizzato
+SHADOWDARK.dialog.create_treasure: Crea Tesoro
+SHADOWDARK.dialog.create: Crea
+SHADOWDARK.dialog.edit_hp.title: Modifica PF
+SHADOWDARK.dialog.edit_stats.title: Modifica Caratteristiche
+SHADOWDARK.dialog.effect.choice.armor: Scegli Tipo Di Armatura
 SHADOWDARK.dialog.effect.choice.attribute: Choose Attribute
 SHADOWDARK.dialog.effect.choice.class: Choose Class
 SHADOWDARK.dialog.effect.choice.damage_die: Choose Damage Die
@@ -331,56 +331,56 @@ SHADOWDARK.dialog.scroll.learn_spell_class_warning: "WARNING: This spell is not 
 SHADOWDARK.dialog.scroll.wrong_class_confirm: Confirm Learn Spell
 SHADOWDARK.dialog.select_ancestry.prompt: Select Ancestry...
 SHADOWDARK.dialog.select_ancestry.title: Choose Ancestry
-SHADOWDARK.dialog.select_armor_property.prompt: Select Armor Property...
-SHADOWDARK.dialog.select_armor_property.title: Choose Armor Properties
-SHADOWDARK.dialog.select_background.prompt: Select Background...
-SHADOWDARK.dialog.select_background.title: Choose Background
-SHADOWDARK.dialog.select_class.prompt: Select Class...
-SHADOWDARK.dialog.select_class.title: Choose Class
-SHADOWDARK.dialog.select_deity.prompt: Select Deity...
-SHADOWDARK.dialog.select_deity.title: Choose Deity
-SHADOWDARK.dialog.select_languages.prompt: Select Language...
-SHADOWDARK.dialog.select_languages.title: Choose Languages
-SHADOWDARK.dialog.select_patron.title: Select Patron
-SHADOWDARK.dialog.select_weapon_property.prompt: Select Weapon Property...
-SHADOWDARK.dialog.select_weapon_property.title: Choose Weapon Properties
-SHADOWDARK.dialog.spell_roll.title: Cast Spell with
-SHADOWDARK.dialog.spellbook.open_which_class.title: Choose Available Spellboook
-SHADOWDARK.dialog.submit: Submit
-SHADOWDARK.dialog.tooltip.talent_advantage: A talent is giving you advantage to this roll
-SHADOWDARK.dialog.type_here: Type Here...
-SHADOWDARK.dragdrop: Drag and Drop Here
-SHADOWDARK.effect_duration.hours: Hours
-SHADOWDARK.effect_duration.minutes: Minutes
-SHADOWDARK.effect_duration.seconds: Seconds
-SHADOWDARK.effect_duration.turns: Turns
-SHADOWDARK.effect_duration.unlimited: Unlimited
-SHADOWDARK.effect.custom: Custom Effects
-SHADOWDARK.effect.footer.add_custom: Add Custom Effect
-SHADOWDARK.effect.header.changes: Changes
-SHADOWDARK.effect.header.delete: Delete
-SHADOWDARK.effect.header.edit: Edit
-SHADOWDARK.effect.header.name: Name
-SHADOWDARK.effect.header.options: Options
-SHADOWDARK.effect.header.toggle_active: Toggle Active
-SHADOWDARK.effect.header.transfer: Transfer
-SHADOWDARK.effect.item: Item Effects
-SHADOWDARK.effect.new: New Effect
-SHADOWDARK.effect.spell: Spell Effects
-SHADOWDARK.effect.talent: Talent Effects
-SHADOWDARK.effect.temporary: Temporary Effects
-SHADOWDARK.effect.tooltip.transfer.do_not: Does not transfer
-SHADOWDARK.effect.tooltip.transfer.do: Does transfer
-SHADOWDARK.effect.tooltip.transfer.header: Transfer effect to actor when item is added
-SHADOWDARK.effect.unavailable: Disabled Effects
-SHADOWDARK.error.class_ability.lost: Ability currently lost
-SHADOWDARK.error.class_ability.no-uses-remaining: No uses remaining
-SHADOWDARK.error.general.gm_required: You must have the Game Master role to do that.
-SHADOWDARK.error.general.item_uuid_not_found: "ERROR: Item UUID not found"
-SHADOWDARK.error.general.no_character_class: No character class has been selected
-SHADOWDARK.error.general.no_character_selected: No character selected
-SHADOWDARK.error.no_token_selected: No token selected
-SHADOWDARK.error.patron.no_supported_class: Unable to add Patron as the currently configured class does not allow it
+SHADOWDARK.dialog.select_armor_property.prompt: Seleziona Proprietà Armatura...
+SHADOWDARK.dialog.select_armor_property.title: Scegli Proprietà Armatura
+SHADOWDARK.dialog.select_background.prompt: Seleziona Background...
+SHADOWDARK.dialog.select_background.title: Scegli Background
+SHADOWDARK.dialog.select_class.prompt: Seleziona Classe...
+SHADOWDARK.dialog.select_class.title: Scegli una Classe
+SHADOWDARK.dialog.select_deity.prompt: Seleziona Divinità...
+SHADOWDARK.dialog.select_deity.title: Scegli una Divinità
+SHADOWDARK.dialog.select_languages.prompt: Seleziona Lingua...
+SHADOWDARK.dialog.select_languages.title: Scegli la Lingua
+SHADOWDARK.dialog.select_patron.title: Seleziona Patrono
+SHADOWDARK.dialog.select_weapon_property.prompt: Seleziona Proprietà Arma...
+SHADOWDARK.dialog.select_weapon_property.title: Scegli Proprietà Arma
+SHADOWDARK.dialog.spell_roll.title: Lancia Incantesimo con
+SHADOWDARK.dialog.spellbook.open_which_class.title: Scegli un Grimorio Disponibile
+SHADOWDARK.dialog.submit: Invia
+SHADOWDARK.dialog.tooltip.talent_advantage: Un Talento ti sta dando il Vantaggio al tiro
+SHADOWDARK.dialog.type_here: Scrivi qui...
+SHADOWDARK.dragdrop: Trascina e rilascia qui
+SHADOWDARK.effect_duration.hours: Ore
+SHADOWDARK.effect_duration.minutes: Minuti
+SHADOWDARK.effect_duration.seconds: Secondi
+SHADOWDARK.effect_duration.turns: Turni
+SHADOWDARK.effect_duration.unlimited: Illimitato
+SHADOWDARK.effect.custom: Effetto Personalizzato
+SHADOWDARK.effect.footer.add_custom: Aggiungi Effetto Personalizzato
+SHADOWDARK.effect.header.changes: Modifiche
+SHADOWDARK.effect.header.delete: Elimina
+SHADOWDARK.effect.header.edit: Modifica
+SHADOWDARK.effect.header.name: Nome
+SHADOWDARK.effect.header.options: Opzioni
+SHADOWDARK.effect.header.toggle_active: Attiva
+SHADOWDARK.effect.header.transfer: Trasferisci
+SHADOWDARK.effect.item: Effetti Oggetto
+SHADOWDARK.effect.new: Nuovo Effetto
+SHADOWDARK.effect.spell: Effetto Incantesimo
+SHADOWDARK.effect.talent: Effetti Talento
+SHADOWDARK.effect.temporary: Effetti Temporanei
+SHADOWDARK.effect.tooltip.transfer.do_not: Non si trasferisce
+SHADOWDARK.effect.tooltip.transfer.do: Si Trasferisce
+SHADOWDARK.effect.tooltip.transfer.header: Trasferisci Effetto all'Attore quando viene aggiunto l'oggetto
+SHADOWDARK.effect.unavailable: Disabilita Effetti
+SHADOWDARK.error.class_ability.lost: Abilità attualmente persa
+SHADOWDARK.error.class_ability.no-uses-remaining: Nessun utilizzo rimanente
+SHADOWDARK.error.general.gm_required: Devi avere il ruolo Game Master per farlo.
+SHADOWDARK.error.general.item_uuid_not_found: "ERRORE: UUID dell'oggetto non trovato"
+SHADOWDARK.error.general.no_character_class: Non è stata selezionata la Classe del Personaggio
+SHADOWDARK.error.general.no_character_selected: Personaggio non selezionato
+SHADOWDARK.error.no_token_selected: Nessun token selezionato
+SHADOWDARK.error.patron.no_supported_class: Impossibile aggiungere Patrono poiché la classe configurata non lo permette
 SHADOWDARK.error.source.source_missing: Source missing or unknown...
 SHADOWDARK.error.spells.lost: Spell currently lost
 SHADOWDARK.error.spells.no_class_selected: This spell has no class selected
