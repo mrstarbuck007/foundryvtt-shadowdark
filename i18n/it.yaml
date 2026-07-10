@@ -282,7 +282,7 @@ SHADOWDARK.dialog.edit_hp.title: Modifica PF
 SHADOWDARK.dialog.edit_stats.title: Modifica Caratteristiche
 SHADOWDARK.dialog.effect.choice.armor: Scegli Tipo Di Armatura
 SHADOWDARK.dialog.effect.choice.attribute: Choose Attribute
-SHADOWDARK.dialog.effect.choice.class: Choose Class
+SHADOWDARK.dialog.effect.choice.class: Scegli Classe
 SHADOWDARK.dialog.effect.choice.damage_die: Choose Damage Die
 SHADOWDARK.dialog.effect.choice.lightsource: Choose Light Source
 SHADOWDARK.dialog.effect.choice.property: Choose Property
@@ -431,56 +431,56 @@ SHADOWDARK.inventory.tooltip.toggle_handedness: Toggle Handedness
 SHADOWDARK.inventory.tooltip.toggle_light_source: Toggle Light Source
 SHADOWDARK.inventory.tooltip.toggle_stashed: Toggle Stashed
 SHADOWDARK.inventory.total_coins: Total Coins
-SHADOWDARK.inventory.total_gems: Total Gems
-SHADOWDARK.item_type.armor: Armor
-SHADOWDARK.item_type.basic: Basic
-SHADOWDARK.item_type.gem: Gem
-SHADOWDARK.item_type.potion: Potion
-SHADOWDARK.item_type.spell: Spell
-SHADOWDARK.item_type.talent: Talent
-SHADOWDARK.item_type.weapon: Weapon
-SHADOWDARK.item.ammunition: Ammunition
-SHADOWDARK.item.armor_ac_modifier: Modifier
-SHADOWDARK.item.armor_ac: AC
-SHADOWDARK.item.armor_bonus_attribute: Bonus Attribute
-SHADOWDARK.item.armor_class: Armor Class
-SHADOWDARK.item.armor.armor_properties.label: Armor Properties
-SHADOWDARK.item.armor.base_armor.chainmail: Chainmail
-SHADOWDARK.item.armor.base_armor.leather_armor: Leather Armor
-SHADOWDARK.item.armor.base_armor.plate_mail: Plate Mail
-SHADOWDARK.item.armor.base_armor.shield: Shield
-SHADOWDARK.item.armor.base_armor.title: Base Armor
-SHADOWDARK.item.broken: Broken
-SHADOWDARK.item.cost: Cost
-SHADOWDARK.item.description: Description
-SHADOWDARK.item.effect.category.condition: Condition
-SHADOWDARK.item.effect.category.effect: Effect
-SHADOWDARK.item.effect.category.title: Effect Category
-SHADOWDARK.item.effect.lightSource.lantern: Lantern
-SHADOWDARK.item.effect.lightSource.lightSpellDouble: Light (Double Range)
-SHADOWDARK.item.effect.lightSource.lightSpellNear: Light
-SHADOWDARK.item.effect.lightSource.lightSuppression: Light Suppression
-SHADOWDARK.item.effect.lightSource.purpleGlow: Purple Glow
-SHADOWDARK.item.effect.lightSource.torch: Torch
-SHADOWDARK.item.effect.pre-defined.title: Pre-defined Effects
-SHADOWDARK.item.effect.predefined_effect.abilityImprovement: Ability Score Improvement
-SHADOWDARK.item.effect.predefined_effect.abilityImprovementCha: Ability Score Improvement (Cha)
-SHADOWDARK.item.effect.predefined_effect.abilityImprovementCon: Ability Score Improvement (Con)
-SHADOWDARK.item.effect.predefined_effect.abilityImprovementDex: Ability Score Improvement (Dex)
-SHADOWDARK.item.effect.predefined_effect.abilityImprovementInt: Ability Score Improvement (Int)
-SHADOWDARK.item.effect.predefined_effect.abilityImprovementStr: Ability Score Improvement (Str)
-SHADOWDARK.item.effect.predefined_effect.abilityImprovementWis: Ability Score Improvement (Wis)
-SHADOWDARK.item.effect.predefined_effect.acBonus: AC Bonus
-SHADOWDARK.item.effect.predefined_effect.acBonusFromAttribute: AC Bonus from Attribute
-SHADOWDARK.item.effect.predefined_effect.additionalGearSlots: Additional Gear Slots
-SHADOWDARK.item.effect.predefined_effect.armorMastery: Armor Mastery
-SHADOWDARK.item.effect.predefined_effect.backstabDie: Additional Backstab Die
-SHADOWDARK.item.effect.predefined_effect.criticalFailureThreshold: Critical Failure Threshold
-SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: Critical Success Threshold
-SHADOWDARK.item.effect.predefined_effect.critMultiplier: Critical Multiplier
-SHADOWDARK.item.effect.predefined_effect.damageMultiplier: Damage Multiplier
-SHADOWDARK.item.effect.predefined_effect.hpAdvantage: HP Roll Advantage
-SHADOWDARK.item.effect.predefined_effect.initAdvantage: Initiative Advantage
+SHADOWDARK.inventory.total_gems: Gemme Totali
+SHADOWDARK.item_type.armor: Armatura
+SHADOWDARK.item_type.basic: Base
+SHADOWDARK.item_type.gem: Gemma
+SHADOWDARK.item_type.potion: Pozione
+SHADOWDARK.item_type.spell: Incantesimo
+SHADOWDARK.item_type.talent: Talento
+SHADOWDARK.item_type.weapon: Arma
+SHADOWDARK.item.ammunition: Munizioni
+SHADOWDARK.item.armor_ac_modifier: Modificatore
+SHADOWDARK.item.armor_ac: CA
+SHADOWDARK.item.armor_bonus_attribute: Bonus Caratteristica
+SHADOWDARK.item.armor_class: Classe Armatura
+SHADOWDARK.item.armor.armor_properties.label: Proprietà Armatura
+SHADOWDARK.item.armor.base_armor.chainmail: Cotta di Maglia
+SHADOWDARK.item.armor.base_armor.leather_armor: Armatura di Cuoio
+SHADOWDARK.item.armor.base_armor.plate_mail: Corazza a Piastre
+SHADOWDARK.item.armor.base_armor.shield: Scudo
+SHADOWDARK.item.armor.base_armor.title: Armatura Base
+SHADOWDARK.item.broken: Rotto
+SHADOWDARK.item.cost: Costo
+SHADOWDARK.item.description: Descrizione
+SHADOWDARK.item.effect.category.condition: Condizione
+SHADOWDARK.item.effect.category.effect: Effetto
+SHADOWDARK.item.effect.category.title: Categoria Effetto
+SHADOWDARK.item.effect.lightSource.lantern: Lanterna
+SHADOWDARK.item.effect.lightSource.lightSpellDouble: Luce (Doppio Raggio)
+SHADOWDARK.item.effect.lightSource.lightSpellNear: Luce
+SHADOWDARK.item.effect.lightSource.lightSuppression: Schermatura Luce
+SHADOWDARK.item.effect.lightSource.purpleGlow: Bagliore Viola
+SHADOWDARK.item.effect.lightSource.torch: Torcia
+SHADOWDARK.item.effect.pre-defined.title: Effetti Predefiniti
+SHADOWDARK.item.effect.predefined_effect.abilityImprovement: Miglioramento dei Punteggi di Caratteristica
+SHADOWDARK.item.effect.predefined_effect.abilityImprovementCha: Aumento Punteggio di Caratteristica (Car)
+SHADOWDARK.item.effect.predefined_effect.abilityImprovementCon: Aumento Punteggio di Caratteristica (Cos)
+SHADOWDARK.item.effect.predefined_effect.abilityImprovementDex: Aumento Punteggio di Caratteristica (Des)
+SHADOWDARK.item.effect.predefined_effect.abilityImprovementInt: Aumento Punteggio di Caratteristica (Int)
+SHADOWDARK.item.effect.predefined_effect.abilityImprovementStr: Aumento Punteggio di Caratteristica (For)
+SHADOWDARK.item.effect.predefined_effect.abilityImprovementWis: Aumento Punteggio di Caratteristica (Sag)
+SHADOWDARK.item.effect.predefined_effect.acBonus: Bonus alla CA
+SHADOWDARK.item.effect.predefined_effect.acBonusFromAttribute: Bonus Caratteristica alla CA
+SHADOWDARK.item.effect.predefined_effect.additionalGearSlots: Slot Equip. Aggiuntivi
+SHADOWDARK.item.effect.predefined_effect.armorMastery: Maestro D'Armature
+SHADOWDARK.item.effect.predefined_effect.backstabDie: Dado Bonus Pugnalata alle Spalle
+SHADOWDARK.item.effect.predefined_effect.criticalFailureThreshold: Soglia Di Fallimento Critico
+SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: Soglia Di Successo Critico
+SHADOWDARK.item.effect.predefined_effect.critMultiplier: Moltiplicatore Critico
+SHADOWDARK.item.effect.predefined_effect.damageMultiplier: Moltiplicatore Danno
+SHADOWDARK.item.effect.predefined_effect.hpAdvantage: Vantaggio Tiro PF
+SHADOWDARK.item.effect.predefined_effect.initAdvantage: Vantaggio Iniziativa
 SHADOWDARK.item.effect.predefined_effect.lightSource: Light Source
 SHADOWDARK.item.effect.predefined_effect.meleeAttackBonus: Melee Attack Roll Bonus
 SHADOWDARK.item.effect.predefined_effect.meleeDamageBonus: Melee Damage Bonus
@@ -531,56 +531,56 @@ SHADOWDARK.item.magic_item.identifiedDescription: Identified Description
 SHADOWDARK.item.magic_item.identifiedName: Identified Name
 SHADOWDARK.item.magic_item.identifiedTooltip: Unchecking will update current item name to Identified Name and append Identified Description to item Description.
 SHADOWDARK.item.magic_item.identify: Identify
-SHADOWDARK.item.magic_item.is_magic: Magic Item
-SHADOWDARK.item.magic_item.title: Magic Item Effect(s)
-SHADOWDARK.item.magic_item.type.attackBonus: Attack Bonus
-SHADOWDARK.item.magic_item.type.criticalFailureThreshold: Higher Critical Failure Threshold
-SHADOWDARK.item.magic_item.type.criticalSuccessThreshold: Lower Critical Success Threshold
-SHADOWDARK.item.magic_item.type.critMultiplier: Critical Multiplier
-SHADOWDARK.item.magic_item.type.custom: Custom Effect
-SHADOWDARK.item.magic_item.type.damageBonus: Damage Bonus
-SHADOWDARK.item.magic_item.type.permanentAbility: Permanent Ability Change
-SHADOWDARK.item.magic_item.unidentified: Unidentified
-SHADOWDARK.item.magic_item.unidentifiedName: Unidentified {type}
-SHADOWDARK.item.name_from_spell.Potion: Potion of {spellName}
-SHADOWDARK.item.name_from_spell.Scroll: Scroll of {spellName}
-SHADOWDARK.item.name_from_spell.Wand: Wand of {spellName}
-SHADOWDARK.item.name: Item Name
-SHADOWDARK.item.npc_attack_bonus: Attack Bonus
-SHADOWDARK.item.npc_attack_count: Num. Attacks
-SHADOWDARK.item.npc_attack_damage_formula: Damage Formula
-SHADOWDARK.item.npc_attack_special: Attack Features
-SHADOWDARK.item.npc_attack_special_placeholder: Poison, Acid, ...
-SHADOWDARK.item.npc_attack_type: Type
-SHADOWDARK.item.npc_attack.num_damage_dice: Num. Damage Dice
-SHADOWDARK.item.npc.spell_ability: Spellcasting Ability
-SHADOWDARK.item.npc.spell_bonus: Spellcasting Bonus
-SHADOWDARK.item.npc.spell_count: Number of Castings
-SHADOWDARK.item.potion.label: Potion
-SHADOWDARK.item.properties.label: Item Properties
-SHADOWDARK.item.scroll.label: Scroll
-SHADOWDARK.item.source_tag: Source Tag
-SHADOWDARK.item.source: Source
-SHADOWDARK.item.spell_caster_classes: Caster Classes
-SHADOWDARK.item.spell_class: Spell Class
-SHADOWDARK.item.spell_duration: Duration
-SHADOWDARK.item.spell_name: Spell Name
-SHADOWDARK.item.spell_range: Range
-SHADOWDARK.item.spell_tier: Tier
-SHADOWDARK.item.spell.label: Spell
-SHADOWDARK.item.stashed.label: Stashed
-SHADOWDARK.item.talent_class: Talent Class
-SHADOWDARK.item.treasure_name: Treasure Name
-SHADOWDARK.item.treasure_value: Treasure Value
-SHADOWDARK.item.treasure: Treasure
-SHADOWDARK.item.type: Item Type
-SHADOWDARK.item.wand.label: Wand
-SHADOWDARK.item.weapon_damage.oneHanded_short: 1H
-SHADOWDARK.item.weapon_damage.oneHanded: 1H Damage
-SHADOWDARK.item.weapon_damage.twoHanded_short: 2H
-SHADOWDARK.item.weapon_damage.twoHanded: 2H Damage
-SHADOWDARK.item.weapon_range: Range
-SHADOWDARK.item.weapon_type: Type
+SHADOWDARK.item.magic_item.is_magic: Oggetto Magico
+SHADOWDARK.item.magic_item.title: Effetto/i Oggetto Magico
+SHADOWDARK.item.magic_item.type.attackBonus: Bonus Attacco
+SHADOWDARK.item.magic_item.type.criticalFailureThreshold: Soglia Di Fallimento Critico Superiore
+SHADOWDARK.item.magic_item.type.criticalSuccessThreshold: Soglia Di Successo Critico Inferiore
+SHADOWDARK.item.magic_item.type.critMultiplier: Moltiplicatore Critico
+SHADOWDARK.item.magic_item.type.custom: Effetto Personalizzato
+SHADOWDARK.item.magic_item.type.damageBonus: Danni Bonus
+SHADOWDARK.item.magic_item.type.permanentAbility: Cambio Caratteristica Permanente
+SHADOWDARK.item.magic_item.unidentified: Non identificato
+SHADOWDARK.item.magic_item.unidentifiedName: '{type} Non Identificato'
+SHADOWDARK.item.name_from_spell.Potion: Pozione di {spellName}
+SHADOWDARK.item.name_from_spell.Scroll: Pergamena di {spellName}
+SHADOWDARK.item.name_from_spell.Wand: Bacchetta di {spellName}
+SHADOWDARK.item.name: Nome Oggetto
+SHADOWDARK.item.npc_attack_bonus: Bonus Attacco
+SHADOWDARK.item.npc_attack_count: Num. Attacchi
+SHADOWDARK.item.npc_attack_damage_formula: Formula Di Danno
+SHADOWDARK.item.npc_attack_special: Caratteristiche Attacco
+SHADOWDARK.item.npc_attack_special_placeholder: Veleno, Acido, ...
+SHADOWDARK.item.npc_attack_type: Tipo
+SHADOWDARK.item.npc_attack.num_damage_dice: Num. Dadi Danno
+SHADOWDARK.item.npc.spell_ability: Lanciare Incantesimi
+SHADOWDARK.item.npc.spell_bonus: Bonus Lancio Incantesimi
+SHADOWDARK.item.npc.spell_count: Numeri di Lanci
+SHADOWDARK.item.potion.label: Pozione
+SHADOWDARK.item.properties.label: Proprietà oggetto
+SHADOWDARK.item.scroll.label: Pergamena
+SHADOWDARK.item.source_tag: Tag fonte
+SHADOWDARK.item.source: Fonte
+SHADOWDARK.item.spell_caster_classes: Classe Incantatore
+SHADOWDARK.item.spell_class: Classe Incantesimo
+SHADOWDARK.item.spell_duration: Durata
+SHADOWDARK.item.spell_name: Nome Incantesimo
+SHADOWDARK.item.spell_range: Portata
+SHADOWDARK.item.spell_tier: Grado
+SHADOWDARK.item.spell.label: Incantesimo
+SHADOWDARK.item.stashed.label: Riposto
+SHADOWDARK.item.talent_class: Classe Talento
+SHADOWDARK.item.treasure_name: Nome Tesoro
+SHADOWDARK.item.treasure_value: Valore Tesoro
+SHADOWDARK.item.treasure: Tesoro
+SHADOWDARK.item.type: Tipo di Oggetto
+SHADOWDARK.item.wand.label: Bacchetta
+SHADOWDARK.item.weapon_damage.oneHanded_short: 1M
+SHADOWDARK.item.weapon_damage.oneHanded: Danno 1M
+SHADOWDARK.item.weapon_damage.twoHanded_short: 2M
+SHADOWDARK.item.weapon_damage.twoHanded: Danno 2M
+SHADOWDARK.item.weapon_range: Portata
+SHADOWDARK.item.weapon_type: Tipo
 SHADOWDARK.item.weapon.base_weapon.bastard_sword: Bastard Sword
 SHADOWDARK.item.weapon.base_weapon.club: Club
 SHADOWDARK.item.weapon.base_weapon.crossbow: Crossbow
@@ -631,56 +631,56 @@ SHADOWDARK.light-tracker.status.label: Status
 SHADOWDARK.light-tracker.title: Light Tracker
 SHADOWDARK.light-tracker.user_warning: One or more users have not selected a character
 SHADOWDARK.macro.error.caught_error: "The '{macro}' macro failed with the following error: {error}"
-SHADOWDARK.macro.error.gm_role_required: The '{macro}' macro requires you to have the 'Game Master' user role
-SHADOWDARK.macro.success: The '{macro}' macro completed successfully
-SHADOWDARK.macro.warn.create_item_requires_ownership: You can only create macro buttons for owned Items
-SHADOWDARK.migration.begin_migration: Performing data upgrades for Shadowdark RPG
-SHADOWDARK.migration.begin_schema: Applying updates for Shadowdark RPG schema v{version}
-SHADOWDARK.migration.completed_migration: Completed data updgrades for Shadowdark RPG
-SHADOWDARK.migration.completed_schema: Completed applying updates for Shadowdark RPG schema v{version}
-SHADOWDARK.module_art_config.portraits: Portraits
-SHADOWDARK.module_art_config.tokens: Tokens
-SHADOWDARK.notify.combat.clockwise_initiative_only_gm: When Clockwise Initiative is enabled, only the GM can roll initiative.
-SHADOWDARK.notify.shadowdark_item_piles_deprecated: "The 'Item Piles: Shadowdark' module is no longer required and can be uninstalled."
-SHADOWDARK.npc_attack.type.physical: Physical
-SHADOWDARK.npc_attack.type.special: Special
-SHADOWDARK.npc_move.close: Close
-SHADOWDARK.npc_move.double_near: Double Near
-SHADOWDARK.npc_move.far: Far
-SHADOWDARK.npc_move.near: Near
-SHADOWDARK.npc_move.none: None
-SHADOWDARK.npc_move.special: Special
-SHADOWDARK.npc_move.triple_near: Triple Near
-SHADOWDARK.patron.boons_table.label: Patron Boons Table
-SHADOWDARK.property.type.option.armor: Armor
-SHADOWDARK.property.type.option.weapon: Weapon
-SHADOWDARK.property.type.title: Property Type
+SHADOWDARK.macro.error.gm_role_required: La macro '{macro}' richiede di avere il ruolo utente 'Game Master'
+SHADOWDARK.macro.success: La macro '{macro}' completata con successo
+SHADOWDARK.macro.warn.create_item_requires_ownership: Puoi creare pulsanti macro soltanto per oggetti di tua proprietà
+SHADOWDARK.migration.begin_migration: Aggiornamento dati per Shadowdark RPG
+SHADOWDARK.migration.begin_schema: Applicazione degli aggiornamenti per Shadowdark RPG schema v{version}
+SHADOWDARK.migration.completed_migration: Miglioramenti dati completati per Shadowdark RPG
+SHADOWDARK.migration.completed_schema: Completato applicando gli aggiornamenti per Shadowdark RPG schema v{version}
+SHADOWDARK.module_art_config.portraits: Ritratti
+SHADOWDARK.module_art_config.tokens: Token
+SHADOWDARK.notify.combat.clockwise_initiative_only_gm: Quando è abilitata l'iniziativa in senso orario, solo il GM può lanciare iniziativa.
+SHADOWDARK.notify.shadowdark_item_piles_deprecated: "Il modulo 'Item Piles: Shadowdark' non è più richiesto e può essere disinstallato."
+SHADOWDARK.npc_attack.type.physical: Fisico
+SHADOWDARK.npc_attack.type.special: Speciale
+SHADOWDARK.npc_move.close: Corto
+SHADOWDARK.npc_move.double_near: Doppio Vicino
+SHADOWDARK.npc_move.far: Lungo
+SHADOWDARK.npc_move.near: Vicino
+SHADOWDARK.npc_move.none: Nessuno
+SHADOWDARK.npc_move.special: Speciale
+SHADOWDARK.npc_move.triple_near: Triplo Vicino
+SHADOWDARK.patron.boons_table.label: Tabella Doni Patrono
+SHADOWDARK.property.type.option.armor: Armatura
+SHADOWDARK.property.type.option.weapon: Arma
+SHADOWDARK.property.type.title: Tipo Proprietà
 SHADOWDARK.range.close_short: C
-SHADOWDARK.range.close: Close
-SHADOWDARK.range.double_near: Double Near
-SHADOWDARK.range.far_short: F
-SHADOWDARK.range.far: Far
-SHADOWDARK.range.near_short: "N"
-SHADOWDARK.range.near: Near
-SHADOWDARK.range.nearLine_short: NL
-SHADOWDARK.range.nearLine: Near Line
-SHADOWDARK.range.oneMile_short: 1mi
-SHADOWDARK.range.oneMile: 1 Mile
+SHADOWDARK.range.close: Corto
+SHADOWDARK.range.double_near: Doppio Vicino
+SHADOWDARK.range.far_short: L
+SHADOWDARK.range.far: Lungo
+SHADOWDARK.range.near_short: "V"
+SHADOWDARK.range.near: Vicino
+SHADOWDARK.range.nearLine_short: LV
+SHADOWDARK.range.nearLine: Linea Vicino
+SHADOWDARK.range.oneMile_short: 1,5 km
+SHADOWDARK.range.oneMile: 1,5 km
 SHADOWDARK.range.samePlane_short: SP
-SHADOWDARK.range.samePlane: On the same plane
-SHADOWDARK.range.self_short: S
-SHADOWDARK.range.self: Self
+SHADOWDARK.range.samePlane: Sullo Stesso Piano
+SHADOWDARK.range.self_short: Inc.
+SHADOWDARK.range.self: Incantatore
 SHADOWDARK.range.touch_short: T
-SHADOWDARK.range.touch: Touch
-SHADOWDARK.range.unlimited_short: U
-SHADOWDARK.range.unlimited: Unlimited
-SHADOWDARK.roll.advantage_title: "{title} with Advantage"
-SHADOWDARK.roll.advantage: Advantage
-SHADOWDARK.roll.attack: Attack Roll
-SHADOWDARK.roll.check: Check Roll
-SHADOWDARK.roll.critical.failure: Critical Failure! ({value})
-SHADOWDARK.roll.critical.success: Critical Success! ({value})
-SHADOWDARK.roll.D20: Roll D20
+SHADOWDARK.range.touch: Tocco
+SHADOWDARK.range.unlimited_short: Ill.
+SHADOWDARK.range.unlimited: Illimitato
+SHADOWDARK.roll.advantage_title: "{title} con Vantaggio"
+SHADOWDARK.roll.advantage: Vantaggio
+SHADOWDARK.roll.attack: Tiro per Colpire
+SHADOWDARK.roll.check: Tiro
+SHADOWDARK.roll.critical.failure: Fallimento Critico! ({value})
+SHADOWDARK.roll.critical.success: Successo Critico! ({value})
+SHADOWDARK.roll.D20: Tira D20
 SHADOWDARK.roll.damage: Damage Roll
 SHADOWDARK.roll.disadvantage_title: "{title} with Disadvantage"
 SHADOWDARK.roll.disadvantage: Disadvantage
@@ -731,13 +731,13 @@ SHADOWDARK.settings.schemaVersion.name: Schema Version
 SHADOWDARK.settings.source_filter.all_used: All sources are currently allowed
 SHADOWDARK.settings.source_filter.button_label: Configure Source Filters
 SHADOWDARK.settings.source_filter.hint: If populated, only book sources included in this list will be available for selection in relevant places. Items with no book source set will always be available.
-SHADOWDARK.settings.source_filter.name: Source Filter
-SHADOWDARK.settings.source_filter.prompt: Select Source...
-SHADOWDARK.settings.source_filter.save_button: Save Configuration
-SHADOWDARK.settings.source_filter.these_used: Only the following sources will be allowed
-SHADOWDARK.settings.source_filter.title: Book Source Filters
-SHADOWDARK.settings.systemVersion.hint: Records the current Shadowdark RPG system version number. (don't modify this unless you know what you are doing)
-SHADOWDARK.settings.systemVersion.name: System Version
+SHADOWDARK.settings.source_filter.name: Filtro Fonte
+SHADOWDARK.settings.source_filter.prompt: Seleziona Fonte...
+SHADOWDARK.settings.source_filter.save_button: Salva Configurazione
+SHADOWDARK.settings.source_filter.these_used: Saranno consentite solo le seguenti fonti
+SHADOWDARK.settings.source_filter.title: Filtri Libro Fonte
+SHADOWDARK.settings.systemVersion.hint: Registra l'attuale numero di versione del sistema Shadowdark RPG (non modificare questo a meno che tu non sai cosa stai facendo)
+SHADOWDARK.settings.systemVersion.name: Versione di sistema
 SHADOWDARK.settings.track_light_sources.hint: If checked the system will track and update the time remaining on any active light sources.
 SHADOWDARK.settings.track_light_sources.inactive_user.hint: If checked light sources belonging to inactive (not logged in) users will still be tracked
 SHADOWDARK.settings.track_light_sources.inactive_user.name: Track Inactive User Light Sources
