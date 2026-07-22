@@ -2,6 +2,7 @@
 
 # Enhancements
 - [#1376] Update the Monster Importer to handle various publisher quirks
+- [#1394] Added Double Near as a selectable weapon range
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin
