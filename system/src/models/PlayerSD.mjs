@@ -602,19 +602,19 @@ export default class PlayerSD extends ActorBaseSD {
 	/* ----------------------- */
 
 	async addAncestry(item) {
-		this.update({"system.ancestry": item.uuid});
+		return this.parent.update({"system.ancestry": item.uuid});
 	}
 
 	async addBackground(item) {
-		this.update({"system.background": item.uuid});
+		return this.parent.update({"system.background": item.uuid});
 	}
 
 	async addClass(item) {
-		this.update({"system.class": item.uuid});
+		return this.parent.update({"system.class": item.uuid});
 	}
 
 	async addDeity(item) {
-		this.update({"system.deity": item.uuid});
+		return this.parent.update({"system.deity": item.uuid});
 	}
 
 	async addLanguage(item) {
@@ -627,9 +627,9 @@ export default class PlayerSD extends ActorBaseSD {
 		}
 
 		if (!languageFound) {
-			const currentLanguages = this.languages;
-			currentLanguages.push(item.uuid);
-			this.update({"system.languages": currentLanguages});
+			return this.parent.update({
+				"system.languages": [...this.languages, item.uuid],
+			});
 		}
 	}
 
@@ -637,7 +637,7 @@ export default class PlayerSD extends ActorBaseSD {
 		const myClass = await this.getClass();
 
 		if (myClass && myClass.system.patron.required) {
-			this.update({"system.patron": item.uuid});
+			return this.parent.update({"system.patron": item.uuid});
 		}
 		else {
 			ui.notifications.error(
