@@ -7,6 +7,7 @@
 - [#1405] Add new active effect key that allows the ability to explode a weapon's damage die
 	* See wiki for details: https://github.com/Muttley/foundryvtt-shadowdark/wiki/Active-Effects
 - [#1406] Retain aspect ratio of Actor images without cropping
+- [#1408] Enable new Italian translation in config
 
 # Bugfixes
 - [#1382] Error when adding +1 Dex level up talent to character
@@ -15,6 +16,8 @@
 - [#1369] Merge Spanish translation updates from Crowdin
 - [#1384] Merge Spanish translation updates from Crowdin
 - [#1396] Merge Italian translation updates from Crowdin
+
+**NOTE:** Many thanks to *Vacco* for his valiant effort in providing 100% coverage with a new Italian translation of the system.
 
 ---
 
