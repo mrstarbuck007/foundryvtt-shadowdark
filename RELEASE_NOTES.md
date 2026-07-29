@@ -6,7 +6,7 @@
 	* See wiki for details: https://github.com/Muttley/foundryvtt-shadowdark/wiki/Active-Effects
 - [#1406] Retain aspect ratio of Actor images without cropping
 
-# Bugs
+# Bugfixes
 - [#1382] Error when adding +1 Dex level up talent to character
 
 # Chores
