@@ -12,6 +12,7 @@
 # Bugfixes
 - [#1382] Error when adding +1 Dex level up talent to character
 - [#1395] Item description to chat fails in v14 when global chat is set to Public in Character
+- [#1410] Characters with the Stout talent get +2 added every level up HP roll, instead of just the first level
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin
