@@ -13,6 +13,7 @@
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin
 - [#1384] Merge Spanish translation updates from Crowdin
+- [#1396] Merge Italian translation updates from Crowdin
 
 ---
 
