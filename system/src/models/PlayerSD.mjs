@@ -302,6 +302,7 @@ export default class PlayerSD extends ActorBaseSD {
 		config.damageRoll ??= {};
 		config.damageRoll.label = game.i18n.localize("SHADOWDARK.roll.damage");
 		config.damageRoll.base = base;
+		config.damageRoll.explode = false;
 
 		// Get roll key die improvements
 		const damageDieRollKey = this._getActiveEffectKeys(
@@ -338,6 +339,16 @@ export default class PlayerSD extends ActorBaseSD {
 			config
 		);
 
+		const explodeDamageDieKey = this._getActiveEffectKeys(
+			`roll.${key}.explode-damage-die`,
+			0,
+			item,
+			config
+		);
+		if (explodeDamageDieKey.value) {
+			config.damageRoll.explode = true;
+		}
+
 		config.damageRoll.formula = shadowdark.dice.resolveFormula(
 			damageRollKey.value, this.parent.getRollData()
 		);
@@ -347,6 +358,7 @@ export default class PlayerSD extends ActorBaseSD {
 		tooltips.push(damageRollKey.tooltips);
 		tooltips.push(damageDieRollKey.tooltips);
 		tooltips.push(extraDieRollKey.tooltips);
+		tooltips.push(explodeDamageDieKey.tooltips);
 		config.damageRoll.tooltips = tooltips.filter(Boolean).join(", ");
 
 	}

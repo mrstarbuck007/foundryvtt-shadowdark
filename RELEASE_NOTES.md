@@ -2,6 +2,8 @@
 
 # Enhancements
 - [#1376] Update the Monster Importer to handle various publisher quirks
+- [#1405] Add new active effect key that allows the ability to explode a weapon's damage die
+	* See wiki for details: https://github.com/Muttley/foundryvtt-shadowdark/wiki/Active-Effects
 
 ## Bugfixes
 - [#1389] Fixed dropping Language, Ancestry, Background, Class, Deity or Patron items onto a character sheet *(Ashley Towner)*
