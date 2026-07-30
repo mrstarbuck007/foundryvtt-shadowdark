@@ -9,6 +9,8 @@
 	* See wiki for details: https://github.com/Muttley/foundryvtt-shadowdark/wiki/Active-Effects
 - [#1406] Retain aspect ratio of Actor images without cropping
 - [#1408] Enable new Italian translation in config
+- [#1412] Move character creator button to make it more prominent as it's easy to miss at the bottom of the Actors sidebar
+	* Now at the top of the sidebar and renamed "Build Character" to make it more obvious
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry
