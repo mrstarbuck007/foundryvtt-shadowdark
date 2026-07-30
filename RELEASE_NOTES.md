@@ -2,6 +2,7 @@
 
 # Enhancements
 - [#1376] Update the Monster Importer to handle various publisher quirks
+- [#1389] Allow drag/drop of languages onto character sheet
 - [#1391] Fixed active effects on +1 to Weapon Attacks and Damage talents
 - [#1394] Added Double Near as a selectable weapon range
 - [#1405] Add new active effect key that allows the ability to explode a weapon's damage die
