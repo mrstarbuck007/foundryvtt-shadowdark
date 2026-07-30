@@ -55,7 +55,7 @@ SHADOWDARK.apps.character-generator.gear: 裝備
 SHADOWDARK.apps.character-generator.gold: 金幣
 SHADOWDARK.apps.character-generator.name: 角色名稱
 SHADOWDARK.apps.character-generator.see_details: 查看詳細
-SHADOWDARK.apps.character-generator.sidebar_create: 創建
+SHADOWDARK.apps.character-generator.sidebar_create: Build Character
 SHADOWDARK.apps.character-generator.sidebar_import: 匯入
 SHADOWDARK.apps.character-generator.starting_gear: 起始裝備
 SHADOWDARK.apps.character-generator.success: 角色已創建
