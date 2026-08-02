@@ -94,7 +94,7 @@ SHADOWDARK.apps.item-importer.placeholder: Incolla il testo dell'oggetto qui...
 SHADOWDARK.apps.item-importer.title: Importa Oggetto
 SHADOWDARK.apps.level-up.dragdrop: Trascina e rilascia qui
 SHADOWDARK.apps.level-up.errors.missing_boon_table: Impossibile tirare Favori Patrono perché la tabella configurata non può essere caricata
-SHADOWDARK.apps.level-up.errors.missing_class: Unable to use Level Up tool on a character that has no class set
+SHADOWDARK.apps.level-up.errors.missing_class: Impossibile usare lo strumento Aumento di Livello su un personaggio che non ha una classe impostata
 SHADOWDARK.apps.level-up.hit_points: Punti Ferita
 SHADOWDARK.apps.level-up.level_up: Aumento di Livello!
 SHADOWDARK.apps.level-up.leveling_to: Aumenta al livello
