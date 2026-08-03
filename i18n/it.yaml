@@ -17,7 +17,7 @@ SHADOWDARK.ancestry.choice_count: Lista scelte
 SHADOWDARK.ancestry.choice: Scelta
 SHADOWDARK.ancestry.fixed: Fisso
 SHADOWDARK.ancestry.languages.label: Linguaggi di stirpe
-SHADOWDARK.ancestry.languages.prompt: Seleziona la Lingua
+SHADOWDARK.ancestry.languages.prompt: Seleziona la Lingua...
 SHADOWDARK.ancestry.nametable.label: Tabella Nomi Casuali
 SHADOWDARK.ancestry.nametable.placeholder: Trascina La Tabella Tiri Qui
 SHADOWDARK.ancestry.nametable.random_weight: Casuale
@@ -36,7 +36,7 @@ SHADOWDARK.app.item_properties.save: Salva
 SHADOWDARK.app.item_properties.talent.effects.title: Tipi Di Effetto Talento
 SHADOWDARK.app.item_properties.title: Proprietà
 SHADOWDARK.app.item_properties.weapon.title: Proprietà Arma
-SHADOWDARK.app.light_tracker.minute_short: Min
+SHADOWDARK.app.light_tracker.minute_short: minuto
 SHADOWDARK.app.light_tracker.minutes_short: minuti
 SHADOWDARK.app.light_tracker.title: Controllo Luce
 SHADOWDARK.app.light-tracker.douse-light: Spegni Luce
