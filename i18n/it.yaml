@@ -17,7 +17,7 @@ SHADOWDARK.ancestry.choice_count: Lista scelte
 SHADOWDARK.ancestry.choice: Scelta
 SHADOWDARK.ancestry.fixed: Fisso
 SHADOWDARK.ancestry.languages.label: Linguaggi di stirpe
-SHADOWDARK.ancestry.languages.prompt: Seleziona la Lingua
+SHADOWDARK.ancestry.languages.prompt: Seleziona la Lingua...
 SHADOWDARK.ancestry.nametable.label: Tabella Nomi Casuali
 SHADOWDARK.ancestry.nametable.placeholder: Trascina La Tabella Tiri Qui
 SHADOWDARK.ancestry.nametable.random_weight: Casuale
@@ -36,7 +36,7 @@ SHADOWDARK.app.item_properties.save: Salva
 SHADOWDARK.app.item_properties.talent.effects.title: Tipi Di Effetto Talento
 SHADOWDARK.app.item_properties.title: Proprietà
 SHADOWDARK.app.item_properties.weapon.title: Proprietà Arma
-SHADOWDARK.app.light_tracker.minute_short: Min
+SHADOWDARK.app.light_tracker.minute_short: minuto
 SHADOWDARK.app.light_tracker.minutes_short: minuti
 SHADOWDARK.app.light_tracker.title: Controllo Luce
 SHADOWDARK.app.light-tracker.douse-light: Spegni Luce
@@ -51,11 +51,11 @@ SHADOWDARK.apps.character-generator.create_character: Crea Personaggio
 SHADOWDARK.apps.character-generator.error.create: Creazione del personaggio non riuscita {error}
 SHADOWDARK.apps.character-generator.error.name: Il nome del personaggio non può essere vuoto
 SHADOWDARK.apps.character-generator.error.no_ancestry_for_name: Impossibile tirare un nome casuale senza una Stirpe selezionata
-SHADOWDARK.apps.character-generator.gear: Equip.
+SHADOWDARK.apps.character-generator.gear: Equipaggiamento
 SHADOWDARK.apps.character-generator.gold: Oro
 SHADOWDARK.apps.character-generator.name: Nome del personaggio
 SHADOWDARK.apps.character-generator.see_details: Vedi Dettagli
-SHADOWDARK.apps.character-generator.sidebar_create: Build Character
+SHADOWDARK.apps.character-generator.sidebar_create: Genera un Personaggio
 SHADOWDARK.apps.character-generator.sidebar_import: Importa
 SHADOWDARK.apps.character-generator.starting_gear: Equipaggiamento Iniziale
 SHADOWDARK.apps.character-generator.success: Personaggio creato
@@ -94,7 +94,7 @@ SHADOWDARK.apps.item-importer.placeholder: Incolla il testo dell'oggetto qui...
 SHADOWDARK.apps.item-importer.title: Importa Oggetto
 SHADOWDARK.apps.level-up.dragdrop: Trascina e rilascia qui
 SHADOWDARK.apps.level-up.errors.missing_boon_table: Impossibile tirare Favori Patrono perché la tabella configurata non può essere caricata
-SHADOWDARK.apps.level-up.errors.missing_class: Unable to use Level Up tool on a character that has no class set
+SHADOWDARK.apps.level-up.errors.missing_class: Impossibile usare lo strumento Aumento di Livello su un personaggio che non ha una classe impostata
 SHADOWDARK.apps.level-up.hit_points: Punti Ferita
 SHADOWDARK.apps.level-up.level_up: Aumento di Livello!
 SHADOWDARK.apps.level-up.leveling_to: Aumenta al livello
@@ -137,7 +137,7 @@ SHADOWDARK.apps.solodark.button1: Improbabile o Impossibile
 SHADOWDARK.apps.solodark.button2: Pari Possibilità
 SHADOWDARK.apps.solodark.button3: Probabile o Certo
 SHADOWDARK.apps.solodark.oracle: L'Oracolo
-SHADOWDARK.apps.solodark.phrasing: 'Fai la tua domanda con frase affermativa. Invece di chiedere, "Non ci sono orchi in questa stanza?" chiedi: "Ci sono orchi in questa stanza?"'
+SHADOWDARK.apps.solodark.phrasing: 'Fai la tua domanda con frase affermativa. Invece di chiedere, "Non ci sono orchi in questa stanza?" Chiedi: "Ci sono orchi in questa stanza?"'
 SHADOWDARK.apps.solodark.question1: Qual è la domanda?
 SHADOWDARK.apps.solodark.question2: Quanto è probabile un "sì" come risultato?
 SHADOWDARK.apps.solodark.roll_prompt: Tira per il test
@@ -702,7 +702,7 @@ SHADOWDARK.roll.tooltip.critical_failure: Fall.Crit.
 SHADOWDARK.roll.tooltip.critical_multiplier: Molt.Crit.
 SHADOWDARK.roll.tooltip.critical_success: Succ. Crit.
 SHADOWDARK.roll.tooltip.disadvantage: Svant.
-SHADOWDARK.roll.tooltip.explode_damage_die: X.Die
+SHADOWDARK.roll.tooltip.explode_damage_die: X.Dado
 SHADOWDARK.roll.tooltip.extra_die: Agg.Dado
 SHADOWDARK.roll.tooltip.formula_replaced: "Formula Sostituita ({formula})"
 SHADOWDARK.roll.tooltip.stat_bonus: "Bonus {stat}"
