@@ -30,6 +30,8 @@
 - [#1396] Merge Italian translation updates from Crowdin
 - [#1409] Merge various language translation updates from Crowdin
 - [#1414] Merge Italian translation updates from Crowdin
+- Fixed the export, import and createSymlinks npm scripts failing on Windows
+- create-symlinks now reports an invalid foundry-config.yaml instead of failing later with a confusing symlink error
 
 **NOTE:** Many thanks to *Vacco* for his valiant effort in providing 100% coverage with a new Italian translation of the system.
 

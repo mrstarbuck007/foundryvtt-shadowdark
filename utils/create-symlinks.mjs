@@ -13,6 +13,10 @@ if (fs.existsSync("foundry-config.yaml")) {
 
 		const foundryConfig = yaml.load(fc);
 
+		if (typeof foundryConfig?.installPath !== "string" || foundryConfig.installPath === "") {
+			throw new Error("installPath is missing, empty, or not a string");
+		}
+
 		// As of 13.338, the Node install is *not* nested but electron installs *are*
 		const nested = fs.existsSync(path.join(foundryConfig.installPath, "resources", "app"));
 
@@ -21,6 +25,13 @@ if (fs.existsSync("foundry-config.yaml")) {
 	}
 	catch(err) {
 		console.error(`Error reading foundry-config.yaml: ${err}`);
+		process.exit(1);
+	}
+
+	if (!fs.existsSync(fileRoot)) {
+		console.error(`Foundry installation not found at: ${fileRoot}`);
+		console.error("Check the installPath in foundry-config.yaml");
+		process.exit(1);
 	}
 
 	try {
