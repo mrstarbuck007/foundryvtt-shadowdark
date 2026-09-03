@@ -457,6 +457,7 @@ SHADOWDARK.item.description: Description
 SHADOWDARK.item.effect.category.condition: Condition
 SHADOWDARK.item.effect.category.effect: Effect
 SHADOWDARK.item.effect.category.title: Effect Category
+SHADOWDARK.item.effect.lightSource.candle: Candle
 SHADOWDARK.item.effect.lightSource.lantern: Lantern
 SHADOWDARK.item.effect.lightSource.lightSpellDouble: Light (Double Range)
 SHADOWDARK.item.effect.lightSource.lightSpellNear: Light
@@ -620,6 +621,7 @@ SHADOWDARK.language.reptilian: Reptilian
 SHADOWDARK.language.sylvan: Sylvan
 SHADOWDARK.language.thanian: Thanian
 SHADOWDARK.language.who_speaks_it: Who Speaks It
+SHADOWDARK.light_source.candle: Candle
 SHADOWDARK.light_source.lantern: Lantern
 SHADOWDARK.light_source.light_spell.double_near: Light Spell (Double Near)
 SHADOWDARK.light_source.light_spell.near: Light Spell (Near)
@@ -880,6 +882,7 @@ SHADOWDARK.source.cursed-scroll-4: Cursed Scroll Vol.4, River of Night
 SHADOWDARK.source.cursed-scroll-5: Cursed Scroll Vol.5, Dwellers in the Deep
 SHADOWDARK.source.cursed-scroll-6: Cursed Scroll Vol.6, City of Masks
 SHADOWDARK.source.quickstart: "Shadowdark RPG: Quickstart Set"
+SHADOWDARK.source.western-reaches: "Shadowdark RPG: The Western Reaches"
 SHADOWDARK.spell_caster.priest: Priest
 SHADOWDARK.spell_caster.wizard: Wizard
 SHADOWDARK.spell_damage.formula: Formula

@@ -1,0 +1,46 @@
+{
+	"_id": "mwnJgI4HJqsZCT5M",
+	"_key": "!items!mwnJgI4HJqsZCT5M",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "0ws7y8D3IktigkiB",
+	"img": "icons/consumables/potions/potion-jar-corked-glowing-blue.webp",
+	"name": "Glow paste, jar",
+	"system": {
+		"broken": false,
+		"cost": {
+			"cp": 0,
+			"gp": 2,
+			"sp": 0
+		},
+		"description": "<p>Five uses of a clear, sticky paste that glows faintly green when exposed to air, leaving a subtle mark. Its dim glow lasts for one day.</p>",
+		"equipped": false,
+		"isAmmunition": false,
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"magicItem": false,
+		"properties": [
+		],
+		"quantity": 1,
+		"scroll": false,
+		"slots": {
+			"free_carry": 0,
+			"per_slot": 1,
+			"slots_used": 1
+		},
+		"source": {
+			"title": "western-reaches"
+		},
+		"stashed": false,
+		"treasure": false
+	},
+	"type": "Basic"
+}

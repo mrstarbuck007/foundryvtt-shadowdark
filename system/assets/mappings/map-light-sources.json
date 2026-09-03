@@ -1,4 +1,30 @@
 {
+	"candle": {
+		"lang": "SHADOWDARK.item.effect.lightSource.candle",
+		"light": {
+			"alpha": 0.2,
+			"angle": 360,
+			"animation": {
+				"speed": 1,
+				"intensity": 1,
+				"reverse": false,
+				"type": "torch"
+			},
+			"attenuation": 0.5,
+			"bright": 1,
+			"color": "#d1c846",
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"dim": 5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
 	"lantern": {
 		"lang": "SHADOWDARK.item.effect.lightSource.lantern",
 		"light": {

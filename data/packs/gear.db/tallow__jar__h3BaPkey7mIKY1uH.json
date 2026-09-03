@@ -1,0 +1,46 @@
+{
+	"_id": "h3BaPkey7mIKY1uH",
+	"_key": "!items!h3BaPkey7mIKY1uH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "0ws7y8D3IktigkiB",
+	"img": "icons/consumables/drinks/alcohol-jar-spirits-gray.webp",
+	"name": "Tallow, jar",
+	"system": {
+		"broken": false,
+		"cost": {
+			"cp": 0,
+			"gp": 0,
+			"sp": 5
+		},
+		"description": "<p>One application of shiny yellow tallow. It can grease a door-sized object, a person, or close area, making it absurdly slippery. The effect lasts one day.</p>",
+		"equipped": false,
+		"isAmmunition": false,
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"magicItem": false,
+		"properties": [
+		],
+		"quantity": 1,
+		"scroll": false,
+		"slots": {
+			"free_carry": 0,
+			"per_slot": 1,
+			"slots_used": 1
+		},
+		"source": {
+			"title": "western-reaches"
+		},
+		"stashed": false,
+		"treasure": false
+	},
+	"type": "Basic"
+}

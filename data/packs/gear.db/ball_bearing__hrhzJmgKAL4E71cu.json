@@ -1,0 +1,46 @@
+{
+	"_id": "hrhzJmgKAL4E71cu",
+	"_key": "!items!hrhzJmgKAL4E71cu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "0ws7y8D3IktigkiB",
+	"img": "icons/commodities/tech/bearing-steel-green.webp",
+	"name": "Ball Bearing",
+	"system": {
+		"broken": false,
+		"cost": {
+			"cp": 0,
+			"gp": 1,
+			"sp": 0
+		},
+		"description": "<p>A hefty marble of glossy metal. On a DC 12 DEX check, it rolls a near distance along a straight line. It triggers traps as if it were the footfalls of an adult human. Once it triggers a trap, it is lost or destroyed.</p>",
+		"equipped": false,
+		"isAmmunition": false,
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"magicItem": false,
+		"properties": [
+		],
+		"quantity": 1,
+		"scroll": false,
+		"slots": {
+			"free_carry": 0,
+			"per_slot": 1,
+			"slots_used": 1
+		},
+		"source": {
+			"title": "western-reaches"
+		},
+		"stashed": false,
+		"treasure": false
+	},
+	"type": "Basic"
+}

@@ -1,0 +1,46 @@
+{
+	"_id": "7j1o9S8qsjdQ884B",
+	"_key": "!items!7j1o9S8qsjdQ884B",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "0ws7y8D3IktigkiB",
+	"img": "icons/sundries/survival/rope-coil-white.webp",
+	"name": "Rope, morzo silk",
+	"system": {
+		"broken": false,
+		"cost": {
+			"cp": 0,
+			"gp": 50,
+			"sp": 0
+		},
+		"description": "<p>A pencil-thin, 60' rope of tough morzo worm silk. It is immune to all damage except from a silvered or magical source.</p>",
+		"equipped": false,
+		"isAmmunition": false,
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"magicItem": false,
+		"properties": [
+		],
+		"quantity": 1,
+		"scroll": false,
+		"slots": {
+			"free_carry": 0,
+			"per_slot": 1,
+			"slots_used": 1
+		},
+		"source": {
+			"title": "western-reaches"
+		},
+		"stashed": false,
+		"treasure": false
+	},
+	"type": "Basic"
+}

@@ -97,6 +97,7 @@ SHADOWDARK.LANGUAGE_RARITY = {
 };
 
 SHADOWDARK.LIGHT_SETTING_NAMES = {
+	candle: "SHADOWDARK.light_source.candle",
 	lantern: "SHADOWDARK.light_source.lantern",
 	lightSpellDouble: "SHADOWDARK.light_source.light_spell.double_near",
 	lightSpellNear: "SHADOWDARK.light_source.light_spell.near",
@@ -154,6 +155,7 @@ SHADOWDARK.OFFICIAL_SOURCES = {
 	"cursed-scroll-5": "SHADOWDARK.source.cursed-scroll-5",
 	"cursed-scroll-6": "SHADOWDARK.source.cursed-scroll-6",
 	"quickstart": "SHADOWDARK.source.quickstart",
+	"western-reaches": "SHADOWDARK.source.western-reaches",
 };
 
 SHADOWDARK.SPELL_DURATIONS = {

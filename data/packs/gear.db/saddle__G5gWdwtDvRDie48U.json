@@ -1,0 +1,46 @@
+{
+	"_id": "G5gWdwtDvRDie48U",
+	"_key": "!items!G5gWdwtDvRDie48U",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "0ws7y8D3IktigkiB",
+	"img": "icons/commodities/leather/leather-bolt-brown.webp",
+	"name": "Saddle",
+	"system": {
+		"broken": false,
+		"cost": {
+			"cp": 0,
+			"gp": 30,
+			"sp": 0
+		},
+		"description": "<p>A rider on the mount wearing it has ADV on checks to stay mounted.</p>",
+		"equipped": false,
+		"isAmmunition": false,
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"magicItem": false,
+		"properties": [
+		],
+		"quantity": 1,
+		"scroll": false,
+		"slots": {
+			"free_carry": 1,
+			"per_slot": 1,
+			"slots_used": 1
+		},
+		"source": {
+			"title": "western-reaches"
+		},
+		"stashed": false,
+		"treasure": false
+	},
+	"type": "Basic"
+}
