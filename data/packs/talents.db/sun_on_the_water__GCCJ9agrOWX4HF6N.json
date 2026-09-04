@@ -1,0 +1,22 @@
+{
+	"_id": "GCCJ9agrOWX4HF6N",
+	"_key": "!items!GCCJ9agrOWX4HF6N",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/light/explosion-star-glow-yellow.webp",
+	"name": "Sun on the Water",
+	"system": {
+		"description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.LWjqD5BWCszxxGkZ]{Sun on the Water}</p><p>Once per day, when a melee or ranged attack misses you, reflect the attack back at the source using the attacker's bonus.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

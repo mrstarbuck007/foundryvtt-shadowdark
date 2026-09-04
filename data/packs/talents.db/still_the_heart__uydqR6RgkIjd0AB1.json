@@ -1,0 +1,22 @@
+{
+	"_id": "uydqR6RgkIjd0AB1",
+	"_key": "!items!uydqR6RgkIjd0AB1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/control/energy-stream-link-white.webp",
+	"name": "Still the Heart",
+	"system": {
+		"description": "<p>You can stop your metabolism for a total number of rounds per day equal to your level.</p><p>You gain the following benefits for the duration:</p><ul><li><p>You do not need to breathe.</p></li><li><p>Delay the onset of any poisons until this effect ends.</p></li><li><p>If you drop to 0 HP, you do not fall unconscious or begin dying until this effect ends.</p></li></ul>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

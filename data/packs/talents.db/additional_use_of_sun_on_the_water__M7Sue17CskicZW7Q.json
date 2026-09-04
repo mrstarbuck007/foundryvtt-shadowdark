@@ -1,0 +1,22 @@
+{
+	"_id": "M7Sue17CskicZW7Q",
+	"_key": "!items!M7Sue17CskicZW7Q",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/light/explosion-star-glow-yellow.webp",
+	"name": "Additional Use of Sun on the Water",
+	"system": {
+		"description": "<p>You gain one additional use of Sun on the Water each day.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,23 @@
+{
+	"_id": "esJVcIkFmG77LT0m",
+	"_key": "!items!esJVcIkFmG77LT0m",
+	"effects": [
+		"FilGRdDKUTxXV1Th"
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/perception/eye-ringed-glow-angry-teal.webp",
+	"name": "Eye of Yag-Kesh",
+	"system": {
+		"description": "<p>While unarmored, add your Wisdom modifier (if positive) to your AC.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

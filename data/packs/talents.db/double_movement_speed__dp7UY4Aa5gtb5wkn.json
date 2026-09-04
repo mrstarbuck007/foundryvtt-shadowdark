@@ -1,0 +1,22 @@
+{
+	"_id": "dp7UY4Aa5gtb5wkn",
+	"_key": "!items!dp7UY4Aa5gtb5wkn",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/skills/movement/figure-running-gray.webp",
+	"name": "Double Movement Speed",
+	"system": {
+		"description": "<p>Once per day, double your movement speed for 3 rounds.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,105 @@
+{
+	"_id": "FOnBvDlDnPCmKA6R",
+	"_key": "!items!FOnBvDlDnPCmKA6R",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
+	"name": "Monk of Yag-Kesh",
+	"system": {
+		"alignment": "",
+		"allArmor": false,
+		"allMeleeWeapons": false,
+		"allRangedWeapons": false,
+		"allWeapons": false,
+		"armor": [
+		],
+		"classAbilities": [
+			"Compendium.shadowdark.class-abilities.Item.LWjqD5BWCszxxGkZ"
+		],
+		"classAbilityChoiceCount": 0,
+		"classAbilityChoices": [
+		],
+		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.E6ITSi2fvMNiiwNk",
+		"description": "<p>Still, quiet monks in light linen garb. They undergo intense physical and mental training from early childhood in the Monastery of Yag-Kesh.</p>",
+		"hitPoints": "1d8",
+		"languages": {
+			"common": 0,
+			"fixed": [
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"patron": {
+			"required": false,
+			"startingBoons": 0
+		},
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"spellcasting": {
+			"ability": "",
+			"baseDifficulty": 10,
+			"class": "__not_spellcaster__",
+			"spellsknown": {
+			}
+		},
+		"talentChoiceCount": 0,
+		"talentChoices": [
+		],
+		"talents": [
+			"Compendium.shadowdark.talents.Item.esJVcIkFmG77LT0m",
+			"Compendium.shadowdark.talents.Item.blsLPMCZRPflsBoZ",
+			"Compendium.shadowdark.talents.Item.uydqR6RgkIjd0AB1",
+			"Compendium.shadowdark.talents.Item.GCCJ9agrOWX4HF6N"
+		],
+		"titles": [
+			{
+				"chaotic": "Disciple",
+				"from": 1,
+				"lawful": "Disciple",
+				"neutral": "Disciple",
+				"to": 2
+			},
+			{
+				"chaotic": "Path of Night",
+				"from": 3,
+				"lawful": "Path of Light",
+				"neutral": "Path of Dream",
+				"to": 4
+			},
+			{
+				"chaotic": "Shadow Warrior",
+				"from": 5,
+				"lawful": "Sun Warrior",
+				"neutral": "Moon Warrior",
+				"to": 6
+			},
+			{
+				"chaotic": "Dark Soul",
+				"from": 7,
+				"lawful": "Golden Soul",
+				"neutral": "Silver Soul",
+				"to": 8
+			},
+			{
+				"chaotic": "Shadow Master",
+				"from": 9,
+				"lawful": "Sun Master",
+				"neutral": "Moon Master",
+				"to": 10
+			}
+		],
+		"weapons": [
+			"Compendium.shadowdark.gear.Item.9eTpsuEuzL3Vaxge",
+			"Compendium.shadowdark.gear.Item.4AlotdUAGf1jcygn"
+		]
+	},
+	"type": "Class"
+}

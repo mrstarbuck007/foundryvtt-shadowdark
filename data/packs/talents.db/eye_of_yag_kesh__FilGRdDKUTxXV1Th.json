@@ -1,0 +1,35 @@
+{
+	"_id": "FilGRdDKUTxXV1Th",
+	"_key": "!items.effects!esJVcIkFmG77LT0m.FilGRdDKUTxXV1Th",
+	"changes": [
+		{
+			"key": "system.attributes.ac.unarmored",
+			"mode": 2,
+			"priority": null,
+			"value": "max(@abilities.wis.mod, 0)"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/magic/perception/eye-ringed-glow-angry-teal.webp",
+	"name": "Eye of Yag-Kesh",
+	"origin": "Compendium.shadowdark.talents.esJVcIkFmG77LT0m",
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

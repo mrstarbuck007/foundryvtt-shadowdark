@@ -1,0 +1,17 @@
+{
+	"_id": "1iPRCelm83FEq0my",
+	"_key": "!tables.results!E6ITSi2fvMNiiwNk.1iPRCelm83FEq0my",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.M7Sue17CskicZW7Q",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/light/explosion-star-glow-yellow.webp",
+	"name": "Additional Use of Sun on the Water",
+	"range": [
+		10,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

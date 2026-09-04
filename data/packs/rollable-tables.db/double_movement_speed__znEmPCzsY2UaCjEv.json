@@ -1,0 +1,17 @@
+{
+	"_id": "znEmPCzsY2UaCjEv",
+	"_key": "!tables.results!E6ITSi2fvMNiiwNk.znEmPCzsY2UaCjEv",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.dp7UY4Aa5gtb5wkn",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/movement/figure-running-gray.webp",
+	"name": "Double Movement Speed",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}
