@@ -1,0 +1,35 @@
+{
+	"_id": "RvT2TEgLdI33BE0s",
+	"_key": "!items.effects!5WEzAOGusol1Sy4u.RvT2TEgLdI33BE0s",
+	"changes": [
+		{
+			"key": "system.spellcasting.classes",
+			"mode": 2,
+			"priority": null,
+			"value": "priest"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/sundries/books/book-worn-red.webp",
+	"name": "Spell Class",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

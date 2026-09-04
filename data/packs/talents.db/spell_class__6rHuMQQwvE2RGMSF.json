@@ -1,0 +1,35 @@
+{
+	"_id": "6rHuMQQwvE2RGMSF",
+	"_key": "!items.effects!S1D3DIUasJ2iZMaE.6rHuMQQwvE2RGMSF",
+	"changes": [
+		{
+			"key": "system.spellcasting.classes",
+			"mode": 2,
+			"priority": null,
+			"value": "witch"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/sundries/books/book-reye-reptile-brown.webp",
+	"name": "Spell Class",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

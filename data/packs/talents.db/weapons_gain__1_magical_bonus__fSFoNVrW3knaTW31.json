@@ -1,0 +1,41 @@
+{
+	"_id": "fSFoNVrW3knaTW31",
+	"_key": "!items.effects!Sd2cRc9FAUozrguS.fSFoNVrW3knaTW31",
+	"changes": [
+		{
+			"key": "system.roll.attack.bonus.all",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		},
+		{
+			"key": "system.roll.attack.damage.all",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/magic/symbols/runes-etched-steel-blade.webp",
+	"name": "Weapons Gain +1 Magical Bonus",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

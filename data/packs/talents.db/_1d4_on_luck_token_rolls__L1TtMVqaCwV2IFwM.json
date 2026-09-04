@@ -2,6 +2,7 @@
 	"_id": "L1TtMVqaCwV2IFwM",
 	"_key": "!items!L1TtMVqaCwV2IFwM",
 	"effects": [
+		"gQOqj3xGk7nFVqkD"
 	],
 	"flags": {
 	},
@@ -9,7 +10,7 @@
 	"img": "icons/sundries/gaming/dice-runed-brown.webp",
 	"name": "+1d4 on Luck Token Rolls",
 	"system": {
-		"description": "<p>When you use a luck token, add +1d4 to the roll</p><p>duplicate = reroll</p>",
+		"description": "<p>When you use a luck token, add +1d4 to the roll</p><p>duplicate = reroll</p><p><em><strong>Note:</strong> Remember to toggle the <strong>+1d4 on Luck Token Rolls</strong> Active Effect on/off in the Effects tab of your character sheet when needed.</em></p>",
 		"level": 0,
 		"properties": [
 		],

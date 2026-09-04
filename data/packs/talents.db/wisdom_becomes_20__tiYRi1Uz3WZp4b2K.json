@@ -1,0 +1,35 @@
+{
+	"_id": "tiYRi1Uz3WZp4b2K",
+	"_key": "!items.effects!MzmlIrxv4qD0plHV.tiYRi1Uz3WZp4b2K",
+	"changes": [
+		{
+			"key": "system.abilities.wis.value",
+			"mode": 5,
+			"priority": null,
+			"value": "20"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/environment/cosmos/planet-moon-blue.webp",
+	"name": "Wisdom Becomes 20",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

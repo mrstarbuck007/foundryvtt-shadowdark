@@ -111,6 +111,12 @@
 - Filled in the Immunity to Acid, Immunity to Cold and Immunity to Poison talents, which shipped with empty descriptions
 - Every patron now carries its full Western Reaches entry, with its Demands and its In the Reaches passage
 	* The six patrons that already had a description gain the fuller book text, including their alignments and the rest of their opening passages
+- Patron Boons that grant something mechanical now apply it themselves, where they were all descriptive text before
+	* AC bonuses, attack and damage bonuses, the strike damage die and the Wisdom 20 boon all take effect on their own
+	* The melee advantage, Wisdom to a roll and luck token boons are toggled per roll from the Effects tab, as they only apply when you use them
+	* The boons that teach a seer, priest, witch or wizard spell now make you a caster for that list, without which the spell could not be cast at all
+	* Boons the system has no way to express, such as the immunities and the once a day transformations, remain descriptive
+- Fixed a typo in the Slime Form patron boon, which read 1/dary instead of 1/day
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores

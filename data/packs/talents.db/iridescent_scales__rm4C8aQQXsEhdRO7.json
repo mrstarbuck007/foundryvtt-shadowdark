@@ -1,0 +1,35 @@
+{
+	"_id": "rm4C8aQQXsEhdRO7",
+	"_key": "!items.effects!jU53hHvnMKTwORH2.rm4C8aQQXsEhdRO7",
+	"changes": [
+		{
+			"key": "system.attributes.ac.value",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/magic/nature/leaf-armor-scale-green.webp",
+	"name": "Iridescent Scales",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

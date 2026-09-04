@@ -2,6 +2,7 @@
 	"_id": "6iJ6ETUAKC7DR0aT",
 	"_key": "!items!6iJ6ETUAKC7DR0aT",
 	"effects": [
+		"UnsNEmCRNpJGCf3p"
 	],
 	"flags": {
 	},
@@ -9,7 +10,7 @@
 	"img": "icons/skills/melee/strike-sword-steel-yellow.webp",
 	"name": "Advantage on Melee Attacks",
 	"system": {
-		"description": "<p>1/day, gain advantage on melee attacks for 3 rounds. </p><p>duplicate = +1 use per day</p>",
+		"description": "<p>1/day, gain advantage on melee attacks for 3 rounds. </p><p>duplicate = +1 use per day</p><p><em><strong>Note:</strong> Remember to toggle the <strong>Advantage on Melee Attacks</strong> Active Effect on/off in the Effects tab of your character sheet when needed.</em></p>",
 		"level": 0,
 		"properties": [
 		],

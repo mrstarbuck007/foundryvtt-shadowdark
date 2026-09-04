@@ -1,0 +1,50 @@
+{
+	"_id": "gQOqj3xGk7nFVqkD",
+	"_key": "!items.effects!L1TtMVqaCwV2IFwM.gQOqj3xGk7nFVqkD",
+	"changes": [
+		{
+			"key": "system.roll.stat.bonus.all",
+			"mode": 2,
+			"priority": null,
+			"value": "1d4"
+		},
+		{
+			"key": "system.roll.attack.bonus.all",
+			"mode": 2,
+			"priority": null,
+			"value": "1d4"
+		},
+		{
+			"key": "system.roll.spell.bonus.all",
+			"mode": 2,
+			"priority": null,
+			"value": "1d4"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+		"shadowdark": {
+			"situational": true
+		}
+	},
+	"img": "icons/sundries/gaming/dice-runed-brown.webp",
+	"name": "+1d4 on Luck Token Rolls",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

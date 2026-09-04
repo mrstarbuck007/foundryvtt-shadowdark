@@ -1,0 +1,50 @@
+{
+	"_id": "66lqI12zK7oomsPh",
+	"_key": "!items.effects!FIHNdRhD6DHFxSkC.66lqI12zK7oomsPh",
+	"changes": [
+		{
+			"key": "system.roll.stat.bonus.all",
+			"mode": 2,
+			"priority": null,
+			"value": "@abilities.wis.mod"
+		},
+		{
+			"key": "system.roll.attack.bonus.all",
+			"mode": 2,
+			"priority": null,
+			"value": "@abilities.wis.mod"
+		},
+		{
+			"key": "system.roll.spell.bonus.all",
+			"mode": 2,
+			"priority": null,
+			"value": "@abilities.wis.mod"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+		"shadowdark": {
+			"situational": true
+		}
+	},
+	"img": "icons/skills/trades/gaming-gambling-dice-gray.webp",
+	"name": "Add Wisdom to Roll",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

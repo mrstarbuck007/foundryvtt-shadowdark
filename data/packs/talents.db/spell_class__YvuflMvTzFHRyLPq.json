@@ -1,0 +1,35 @@
+{
+	"_id": "YvuflMvTzFHRyLPq",
+	"_key": "!items.effects!xJPC6F2f4drLi02p.YvuflMvTzFHRyLPq",
+	"changes": [
+		{
+			"key": "system.spellcasting.classes",
+			"mode": 2,
+			"priority": null,
+			"value": "seer"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Spell Class",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

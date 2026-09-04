@@ -2,6 +2,7 @@
 	"_id": "FIHNdRhD6DHFxSkC",
 	"_key": "!items!FIHNdRhD6DHFxSkC",
 	"effects": [
+		"66lqI12zK7oomsPh"
 	],
 	"flags": {
 	},
@@ -9,7 +10,7 @@
 	"img": "icons/skills/trades/gaming-gambling-dice-gray.webp",
 	"name": "Add Wisdom to Roll",
 	"system": {
-		"description": "<p>3/day, add your Wis bonus to any roll (reroll duplicates)</p>",
+		"description": "<p>3/day, add your Wis bonus to any roll (reroll duplicates)</p><p><em><strong>Note:</strong> Remember to toggle the <strong>Add Wisdom to Roll</strong> Active Effect on/off in the Effects tab of your character sheet when needed.</em></p>",
 		"level": 0,
 		"properties": [
 		],

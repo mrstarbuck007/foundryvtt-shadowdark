@@ -1,0 +1,38 @@
+{
+	"_id": "UnsNEmCRNpJGCf3p",
+	"_key": "!items.effects!6iJ6ETUAKC7DR0aT.UnsNEmCRNpJGCf3p",
+	"changes": [
+		{
+			"key": "system.roll.melee.advantage.all",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+		"shadowdark": {
+			"situational": true
+		}
+	},
+	"img": "icons/skills/melee/strike-sword-steel-yellow.webp",
+	"name": "Advantage on Melee Attacks",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

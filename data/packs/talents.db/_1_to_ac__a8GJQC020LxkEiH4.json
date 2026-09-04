@@ -1,0 +1,35 @@
+{
+	"_id": "a8GJQC020LxkEiH4",
+	"_key": "!items.effects!aFltU1eRz4bmIlbj.a8GJQC020LxkEiH4",
+	"changes": [
+		{
+			"key": "system.attributes.ac.value",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/magic/defensive/shield-barrier-flaming-diamond-blue-yellow.webp",
+	"name": "+1 to AC",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}
