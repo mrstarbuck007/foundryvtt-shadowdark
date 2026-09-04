@@ -1,0 +1,17 @@
+{
+	"_id": "kIfzINfUEq0HETkc",
+	"_key": "!tables.results!DHNhITTuVePKSINS.kIfzINfUEq0HETkc",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.zUHWawMITiZOu5sK",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/sundries/books/book-worn-red.webp",
+	"name": "Learn Any Spell",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

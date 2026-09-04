@@ -1,0 +1,22 @@
+{
+	"_id": "zUHWawMITiZOu5sK",
+	"_key": "!items!zUHWawMITiZOu5sK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Z4zDnZoxthjHXo5V",
+	"img": "icons/sundries/books/book-worn-red.webp",
+	"name": "Learn Any Spell",
+	"system": {
+		"description": "<p>Learn any spell of a tier equal to half your level rounded down (min. 1). Cast it using that class's spellcasting stat.</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

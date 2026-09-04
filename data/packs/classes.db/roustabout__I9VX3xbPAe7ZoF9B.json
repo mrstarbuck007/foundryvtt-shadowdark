@@ -1,0 +1,175 @@
+{
+	"_id": "I9VX3xbPAe7ZoF9B",
+	"_key": "!items!I9VX3xbPAe7ZoF9B",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
+	"name": "Roustabout",
+	"system": {
+		"alignment": "",
+		"allArmor": false,
+		"allMeleeWeapons": false,
+		"allRangedWeapons": false,
+		"allWeapons": false,
+		"armor": [
+			"Compendium.shadowdark.gear.Item.EoTEHXApVDS7rHfw"
+		],
+		"classAbilities": [
+		],
+		"classAbilityChoiceCount": 0,
+		"classAbilityChoices": [
+		],
+		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.DHNhITTuVePKSINS",
+		"description": "<p>Average laggards of no particular talent. They wield weapons and magic with the elegance of a hog-tied kobold. But if their back is against a wall, a glint of bravery may, on rare occasions, rise to the surface.</p>",
+		"hitPoints": "1d4",
+		"languages": {
+			"common": 0,
+			"fixed": [
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"patron": {
+			"required": false,
+			"startingBoons": 0
+		},
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"spellcasting": {
+			"ability": "",
+			"baseDifficulty": 10,
+			"class": "__not_spellcaster__",
+			"spellsknown": {
+				"1": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"10": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"2": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"3": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"4": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"5": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"6": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"7": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"8": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"9": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				}
+			}
+		},
+		"talentChoiceCount": 0,
+		"talentChoices": [
+		],
+		"talents": [
+			"Compendium.shadowdark.talents.Item.uGUoWxIpyJvrJksm",
+			"Compendium.shadowdark.talents.Item.sPIuN6V4FTbAU1CT",
+			"Compendium.shadowdark.talents.Item.uXNLF1HcR0hospfc"
+		],
+		"titles": [
+			{
+				"chaotic": "Rascal",
+				"from": 1,
+				"lawful": "Handyman/woman",
+				"neutral": "Drifter",
+				"to": 2
+			},
+			{
+				"chaotic": "Hustler",
+				"from": 3,
+				"lawful": "Crafter",
+				"neutral": "Vagabond",
+				"to": 4
+			},
+			{
+				"chaotic": "Rogue",
+				"from": 5,
+				"lawful": "Foreman",
+				"neutral": "Seeker",
+				"to": 6
+			},
+			{
+				"chaotic": "Rebel",
+				"from": 7,
+				"lawful": "Master Crafter",
+				"neutral": "Wayfinder",
+				"to": 8
+			},
+			{
+				"chaotic": "Renegade",
+				"from": 9,
+				"lawful": "Guild Leader",
+				"neutral": "Nomad King/Queen",
+				"to": 10
+			}
+		],
+		"weapons": [
+			"Compendium.shadowdark.gear.Item.JM2XN855QYNhgtre",
+			"Compendium.shadowdark.gear.Item.C3mc5OlKPSJNMrng",
+			"Compendium.shadowdark.gear.Item.9eTpsuEuzL3Vaxge"
+		]
+	},
+	"type": "Class"
+}

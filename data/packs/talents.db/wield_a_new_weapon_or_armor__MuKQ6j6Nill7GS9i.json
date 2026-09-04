@@ -1,0 +1,22 @@
+{
+	"_id": "MuKQ6j6Nill7GS9i",
+	"_key": "!items!MuKQ6j6Nill7GS9i",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Z4zDnZoxthjHXo5V",
+	"img": "icons/skills/melee/strike-weapons-orange.webp",
+	"name": "Wield a New Weapon or Armor",
+	"system": {
+		"description": "<p>Gain the ability to wield a new weapon or armor.</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "UXQvJ1Y2kiyuOnoK",
+	"_key": "!tables.results!DHNhITTuVePKSINS.UXQvJ1Y2kiyuOnoK",
+	"description": "Choose 1, then roll another talent",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

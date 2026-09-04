@@ -54,6 +54,10 @@
 	* Relentless is now a different ability entirely: while dying you may forgo your d20 rolls to stay conscious and act, losing a death timer round each time you take damage
 	* Last Stand now lets you automatically pass its check once per day
 	* The class talent table now grants +1 to melee attacks and damage where it granted damage alone, and a new +3 HP talent in place of the melee attack bonus
+- Added the Roustabout class from Shadowdark RPG: The Western Reaches
+	* Includes its Knowaguy, Lucksmith and Surprising Guts talents, its titles, and its class talent table
+	* The two "any stat" bands hand out the existing +1 stat talents, so the increase applies itself
+	* Adds the Wield a New Weapon or Armor, Extra Hit Points Die and Learn Any Spell talents the table draws on
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry

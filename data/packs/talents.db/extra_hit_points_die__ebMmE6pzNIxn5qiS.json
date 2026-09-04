@@ -1,0 +1,22 @@
+{
+	"_id": "ebMmE6pzNIxn5qiS",
+	"_key": "!items!ebMmE6pzNIxn5qiS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Z4zDnZoxthjHXo5V",
+	"img": "icons/magic/life/cross-worn-green.webp",
+	"name": "Extra Hit Points Die",
+	"system": {
+		"description": "<p>Roll an extra hit points die this level.</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

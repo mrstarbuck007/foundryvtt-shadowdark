@@ -1,0 +1,22 @@
+{
+	"_id": "uXNLF1HcR0hospfc",
+	"_key": "!items!uXNLF1HcR0hospfc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/skills/melee/sword-shield-stylized-white.webp",
+	"name": "Surprising Guts",
+	"system": {
+		"description": "<p>When you are reduced to half your HP or lower, you have advantage on your next roll.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

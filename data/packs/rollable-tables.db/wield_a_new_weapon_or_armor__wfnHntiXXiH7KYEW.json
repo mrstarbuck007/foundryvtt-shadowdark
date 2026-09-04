@@ -1,0 +1,17 @@
+{
+	"_id": "wfnHntiXXiH7KYEW",
+	"_key": "!tables.results!DHNhITTuVePKSINS.wfnHntiXXiH7KYEW",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.MuKQ6j6Nill7GS9i",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/strike-weapons-orange.webp",
+	"name": "Wield a New Weapon or Armor",
+	"range": [
+		3,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,22 @@
+{
+	"_id": "uGUoWxIpyJvrJksm",
+	"_key": "!items!uGUoWxIpyJvrJksm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/skills/social/diplomacy-peace-alliance.webp",
+	"name": "Knowaguy",
+	"system": {
+		"description": "<p>You have advantage on checks related to interacting with commoners and sourcing favors.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

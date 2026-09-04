@@ -1,0 +1,17 @@
+{
+	"_id": "oVyC0kRDLYvZCWht",
+	"_key": "!tables.results!DHNhITTuVePKSINS.oVyC0kRDLYvZCWht",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.ebMmE6pzNIxn5qiS",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/life/cross-worn-green.webp",
+	"name": "Extra Hit Points Die",
+	"range": [
+		10,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

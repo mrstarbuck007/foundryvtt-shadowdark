@@ -1,0 +1,22 @@
+{
+	"_id": "sPIuN6V4FTbAU1CT",
+	"_key": "!items!sPIuN6V4FTbAU1CT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/symbols/star-solid-gold.webp",
+	"name": "Lucksmith",
+	"system": {
+		"description": "<p>Whenever another player uses your luck token, they have advantage on the new roll.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}
