@@ -1,0 +1,32 @@
+{
+	"_id": "MEMJwC9PJOHkQydM",
+	"_key": "!items!MEMJwC9PJOHkQydM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "3b8VSnawJf621a8G",
+	"img": "icons/magic/death/grave-tombstone-glow-tan.webp",
+	"name": "Dust to Dust",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You command the spirits of the dead to seek their final rest.</p><p>All undead creatures of LV 10 or less within range must make a [[check 15 cha]] check. On a failure, they are destroyed.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

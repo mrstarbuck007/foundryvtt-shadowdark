@@ -1,0 +1,32 @@
+{
+	"_id": "Vi927pvEt4zNNufP",
+	"_key": "!items!Vi927pvEt4zNNufP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "dzY6XKqDwt64WzPg",
+	"img": "icons/sundries/books/book-symbol-skull-grey.webp",
+	"name": "Necronomicon",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You draw on your studies of the Book of the Dead to interpret portents you glimpse in burning flames and dark waters.</p><p>You can ask the GM up to three yes or no questions (one each round). The GM truthfully answers &quot;yes&quot; or &quot;no&quot; to each.</p><p>If you cast this spell more than once a week, treat a failed spellcasting check for it as a critical failure instead.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "3"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

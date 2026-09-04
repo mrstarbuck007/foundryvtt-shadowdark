@@ -1,0 +1,32 @@
+{
+	"_id": "uvFbBdwJe8nwn6DE",
+	"_key": "!items!uvFbBdwJe8nwn6DE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "dzY6XKqDwt64WzPg",
+	"img": "icons/magic/death/undead-zombie-grave-green.webp",
+	"name": "Revenant",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You bolster an undead creature, infusing it with potent energy.</p><p>Transform an undead creature you touch into another undead creature that is up to two levels higher.</p><p>You can’t bring an undead creature above 10th level with this spell.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

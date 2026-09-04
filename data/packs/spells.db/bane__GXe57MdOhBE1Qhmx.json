@@ -1,0 +1,32 @@
+{
+	"_id": "GXe57MdOhBE1Qhmx",
+	"_key": "!items!GXe57MdOhBE1Qhmx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "2PeZ7HTShdwTLq4R",
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Bane",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>One weapon you touch is empowered with necrotic energy. It deals an additional [[/r 1d6]] damage against living creatures for the duration.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.BI8dorYR2DGucR4P]{Spell Effect: Bane}</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

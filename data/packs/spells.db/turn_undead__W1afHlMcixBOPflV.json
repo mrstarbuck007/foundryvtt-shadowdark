@@ -1,0 +1,32 @@
+{
+	"_id": "W1afHlMcixBOPflV",
+	"_key": "!items!W1afHlMcixBOPflV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "jL3VmUFV2esiWMbr",
+	"img": "icons/creatures/magical/spirit-undead-ghost-tan-teal.webp",
+	"name": "Turn Undead",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You rebuke undead creatures, forcing them to flee.</p><p>Undead creatures within near of you must make a Charisma check vs. your spellcasting check.</p><p>If a creature fails by 10+ points and is equal to or less than your level, it is destroyed. Otherwise, on a fail, it flees from you for 5 rounds.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.T4LUCIffieQPMGsN]{Spell Effect: Turn Undead}</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

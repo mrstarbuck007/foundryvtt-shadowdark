@@ -1,0 +1,32 @@
+{
+	"_id": "nQlnFYYtr0FE5ymb",
+	"_key": "!items!nQlnFYYtr0FE5ymb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "dzY6XKqDwt64WzPg",
+	"img": "icons/magic/death/hand-withered-gray.webp",
+	"name": "Ashes to Ashes",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>A living creature you target begins crumbling into ash.</p><p>You can target a creature you can see of LV 5 or less.</p><p>If you successfully focus on this spell for 3 rounds in a row, the target dies and crumbles into a pile of ash.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

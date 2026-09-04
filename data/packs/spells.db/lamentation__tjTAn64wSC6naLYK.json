@@ -1,0 +1,32 @@
+{
+	"_id": "tjTAn64wSC6naLYK",
+	"_key": "!items!tjTAn64wSC6naLYK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "2PeZ7HTShdwTLq4R",
+	"img": "icons/magic/sonic/scream-wail-shout-teal.webp",
+	"name": "Lamentation",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You sing a haunting death dirge about one creature in range. The target must be of a level equal to or less than your own.</p><p>The target cannot act on its turn unless it passes a Charisma check equal to your last spellcasting check.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

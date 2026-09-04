@@ -1,0 +1,32 @@
+{
+	"_id": "ixr4pruCZzNkYJw3",
+	"_key": "!items!ixr4pruCZzNkYJw3",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "hgeIOw6VhhR64apw",
+	"img": "icons/magic/unholy/hand-grasping-green.webp",
+	"name": "Drain Life",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "damage",
+		"description": "<p>One living creature you touch takes [[/r 2d6]] damage.</p><p>You regain HP equal to half the damage you dealt (round down).</p><p>If you target an undead creature with this spell, you take damage and it regains HP instead.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "2d6",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

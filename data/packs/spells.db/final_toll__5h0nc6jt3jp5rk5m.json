@@ -1,0 +1,32 @@
+{
+	"_id": "5h0nc6jt3jp5rk5m",
+	"_key": "!items!5h0nc6jt3jp5rk5m",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "2PeZ7HTShdwTLq4R",
+	"img": "icons/magic/death/skull-energy-light-purple.webp",
+	"name": "Final Toll",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>One undead you touch of LV 2 or less instantly crumbles to dust.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

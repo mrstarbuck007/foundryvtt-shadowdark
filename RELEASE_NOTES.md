@@ -164,6 +164,11 @@
 	* The link takes you to the spell in the compendium and does not go stale when the book is reprinted
 - Fixed three magic item links rendering with a doubled space, from a stray space inside the link text
 - Added the Magic Weapon Benefits table, which the Paladin's Named Blade rolls on at 3rd level
+- Added the Necromancer spell list from Shadowdark RPG: The Western Reaches
+	* Thirty spells, six in each of the five tiers
+	* Withermark's damage grows from 1d4 to 2d4 at 5th level on its own, and Drain Life, Ghoul Touch and Excoriate roll their damage from the spell
+	* Bane comes with an effect that adds its die to your weapon for the duration, and First Gate, Ghoul Touch, Turn Undead and Protection From Evil link the effect or condition they apply
+	* Animate Dead, Create Undead, Lay to Rest, Protection From Evil, Speak with Dead and Turn Undead already existed for other classes and now have a Necromancer version, as the packs keep one spell per class
 	* The Named Blade talent links it, and its dice and checks are rollable from the result
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 

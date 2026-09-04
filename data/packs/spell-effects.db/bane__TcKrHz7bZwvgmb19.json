@@ -1,0 +1,35 @@
+{
+	"_id": "TcKrHz7bZwvgmb19",
+	"_key": "!items.effects!BI8dorYR2DGucR4P.TcKrHz7bZwvgmb19",
+	"changes": [
+		{
+			"key": "system.roll.attack.damage.all",
+			"mode": 2,
+			"priority": null,
+			"value": "1d6"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Bane",
+	"origin": "Compendium.shadowdark.spell-effects.Item.BI8dorYR2DGucR4P",
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

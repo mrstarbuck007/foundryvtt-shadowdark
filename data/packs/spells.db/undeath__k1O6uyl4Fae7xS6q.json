@@ -1,0 +1,32 @@
+{
+	"_id": "k1O6uyl4Fae7xS6q",
+	"_key": "!items!k1O6uyl4Fae7xS6q",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "jL3VmUFV2esiWMbr",
+	"img": "icons/magic/death/hand-undead-skeleton-fire-pink.webp",
+	"name": "Undeath",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You touch one humanoid’s remains, and it rises as a zombie or skeleton under your control. The remains must have at least three limbs and its head intact.</p><p>The creature acts on your turn.</p><p>You can only create one undead creature with this spell at a time. When the spell ends, the corpse collapses into grave dust.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

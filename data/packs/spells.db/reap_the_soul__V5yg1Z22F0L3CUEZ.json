@@ -1,0 +1,32 @@
+{
+	"_id": "V5yg1Z22F0L3CUEZ",
+	"_key": "!items!V5yg1Z22F0L3CUEZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "hgeIOw6VhhR64apw",
+	"img": "icons/magic/death/weapon-scythe-rune-green.webp",
+	"name": "Reap the Soul",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You draw life force from one creature in range that was killed within the last round.</p><p>You gain HP and a bonus to your next attack roll or spellcasting check equal to the target’s level.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

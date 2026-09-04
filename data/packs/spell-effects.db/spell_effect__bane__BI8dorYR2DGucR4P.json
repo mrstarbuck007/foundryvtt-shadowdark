@@ -1,0 +1,44 @@
+{
+	"_id": "BI8dorYR2DGucR4P",
+	"_key": "!items!BI8dorYR2DGucR4P",
+	"effects": [
+		"TcKrHz7bZwvgmb19"
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Spell Effect: Bane",
+	"system": {
+		"category": "effect",
+		"description": "<p>The weapon deals an additional [[/r 1d6]] damage against living creatures.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": 5
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"start": {
+			"combatTime": 0,
+			"value": 0
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

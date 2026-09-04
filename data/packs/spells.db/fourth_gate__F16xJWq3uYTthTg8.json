@@ -1,0 +1,32 @@
+{
+	"_id": "F16xJWq3uYTthTg8",
+	"_key": "!items!F16xJWq3uYTthTg8",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "dzY6XKqDwt64WzPg",
+	"img": "icons/magic/control/silhouette-hold-change-blue.webp",
+	"name": "Fourth Gate",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You transform a willing creature you touch of LV 10 or less into an undead creature of equal level or less for the spell's duration.</p><p>Any gear the target carries melds into its new form. It can't cast spells while under the effects of this one.</p><p>In place of the above effect, you can permanently restore a shape-changed creature back to its original form.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "10"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

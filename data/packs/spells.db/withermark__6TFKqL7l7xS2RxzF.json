@@ -1,0 +1,32 @@
+{
+	"_id": "6TFKqL7l7xS2RxzF",
+	"_key": "!items!6TFKqL7l7xS2RxzF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "jL3VmUFV2esiWMbr",
+	"img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+	"name": "Withermark",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "damage",
+		"description": "<p>You fling a dark rune of necrotic energy at a target in range.</p><p>The target takes [[/r 1d4]] damage. This damage increases to [[/r 2d4]] when you reach 5th level.</p><p>Undead creatures are unharmed by this spell.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "(min(1 + (floor(@level.value/5)), 2))d4",
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

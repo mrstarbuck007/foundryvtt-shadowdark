@@ -1,0 +1,32 @@
+{
+	"_id": "RFn3zEiZR9i9sOni",
+	"_key": "!items!RFn3zEiZR9i9sOni",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "2PeZ7HTShdwTLq4R",
+	"img": "icons/magic/control/silhouette-hold-beam-blue.webp",
+	"name": "Second Gate",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You render one creature in range mute for the spell’s duration. It cannot speak and has DISADV on spellcasting checks.</p><p>In place of the above effect, you can restore the lost speech and/or thought of one creature in range for the spell’s duration.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

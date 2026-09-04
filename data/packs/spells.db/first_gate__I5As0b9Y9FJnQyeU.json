@@ -1,0 +1,32 @@
+{
+	"_id": "I5As0b9Y9FJnQyeU",
+	"_key": "!items!I5As0b9Y9FJnQyeU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "jL3VmUFV2esiWMbr",
+	"img": "icons/magic/control/sleep-bubble-purple.webp",
+	"name": "First Gate",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You can target a living creature of LV 2 or less or an undead creature of LV 4 or less.</p><p>The creature falls into a deep sleep. Being injured wakes it.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.FrFilluk4S5VaWut]{Spell Effect: Sleep}</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

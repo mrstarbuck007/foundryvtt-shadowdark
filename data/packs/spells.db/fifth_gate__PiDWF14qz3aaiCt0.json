@@ -1,0 +1,32 @@
+{
+	"_id": "PiDWF14qz3aaiCt0",
+	"_key": "!items!PiDWF14qz3aaiCt0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "3b8VSnawJf621a8G",
+	"img": "icons/magic/life/heart-cross-strong-blue.webp",
+	"name": "Fifth Gate",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You can target one dying creature in range.</p><p>The target gains 5 rounds on its death timer. It becomes conscious and may act normally while dying.</p><p>If the creature would take damage while under the effects of this spell, it instead loses a round on its death timer.</p><p>If the creature dies while under the effects of this spell, it may make a [[check 18 con]] check. On a success, it returns to life at 1 HP.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

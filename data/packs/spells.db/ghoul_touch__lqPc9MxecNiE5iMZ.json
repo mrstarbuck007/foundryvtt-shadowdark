@@ -1,0 +1,32 @@
+{
+	"_id": "lqPc9MxecNiE5iMZ",
+	"_key": "!items!lqPc9MxecNiE5iMZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "2PeZ7HTShdwTLq4R",
+	"img": "icons/magic/unholy/hand-claw-fog-green.webp",
+	"name": "Ghoul Touch",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "damage",
+		"description": "<p>You strike at the life force of a living creature, dealing it [[/r 1d6]] damage. If the target is LV 4 or less, it becomes paralyzed for [[/r 1d4]] rounds.</p><p>@UUID[Compendium.shadowdark.conditions.Item.ROTpAUAHx5s4AZZh]{Condition: Paralyzed}</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "1d6",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

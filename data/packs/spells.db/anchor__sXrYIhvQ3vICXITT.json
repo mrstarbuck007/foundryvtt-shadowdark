@@ -1,0 +1,32 @@
+{
+	"_id": "sXrYIhvQ3vICXITT",
+	"_key": "!items!sXrYIhvQ3vICXITT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "3b8VSnawJf621a8G",
+	"img": "icons/magic/control/debuff-chains-shackle-movement-red.webp",
+	"name": "Anchor",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>One creature you touch of LV 10 or less becomes fixed to its location by a black thread that can only be cut by a silver or magic blade (this spell ends when it is severed).</p><p>The creature becomes comatose and immune to all harm while under the effects of this spell.</p>",
+		"duration": {
+			"type": "permanent",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

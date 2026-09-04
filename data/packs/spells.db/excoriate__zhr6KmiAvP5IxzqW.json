@@ -1,0 +1,32 @@
+{
+	"_id": "zhr6KmiAvP5IxzqW",
+	"_key": "!items!zhr6KmiAvP5IxzqW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "dzY6XKqDwt64WzPg",
+	"img": "icons/magic/unholy/beam-impact-green.webp",
+	"name": "Excoriate",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "damage",
+		"description": "<p>You burn the life force away from one living creature in range, dealing it [[/r 1d10]] damage per round.</p><p>Undead creatures are healed by this spell instead.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "1d10",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

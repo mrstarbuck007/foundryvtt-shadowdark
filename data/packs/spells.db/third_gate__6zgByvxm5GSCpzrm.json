@@ -1,0 +1,32 @@
+{
+	"_id": "6zgByvxm5GSCpzrm",
+	"_key": "!items!6zgByvxm5GSCpzrm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "hgeIOw6VhhR64apw",
+	"img": "icons/magic/control/hypnosis-mesmerism-eye-tan.webp",
+	"name": "Third Gate",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You read the mind of a creature within range, learning one of its memories of your choosing.</p><p>In place of the above effect, you can permanently erase one memory of a creature within range.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

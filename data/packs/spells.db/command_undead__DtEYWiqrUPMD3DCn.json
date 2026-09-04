@@ -1,0 +1,32 @@
+{
+	"_id": "DtEYWiqrUPMD3DCn",
+	"_key": "!items!DtEYWiqrUPMD3DCn",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "2PeZ7HTShdwTLq4R",
+	"img": "icons/magic/death/hand-dirt-undead-zombie.webp",
+	"name": "Command Undead",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You issue a verbal command to one undead creature of LV 5 or less in range.</p><p>The command must be one word, such as &quot;stop.&quot; The target obeys the command for as long as you focus.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

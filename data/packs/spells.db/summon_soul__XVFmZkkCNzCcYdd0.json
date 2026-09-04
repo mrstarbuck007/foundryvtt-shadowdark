@@ -1,0 +1,32 @@
+{
+	"_id": "XVFmZkkCNzCcYdd0",
+	"_key": "!items!XVFmZkkCNzCcYdd0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "3b8VSnawJf621a8G",
+	"img": "icons/creatures/magical/spirit-undead-ghost-purple.webp",
+	"name": "Summon Soul",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>An undead being comes to your aid. You must know the being’s name in order to summon it.</p><p>The being appears within near of you. It acts of free will to aid you on your turn, treating you as an ally for the spell’s duration.</p><p>If you harm the being, the spell ends. After 10 rounds, the being departs.</p><p>You cannot cast this spell again to summon the same being for a year’s time.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "10"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

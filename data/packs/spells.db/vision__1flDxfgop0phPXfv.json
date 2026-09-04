@@ -1,0 +1,32 @@
+{
+	"_id": "1flDxfgop0phPXfv",
+	"_key": "!items!1flDxfgop0phPXfv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "dzY6XKqDwt64WzPg",
+	"img": "icons/magic/perception/orb-crystal-ball-scrying-blue.webp",
+	"name": "Vision",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You can only cast this spell while standing in a river.</p><p>The waters around you become the River of Death itself, and visions dance on its surface.</p><p>For the spell’s duration, you can see and hear a creature or location you choose.</p><p>Treat a failed spellcasting check for this spell as a critical failure.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,32 @@
+{
+	"_id": "942cT4Z6Xzsj6yKO",
+	"_key": "!items!942cT4Z6Xzsj6yKO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "3b8VSnawJf621a8G",
+	"img": "icons/magic/water/wave-water-rolling-blue.webp",
+	"name": "Riverwalk",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>You can only cast this spell while standing in a river.</p><p>You briefly step into the River of Death, sliding between space and time itself.</p><p>You and any willing creatures you choose within close range teleport to another river you’ve stood in on your same plane.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

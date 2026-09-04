@@ -1,0 +1,32 @@
+{
+	"_id": "UnHvQYey13uNwlIA",
+	"_key": "!items!UnHvQYey13uNwlIA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "jL3VmUFV2esiWMbr",
+	"img": "icons/magic/symbols/rune-sigil-horned-blue.webp",
+	"name": "Seal Soul",
+	"system": {
+		"class": [
+			"Compendium.shadowdark.classes.Item.qv1I4sO8DVzKGUgy"
+		],
+		"damageType": "none",
+		"description": "<p>One dead body you touch becomes sealed against necromantic energy.</p><p>This body cannot be used to create an undead creature or be possessed by a dead spirit.</p>",
+		"duration": {
+			"type": "permanent",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}
