@@ -1,0 +1,33 @@
+{
+	"_id": "t6VTSqIQbBxddW2J",
+	"_key": "!items!t6VTSqIQbBxddW2J",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "IqNdoEHw03QSMA55",
+	"img": "icons/magic/nature/leaf-drip-light-green.webp",
+	"name": "Regrowth",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>One creature you touch regains 1 HP or regrows a lost body part of your choice.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

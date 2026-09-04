@@ -1,0 +1,33 @@
+{
+	"_id": "wPIAw70XJ5UEDVt0",
+	"_key": "!items!wPIAw70XJ5UEDVt0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DzARPzBmfc6ssBqS",
+	"img": "icons/creatures/reptiles/snake-poised-white.webp",
+	"name": "Serpent",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>An ordinary stick you touch turns into a loyal cobra.</p><p>The cobra acts on your turn and follows simple instructions you give it, such as &quot;attack&quot; or &quot;wait.&quot;</p><p>When the spell ends, the cobra slithers away.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

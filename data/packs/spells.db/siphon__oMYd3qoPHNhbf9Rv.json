@@ -1,0 +1,33 @@
+{
+	"_id": "oMYd3qoPHNhbf9Rv",
+	"_key": "!items!oMYd3qoPHNhbf9Rv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "EDfN0tPLXXsmyaEn",
+	"img": "icons/magic/control/energy-stream-link-white.webp",
+	"name": "Siphon",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>You suppress all the magical effects on one creature or from one object in range for the spell’s duration.</p><p>You also suppress the effects of all spells cast on the target except this spell for its duration.</p><p>You have ADV on the next spell you cast after this one ends.</p><p>If your deity is @UUID[Compendium.shadowdark.patrons-and-deities.Item.w9GdZSr5XYNjIeeR]{Ord}, cast this spell with ADV.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

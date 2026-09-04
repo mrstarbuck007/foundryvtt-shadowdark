@@ -1,0 +1,33 @@
+{
+	"_id": "uLtEeC6ebvVOkvBh",
+	"_key": "!items!uLtEeC6ebvVOkvBh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DzARPzBmfc6ssBqS",
+	"img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
+	"name": "Dispel Magic",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>End one spell that affects one target you can see in range.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

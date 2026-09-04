@@ -1,0 +1,33 @@
+{
+	"_id": "Ft9n52cHyGV2iX0K",
+	"_key": "!items!Ft9n52cHyGV2iX0K",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Gi0Kjg7bAAVEqjvM",
+	"img": "icons/magic/perception/eye-slit-pink.webp",
+	"name": "Detect Magic",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>You can sense the presence of magic within near range for the spell’s duration. If you focus for two rounds, you discern its general properties.</p><p>Full barriers block this spell.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.74WjFjHmUmLAiNGC]{Spell Effect: Detect Magic}</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

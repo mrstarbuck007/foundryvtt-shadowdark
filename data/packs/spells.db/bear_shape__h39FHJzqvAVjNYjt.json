@@ -1,0 +1,33 @@
+{
+	"_id": "h39FHJzqvAVjNYjt",
+	"_key": "!items!h39FHJzqvAVjNYjt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "EDfN0tPLXXsmyaEn",
+	"img": "icons/commodities/claws/claws-bear-brown-white.webp",
+	"name": "Bear Shape",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>You and your gear transform into a bear of your choice for the spell’s duration.</p><p>You assume the bear’s STR, DEX, CON, HP, AC, speed, attacks, and physical characteristics, but retain your INT, WIS, and CHA.</p><p>You can cast spells in this form.</p><p>If you go to 0 HP, you revert to your true shape at 0 HP.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "10"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

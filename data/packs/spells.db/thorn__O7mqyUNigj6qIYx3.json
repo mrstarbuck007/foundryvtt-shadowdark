@@ -1,0 +1,33 @@
+{
+	"_id": "O7mqyUNigj6qIYx3",
+	"_key": "!items!O7mqyUNigj6qIYx3",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Gi0Kjg7bAAVEqjvM",
+	"img": "icons/consumables/plants/thorned-curled-vine-green.webp",
+	"name": "Thorn",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>A weapon or suit of armor you touch sprouts dense thorns.</p><p>Weapons become magical and deal +[[/r 1d4]] damage for the spell’s duration.</p><p>Armor becomes magical and deals [[/r 1d4]] damage to anyone who hits its wearer with a melee attack for the spell’s duration.</p><p>If your deity is @UUID[Compendium.shadowdark.patrons-and-deities.Item.FhDBOHUircue27aV]{Gede}, cast this spell with ADV.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

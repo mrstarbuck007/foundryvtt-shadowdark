@@ -164,6 +164,10 @@
 	* The link takes you to the spell in the compendium and does not go stale when the book is reprinted
 - Fixed three magic item links rendering with a doubled space, from a stray space inside the link text
 - Added the Magic Weapon Benefits table, which the Paladin's Named Blade rolls on at 3rd level
+- Added ten neutral priest spells from Shadowdark RPG: The Western Reaches
+	* A priest who serves a neutral god sees these alongside the priest spells every priest can cast
+	* Detect Magic and Dispel Magic already existed for the wizard and now have a priest version
+	* Feast, Siphon and Thorn link the deity each one names
 - Added ten lawful priest spells from Shadowdark RPG: The Western Reaches
 	* A priest who serves a lawful god sees these alongside the priest spells every priest can cast
 	* Revitalize heals a number of d10s that grows with your level, and Wheel of Flames rolls its damage and links the paralysed condition

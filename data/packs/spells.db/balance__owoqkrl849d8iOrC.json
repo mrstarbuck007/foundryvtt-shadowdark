@@ -1,0 +1,33 @@
+{
+	"_id": "owoqkrl849d8iOrC",
+	"_key": "!items!owoqkrl849d8iOrC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "S2MLlGpmsIRnqf6Z",
+	"img": "icons/magic/earth/construct-stone.webp",
+	"name": "Balance",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>One creature you touch of LV 10 or less becomes partially or fully petrified in the exact manner of your choosing (for instance, one limb, both eyes, whole body).</p><p>You also become petrified in the exact same way.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

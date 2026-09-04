@@ -1,0 +1,33 @@
+{
+	"_id": "64AqKPCoxlarYjgO",
+	"_key": "!items!64AqKPCoxlarYjgO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "S2MLlGpmsIRnqf6Z",
+	"img": "icons/magic/nature/root-vine-barrier-wall-brown.webp",
+	"name": "Root",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>One creature you touch is immune to damage for the spell’s duration.</p><p>You cannot cast this spell again until you complete penance.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

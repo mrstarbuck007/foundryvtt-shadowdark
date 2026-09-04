@@ -1,0 +1,33 @@
+{
+	"_id": "P2UB5gN4Dwa7iWuY",
+	"_key": "!items!P2UB5gN4Dwa7iWuY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "IqNdoEHw03QSMA55",
+	"img": "icons/consumables/food/bowl-stew-brown.webp",
+	"name": "Feast",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>All food within near of you is blessed by @UUID[Compendium.shadowdark.patrons-and-deities.Item.FhDBOHUircue27aV]{Gede}’s bounty.</p><p>Creatures who willingly join you in eating the food who are not friendly toward you become so for one day. This effect ends if you do anything to harm them.</p><p>Creatures who are already friendly toward you regain [[/r 1d6]] HP and may make an additional check to end any poisons or diseases affecting them.</p><p>A being can only be affected by this spell once per day.</p><p>Uneaten food loses the effects of this spell after the meal is over.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}
