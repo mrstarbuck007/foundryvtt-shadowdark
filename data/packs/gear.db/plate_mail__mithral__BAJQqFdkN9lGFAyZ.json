@@ -1,24 +1,24 @@
 {
-	"_id": "EoTEHXApVDS7rHfw",
-	"_key": "!items!EoTEHXApVDS7rHfw",
+	"_id": "BAJQqFdkN9lGFAyZ",
+	"_key": "!items!BAJQqFdkN9lGFAyZ",
 	"effects": [
 	],
 	"flags": {
 	},
 	"folder": "np4FRJ73NRBEQKnS",
-	"img": "icons/equipment/chest/breastplate-layered-leather-brown-silver.webp",
-	"name": "Leather armor",
+	"img": "icons/equipment/chest/breastplate-layered-steel-blue-gold.webp",
+	"name": "Plate mail, mithral",
 	"system": {
 		"ac": {
-			"attribute": "dex",
-			"base": 11,
+			"attribute": "",
+			"base": 15,
 			"modifier": 0
 		},
-		"baseArmor": "",
+		"baseArmor": "plate-mail",
 		"broken": false,
 		"cost": {
 			"cp": 0,
-			"gp": 10,
+			"gp": 520,
 			"sp": 0
 		},
 		"description": "",
@@ -32,7 +32,7 @@
 		"slots": {
 			"free_carry": 0,
 			"per_slot": 1,
-			"slots_used": 1
+			"slots_used": 2
 		},
 		"source": {
 			"title": "core-rules"

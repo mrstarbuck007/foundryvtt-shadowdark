@@ -7,7 +7,7 @@
 	},
 	"folder": "np4FRJ73NRBEQKnS",
 	"img": "icons/equipment/chest/breastplate-layered-steel.webp",
-	"name": "Plate Mail",
+	"name": "Plate mail",
 	"system": {
 		"ac": {
 			"attribute": "",
@@ -27,7 +27,8 @@
 		"magicItem": false,
 		"properties": [
 			"Compendium.shadowdark.properties.Item.WhfSBiji8VG1mMzV",
-			"Compendium.shadowdark.properties.Item.kBLs47xhX1snaDGA"
+			"Compendium.shadowdark.properties.Item.kBLs47xhX1snaDGA",
+			"Compendium.shadowdark.properties.Item.YL6t7QJMAXh8b29M"
 		],
 		"quantity": 1,
 		"slots": {

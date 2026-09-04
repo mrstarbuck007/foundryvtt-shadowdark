@@ -14,6 +14,8 @@
 - [#1420] Show Effects tab on non-Magic Item items as well
 - Added the new basic gear from Shadowdark RPG: The Western Reaches, along with the book itself as a selectable source and a new candle light source template
 - Added the new weapons from Shadowdark RPG: The Western Reaches, along with the Charge, Devastating and Mounted weapon properties
+- Added the mithral shields from Shadowdark RPG: The Western Reaches and the Mount armor property, and brought the existing armor properties into line with the book
+	* The armor is now named as the book writes it, so Mithral Chainmail is now Chainmail, mithral and Plate Mail is now Plate mail
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry

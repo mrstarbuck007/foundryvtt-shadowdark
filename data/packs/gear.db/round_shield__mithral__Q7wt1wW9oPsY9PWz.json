@@ -1,0 +1,45 @@
+{
+	"_id": "Q7wt1wW9oPsY9PWz",
+	"_key": "!items!Q7wt1wW9oPsY9PWz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "np4FRJ73NRBEQKnS",
+	"img": "icons/equipment/shield/round-wooden-reinforced-boss-steel.webp",
+	"name": "Round shield, mithral",
+	"system": {
+		"ac": {
+			"attribute": "",
+			"base": 0,
+			"modifier": 2
+		},
+		"baseArmor": "",
+		"broken": false,
+		"cost": {
+			"cp": 0,
+			"gp": 60,
+			"sp": 0
+		},
+		"description": "",
+		"equipped": false,
+		"isAmmunition": false,
+		"magicItem": false,
+		"properties": [
+			"Compendium.shadowdark.properties.Item.jq0m0lGb7QOCSJXL",
+			"Compendium.shadowdark.properties.Item.61gM0DuJQwLbIBwu",
+			"Compendium.shadowdark.properties.Item.bAzl6RH1PW95ZkFE"
+		],
+		"quantity": 1,
+		"slots": {
+			"free_carry": 0,
+			"per_slot": 1,
+			"slots_used": 0
+		},
+		"source": {
+			"title": "western-reaches"
+		},
+		"stashed": false
+	},
+	"type": "Armor"
+}

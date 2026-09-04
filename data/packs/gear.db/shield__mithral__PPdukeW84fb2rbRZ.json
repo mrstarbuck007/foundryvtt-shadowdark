@@ -1,24 +1,24 @@
 {
-	"_id": "BAJQqFdkN9lGFAyZ",
-	"_key": "!items!BAJQqFdkN9lGFAyZ",
+	"_id": "PPdukeW84fb2rbRZ",
+	"_key": "!items!PPdukeW84fb2rbRZ",
 	"effects": [
 	],
 	"flags": {
 	},
 	"folder": "np4FRJ73NRBEQKnS",
-	"img": "icons/equipment/chest/breastplate-layered-steel-blue-gold.webp",
-	"name": "Mithral Plate Mail",
+	"img": "icons/equipment/shield/heater-steel-grey.webp",
+	"name": "Shield, mithral",
 	"system": {
 		"ac": {
 			"attribute": "",
-			"base": 15,
-			"modifier": 0
+			"base": 0,
+			"modifier": 2
 		},
-		"baseArmor": "plate-mail",
+		"baseArmor": "",
 		"broken": false,
 		"cost": {
 			"cp": 0,
-			"gp": 520,
+			"gp": 40,
 			"sp": 0
 		},
 		"description": "",
@@ -26,15 +26,17 @@
 		"isAmmunition": false,
 		"magicItem": false,
 		"properties": [
+			"Compendium.shadowdark.properties.Item.jq0m0lGb7QOCSJXL",
+			"Compendium.shadowdark.properties.Item.61gM0DuJQwLbIBwu"
 		],
 		"quantity": 1,
 		"slots": {
 			"free_carry": 0,
 			"per_slot": 1,
-			"slots_used": 2
+			"slots_used": 0
 		},
 		"source": {
-			"title": "core-rules"
+			"title": "western-reaches"
 		},
 		"stashed": false
 	},

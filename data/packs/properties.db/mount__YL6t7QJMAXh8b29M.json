@@ -1,0 +1,21 @@
+{
+	"_id": "YL6t7QJMAXh8b29M",
+	"_key": "!items!YL6t7QJMAXh8b29M",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "HwVNTdYe7cKVBJC7",
+	"img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+	"name": "Mount",
+	"system": {
+		"description": "<p>Mounts can wear this armor. The armor's properties affect the mount.</p>",
+		"itemType": "armor",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Property"
+}

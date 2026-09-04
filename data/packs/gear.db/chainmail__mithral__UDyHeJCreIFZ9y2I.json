@@ -7,7 +7,7 @@
 	},
 	"folder": "np4FRJ73NRBEQKnS",
 	"img": "icons/equipment/chest/breastplate-layered-leather-green.webp",
-	"name": "Mithral Chainmail",
+	"name": "Chainmail, mithral",
 	"system": {
 		"ac": {
 			"attribute": "dex",
@@ -26,6 +26,7 @@
 		"isAmmunition": false,
 		"magicItem": false,
 		"properties": [
+			"Compendium.shadowdark.properties.Item.YL6t7QJMAXh8b29M"
 		],
 		"quantity": 1,
 		"slots": {
