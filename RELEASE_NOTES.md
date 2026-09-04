@@ -47,6 +47,8 @@
 - Fixed the Pike having a close range instead of double close, adding the missing double close range in the process
 - Fixed the Round Shield not counting as a shield, so equipping it now correctly unequips or switches two-handed weapons
 - Fixed a typo in the Bard's level 9-10 neutral title, which read Trushbearer instead of Truthbearer
+- Fixed the Basilisk Warrior's Petrifying Gaze not being rollable, as it had no ability or DC set to roll against
+- Fixed a typo in the Basilisk Warrior's description, which read basilik instead of basilisk
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin

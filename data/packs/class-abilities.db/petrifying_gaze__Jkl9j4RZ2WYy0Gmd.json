@@ -9,8 +9,8 @@
 	"img": "icons/creatures/eyes/lizard-single-slit-blue.webp",
 	"name": "Petrifying Gaze",
 	"system": {
-		"ability": "",
-		"dc": 10,
+		"ability": "con",
+		"dc": 15,
 		"description": "<p>One creature of your level or less that meets your gaze must pass a DC 15 CON check or be petrified for 1d4 rounds. It still takes damage as normal while petrified.</p><p>You can use this talent a number of times per day equal to your CON modifier (minimum 1).</p>",
 		"group": "Basilisk Warrior",
 		"limitedUses": true,
