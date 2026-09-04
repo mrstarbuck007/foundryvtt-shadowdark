@@ -1,0 +1,16 @@
+{
+	"_id": "ncLh1U8gtKg6ZrS9",
+	"_key": "!tables.results!lfYefZFdZXTYGo0F.ncLh1U8gtKg6ZrS9",
+	"description": "<b>Salt!</b> You're surrounded by a ring of salt and can't touch it or pass through it until something breaks the ring.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		11,
+		11
+	],
+	"type": "text",
+	"weight": 1
+}

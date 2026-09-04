@@ -1,0 +1,16 @@
+{
+	"_id": "yiqk2jeekNahssI7",
+	"_key": "!tables.results!vh4WetHaNMhG1DGG.yiqk2jeekNahssI7",
+	"description": "<b>Mother of Night!</b> You displease the Dark Mother and lose the ability to cast this spell until atoning to her.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "z3LVrDqKuxMktRys",
+	"_key": "!tables.results!vh4WetHaNMhG1DGG.z3LVrDqKuxMktRys",
+	"description": "<b>Tongue of dog!</b> Your tongue lolls every time you try to cast a spell of a random tier, ruining the magic. This persists until you complete a rest.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

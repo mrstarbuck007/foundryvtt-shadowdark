@@ -1,0 +1,17 @@
+{
+	"_id": "kpDhvNOi8nhT57wq",
+	"_key": "!tables.results!vh4WetHaNMhG1DGG.kpDhvNOi8nhT57wq",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.rollable-tables.RollTable.vh4WetHaNMhG1DGG",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Diabolical Mishap Tier 4-5",
+	"range": [
+		1,
+		1
+	],
+	"type": "document",
+	"weight": 1
+}

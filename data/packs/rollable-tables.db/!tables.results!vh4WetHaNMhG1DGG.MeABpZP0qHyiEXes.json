@@ -1,0 +1,16 @@
+{
+	"_id": "MeABpZP0qHyiEXes",
+	"_key": "!tables.results!vh4WetHaNMhG1DGG.MeABpZP0qHyiEXes",
+	"description": "<b>Nemesis!</b> Somewhere, a child is born who will grow up to become a mighty, sworn enemy to you.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		12,
+		12
+	],
+	"type": "text",
+	"weight": 1
+}

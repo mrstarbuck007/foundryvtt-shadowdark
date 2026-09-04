@@ -1,0 +1,16 @@
+{
+	"_id": "WXut5rEMOg7LgcsT",
+	"_key": "!tables.results!vh4WetHaNMhG1DGG.WXut5rEMOg7LgcsT",
+	"description": "<b>Maelstrom!</b> Roll twice and combine both effects (reroll any further 1s).",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

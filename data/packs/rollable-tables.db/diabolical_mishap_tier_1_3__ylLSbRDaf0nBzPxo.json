@@ -1,0 +1,17 @@
+{
+	"_id": "ylLSbRDaf0nBzPxo",
+	"_key": "!tables.results!lfYefZFdZXTYGo0F.ylLSbRDaf0nBzPxo",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.rollable-tables.RollTable.lfYefZFdZXTYGo0F",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Diabolical Mishap Tier 1-3",
+	"range": [
+		1,
+		1
+	],
+	"type": "document",
+	"weight": 1
+}

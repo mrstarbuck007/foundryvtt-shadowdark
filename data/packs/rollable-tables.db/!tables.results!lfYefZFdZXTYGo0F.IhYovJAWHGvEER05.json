@@ -1,0 +1,16 @@
+{
+	"_id": "IhYovJAWHGvEER05",
+	"_key": "!tables.results!lfYefZFdZXTYGo0F.IhYovJAWHGvEER05",
+	"description": "<b>Cobwebs!</b> Mental cobwebs cloud your mind; you can't cast this spell again for a week.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "sgkkjxA5OWpkU8I7",
+	"_key": "!tables.results!vh4WetHaNMhG1DGG.sgkkjxA5OWpkU8I7",
+	"description": "<b>The Willowman!</b> You summon @UUID[Compendium.shadowdark.patrons-and-deities.Item.YiYcBAvmzIlXK53d]{The Willowman} (who is angry with you) in a space near to you. He stays for [[/r 1d6]] rounds before disappearing from whence he came.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

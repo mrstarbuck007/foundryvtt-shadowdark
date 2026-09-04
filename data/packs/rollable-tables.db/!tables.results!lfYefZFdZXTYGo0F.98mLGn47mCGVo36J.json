@@ -1,0 +1,16 @@
+{
+	"_id": "98mLGn47mCGVo36J",
+	"_key": "!tables.results!lfYefZFdZXTYGo0F.98mLGn47mCGVo36J",
+	"description": "<b>Siphon!</b> You have disadvantage on casting spells of the same tier or lower for the next 10 rounds.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		12,
+		12
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -41,6 +41,7 @@
 - Added the Green Knight class from Shadowdark RPG: The Western Reaches
 	* Includes its Rooted talent, its class talent table, and its spells known table
 	* It casts druid spells, which the book describes as a subcategory of wizard spells, so it carries its own spell list for now
+- Added the Diabolical Mishap tables the Knight of St. Ydris rolls on for a natural 1
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry
@@ -60,6 +61,8 @@
 - Fixed a typo in the Basilisk Warrior's description, which read basilik instead of basilisk
 - Fixed every class forcing new characters to a neutral alignment
 	* The schema default was corrected previously, but the classes themselves still stored neutral, and the character generator applies whatever the class sets
+- Fixed the Knight of St. Ydris learning spells a level later than it should, and being a spell short at level 10
+- Fixed the Knight of St. Ydris' Demonic Possession, which granted its bonus to damage rolls but not attack rolls
 - Updated the Desert Rider's Mount talent to the Western Reaches wording and page reference
 
 # Chores

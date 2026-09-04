@@ -1,0 +1,16 @@
+{
+	"_id": "Kc6vMqWnE9yQE0Jm",
+	"_key": "!tables.results!vh4WetHaNMhG1DGG.Kc6vMqWnE9yQE0Jm",
+	"description": "<b>Accursed imps!</b> Cackling imps from hell swarm you, stealing three pieces of random gear and flapping away.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

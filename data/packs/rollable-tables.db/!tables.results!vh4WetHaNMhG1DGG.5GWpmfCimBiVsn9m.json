@@ -1,0 +1,16 @@
+{
+	"_id": "5GWpmfCimBiVsn9m",
+	"_key": "!tables.results!vh4WetHaNMhG1DGG.5GWpmfCimBiVsn9m",
+	"description": "<b>Catatonia!</b> You stare blankly and can't take any actions for the next hour.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

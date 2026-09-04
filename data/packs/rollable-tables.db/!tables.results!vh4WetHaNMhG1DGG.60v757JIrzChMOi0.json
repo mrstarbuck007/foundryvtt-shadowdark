@@ -1,0 +1,16 @@
+{
+	"_id": "60v757JIrzChMOi0",
+	"_key": "!tables.results!vh4WetHaNMhG1DGG.60v757JIrzChMOi0",
+	"description": "<b>Cold iron!</b> Spikes of cold iron lance from the ethereal realm, piercing you. You take [[/r 2d6]] damage and are paralyzed for 2 rounds.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		7,
+		7
+	],
+	"type": "text",
+	"weight": 1
+}

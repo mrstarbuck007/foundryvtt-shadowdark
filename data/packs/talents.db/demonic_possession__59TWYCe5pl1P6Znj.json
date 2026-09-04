@@ -9,7 +9,7 @@
 	"img": "icons/magic/unholy/silhouette-evil-horned-giant.webp",
 	"name": "Demonic Possession",
 	"system": {
-		"description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.dsFmHTTuERiQePky]{Demonic Possession}</p><p>3/day, gain a +1 bonus to your damage rolls that lasts 3 rounds. In addition, add half your level to the damage bonus (round down).</p>",
+		"description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.dsFmHTTuERiQePky]{Demonic Possession}</p><p>3/day, gain a +1 bonus to your attack and damage rolls that lasts 3 rounds. In addition, add half your level to the bonuses (round down).</p>",
 		"level": 1,
 		"properties": [
 		],

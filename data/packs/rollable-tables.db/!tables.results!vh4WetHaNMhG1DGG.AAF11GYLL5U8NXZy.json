@@ -1,0 +1,16 @@
+{
+	"_id": "AAF11GYLL5U8NXZy",
+	"_key": "!tables.results!vh4WetHaNMhG1DGG.AAF11GYLL5U8NXZy",
+	"description": "<b>Mind rot!</b> You permanently forget one random spell.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

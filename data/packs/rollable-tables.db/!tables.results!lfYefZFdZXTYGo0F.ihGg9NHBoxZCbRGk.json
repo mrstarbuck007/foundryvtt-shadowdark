@@ -1,0 +1,16 @@
+{
+	"_id": "ihGg9NHBoxZCbRGk",
+	"_key": "!tables.results!lfYefZFdZXTYGo0F.ihGg9NHBoxZCbRGk",
+	"description": "<b>Swamp gas!</b> The air fills with sulfurous gas in a near-sized cube around you. All creatures who end their turn in it are blinded and take [[/r 1d6]] damage. It lasts 3 rounds.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

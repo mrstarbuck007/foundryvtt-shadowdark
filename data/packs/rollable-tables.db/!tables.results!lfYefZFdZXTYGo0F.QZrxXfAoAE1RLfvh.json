@@ -1,0 +1,16 @@
+{
+	"_id": "QZrxXfAoAE1RLfvh",
+	"_key": "!tables.results!lfYefZFdZXTYGo0F.QZrxXfAoAE1RLfvh",
+	"description": "<b>Newt!</b> You turn into a tiny, 1 hit point newt for 3 rounds. You can't cast spells in this form.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

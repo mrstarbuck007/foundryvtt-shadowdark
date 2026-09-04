@@ -1,0 +1,16 @@
+{
+	"_id": "5XzexW7wBU4a1VSx",
+	"_key": "!tables.results!lfYefZFdZXTYGo0F.5XzexW7wBU4a1VSx",
+	"description": "<b>Wither!</b> You take [[/r 1d6]] damage per spell tier.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

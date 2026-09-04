@@ -1,0 +1,16 @@
+{
+	"_id": "czMqY5L1eA6GGswv",
+	"_key": "!tables.results!vh4WetHaNMhG1DGG.czMqY5L1eA6GGswv",
+	"description": "<b>Fiddlesticks!</b> You have disadvantage on casting all spells for the next 10 rounds.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		11,
+		11
+	],
+	"type": "text",
+	"weight": 1
+}

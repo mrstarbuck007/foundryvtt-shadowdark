@@ -1,0 +1,16 @@
+{
+	"_id": "BclDAirLHAQRRQpz",
+	"_key": "!tables.results!vh4WetHaNMhG1DGG.BclDAirLHAQRRQpz",
+	"description": "<b>Ruin!</b> You take [[/r 1d8]] damage per spell tier.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

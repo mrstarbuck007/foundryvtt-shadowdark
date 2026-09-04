@@ -1,0 +1,16 @@
+{
+	"_id": "mPuNHQWshVipCpxx",
+	"_key": "!tables.results!vh4WetHaNMhG1DGG.mPuNHQWshVipCpxx",
+	"description": "<b>Lightning blast!</b> You deal [[/r 3d6]] damage to yourself and all creatures within near.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

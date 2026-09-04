@@ -11,7 +11,7 @@
 	"system": {
 		"ability": "",
 		"dc": 10,
-		"description": "<p>3/day, gain a +1 bonus to your damage rolls that lasts 3 rounds.</p><p>In addition, add half your level to the damage bonus (round down).</p>",
+		"description": "<p>3/day, gain a +1 bonus to your attack and damage rolls that lasts 3 rounds.</p><p>In addition, add half your level to the bonuses (round down).</p>",
 		"group": "Knight of St. Ydris",
 		"limitedUses": true,
 		"loseOnFailure": false,

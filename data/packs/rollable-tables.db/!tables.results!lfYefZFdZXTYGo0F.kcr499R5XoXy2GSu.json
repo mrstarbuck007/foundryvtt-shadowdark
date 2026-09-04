@@ -1,0 +1,16 @@
+{
+	"_id": "kcr499R5XoXy2GSu",
+	"_key": "!tables.results!lfYefZFdZXTYGo0F.kcr499R5XoXy2GSu",
+	"description": "<b>@UUID[Compendium.shadowdark.patrons-and-deities.Item.bRTH2GeVuEbWw2Dw]{Shune}'s baleful gaze!</b> You can't cast this spell and another random spell again for a week.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

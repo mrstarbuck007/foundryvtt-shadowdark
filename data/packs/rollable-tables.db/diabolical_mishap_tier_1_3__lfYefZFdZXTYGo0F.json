@@ -1,0 +1,29 @@
+{
+	"_id": "lfYefZFdZXTYGo0F",
+	"_key": "!tables!lfYefZFdZXTYGo0F",
+	"description": "",
+	"displayRoll": true,
+	"flags": {
+	},
+	"folder": null,
+	"formula": "1d12",
+	"img": "icons/magic/unholy/silhouette-robe-evil-glow.webp",
+	"name": "Diabolical Mishap Tier 1-3",
+	"replacement": true,
+	"results": [
+		"gTV2vZlgkIvDSJAZ",
+		"5XzexW7wBU4a1VSx",
+		"QZrxXfAoAE1RLfvh",
+		"kcr499R5XoXy2GSu",
+		"ynyrTIOynFSiiAYo",
+		"IhYovJAWHGvEER05",
+		"GJAEhsPFXLLYiSWN",
+		"JGqJHGjIU6OzniA9",
+		"ihGg9NHBoxZCbRGk",
+		"M1BiPouvYD08wwQM",
+		"ncLh1U8gtKg6ZrS9",
+		"98mLGn47mCGVo36J",
+		"ylLSbRDaf0nBzPxo",
+		"zpu45dBmseuMVGVE"
+	]
+}

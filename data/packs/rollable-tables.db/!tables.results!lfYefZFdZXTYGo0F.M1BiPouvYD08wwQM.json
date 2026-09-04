@@ -1,0 +1,16 @@
+{
+	"_id": "M1BiPouvYD08wwQM",
+	"_key": "!tables.results!lfYefZFdZXTYGo0F.M1BiPouvYD08wwQM",
+	"description": "<b>Bat!</b> An angry bat appears on your head, flapping and clinging to your face. You are blinded for 3 rounds or until you can toss the beastie away from you.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

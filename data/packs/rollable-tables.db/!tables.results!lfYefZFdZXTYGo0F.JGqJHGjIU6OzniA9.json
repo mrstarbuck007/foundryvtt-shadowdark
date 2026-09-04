@@ -1,0 +1,16 @@
+{
+	"_id": "JGqJHGjIU6OzniA9",
+	"_key": "!tables.results!lfYefZFdZXTYGo0F.JGqJHGjIU6OzniA9",
+	"description": "<b>Double trouble!</b> You lose the ability to cast a random spell until you complete a rest.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}
