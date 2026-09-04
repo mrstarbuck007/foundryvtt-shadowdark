@@ -131,6 +131,9 @@
 - Fixed five class abilities being filed under the Bard in the compendium
 	* Parry and Tale Spinner now sit under the Duelist, Hawk Eye under the Kyzian Archer, Rooted under the Green Knight and Sun on the Water under the Monk of Yag-Kesh
 	* Teleport to Familiar was grouped as Class rather than as the Witch ability it is
+- Removed 138 dead roll table results left behind by earlier edits to the class talent tables
+	* None was listed in its table, so nothing rolled them, and every one was superseded by the Distribute to Stats table the tables now use
+	* With those gone, no result in the packs still uses the pre-v13 format that Foundry never migrates
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores
