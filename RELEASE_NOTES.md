@@ -29,6 +29,7 @@
 - Corrected the Whip's cost and melee weapon type, and the Sling's cost and missing Loading property
 - Fixed the Stave rolling no damage, as its damage die was set for one-handed use despite the weapon being two-handed
 - Fixed the Pike having a close range instead of double close, adding the missing double close range in the process
+- Fixed the Round Shield not counting as a shield, so equipping it now correctly unequips or switches two-handed weapons
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin

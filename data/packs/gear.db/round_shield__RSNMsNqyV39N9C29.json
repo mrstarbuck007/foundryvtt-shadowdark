@@ -7,11 +7,11 @@
 	},
 	"folder": "np4FRJ73NRBEQKnS",
 	"img": "icons/equipment/shield/round-wooden-boss-steel-yellow-blue.webp",
-	"name": "Round Shield",
+	"name": "Round shield",
 	"system": {
 		"ac": {
 			"attribute": "",
-			"base": null,
+			"base": 0,
 			"modifier": 2
 		},
 		"baseArmor": "",
@@ -26,6 +26,8 @@
 		"isAmmunition": false,
 		"magicItem": false,
 		"properties": [
+			"Compendium.shadowdark.properties.Item.jq0m0lGb7QOCSJXL",
+			"Compendium.shadowdark.properties.Item.61gM0DuJQwLbIBwu",
 			"Compendium.shadowdark.properties.Item.bAzl6RH1PW95ZkFE"
 		],
 		"quantity": 1,
