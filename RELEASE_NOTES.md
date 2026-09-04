@@ -164,6 +164,10 @@
 	* The link takes you to the spell in the compendium and does not go stale when the book is reprinted
 - Fixed three magic item links rendering with a doubled space, from a stray space inside the link text
 - Added the Magic Weapon Benefits table, which the Paladin's Named Blade rolls on at 3rd level
+- A talent that teaches spells from one sub-list now grants that sub-list alone
+	* Molek's Learn a Sorcerer Spell boon offers the sorcerer spells whatever the character's alignment, where before it offered whichever sub-list matched them
+	* The Green Knight likewise sees the druid spells and only those
+	* A class that picks its sub-list by alignment is unchanged, and still offers the general spells alongside it
 - Added the sixteen sorcerer spells from Shadowdark RPG: The Western Reaches
 	* They are the chaotic part of the wizard list, completing the three sub-lists at sixteen spells each
 	* Adds Protection From Good, the mirror of Protection From Evil, along with the effect it applies

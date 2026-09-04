@@ -46,7 +46,7 @@
 		},
 		"spellcasting": {
 			"ability": "wis",
-			"alignmentSource": "neutral",
+			"alignmentSource": "",
 			"baseDifficulty": 10,
 			"class": "Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs",
 			"spellsknown": {

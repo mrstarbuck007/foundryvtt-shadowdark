@@ -218,6 +218,7 @@ SHADOWDARK.EFFECT_TRANSLATIONS = {
 	"system.bonuses.stoneSkinTalent": "SHADOWDARK.talent.type.stoneSkinTalent",
 	"system.bonuses.spellcastingCheckBonus": "SHADOWDARK.talent.type.spell_bonus",
 	"system.bonuses.spellcastingClasses": "SHADOWDARK.talent.type.bonus_caster_classes",
+	"system.spellcasting.sublists": "SHADOWDARK.item.effect.predefined_effect.spellcastingSublist",
 	"system.bonuses.weaponMastery": "SHADOWDARK.talent.type.weapon_mastery",
 };
 
@@ -434,6 +435,13 @@ SHADOWDARK.PREDEFINED_EFFECTS = {
 		effectKey: "system.spellcasting.classes",
 		img: "icons/sundries/documents/document-sealed-brown-red.webp",
 		name: "SHADOWDARK.item.effect.predefined_effect.spellcastingClasses",
+		mode: "CONST.ACTIVE_EFFECT_MODES.ADD",
+	},
+	spellcastingSublist: {
+		defaultValue: "REPLACEME",
+		effectKey: "system.spellcasting.sublists",
+		img: "icons/sundries/documents/document-sealed-brown-red.webp",
+		name: "SHADOWDARK.item.effect.predefined_effect.spellcastingSublist",
 		mode: "CONST.ACTIVE_EFFECT_MODES.ADD",
 	},
 	spellDamageBonus: {

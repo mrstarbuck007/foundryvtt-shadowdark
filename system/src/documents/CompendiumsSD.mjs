@@ -145,7 +145,9 @@ export default class CompendiumsSD {
 		return CompendiumsSD._documents("Item", "Class", filterSources);
 	}
 
-	static async classSpellBook(casterClass, alignment="", filterSources=true) {
+	static async classSpellBook(casterClass, restriction={}, filterSources=true) {
+		const { alignment = "", strict = false } = restriction;
+
 		if (!casterClass) {
 			return CompendiumsSD._documents("Item", "Spell", filterSources);
 		}
@@ -155,10 +157,15 @@ export default class CompendiumsSD {
 			);
 
 			// A spell with no alignment belongs to every sub-list, and a caster
-			// with no alignment restriction sees all of them.
-			const allowed = spell => !alignment
-				|| !spell.system.alignment
-				|| spell.system.alignment === alignment;
+			// with no alignment restriction sees all of them. A strict
+			// restriction comes from a grant naming one sub-list, so it takes
+			// that sub-list alone.
+			const allowed = spell => {
+				if (!alignment) return true;
+				if (strict) return spell.system.alignment === alignment;
+				return !spell.system.alignment
+					|| spell.system.alignment === alignment;
+			};
 
 			return this._collectionFromArray(
 				documents.filter(

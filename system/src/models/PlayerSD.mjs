@@ -88,6 +88,7 @@ export default class PlayerSD extends ActorBaseSD {
 		// initilize spellcasting class
 		this.spellcasting = {
 			classes: [], // allows the use of innate spells and items of class
+			sublists: [], // "<class slug>:<alignment>" pins a granted class to one sub-list
 			allowAllItems: false, // allows the use of all spell items regardless of class
 			itemAbility: "", // override the ability used for spell items. Default is the spell's class ability.
 		};
@@ -112,6 +113,7 @@ export default class PlayerSD extends ActorBaseSD {
 
 		// dedup and sort spellcasting
 		this.spellcasting.classes = [...new Set(this.spellcasting.classes)].sort();
+		this.spellcasting.sublists = [...new Set(this.spellcasting.sublists)].sort();
 
 		// ensures allowAllItems is boolean. Any set value is converted to true
 		this.spellcasting.allowAllItems = !!this.spellcasting.allowAllItems;

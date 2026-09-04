@@ -1,6 +1,6 @@
 {
-	"_id": "Pq89Zd50sCV09vOC",
-	"_key": "!items.effects!EpojIA7OcUYQy5oG.Pq89Zd50sCV09vOC",
+	"_id": "H1UzNAi4llpEl9nT",
+	"_key": "!items.effects!eJHyUA6ULWI3cY4x.H1UzNAi4llpEl9nT",
 	"changes": [
 		{
 			"key": "system.spellcasting.classes",
@@ -12,7 +12,7 @@
 			"key": "system.spellcasting.sublists",
 			"mode": 2,
 			"priority": null,
-			"value": "wizard:neutral"
+			"value": "wizard:chaotic"
 		}
 	],
 	"description": "",
@@ -28,7 +28,7 @@
 	},
 	"flags": {
 	},
-	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"img": "icons/sundries/books/book-eye-purple.webp",
 	"name": "Spell Class",
 	"origin": null,
 	"statuses": [

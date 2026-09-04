@@ -23,8 +23,18 @@ export default class SpellBookSD extends foundry.appv1.api.FormApplication {
 	 * sub-list whatever the character's own alignment is.
 	 */
 	async _spellAlignment(spellcastingClass) {
-		// The character's own class decides the restriction, even when the list
-		// it casts from belongs to another class: a Green Knight casts from the
+		// A talent that grants one named sub-list wins, and matches strictly:
+		// a boon that teaches a sorcerer spell teaches that and nothing else,
+		// not the general spells on the wizard list.
+		const slug = spellcastingClass?.name?.slugify() ?? "";
+		const pinned = (this.actor?.system?.spellcasting?.sublists ?? [])
+			.map(entry => entry.split(":"))
+			.find(([grantedClass]) => grantedClass === slug);
+
+		if (pinned) return { alignment: pinned[1] ?? "", strict: true };
+
+		// Otherwise the character's own class decides, even when the list it
+		// casts from belongs to another class: a Green Knight casts from the
 		// wizard list but only ever sees the druid spells in it.
 		const ownClass = await fromUuid(this.actor?.system?.class ?? "");
 
@@ -32,15 +42,17 @@ export default class SpellBookSD extends foundry.appv1.api.FormApplication {
 			|| spellcastingClass?.system?.spellcasting?.alignmentSource
 			|| "";
 
-		if (source === "") return "";
-		if (source === "actor") return this.actor?.system?.alignment ?? "";
+		if (source === "") return { alignment: "", strict: false };
+		if (source === "actor") {
+			return { alignment: this.actor?.system?.alignment ?? "", strict: false };
+		}
 
 		if (source === "deity") {
 			const deity = await fromUuid(this.actor?.system?.deity ?? "");
-			return deity?.system?.alignment ?? "";
+			return { alignment: deity?.system?.alignment ?? "", strict: false };
 		}
 
-		return source;
+		return { alignment: source, strict: false };
 	}
 
 	/** @inheritdoc */
