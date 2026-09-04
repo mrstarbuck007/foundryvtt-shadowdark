@@ -46,6 +46,7 @@
 - Fixed the Stave rolling no damage, as its damage die was set for one-handed use despite the weapon being two-handed
 - Fixed the Pike having a close range instead of double close, adding the missing double close range in the process
 - Fixed the Round Shield not counting as a shield, so equipping it now correctly unequips or switches two-handed weapons
+- Fixed a typo in the Bard's level 9-10 neutral title, which read Trushbearer instead of Truthbearer
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin
