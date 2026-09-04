@@ -1,0 +1,22 @@
+{
+	"_id": "aoCACEPQ9xZACmHu",
+	"_key": "!items!aoCACEPQ9xZACmHu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/containers/ammunition/arrows-quiver-brown.webp",
+	"name": "Kyzian Quiver",
+	"system": {
+		"description": "<p>One of your arrow quivers can hold up to 80 arrows while only occupying one gear slot.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

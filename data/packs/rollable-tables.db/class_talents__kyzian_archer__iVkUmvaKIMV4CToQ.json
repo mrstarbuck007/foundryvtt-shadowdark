@@ -1,0 +1,27 @@
+{
+	"_id": "iVkUmvaKIMV4CToQ",
+	"_key": "!tables!iVkUmvaKIMV4CToQ",
+	"description": "",
+	"displayRoll": false,
+	"flags": {
+	},
+	"folder": null,
+	"formula": "2d6",
+	"img": "icons/skills/ranged/target-bullseye-arrow-blue.webp",
+	"name": "Class Talents: Kyzian Archer",
+	"replacement": true,
+	"results": [
+		"W8VAjAdKeviXlKtd",
+		"a9MFNNucCMXEQ1Mq",
+		"Jgk6EIRDCl2QXQg3",
+		"LgjHnFEU1fjtIjVG",
+		"MIQ2b2Jdfgj5D8mN",
+		"8vXOi2YP3tATC0In",
+		"mvkP8oHjUpvUgJj6",
+		"uMQb5X15BWK5SYty",
+		"n77os0Frojsd1MAu",
+		"UbDosdd4pQqHI1e1",
+		"iWPBYT7AB07dWyJz",
+		"bWeA40mrHk24TVTJ"
+	]
+}

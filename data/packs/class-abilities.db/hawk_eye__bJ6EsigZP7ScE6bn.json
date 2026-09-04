@@ -1,0 +1,30 @@
+{
+	"_id": "bJ6EsigZP7ScE6bn",
+	"_key": "!items!bJ6EsigZP7ScE6bn",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "ouQFWSadiw9Jxy42",
+	"img": "icons/skills/ranged/target-bullseye-arrow-blue.webp",
+	"name": "Hawk Eye",
+	"system": {
+		"ability": "",
+		"dc": 0,
+		"description": "<p>Three times per day, add 1 + half your level (round down) to your next ranged attack and its damage roll.</p>",
+		"group": "Kyzian Archer",
+		"limitedUses": true,
+		"loseOnFailure": false,
+		"lost": false,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"uses": {
+			"available": 3,
+			"max": 3
+		}
+	},
+	"type": "Class Ability"
+}

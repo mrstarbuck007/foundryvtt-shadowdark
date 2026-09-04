@@ -1,0 +1,22 @@
+{
+	"_id": "n4IudqWmawhupDIU",
+	"_key": "!items!n4IudqWmawhupDIU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/environment/creatures/horse-brown.webp",
+	"name": "Mount (Kyzian Archer)",
+	"system": {
+		"description": "<p>You have a warhorse with a lovely demeanor (pg. 114). It comes when you call. You can only have one such mount at a time.</p><p>Your mount has additional levels equal to half your level (round down).</p><p>While riding your mount in combat, you are not slowed by difficult terrain.</p><p>If you lose your mount, you can use your downtime to acquire and train another warhorse. Pass a [[check 15 cha]] check for the new warhorse to become your mount. Lower the DC by one step with each attempt.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

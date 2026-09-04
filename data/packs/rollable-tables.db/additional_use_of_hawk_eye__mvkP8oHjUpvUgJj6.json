@@ -1,0 +1,17 @@
+{
+	"_id": "mvkP8oHjUpvUgJj6",
+	"_key": "!tables.results!iVkUmvaKIMV4CToQ.mvkP8oHjUpvUgJj6",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.mSlPRqbqaKw9QTmK",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/ranged/target-bullseye-arrow-blue.webp",
+	"name": "Additional Use of Hawk Eye",
+	"range": [
+		10,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

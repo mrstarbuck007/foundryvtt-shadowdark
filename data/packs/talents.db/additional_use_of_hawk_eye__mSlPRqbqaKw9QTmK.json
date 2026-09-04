@@ -1,0 +1,22 @@
+{
+	"_id": "mSlPRqbqaKw9QTmK",
+	"_key": "!items!mSlPRqbqaKw9QTmK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/skills/ranged/target-bullseye-arrow-blue.webp",
+	"name": "Additional Use of Hawk Eye",
+	"system": {
+		"description": "<p>You gain one additional use of Hawk Eye each day.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

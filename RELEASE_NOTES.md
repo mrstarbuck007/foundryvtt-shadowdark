@@ -42,6 +42,9 @@
 	* Includes its Rooted talent, its class talent table, and its spells known table
 	* It casts druid spells, which the book describes as a subcategory of wizard spells, so it carries its own spell list for now
 - Added the Diabolical Mishap tables the Knight of St. Ydris rolls on for a natural 1
+- Added the Kyzian Archer class from Shadowdark RPG: The Western Reaches
+	* Includes its Hawk Eye, Kyzian Quiver and Mount talents and its class talent table
+	* The Desert Rider and Kyzian Archer mount talents are now named for their class, as they grant different things
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry

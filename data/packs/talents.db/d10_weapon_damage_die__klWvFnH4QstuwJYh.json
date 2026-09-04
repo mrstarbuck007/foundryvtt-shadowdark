@@ -1,0 +1,22 @@
+{
+	"_id": "klWvFnH4QstuwJYh",
+	"_key": "!items!klWvFnH4QstuwJYh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/skills/ranged/arrows-flying-salvo-blue-light.webp",
+	"name": "D10 Weapon Damage Die",
+	"system": {
+		"description": "<p>The damage of one weapon type you wield becomes a d10.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

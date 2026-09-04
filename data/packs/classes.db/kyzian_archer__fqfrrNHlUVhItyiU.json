@@ -1,0 +1,108 @@
+{
+	"_id": "fqfrrNHlUVhItyiU",
+	"_key": "!items!fqfrrNHlUVhItyiU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
+	"name": "Kyzian Archer",
+	"system": {
+		"alignment": "",
+		"allArmor": false,
+		"allMeleeWeapons": false,
+		"allRangedWeapons": false,
+		"allWeapons": false,
+		"armor": [
+			"Compendium.shadowdark.gear.Item.EoTEHXApVDS7rHfw"
+		],
+		"classAbilities": [
+			"Compendium.shadowdark.class-abilities.Item.bJ6EsigZP7ScE6bn"
+		],
+		"classAbilityChoiceCount": 0,
+		"classAbilityChoices": [
+		],
+		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.iVkUmvaKIMV4CToQ",
+		"description": "<p>Swift horse riders who race across the Steppes like wolf packs. They are trained in the deadly Kyzian archery style.</p>",
+		"hitPoints": "1d6",
+		"languages": {
+			"common": 0,
+			"fixed": [
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"patron": {
+			"required": false,
+			"startingBoons": 0
+		},
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"spellcasting": {
+			"ability": "",
+			"baseDifficulty": 10,
+			"class": "__not_spellcaster__",
+			"spellsknown": {
+			}
+		},
+		"talentChoiceCount": 0,
+		"talentChoices": [
+		],
+		"talents": [
+			"Compendium.shadowdark.talents.Item.L9UOqobRRutxmfgT",
+			"Compendium.shadowdark.talents.Item.aoCACEPQ9xZACmHu",
+			"Compendium.shadowdark.talents.Item.n4IudqWmawhupDIU"
+		],
+		"titles": [
+			{
+				"chaotic": "Stinger",
+				"from": 1,
+				"lawful": "Feather",
+				"neutral": "Talon",
+				"to": 2
+			},
+			{
+				"chaotic": "Deadeye",
+				"from": 3,
+				"lawful": "Striker",
+				"neutral": "Hunter",
+				"to": 4
+			},
+			{
+				"chaotic": "Frozen Wind",
+				"from": 5,
+				"lawful": "Fierce Wind",
+				"neutral": "Burning Wind",
+				"to": 6
+			},
+			{
+				"chaotic": "Black Arrow",
+				"from": 7,
+				"lawful": "Gold Arrow",
+				"neutral": "Crimson Arrow",
+				"to": 8
+			},
+			{
+				"chaotic": "Scorpion",
+				"from": 9,
+				"lawful": "Eagle",
+				"neutral": "Hawk",
+				"to": 10
+			}
+		],
+		"weapons": [
+			"Compendium.shadowdark.gear.Item.C3mc5OlKPSJNMrng",
+			"Compendium.shadowdark.gear.Item.GzA5T0aewhouRsa3",
+			"Compendium.shadowdark.gear.Item.UfHAWj5weH111Bea",
+			"Compendium.shadowdark.gear.Item.FWgFPQDKkBiTMYhd",
+			"Compendium.shadowdark.gear.Item.DKBDkJ3LcRv8scLv"
+		]
+	},
+	"type": "Class"
+}

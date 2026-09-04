@@ -1,0 +1,22 @@
+{
+	"_id": "L9UOqobRRutxmfgT",
+	"_key": "!items!L9UOqobRRutxmfgT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/skills/ranged/target-bullseye-arrow-blue.webp",
+	"name": "Hawk Eye",
+	"system": {
+		"description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.bJ6EsigZP7ScE6bn]{Hawk Eye}</p><p>Three times per day, add 1 + half your level (round down) to your next ranged attack and its damage roll.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}
