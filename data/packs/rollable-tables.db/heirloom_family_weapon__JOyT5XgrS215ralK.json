@@ -1,0 +1,17 @@
+{
+	"_id": "JOyT5XgrS215ralK",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.JOyT5XgrS215ralK",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.J1SgaiS6Kt3n726U",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Heirloom family weapon",
+	"range": [
+		99,
+		100
+	],
+	"type": "document",
+	"weight": 1
+}

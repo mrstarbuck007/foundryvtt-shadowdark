@@ -1,0 +1,17 @@
+{
+	"_id": "oFNpbeqpXV8ApOqY",
+	"_key": "!tables.results!yftRYjCKndGfznUY.oFNpbeqpXV8ApOqY",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.JIm1AJQtX5hZz4Ib",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Father's old cloak",
+	"range": [
+		77,
+		78
+	],
+	"type": "document",
+	"weight": 1
+}

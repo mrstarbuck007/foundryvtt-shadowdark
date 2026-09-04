@@ -1,0 +1,17 @@
+{
+	"_id": "E2R58CgxnbCZyzJZ",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.E2R58CgxnbCZyzJZ",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.AFTg021rRlh6wTNz",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Delicate wind chime",
+	"range": [
+		1,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

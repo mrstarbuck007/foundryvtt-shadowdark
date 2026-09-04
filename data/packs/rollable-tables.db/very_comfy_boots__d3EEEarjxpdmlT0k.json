@@ -1,0 +1,17 @@
+{
+	"_id": "d3EEEarjxpdmlT0k",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.d3EEEarjxpdmlT0k",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.E4C0EvH1yDqHpgv9",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Very comfy boots",
+	"range": [
+		43,
+		44
+	],
+	"type": "document",
+	"weight": 1
+}

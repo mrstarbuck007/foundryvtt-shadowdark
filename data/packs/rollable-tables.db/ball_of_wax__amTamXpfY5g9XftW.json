@@ -1,0 +1,17 @@
+{
+	"_id": "amTamXpfY5g9XftW",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.amTamXpfY5g9XftW",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.aagoAqQksQWKlzHr",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Ball of wax",
+	"range": [
+		1,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "I6zWbnX4GmEDqzZ2",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.I6zWbnX4GmEDqzZ2",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.4WqvVvxsV2uWcCI0",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Ceramic ocarina",
+	"range": [
+		81,
+		82
+	],
+	"type": "document",
+	"weight": 1
+}

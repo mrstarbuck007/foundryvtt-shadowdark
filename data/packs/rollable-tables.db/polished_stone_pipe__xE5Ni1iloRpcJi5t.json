@@ -1,0 +1,17 @@
+{
+	"_id": "xE5Ni1iloRpcJi5t",
+	"_key": "!tables.results!yftRYjCKndGfznUY.xE5Ni1iloRpcJi5t",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.H2S001ZwNT1IhQQy",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Polished stone pipe",
+	"range": [
+		3,
+		4
+	],
+	"type": "document",
+	"weight": 1
+}

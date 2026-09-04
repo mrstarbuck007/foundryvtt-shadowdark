@@ -1,0 +1,17 @@
+{
+	"_id": "W01djLvY3JfRWyZO",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.W01djLvY3JfRWyZO",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.5xxrSN6iNts3HEaJ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Fox tail hat",
+	"range": [
+		37,
+		38
+	],
+	"type": "document",
+	"weight": 1
+}

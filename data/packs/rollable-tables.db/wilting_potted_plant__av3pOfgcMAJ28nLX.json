@@ -1,0 +1,17 @@
+{
+	"_id": "av3pOfgcMAJ28nLX",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.av3pOfgcMAJ28nLX",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.mYCouQ77EXjs6U0O",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Wilting potted plant",
+	"range": [
+		33,
+		34
+	],
+	"type": "document",
+	"weight": 1
+}

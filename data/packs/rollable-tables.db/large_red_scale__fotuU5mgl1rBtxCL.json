@@ -1,0 +1,17 @@
+{
+	"_id": "fotuU5mgl1rBtxCL",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.fotuU5mgl1rBtxCL",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ThIT1kywnpaA1SIL",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Large red scale",
+	"range": [
+		5,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

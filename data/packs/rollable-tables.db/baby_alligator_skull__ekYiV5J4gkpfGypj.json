@@ -1,0 +1,17 @@
+{
+	"_id": "ekYiV5J4gkpfGypj",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.ekYiV5J4gkpfGypj",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.IkerOO5DbixEbhCN",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Baby alligator skull",
+	"range": [
+		43,
+		44
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "FVOqIrke7EH0SznQ",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.FVOqIrke7EH0SznQ",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ytlODcblg9ecszST",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Leather hat with feather",
+	"range": [
+		73,
+		74
+	],
+	"type": "document",
+	"weight": 1
+}

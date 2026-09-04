@@ -1,0 +1,17 @@
+{
+	"_id": "Vjlirb7EhJ57LYRk",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.Vjlirb7EhJ57LYRk",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.bUZF9l32MfwfQrLU",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Ball of knotted string",
+	"range": [
+		43,
+		44
+	],
+	"type": "document",
+	"weight": 1
+}

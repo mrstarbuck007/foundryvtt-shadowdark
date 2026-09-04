@@ -1,0 +1,17 @@
+{
+	"_id": "TPeCCDRJDzTi5d5b",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.TPeCCDRJDzTi5d5b",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.02dYe0EQKZDyVokV",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "String of tiny silver bells",
+	"range": [
+		85,
+		86
+	],
+	"type": "document",
+	"weight": 1
+}

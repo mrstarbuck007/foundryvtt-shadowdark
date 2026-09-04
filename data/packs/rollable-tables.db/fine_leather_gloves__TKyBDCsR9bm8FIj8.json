@@ -1,0 +1,17 @@
+{
+	"_id": "TKyBDCsR9bm8FIj8",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.TKyBDCsR9bm8FIj8",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.fQouRCDOCdVlnNqg",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Fine leather gloves",
+	"range": [
+		31,
+		32
+	],
+	"type": "document",
+	"weight": 1
+}

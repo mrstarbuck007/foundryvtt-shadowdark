@@ -1,0 +1,17 @@
+{
+	"_id": "Wuzv22GIlRtzkSa5",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.Wuzv22GIlRtzkSa5",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ERpWYE5soRn9KQo4",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Jar of fermented yak milk",
+	"range": [
+		77,
+		78
+	],
+	"type": "document",
+	"weight": 1
+}

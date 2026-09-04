@@ -1,0 +1,17 @@
+{
+	"_id": "HMVAJlmDDOKgAg1S",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.HMVAJlmDDOKgAg1S",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.SR5degEnBTkpQjkC",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Seeds of a rare flower",
+	"range": [
+		85,
+		86
+	],
+	"type": "document",
+	"weight": 1
+}

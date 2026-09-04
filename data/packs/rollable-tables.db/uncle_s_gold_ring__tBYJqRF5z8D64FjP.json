@@ -1,0 +1,17 @@
+{
+	"_id": "tBYJqRF5z8D64FjP",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.tBYJqRF5z8D64FjP",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.bNZ3XoR9S5IM3wwx",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Uncle's gold ring",
+	"range": [
+		99,
+		100
+	],
+	"type": "document",
+	"weight": 1
+}

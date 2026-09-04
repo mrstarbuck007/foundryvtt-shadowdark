@@ -1,0 +1,17 @@
+{
+	"_id": "8uAQG6aqwdfgzuSb",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.8uAQG6aqwdfgzuSb",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.PxvrWUj1ZQDeghiR",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bundle of scented twigs",
+	"range": [
+		81,
+		82
+	],
+	"type": "document",
+	"weight": 1
+}

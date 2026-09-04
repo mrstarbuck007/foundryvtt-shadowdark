@@ -1,0 +1,17 @@
+{
+	"_id": "6C9Q2ByDKzvekxTn",
+	"_key": "!tables.results!yftRYjCKndGfznUY.6C9Q2ByDKzvekxTn",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.KsBzHjUJzv7M8Fon",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bone beard comb",
+	"range": [
+		55,
+		56
+	],
+	"type": "document",
+	"weight": 1
+}

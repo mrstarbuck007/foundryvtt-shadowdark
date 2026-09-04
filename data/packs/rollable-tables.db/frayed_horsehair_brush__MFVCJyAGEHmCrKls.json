@@ -1,0 +1,17 @@
+{
+	"_id": "MFVCJyAGEHmCrKls",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.MFVCJyAGEHmCrKls",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.3cS7QiWBu5DB4yMm",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Frayed horsehair brush",
+	"range": [
+		33,
+		34
+	],
+	"type": "document",
+	"weight": 1
+}

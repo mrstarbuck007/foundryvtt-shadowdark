@@ -1,0 +1,17 @@
+{
+	"_id": "XXJPalfGKhmUynL3",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.XXJPalfGKhmUynL3",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.YBTin97dMTdtLnOQ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Small meteorite chunk",
+	"range": [
+		15,
+		16
+	],
+	"type": "document",
+	"weight": 1
+}

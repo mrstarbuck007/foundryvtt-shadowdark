@@ -1,0 +1,17 @@
+{
+	"_id": "BUpNyXiiRdG86r7p",
+	"_key": "!tables.results!yftRYjCKndGfznUY.BUpNyXiiRdG86r7p",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.fIQGHTviPQ1CTE0c",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Jeweler's loupe",
+	"range": [
+		65,
+		66
+	],
+	"type": "document",
+	"weight": 1
+}

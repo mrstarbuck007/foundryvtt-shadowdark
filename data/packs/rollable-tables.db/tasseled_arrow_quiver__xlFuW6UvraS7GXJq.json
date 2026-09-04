@@ -1,0 +1,17 @@
+{
+	"_id": "xlFuW6UvraS7GXJq",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.xlFuW6UvraS7GXJq",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Xjlq9AqtVo1f2f6w",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Tasseled arrow quiver",
+	"range": [
+		39,
+		40
+	],
+	"type": "document",
+	"weight": 1
+}

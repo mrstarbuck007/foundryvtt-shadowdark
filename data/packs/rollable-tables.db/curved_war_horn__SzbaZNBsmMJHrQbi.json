@@ -1,0 +1,17 @@
+{
+	"_id": "SzbaZNBsmMJHrQbi",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.SzbaZNBsmMJHrQbi",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.JLKhVprbTVfHDYNi",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Curved war horn",
+	"range": [
+		45,
+		46
+	],
+	"type": "document",
+	"weight": 1
+}

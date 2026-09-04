@@ -1,0 +1,17 @@
+{
+	"_id": "uGnDjGJL2wIjMZ8A",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.uGnDjGJL2wIjMZ8A",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.e0lldpWnRRoBs5Na",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Copper tooth caps",
+	"range": [
+		7,
+		8
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "zu0CWJWQGpfD9cSs",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.zu0CWJWQGpfD9cSs",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.M6t14dWLWBOG1Z4T",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bag of carrots",
+	"range": [
+		33,
+		34
+	],
+	"type": "document",
+	"weight": 1
+}

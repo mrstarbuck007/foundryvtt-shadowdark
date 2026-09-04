@@ -1,0 +1,17 @@
+{
+	"_id": "144ELAct1Pvzw83L",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.144ELAct1Pvzw83L",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.LM3rdeR7EHR2l8te",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Copper gnome figurine",
+	"range": [
+		27,
+		28
+	],
+	"type": "document",
+	"weight": 1
+}

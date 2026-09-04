@@ -1,0 +1,17 @@
+{
+	"_id": "qd35Fc1xOTmodKH5",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.qd35Fc1xOTmodKH5",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.xQSlVbKUjol32NZ4",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Shriveled dead newt",
+	"range": [
+		3,
+		4
+	],
+	"type": "document",
+	"weight": 1
+}

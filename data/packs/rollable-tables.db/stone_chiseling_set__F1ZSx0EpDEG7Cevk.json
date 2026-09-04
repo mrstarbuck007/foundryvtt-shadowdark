@@ -1,0 +1,17 @@
+{
+	"_id": "F1ZSx0EpDEG7Cevk",
+	"_key": "!tables.results!yftRYjCKndGfznUY.F1ZSx0EpDEG7Cevk",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.NVrtIsTiL1eCySmI",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Stone chiseling set",
+	"range": [
+		13,
+		14
+	],
+	"type": "document",
+	"weight": 1
+}

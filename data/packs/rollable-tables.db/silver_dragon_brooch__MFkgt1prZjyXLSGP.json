@@ -1,0 +1,17 @@
+{
+	"_id": "MFkgt1prZjyXLSGP",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.MFkgt1prZjyXLSGP",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.1bL8pMlnl5OnsLq5",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Silver dragon brooch",
+	"range": [
+		73,
+		74
+	],
+	"type": "document",
+	"weight": 1
+}

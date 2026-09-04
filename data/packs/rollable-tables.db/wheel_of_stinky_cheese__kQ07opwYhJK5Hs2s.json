@@ -1,0 +1,17 @@
+{
+	"_id": "kQ07opwYhJK5Hs2s",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.kQ07opwYhJK5Hs2s",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.9qRg7jWzY8l846MR",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Wheel of stinky cheese",
+	"range": [
+		11,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

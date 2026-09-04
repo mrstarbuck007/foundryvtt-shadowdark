@@ -1,0 +1,17 @@
+{
+	"_id": "ssNXI7lrol7FElok",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.ssNXI7lrol7FElok",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.9qxwCOi0iDAtoqTL",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Rabbit-fur-lined cloak",
+	"range": [
+		85,
+		86
+	],
+	"type": "document",
+	"weight": 1
+}

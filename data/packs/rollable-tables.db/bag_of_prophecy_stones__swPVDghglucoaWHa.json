@@ -1,0 +1,17 @@
+{
+	"_id": "swPVDghglucoaWHa",
+	"_key": "!tables.results!yftRYjCKndGfznUY.swPVDghglucoaWHa",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.UeEU6Ftl9ANp74ZU",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bag of prophecy stones",
+	"range": [
+		45,
+		46
+	],
+	"type": "document",
+	"weight": 1
+}

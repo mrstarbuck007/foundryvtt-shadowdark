@@ -1,0 +1,17 @@
+{
+	"_id": "b24kZ1tVeCZ6Vxa1",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.b24kZ1tVeCZ6Vxa1",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.2mvCEV6XzMkNtlCo",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Alligator skin cloak",
+	"range": [
+		71,
+		72
+	],
+	"type": "document",
+	"weight": 1
+}

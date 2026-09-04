@@ -1,0 +1,17 @@
+{
+	"_id": "Yy2Vcd4tz71Iaqln",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.Yy2Vcd4tz71Iaqln",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.GBs0QcXaeLdCWsLq",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bundle of raven feathers",
+	"range": [
+		85,
+		86
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "4gWGE5qJJxVu7ls4",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.4gWGE5qJJxVu7ls4",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.4w0L43bNSaee09SC",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Polished mahogany lyre",
+	"range": [
+		65,
+		66
+	],
+	"type": "document",
+	"weight": 1
+}

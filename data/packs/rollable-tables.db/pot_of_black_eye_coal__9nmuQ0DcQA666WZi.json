@@ -1,0 +1,17 @@
+{
+	"_id": "9nmuQ0DcQA666WZi",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.9nmuQ0DcQA666WZi",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.TC7SRv49Ovu5QHqZ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Pot of black eye coal",
+	"range": [
+		93,
+		94
+	],
+	"type": "document",
+	"weight": 1
+}

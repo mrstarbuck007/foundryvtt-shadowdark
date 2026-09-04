@@ -1,0 +1,17 @@
+{
+	"_id": "Bvh8WyjvvdDH4ogS",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.Bvh8WyjvvdDH4ogS",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.0X4x6GQHq9v1eJMx",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Astrological star chart",
+	"range": [
+		35,
+		36
+	],
+	"type": "document",
+	"weight": 1
+}

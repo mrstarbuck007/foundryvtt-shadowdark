@@ -1,0 +1,17 @@
+{
+	"_id": "SgfEMw30ZNPiATx8",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.SgfEMw30ZNPiATx8",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.csID6ihwl29dHRNM",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bag of rare mushrooms",
+	"range": [
+		61,
+		62
+	],
+	"type": "document",
+	"weight": 1
+}

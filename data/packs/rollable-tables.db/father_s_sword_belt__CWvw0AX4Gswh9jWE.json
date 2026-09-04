@@ -1,0 +1,17 @@
+{
+	"_id": "CWvw0AX4Gswh9jWE",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.CWvw0AX4Gswh9jWE",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.8WImJFtjF2Lh3YZE",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Father's sword belt",
+	"range": [
+		11,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

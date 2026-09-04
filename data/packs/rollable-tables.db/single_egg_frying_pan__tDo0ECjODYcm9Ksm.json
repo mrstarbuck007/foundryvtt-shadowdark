@@ -1,0 +1,17 @@
+{
+	"_id": "tDo0ECjODYcm9Ksm",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.tDo0ECjODYcm9Ksm",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.EWqtM8oaVq8W3mDU",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Single-egg frying pan",
+	"range": [
+		93,
+		94
+	],
+	"type": "document",
+	"weight": 1
+}

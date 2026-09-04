@@ -1,0 +1,17 @@
+{
+	"_id": "GUFyfuon5qWvMkqz",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.GUFyfuon5qWvMkqz",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Xhd9iWYkNQkRy38R",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Arrowhead necklace",
+	"range": [
+		15,
+		16
+	],
+	"type": "document",
+	"weight": 1
+}

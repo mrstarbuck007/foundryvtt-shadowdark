@@ -1,0 +1,17 @@
+{
+	"_id": "TKqeArPKsHigi3D6",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.TKqeArPKsHigi3D6",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.88P6QnQ4DC5TB3MN",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Family's obsidian dagger",
+	"range": [
+		99,
+		100
+	],
+	"type": "document",
+	"weight": 1
+}

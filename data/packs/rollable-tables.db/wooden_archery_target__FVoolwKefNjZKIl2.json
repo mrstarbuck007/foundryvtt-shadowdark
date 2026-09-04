@@ -1,0 +1,17 @@
+{
+	"_id": "FVoolwKefNjZKIl2",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.FVoolwKefNjZKIl2",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.IQ74VVaPoHyWPKNe",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Wooden archery target",
+	"range": [
+		89,
+		90
+	],
+	"type": "document",
+	"weight": 1
+}

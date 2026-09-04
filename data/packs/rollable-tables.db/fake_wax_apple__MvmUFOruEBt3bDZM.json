@@ -1,0 +1,17 @@
+{
+	"_id": "MvmUFOruEBt3bDZM",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.MvmUFOruEBt3bDZM",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.AfryMgqXMb7tLXYR",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Fake wax apple",
+	"range": [
+		95,
+		96
+	],
+	"type": "document",
+	"weight": 1
+}

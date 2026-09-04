@@ -1,0 +1,17 @@
+{
+	"_id": "3shWDIvB0ZzbtfGn",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.3shWDIvB0ZzbtfGn",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.rtxb7D5l6uLDgilq",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Ancient family sword",
+	"range": [
+		49,
+		50
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "Ekc6rTgNZ5vB9qKN",
+	"_key": "!tables.results!yftRYjCKndGfznUY.Ekc6rTgNZ5vB9qKN",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.aUD1ZTtg9shAqrAB",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Tattered love letter",
+	"range": [
+		73,
+		74
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "wu9byRqGophTIrvv",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.wu9byRqGophTIrvv",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Vywo1WWLkXetmH3P",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Elegant watering pot",
+	"range": [
+		91,
+		92
+	],
+	"type": "document",
+	"weight": 1
+}

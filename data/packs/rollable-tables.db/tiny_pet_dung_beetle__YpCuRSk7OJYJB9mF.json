@@ -1,0 +1,17 @@
+{
+	"_id": "YpCuRSk7OJYJB9mF",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.YpCuRSk7OJYJB9mF",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.36vVzU4YIbTSf9ro",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Tiny pet dung beetle",
+	"range": [
+		17,
+		18
+	],
+	"type": "document",
+	"weight": 1
+}

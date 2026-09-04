@@ -1,0 +1,17 @@
+{
+	"_id": "cVdZJMEsr7wc1M2q",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.cVdZJMEsr7wc1M2q",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ogg4USW5W3pYZDWC",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Cauterized troll finger",
+	"range": [
+		95,
+		96
+	],
+	"type": "document",
+	"weight": 1
+}

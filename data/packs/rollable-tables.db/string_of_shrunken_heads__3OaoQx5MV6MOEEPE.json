@@ -1,0 +1,17 @@
+{
+	"_id": "3OaoQx5MV6MOEEPE",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.3OaoQx5MV6MOEEPE",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ifhXlMtqJepFcqsy",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "String of shrunken heads",
+	"range": [
+		75,
+		76
+	],
+	"type": "document",
+	"weight": 1
+}

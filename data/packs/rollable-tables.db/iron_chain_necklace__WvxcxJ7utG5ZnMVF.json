@@ -1,0 +1,17 @@
+{
+	"_id": "WvxcxJ7utG5ZnMVF",
+	"_key": "!tables.results!yftRYjCKndGfznUY.WvxcxJ7utG5ZnMVF",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.GJ7qZueV2G2EcIm1",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Iron chain necklace",
+	"range": [
+		67,
+		68
+	],
+	"type": "document",
+	"weight": 1
+}

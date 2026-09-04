@@ -1,0 +1,17 @@
+{
+	"_id": "zNIyqTbkXZa5wKd7",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.zNIyqTbkXZa5wKd7",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.GoAQmf8uALvYF7cI",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Pumice figurine",
+	"range": [
+		11,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

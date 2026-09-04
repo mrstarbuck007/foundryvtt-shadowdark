@@ -1,0 +1,17 @@
+{
+	"_id": "APkKdg81ZZk7mIel",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.APkKdg81ZZk7mIel",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.pOd0sTMdv3WwX006",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Scroll of an elvish ballad",
+	"range": [
+		71,
+		72
+	],
+	"type": "document",
+	"weight": 1
+}

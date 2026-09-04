@@ -1,0 +1,17 @@
+{
+	"_id": "uwCHGdX3vZmjaTYu",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.uwCHGdX3vZmjaTYu",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.hqqKu467ygzXuPP4",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Swan-shaped hair pin",
+	"range": [
+		79,
+		80
+	],
+	"type": "document",
+	"weight": 1
+}

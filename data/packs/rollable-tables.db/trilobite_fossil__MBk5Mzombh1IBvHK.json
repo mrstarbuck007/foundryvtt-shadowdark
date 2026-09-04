@@ -1,0 +1,17 @@
+{
+	"_id": "MBk5Mzombh1IBvHK",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.MBk5Mzombh1IBvHK",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ojYqOydRkUQzk64Q",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Trilobite fossil",
+	"range": [
+		19,
+		20
+	],
+	"type": "document",
+	"weight": 1
+}

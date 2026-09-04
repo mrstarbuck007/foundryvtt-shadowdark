@@ -1,0 +1,17 @@
+{
+	"_id": "l50nzd7R2iPA2brr",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.l50nzd7R2iPA2brr",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.jqu7aMotd6HdIQOd",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Weighted dice",
+	"range": [
+		91,
+		92
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "tO2f0ZoNbPzYXtMk",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.tO2f0ZoNbPzYXtMk",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.dg89zqz2nT3xbHC6",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Stone dragon statuette",
+	"range": [
+		75,
+		76
+	],
+	"type": "document",
+	"weight": 1
+}

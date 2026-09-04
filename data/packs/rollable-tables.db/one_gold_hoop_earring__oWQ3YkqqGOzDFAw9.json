@@ -1,0 +1,17 @@
+{
+	"_id": "oWQ3YkqqGOzDFAw9",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.oWQ3YkqqGOzDFAw9",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.6SBnguOIVESwdCbh",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "One gold hoop earring",
+	"range": [
+		89,
+		90
+	],
+	"type": "document",
+	"weight": 1
+}

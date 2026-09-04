@@ -1,0 +1,17 @@
+{
+	"_id": "hJ5eyUb0H1E9WmgF",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.hJ5eyUb0H1E9WmgF",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.8xmAo3qpkSibDZx9",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Vial of silver flakes",
+	"range": [
+		55,
+		56
+	],
+	"type": "document",
+	"weight": 1
+}

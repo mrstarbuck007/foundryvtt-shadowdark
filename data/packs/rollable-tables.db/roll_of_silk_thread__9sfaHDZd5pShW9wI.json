@@ -1,0 +1,17 @@
+{
+	"_id": "9sfaHDZd5pShW9wI",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.9sfaHDZd5pShW9wI",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.BRI7xl0bQ3VZoicm",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Roll of silk thread",
+	"range": [
+		41,
+		42
+	],
+	"type": "document",
+	"weight": 1
+}

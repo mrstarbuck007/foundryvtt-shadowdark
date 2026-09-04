@@ -1,0 +1,17 @@
+{
+	"_id": "7oUwoYYvElvw27qw",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.7oUwoYYvElvw27qw",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.LimmD79AHxLAPEmS",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Painted chicken egg",
+	"range": [
+		63,
+		64
+	],
+	"type": "document",
+	"weight": 1
+}

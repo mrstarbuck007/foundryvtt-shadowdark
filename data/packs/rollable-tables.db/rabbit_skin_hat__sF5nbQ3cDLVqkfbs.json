@@ -1,0 +1,17 @@
+{
+	"_id": "sF5nbQ3cDLVqkfbs",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.sF5nbQ3cDLVqkfbs",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.mCvGZ5S24hyGWlVl",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Rabbit skin hat",
+	"range": [
+		47,
+		48
+	],
+	"type": "document",
+	"weight": 1
+}

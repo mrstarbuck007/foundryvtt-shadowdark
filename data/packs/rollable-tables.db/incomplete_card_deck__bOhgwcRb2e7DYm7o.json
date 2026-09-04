@@ -1,0 +1,17 @@
+{
+	"_id": "bOhgwcRb2e7DYm7o",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.bOhgwcRb2e7DYm7o",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.lWYcIKUMLeXZACH8",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Incomplete card deck",
+	"range": [
+		19,
+		20
+	],
+	"type": "document",
+	"weight": 1
+}

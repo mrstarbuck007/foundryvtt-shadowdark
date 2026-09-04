@@ -1,0 +1,17 @@
+{
+	"_id": "c8BEFEnGu7VDvpds",
+	"_key": "!tables.results!yftRYjCKndGfznUY.c8BEFEnGu7VDvpds",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.q8j63bhqEswV2YFK",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bronze spinning top",
+	"range": [
+		97,
+		98
+	],
+	"type": "document",
+	"weight": 1
+}

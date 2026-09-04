@@ -1,0 +1,17 @@
+{
+	"_id": "qYovLcEun0trpX6h",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.qYovLcEun0trpX6h",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.RmNrsu9QcLCSTuVd",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Jack-in-the-box",
+	"range": [
+		37,
+		38
+	],
+	"type": "document",
+	"weight": 1
+}

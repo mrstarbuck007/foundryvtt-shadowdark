@@ -1,0 +1,17 @@
+{
+	"_id": "ac0AcWx52I8cyeoh",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.ac0AcWx52I8cyeoh",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.FgehEWYCRcK5z4XD",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Massive ball of twine",
+	"range": [
+		69,
+		70
+	],
+	"type": "document",
+	"weight": 1
+}

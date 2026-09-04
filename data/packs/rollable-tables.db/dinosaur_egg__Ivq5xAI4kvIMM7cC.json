@@ -1,0 +1,17 @@
+{
+	"_id": "Ivq5xAI4kvIMM7cC",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.Ivq5xAI4kvIMM7cC",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.eHfWblBawuUb3idP",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Dinosaur egg",
+	"range": [
+		97,
+		98
+	],
+	"type": "document",
+	"weight": 1
+}

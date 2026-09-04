@@ -1,0 +1,17 @@
+{
+	"_id": "DN7HmfIYjMKsliEm",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.DN7HmfIYjMKsliEm",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.5HUoeU5Jd10fmG64",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Carved scarab necklace",
+	"range": [
+		61,
+		62
+	],
+	"type": "document",
+	"weight": 1
+}

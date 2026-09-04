@@ -1,0 +1,17 @@
+{
+	"_id": "Sn7o0OGcmpjWrp7O",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.Sn7o0OGcmpjWrp7O",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ywpVSzhUDAOqhxxQ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Tin of belly button lint",
+	"range": [
+		55,
+		56
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "ZaCjCjbT8DBEbLnp",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.ZaCjCjbT8DBEbLnp",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.BRRNzUyM9JL94C28",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Jar of honey",
+	"range": [
+		3,
+		4
+	],
+	"type": "document",
+	"weight": 1
+}

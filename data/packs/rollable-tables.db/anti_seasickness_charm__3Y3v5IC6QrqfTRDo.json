@@ -1,0 +1,17 @@
+{
+	"_id": "3Y3v5IC6QrqfTRDo",
+	"_key": "!tables.results!yftRYjCKndGfznUY.3Y3v5IC6QrqfTRDo",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.FuF97rwDq1d5qsRY",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Anti-seasickness charm",
+	"range": [
+		43,
+		44
+	],
+	"type": "document",
+	"weight": 1
+}

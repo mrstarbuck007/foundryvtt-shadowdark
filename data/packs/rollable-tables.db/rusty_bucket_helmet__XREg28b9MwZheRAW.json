@@ -1,0 +1,17 @@
+{
+	"_id": "XREg28b9MwZheRAW",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.XREg28b9MwZheRAW",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.nViaQX2IgUwSxhnH",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Rusty bucket helmet",
+	"range": [
+		15,
+		16
+	],
+	"type": "document",
+	"weight": 1
+}

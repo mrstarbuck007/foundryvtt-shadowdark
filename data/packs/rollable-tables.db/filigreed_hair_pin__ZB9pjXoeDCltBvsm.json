@@ -1,0 +1,17 @@
+{
+	"_id": "ZB9pjXoeDCltBvsm",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.ZB9pjXoeDCltBvsm",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.xEk7p2aYpE9rAEbf",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Filigreed hair pin",
+	"range": [
+		65,
+		66
+	],
+	"type": "document",
+	"weight": 1
+}

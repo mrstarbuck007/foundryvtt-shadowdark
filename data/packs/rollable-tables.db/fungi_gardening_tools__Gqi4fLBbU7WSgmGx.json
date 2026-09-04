@@ -1,0 +1,17 @@
+{
+	"_id": "Gqi4fLBbU7WSgmGx",
+	"_key": "!tables.results!yftRYjCKndGfznUY.Gqi4fLBbU7WSgmGx",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.izVrBnGvWFtpXqXH",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Fungi gardening tools",
+	"range": [
+		47,
+		48
+	],
+	"type": "document",
+	"weight": 1
+}

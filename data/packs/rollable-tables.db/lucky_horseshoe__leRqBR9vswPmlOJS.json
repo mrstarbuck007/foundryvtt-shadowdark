@@ -1,0 +1,17 @@
+{
+	"_id": "leRqBR9vswPmlOJS",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.leRqBR9vswPmlOJS",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.hbVm4JiOzK6672Iu",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Lucky horseshoe",
+	"range": [
+		17,
+		18
+	],
+	"type": "document",
+	"weight": 1
+}

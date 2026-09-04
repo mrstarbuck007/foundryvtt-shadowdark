@@ -1,0 +1,17 @@
+{
+	"_id": "9JlsD9ohz6Qk8Ip0",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.9JlsD9ohz6Qk8Ip0",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.6rlwtSVk7pCNnfsF",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Woven reed hat",
+	"range": [
+		95,
+		96
+	],
+	"type": "document",
+	"weight": 1
+}

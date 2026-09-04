@@ -1,0 +1,17 @@
+{
+	"_id": "wrzi8hUXCpQIW2Nj",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.wrzi8hUXCpQIW2Nj",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.22KlmzsuPcVNuRL9",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Collection of wine corks",
+	"range": [
+		61,
+		62
+	],
+	"type": "document",
+	"weight": 1
+}

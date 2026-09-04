@@ -1,0 +1,17 @@
+{
+	"_id": "25uCfeyTskRVZwnR",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.25uCfeyTskRVZwnR",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.TCAirzVj9KiuRdUZ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Cobra skin belt",
+	"range": [
+		89,
+		90
+	],
+	"type": "document",
+	"weight": 1
+}

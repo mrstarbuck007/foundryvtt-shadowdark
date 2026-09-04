@@ -1,0 +1,17 @@
+{
+	"_id": "3lHNdYlzyRTEQnIA",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.3lHNdYlzyRTEQnIA",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.FPcT7Aecsk5VAdwZ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Jar of bent fishing hooks",
+	"range": [
+		67,
+		68
+	],
+	"type": "document",
+	"weight": 1
+}

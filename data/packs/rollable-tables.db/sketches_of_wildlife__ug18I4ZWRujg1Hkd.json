@@ -1,0 +1,17 @@
+{
+	"_id": "ug18I4ZWRujg1Hkd",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.ug18I4ZWRujg1Hkd",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.bKuJOxUBhHqDO2fs",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Sketches of wildlife",
+	"range": [
+		29,
+		30
+	],
+	"type": "document",
+	"weight": 1
+}

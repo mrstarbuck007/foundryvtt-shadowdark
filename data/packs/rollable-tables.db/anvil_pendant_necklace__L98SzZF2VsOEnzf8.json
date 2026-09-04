@@ -1,0 +1,17 @@
+{
+	"_id": "L98SzZF2VsOEnzf8",
+	"_key": "!tables.results!yftRYjCKndGfznUY.L98SzZF2VsOEnzf8",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ORJO5jXGW60bn4xG",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Anvil pendant necklace",
+	"range": [
+		31,
+		32
+	],
+	"type": "document",
+	"weight": 1
+}

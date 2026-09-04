@@ -1,0 +1,17 @@
+{
+	"_id": "rYmdHeeh67V3qEZE",
+	"_key": "!tables.results!yftRYjCKndGfznUY.rYmdHeeh67V3qEZE",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.8O3rpvxvqOSrybj3",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Brass family ring",
+	"range": [
+		21,
+		22
+	],
+	"type": "document",
+	"weight": 1
+}

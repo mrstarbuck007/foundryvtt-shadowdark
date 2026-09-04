@@ -1,0 +1,17 @@
+{
+	"_id": "LtAFk7X8niskAhJY",
+	"_key": "!tables.results!yftRYjCKndGfznUY.LtAFk7X8niskAhJY",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.W4wD1vRu6yb6mOEt",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Lucky gold nugget",
+	"range": [
+		41,
+		42
+	],
+	"type": "document",
+	"weight": 1
+}

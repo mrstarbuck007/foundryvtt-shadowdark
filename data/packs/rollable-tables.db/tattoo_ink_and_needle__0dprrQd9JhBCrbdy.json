@@ -1,0 +1,17 @@
+{
+	"_id": "0dprrQd9JhBCrbdy",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.0dprrQd9JhBCrbdy",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.g0vM9z86DmOoXHfv",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Tattoo ink and needle",
+	"range": [
+		31,
+		32
+	],
+	"type": "document",
+	"weight": 1
+}

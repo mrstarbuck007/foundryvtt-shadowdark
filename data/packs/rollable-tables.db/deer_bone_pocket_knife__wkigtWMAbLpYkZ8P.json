@@ -1,0 +1,17 @@
+{
+	"_id": "wkigtWMAbLpYkZ8P",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.wkigtWMAbLpYkZ8P",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.4DiTl8rgpF7C2NRu",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Deer bone pocket knife",
+	"range": [
+		39,
+		40
+	],
+	"type": "document",
+	"weight": 1
+}

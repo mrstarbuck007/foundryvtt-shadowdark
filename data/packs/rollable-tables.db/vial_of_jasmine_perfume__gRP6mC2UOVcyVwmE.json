@@ -1,0 +1,17 @@
+{
+	"_id": "gRP6mC2UOVcyVwmE",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.gRP6mC2UOVcyVwmE",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Cp5M5kVGQpcaqAVo",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Vial of jasmine perfume",
+	"range": [
+		89,
+		90
+	],
+	"type": "document",
+	"weight": 1
+}

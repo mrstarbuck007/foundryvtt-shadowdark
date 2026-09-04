@@ -1,0 +1,17 @@
+{
+	"_id": "WF9mcenWgfvNzOlL",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.WF9mcenWgfvNzOlL",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.rS1TOvWat7ciaYda",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Personal diary",
+	"range": [
+		37,
+		38
+	],
+	"type": "document",
+	"weight": 1
+}

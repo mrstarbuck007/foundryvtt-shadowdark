@@ -1,0 +1,17 @@
+{
+	"_id": "mvWNvhVCnRdg9CzW",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.mvWNvhVCnRdg9CzW",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.wEw8m9IUOVXUfsFg",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Soft leather slippers",
+	"range": [
+		47,
+		48
+	],
+	"type": "document",
+	"weight": 1
+}

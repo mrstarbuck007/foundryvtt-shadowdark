@@ -1,0 +1,17 @@
+{
+	"_id": "XA5r2diAWA2PDs9h",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.XA5r2diAWA2PDs9h",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.b9eblg2UQCeQwsWW",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Wooden pipe",
+	"range": [
+		9,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

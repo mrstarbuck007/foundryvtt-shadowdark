@@ -1,0 +1,17 @@
+{
+	"_id": "biPf5f7on6PSMism",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.biPf5f7on6PSMism",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.I8R0uds2w5ubYLvX",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Silver spinning top",
+	"range": [
+		77,
+		78
+	],
+	"type": "document",
+	"weight": 1
+}

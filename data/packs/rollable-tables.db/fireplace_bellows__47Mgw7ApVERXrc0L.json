@@ -1,0 +1,17 @@
+{
+	"_id": "47Mgw7ApVERXrc0L",
+	"_key": "!tables.results!yftRYjCKndGfznUY.47Mgw7ApVERXrc0L",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.3uEpaMcNGiigLrPD",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Fireplace bellows",
+	"range": [
+		63,
+		64
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "yzMMuk2kpDhRDXWm",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.yzMMuk2kpDhRDXWm",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.9oknZ9kxk3H33iNj",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Fine doeskin boots",
+	"range": [
+		47,
+		48
+	],
+	"type": "document",
+	"weight": 1
+}

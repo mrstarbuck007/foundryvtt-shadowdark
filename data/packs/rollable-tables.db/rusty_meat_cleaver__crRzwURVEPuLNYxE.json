@@ -1,0 +1,17 @@
+{
+	"_id": "crRzwURVEPuLNYxE",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.crRzwURVEPuLNYxE",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ZEk8R6YlhOEIxG7T",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Rusty meat cleaver",
+	"range": [
+		47,
+		48
+	],
+	"type": "document",
+	"weight": 1
+}

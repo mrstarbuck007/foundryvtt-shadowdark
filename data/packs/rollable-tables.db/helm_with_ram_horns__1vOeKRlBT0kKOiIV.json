@@ -1,0 +1,17 @@
+{
+	"_id": "1vOeKRlBT0kKOiIV",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.1vOeKRlBT0kKOiIV",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.JKjjyXfVOxTPatZB",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Helm with ram horns",
+	"range": [
+		79,
+		80
+	],
+	"type": "document",
+	"weight": 1
+}

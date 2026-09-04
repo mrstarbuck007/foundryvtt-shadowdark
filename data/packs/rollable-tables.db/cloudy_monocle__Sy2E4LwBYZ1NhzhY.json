@@ -1,0 +1,17 @@
+{
+	"_id": "Sy2E4LwBYZ1NhzhY",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.Sy2E4LwBYZ1NhzhY",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.uZF0wgF00Kt6P0Bq",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Cloudy monocle",
+	"range": [
+		29,
+		30
+	],
+	"type": "document",
+	"weight": 1
+}

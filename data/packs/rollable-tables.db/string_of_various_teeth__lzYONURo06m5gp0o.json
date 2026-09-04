@@ -1,0 +1,17 @@
+{
+	"_id": "lzYONURo06m5gp0o",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.lzYONURo06m5gp0o",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.RDv1jcZcAXUbyKBP",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "String of various teeth",
+	"range": [
+		9,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "4KmRK5RNbhy6d3qR",
+	"_key": "!tables.results!yftRYjCKndGfznUY.4KmRK5RNbhy6d3qR",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.V788ZCpIzJOiZtuN",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Military service badge",
+	"range": [
+		27,
+		28
+	],
+	"type": "document",
+	"weight": 1
+}

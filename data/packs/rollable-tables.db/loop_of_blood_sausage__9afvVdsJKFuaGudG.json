@@ -1,0 +1,17 @@
+{
+	"_id": "9afvVdsJKFuaGudG",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.9afvVdsJKFuaGudG",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.UuZr5oI9NCywSQex",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Loop of blood sausage",
+	"range": [
+		57,
+		58
+	],
+	"type": "document",
+	"weight": 1
+}

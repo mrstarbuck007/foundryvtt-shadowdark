@@ -1,0 +1,17 @@
+{
+	"_id": "ckUeQNUGt6hR7lNI",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.ckUeQNUGt6hR7lNI",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.pJRn7rZ7uCgofLzC",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Mother-of-pearl seashell",
+	"range": [
+		13,
+		14
+	],
+	"type": "document",
+	"weight": 1
+}

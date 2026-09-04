@@ -1,0 +1,17 @@
+{
+	"_id": "XhI5X6aHTT96i32q",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.XhI5X6aHTT96i32q",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.UfckMbvaWqJUjaR5",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Local fair winner ribbon",
+	"range": [
+		43,
+		44
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "PhcCNED7SGRVWhaP",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.PhcCNED7SGRVWhaP",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.i8WvHMfOLaZLx1ke",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Green silk handkerchief",
+	"range": [
+		67,
+		68
+	],
+	"type": "document",
+	"weight": 1
+}

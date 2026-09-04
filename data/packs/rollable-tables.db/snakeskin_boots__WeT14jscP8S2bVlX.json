@@ -1,0 +1,17 @@
+{
+	"_id": "WeT14jscP8S2bVlX",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.WeT14jscP8S2bVlX",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ILRZXlViOEMHpgPL",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Snakeskin boots",
+	"range": [
+		9,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

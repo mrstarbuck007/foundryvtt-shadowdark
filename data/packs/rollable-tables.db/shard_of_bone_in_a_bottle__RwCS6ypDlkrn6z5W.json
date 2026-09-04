@@ -1,0 +1,17 @@
+{
+	"_id": "RwCS6ypDlkrn6z5W",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.RwCS6ypDlkrn6z5W",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.66pf1ULaRCLJIqn0",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Shard of bone in a bottle",
+	"range": [
+		93,
+		94
+	],
+	"type": "document",
+	"weight": 1
+}

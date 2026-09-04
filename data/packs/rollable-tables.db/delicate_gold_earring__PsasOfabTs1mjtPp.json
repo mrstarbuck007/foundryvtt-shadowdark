@@ -1,0 +1,17 @@
+{
+	"_id": "PsasOfabTs1mjtPp",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.PsasOfabTs1mjtPp",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.pLEdX91dGmHQBUGD",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Delicate gold earring",
+	"range": [
+		77,
+		78
+	],
+	"type": "document",
+	"weight": 1
+}

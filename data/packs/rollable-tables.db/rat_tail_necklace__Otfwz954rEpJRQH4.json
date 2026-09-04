@@ -1,0 +1,17 @@
+{
+	"_id": "Otfwz954rEpJRQH4",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.Otfwz954rEpJRQH4",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.SsfAGOfKRMVc9fyS",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Rat tail necklace",
+	"range": [
+		13,
+		14
+	],
+	"type": "document",
+	"weight": 1
+}

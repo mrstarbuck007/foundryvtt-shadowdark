@@ -1,0 +1,17 @@
+{
+	"_id": "1YxzGHunnJIy7Mbm",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.1YxzGHunnJIy7Mbm",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.r1aZPHydBEAOlUu9",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Shards of a broken sword",
+	"range": [
+		75,
+		76
+	],
+	"type": "document",
+	"weight": 1
+}

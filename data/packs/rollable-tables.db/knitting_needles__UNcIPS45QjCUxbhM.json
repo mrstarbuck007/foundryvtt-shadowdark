@@ -1,0 +1,17 @@
+{
+	"_id": "UNcIPS45QjCUxbhM",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.UNcIPS45QjCUxbhM",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.V4OPTKY9h9ZgBrZ1",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Knitting needles",
+	"range": [
+		35,
+		36
+	],
+	"type": "document",
+	"weight": 1
+}

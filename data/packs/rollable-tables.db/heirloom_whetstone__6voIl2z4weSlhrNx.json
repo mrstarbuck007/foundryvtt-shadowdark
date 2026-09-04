@@ -1,0 +1,17 @@
+{
+	"_id": "6voIl2z4weSlhrNx",
+	"_key": "!tables.results!yftRYjCKndGfznUY.6voIl2z4weSlhrNx",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.n2UGmxCcen3G0r0b",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Heirloom whetstone",
+	"range": [
+		7,
+		8
+	],
+	"type": "document",
+	"weight": 1
+}

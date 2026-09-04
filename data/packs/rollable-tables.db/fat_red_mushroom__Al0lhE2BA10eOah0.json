@@ -1,0 +1,17 @@
+{
+	"_id": "Al0lhE2BA10eOah0",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.Al0lhE2BA10eOah0",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.RKL7lM00JPMv8ntm",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Fat red mushroom",
+	"range": [
+		5,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

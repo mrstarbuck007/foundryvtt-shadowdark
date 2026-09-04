@@ -1,0 +1,17 @@
+{
+	"_id": "ZBs91Ajnf9XPaJ4k",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.ZBs91Ajnf9XPaJ4k",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.0xKd4epxcWxPNLHJ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Silver horse shoe",
+	"range": [
+		23,
+		24
+	],
+	"type": "document",
+	"weight": 1
+}

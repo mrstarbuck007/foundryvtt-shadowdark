@@ -1,0 +1,17 @@
+{
+	"_id": "OhsEgduXsV6gr729",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.OhsEgduXsV6gr729",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.fGvpeLe73fmbf3i5",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Whittling knife",
+	"range": [
+		21,
+		22
+	],
+	"type": "document",
+	"weight": 1
+}

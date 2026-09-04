@@ -1,0 +1,17 @@
+{
+	"_id": "Uh2GUrR7UM4ay49c",
+	"_key": "!tables.results!yftRYjCKndGfznUY.Uh2GUrR7UM4ay49c",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.PIYpcwW7yhvH8KUT",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Steel-toe boots",
+	"range": [
+		19,
+		20
+	],
+	"type": "document",
+	"weight": 1
+}

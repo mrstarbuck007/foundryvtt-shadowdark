@@ -1,0 +1,17 @@
+{
+	"_id": "bBCkToDNEr7pbceL",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.bBCkToDNEr7pbceL",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.dvzzIoVSvJbiEcnq",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Copper disc necklace",
+	"range": [
+		63,
+		64
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "CM0lFwjTCL2DDLdM",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.CM0lFwjTCL2DDLdM",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Kf4QsGiiCVLZuFyr",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Box of marzipan cookies",
+	"range": [
+		59,
+		60
+	],
+	"type": "document",
+	"weight": 1
+}

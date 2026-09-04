@@ -1,0 +1,17 @@
+{
+	"_id": "lxeXexmybgAZvvic",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.lxeXexmybgAZvvic",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.UHKVgMrJFXqIfBX8",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Letter from a dead king",
+	"range": [
+		97,
+		98
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "C8fyQJDaFr7uJOKE",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.C8fyQJDaFr7uJOKE",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.LfRw2Muz4hMKz5D1",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Painted clay tea pot",
+	"range": [
+		67,
+		68
+	],
+	"type": "document",
+	"weight": 1
+}

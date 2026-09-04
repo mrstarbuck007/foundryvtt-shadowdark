@@ -1,0 +1,17 @@
+{
+	"_id": "2Fk1fCX1AKiqPduR",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.2Fk1fCX1AKiqPduR",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.WdGrGP2fBfN22Yur",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Crescent moon pendant",
+	"range": [
+		53,
+		54
+	],
+	"type": "document",
+	"weight": 1
+}

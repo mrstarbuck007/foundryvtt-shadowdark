@@ -1,0 +1,17 @@
+{
+	"_id": "dkSLJggkQFtvJA66",
+	"_key": "!tables.results!yftRYjCKndGfznUY.dkSLJggkQFtvJA66",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.aXKtrk9OOokb8tqV",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Old booklet of recipes",
+	"range": [
+		35,
+		36
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "6nNnLx0Km7I6GXEx",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.6nNnLx0Km7I6GXEx",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.CIsrs5yWcSdzRgMv",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Vest with many pockets",
+	"range": [
+		49,
+		50
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "56nHg77J7MhVJ72m",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.56nHg77J7MhVJ72m",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.mCWjFoZkgfcLRxaM",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Iridescent folding fan",
+	"range": [
+		93,
+		94
+	],
+	"type": "document",
+	"weight": 1
+}

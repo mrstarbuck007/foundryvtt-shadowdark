@@ -1,0 +1,17 @@
+{
+	"_id": "KXTtWyMs7uWYW9zQ",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.KXTtWyMs7uWYW9zQ",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.vIMlHfB0GaIt9sYt",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Mug with a hole in it",
+	"range": [
+		57,
+		58
+	],
+	"type": "document",
+	"weight": 1
+}

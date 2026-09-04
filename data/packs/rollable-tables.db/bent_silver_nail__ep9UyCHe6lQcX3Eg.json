@@ -1,0 +1,17 @@
+{
+	"_id": "ep9UyCHe6lQcX3Eg",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.ep9UyCHe6lQcX3Eg",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.3YqYrJDAFc74nzqk",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bent silver nail",
+	"range": [
+		45,
+		46
+	],
+	"type": "document",
+	"weight": 1
+}

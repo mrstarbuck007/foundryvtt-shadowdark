@@ -1,0 +1,17 @@
+{
+	"_id": "kSKeppKGPXPWD5z1",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.kSKeppKGPXPWD5z1",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.yTZrKxJrPGnZXKiL",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Yak hair girdle belt",
+	"range": [
+		59,
+		60
+	],
+	"type": "document",
+	"weight": 1
+}

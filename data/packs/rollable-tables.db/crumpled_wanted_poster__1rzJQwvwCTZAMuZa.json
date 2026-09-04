@@ -1,0 +1,17 @@
+{
+	"_id": "1rzJQwvwCTZAMuZa",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.1rzJQwvwCTZAMuZa",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.kRDeFxdlAjsTmg2T",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Crumpled wanted poster",
+	"range": [
+		73,
+		74
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "ONXpmDtFKfK43I88",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.ONXpmDtFKfK43I88",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.LMRBmamLFQT5O6MF",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Unbroken wish bone",
+	"range": [
+		45,
+		46
+	],
+	"type": "document",
+	"weight": 1
+}

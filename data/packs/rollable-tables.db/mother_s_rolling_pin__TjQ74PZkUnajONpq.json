@@ -1,0 +1,17 @@
+{
+	"_id": "TjQ74PZkUnajONpq",
+	"_key": "!tables.results!yftRYjCKndGfznUY.TjQ74PZkUnajONpq",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.tRxX00HqrNuOwtFc",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Mother's rolling pin",
+	"range": [
+		91,
+		92
+	],
+	"type": "document",
+	"weight": 1
+}

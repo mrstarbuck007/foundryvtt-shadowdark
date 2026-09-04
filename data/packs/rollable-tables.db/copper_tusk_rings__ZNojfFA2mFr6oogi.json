@@ -1,0 +1,17 @@
+{
+	"_id": "ZNojfFA2mFr6oogi",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.ZNojfFA2mFr6oogi",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.IpuNF5tTOEWbNt6a",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Copper tusk rings",
+	"range": [
+		21,
+		22
+	],
+	"type": "document",
+	"weight": 1
+}

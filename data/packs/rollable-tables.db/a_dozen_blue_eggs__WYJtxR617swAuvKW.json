@@ -1,0 +1,17 @@
+{
+	"_id": "WYJtxR617swAuvKW",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.WYJtxR617swAuvKW",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.MyiC8E3Y0xrQCwWG",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "A dozen blue eggs",
+	"range": [
+		69,
+		70
+	],
+	"type": "document",
+	"weight": 1
+}

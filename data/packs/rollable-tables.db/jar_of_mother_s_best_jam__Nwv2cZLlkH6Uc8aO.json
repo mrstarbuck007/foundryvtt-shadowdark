@@ -1,0 +1,17 @@
+{
+	"_id": "Nwv2cZLlkH6Uc8aO",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.Nwv2cZLlkH6Uc8aO",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.gboYPgE8BauGvNo6",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Jar of mother's best jam",
+	"range": [
+		65,
+		66
+	],
+	"type": "document",
+	"weight": 1
+}

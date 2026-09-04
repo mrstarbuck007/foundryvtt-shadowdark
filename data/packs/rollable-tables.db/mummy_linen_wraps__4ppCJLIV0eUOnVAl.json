@@ -1,0 +1,17 @@
+{
+	"_id": "4ppCJLIV0eUOnVAl",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.4ppCJLIV0eUOnVAl",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ocU7vZCS0xwNYG4u",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Mummy linen wraps",
+	"range": [
+		49,
+		50
+	],
+	"type": "document",
+	"weight": 1
+}

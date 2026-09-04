@@ -1,0 +1,17 @@
+{
+	"_id": "6ATx89FPWBWXvzyh",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.6ATx89FPWBWXvzyh",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.SxTTOlLm5XlnMfyR",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Horse bone dice",
+	"range": [
+		23,
+		24
+	],
+	"type": "document",
+	"weight": 1
+}

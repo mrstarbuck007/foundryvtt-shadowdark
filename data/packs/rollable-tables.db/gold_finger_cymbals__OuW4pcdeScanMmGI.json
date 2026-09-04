@@ -1,0 +1,17 @@
+{
+	"_id": "OuW4pcdeScanMmGI",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.OuW4pcdeScanMmGI",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.E3CGJjLbZaJTUgfX",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Gold finger cymbals",
+	"range": [
+		67,
+		68
+	],
+	"type": "document",
+	"weight": 1
+}

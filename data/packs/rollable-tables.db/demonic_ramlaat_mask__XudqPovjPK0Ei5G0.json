@@ -1,0 +1,17 @@
+{
+	"_id": "XudqPovjPK0Ei5G0",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.XudqPovjPK0Ei5G0",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.W1L0Ry79bvhqZbTO",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Demonic Ramlaat mask",
+	"range": [
+		99,
+		100
+	],
+	"type": "document",
+	"weight": 1
+}

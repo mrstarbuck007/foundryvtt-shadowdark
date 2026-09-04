@@ -1,0 +1,17 @@
+{
+	"_id": "b6n335HofafX7ppu",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.b6n335HofafX7ppu",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.IhD4FVc3nY2EUp1K",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Unsent love letter",
+	"range": [
+		57,
+		58
+	],
+	"type": "document",
+	"weight": 1
+}

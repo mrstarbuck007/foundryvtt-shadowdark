@@ -1,0 +1,17 @@
+{
+	"_id": "8rEgQpYdNtP4ym1d",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.8rEgQpYdNtP4ym1d",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.JbcnEk02okQ2UVcA",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Woven crayfish trap",
+	"range": [
+		69,
+		70
+	],
+	"type": "document",
+	"weight": 1
+}

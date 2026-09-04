@@ -1,0 +1,17 @@
+{
+	"_id": "IndxAO1wypJJrmt1",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.IndxAO1wypJJrmt1",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.xxoWGzbij0A2g0Tu",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Short reed snorkel",
+	"range": [
+		83,
+		84
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "Xlmqi0FZU4bGYOzC",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.Xlmqi0FZU4bGYOzC",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.mi8gMnOuhNNBdc68",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Old forgotten key",
+	"range": [
+		39,
+		40
+	],
+	"type": "document",
+	"weight": 1
+}

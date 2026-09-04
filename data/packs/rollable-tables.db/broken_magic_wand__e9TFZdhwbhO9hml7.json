@@ -1,0 +1,17 @@
+{
+	"_id": "e9TFZdhwbhO9hml7",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.e9TFZdhwbhO9hml7",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.V72PPCDcSpyB6qrh",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Broken magic wand",
+	"range": [
+		83,
+		84
+	],
+	"type": "document",
+	"weight": 1
+}

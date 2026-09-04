@@ -1,0 +1,17 @@
+{
+	"_id": "YPlH5lmlZRo1MJxv",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.YPlH5lmlZRo1MJxv",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.KroKERejXXFNMsxd",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Half a deck of cards",
+	"range": [
+		77,
+		78
+	],
+	"type": "document",
+	"weight": 1
+}

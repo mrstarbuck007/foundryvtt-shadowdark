@@ -1,0 +1,17 @@
+{
+	"_id": "veQ4aTXFj6rMUF2K",
+	"_key": "!tables.results!yftRYjCKndGfznUY.veQ4aTXFj6rMUF2K",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.I2LfCBkEOumXUX21",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Hefty bronze abacus",
+	"range": [
+		81,
+		82
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "cjvDETV7vOaSKzo5",
+	"_key": "!tables.results!yftRYjCKndGfznUY.cjvDETV7vOaSKzo5",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.lEHDqspDPuAMcmLa",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Horridly loud bagpipes",
+	"range": [
+		93,
+		94
+	],
+	"type": "document",
+	"weight": 1
+}

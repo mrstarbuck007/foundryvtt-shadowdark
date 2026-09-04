@@ -1,0 +1,17 @@
+{
+	"_id": "GecpohE4BZvBbl6I",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.GecpohE4BZvBbl6I",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.0dm1OfSlzmzHYU86",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Painted clay ocarina",
+	"range": [
+		31,
+		32
+	],
+	"type": "document",
+	"weight": 1
+}

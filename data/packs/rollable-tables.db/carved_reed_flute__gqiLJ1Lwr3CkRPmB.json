@@ -1,0 +1,17 @@
+{
+	"_id": "gqiLJ1Lwr3CkRPmB",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.gqiLJ1Lwr3CkRPmB",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.7AZ2Rl6yLLM7QsLC",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Carved reed flute",
+	"range": [
+		55,
+		56
+	],
+	"type": "document",
+	"weight": 1
+}

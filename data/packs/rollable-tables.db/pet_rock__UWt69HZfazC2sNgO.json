@@ -1,0 +1,17 @@
+{
+	"_id": "UWt69HZfazC2sNgO",
+	"_key": "!tables.results!yftRYjCKndGfznUY.UWt69HZfazC2sNgO",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.oLuP4ht5Wqz2axhO",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Pet rock",
+	"range": [
+		53,
+		54
+	],
+	"type": "document",
+	"weight": 1
+}

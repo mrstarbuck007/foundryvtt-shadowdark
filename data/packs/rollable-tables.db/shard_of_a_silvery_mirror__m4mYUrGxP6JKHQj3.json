@@ -1,0 +1,17 @@
+{
+	"_id": "m4mYUrGxP6JKHQj3",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.m4mYUrGxP6JKHQj3",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Gn3nedBFeaSCPOSG",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Shard of a silvery mirror",
+	"range": [
+		57,
+		58
+	],
+	"type": "document",
+	"weight": 1
+}

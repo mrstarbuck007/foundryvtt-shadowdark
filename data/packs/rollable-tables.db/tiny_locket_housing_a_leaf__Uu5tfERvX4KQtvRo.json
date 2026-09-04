@@ -1,0 +1,17 @@
+{
+	"_id": "Uu5tfERvX4KQtvRo",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.Uu5tfERvX4KQtvRo",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.TdoNN3vQO25h06Im",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Tiny locket housing a leaf",
+	"range": [
+		75,
+		76
+	],
+	"type": "document",
+	"weight": 1
+}

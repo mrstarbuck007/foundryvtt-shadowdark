@@ -1,0 +1,17 @@
+{
+	"_id": "0yPXrynrvQ046bdA",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.0yPXrynrvQ046bdA",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.zkS3wu8Wv0qvZkhi",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Book of orcish recipes",
+	"range": [
+		87,
+		88
+	],
+	"type": "document",
+	"weight": 1
+}

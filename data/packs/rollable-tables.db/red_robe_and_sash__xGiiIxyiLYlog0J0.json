@@ -1,0 +1,17 @@
+{
+	"_id": "xGiiIxyiLYlog0J0",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.xGiiIxyiLYlog0J0",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.JfmcWnrAfVJ1SryA",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Red robe and sash",
+	"range": [
+		23,
+		24
+	],
+	"type": "document",
+	"weight": 1
+}

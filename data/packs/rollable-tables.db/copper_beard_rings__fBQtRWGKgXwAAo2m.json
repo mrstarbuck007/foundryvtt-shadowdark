@@ -1,0 +1,17 @@
+{
+	"_id": "fBQtRWGKgXwAAo2m",
+	"_key": "!tables.results!yftRYjCKndGfznUY.fBQtRWGKgXwAAo2m",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.SkheqJp0s0k8br94",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Copper beard rings",
+	"range": [
+		9,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

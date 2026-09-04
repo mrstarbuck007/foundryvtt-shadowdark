@@ -1,0 +1,17 @@
+{
+	"_id": "GMX1AVmO3I4eB2gV",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.GMX1AVmO3I4eB2gV",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.p5D3CkHdOouZMYd6",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Chunk of moon stone",
+	"range": [
+		37,
+		38
+	],
+	"type": "document",
+	"weight": 1
+}

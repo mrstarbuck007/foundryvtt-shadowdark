@@ -1,0 +1,17 @@
+{
+	"_id": "neAApCu0aXQ28uTm",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.neAApCu0aXQ28uTm",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.EzNtq6ZSIOVcxKmQ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Hay-stuffed luck doll",
+	"range": [
+		13,
+		14
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "54KZATFqiSgQWrSd",
+	"_key": "!tables.results!yftRYjCKndGfznUY.54KZATFqiSgQWrSd",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.6woKo4hnTvYGVmW7",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Long iron tongs",
+	"range": [
+		87,
+		88
+	],
+	"type": "document",
+	"weight": 1
+}

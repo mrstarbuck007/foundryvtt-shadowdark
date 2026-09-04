@@ -1,0 +1,17 @@
+{
+	"_id": "eE6P2pCxVBAcJpG2",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.eE6P2pCxVBAcJpG2",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ri6wncfbg0QNxKB9",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Brass cowbell",
+	"range": [
+		29,
+		30
+	],
+	"type": "document",
+	"weight": 1
+}

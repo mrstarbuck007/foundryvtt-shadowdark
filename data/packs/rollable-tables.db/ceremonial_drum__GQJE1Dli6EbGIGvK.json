@@ -1,0 +1,17 @@
+{
+	"_id": "GQJE1Dli6EbGIGvK",
+	"_key": "!tables.results!yftRYjCKndGfznUY.GQJE1Dli6EbGIGvK",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.jDYxfrzS1J06dnUU",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Ceremonial drum",
+	"range": [
+		33,
+		34
+	],
+	"type": "document",
+	"weight": 1
+}

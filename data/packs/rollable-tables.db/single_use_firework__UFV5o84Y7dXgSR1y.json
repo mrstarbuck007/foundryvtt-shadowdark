@@ -1,0 +1,17 @@
+{
+	"_id": "UFV5o84Y7dXgSR1y",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.UFV5o84Y7dXgSR1y",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.IZ4StqhP9RD714qw",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Single use firework",
+	"range": [
+		71,
+		72
+	],
+	"type": "document",
+	"weight": 1
+}

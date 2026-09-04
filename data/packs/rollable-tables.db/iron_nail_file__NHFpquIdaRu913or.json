@@ -1,0 +1,17 @@
+{
+	"_id": "NHFpquIdaRu913or",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.NHFpquIdaRu913or",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.LPAeNWrnEJKt5RuO",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Iron nail file",
+	"range": [
+		81,
+		82
+	],
+	"type": "document",
+	"weight": 1
+}

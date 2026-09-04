@@ -1,0 +1,17 @@
+{
+	"_id": "meKcBmSgrAohaIqr",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.meKcBmSgrAohaIqr",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.DLW4vb4WirQ76nGW",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Skin of wheat beer",
+	"range": [
+		41,
+		42
+	],
+	"type": "document",
+	"weight": 1
+}

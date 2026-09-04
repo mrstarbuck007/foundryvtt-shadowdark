@@ -1,0 +1,17 @@
+{
+	"_id": "GSHTDAvTLsLzvErr",
+	"_key": "!tables.results!yftRYjCKndGfznUY.GSHTDAvTLsLzvErr",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.xY4mtlHvVPQlbYL2",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Mini barrel of fine ale",
+	"range": [
+		39,
+		40
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "0MZU9eYDqM70j2yo",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.0MZU9eYDqM70j2yo",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ltYvGpzRCpzkgsAm",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Pot of blue war paint",
+	"range": [
+		63,
+		64
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "LOm6B8bsDQVNgwvi",
+	"_key": "!tables.results!yftRYjCKndGfznUY.LOm6B8bsDQVNgwvi",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.PnGiu86TXWin3gKv",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bag of rock salt",
+	"range": [
+		61,
+		62
+	],
+	"type": "document",
+	"weight": 1
+}

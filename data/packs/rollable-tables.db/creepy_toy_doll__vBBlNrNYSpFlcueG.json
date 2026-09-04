@@ -1,0 +1,17 @@
+{
+	"_id": "vBBlNrNYSpFlcueG",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.vBBlNrNYSpFlcueG",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.iLeDLQoweInzbS4g",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Creepy toy doll",
+	"range": [
+		73,
+		74
+	],
+	"type": "document",
+	"weight": 1
+}

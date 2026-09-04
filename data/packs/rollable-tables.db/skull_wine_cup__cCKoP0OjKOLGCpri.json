@@ -1,0 +1,17 @@
+{
+	"_id": "cCKoP0OjKOLGCpri",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.cCKoP0OjKOLGCpri",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.OeHYQjBxnTM66UaY",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Skull wine cup",
+	"range": [
+		97,
+		98
+	],
+	"type": "document",
+	"weight": 1
+}

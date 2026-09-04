@@ -1,0 +1,17 @@
+{
+	"_id": "A66S3MeZH99Z84w0",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.A66S3MeZH99Z84w0",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Zj6nLjmq8eEgoQij",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Tiger skin tunic",
+	"range": [
+		95,
+		96
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "qTLDrhwJ8kh0G8ro",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.qTLDrhwJ8kh0G8ro",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.5eson3B9RgpZ3SCU",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Skin of fine autumn ale",
+	"range": [
+		69,
+		70
+	],
+	"type": "document",
+	"weight": 1
+}

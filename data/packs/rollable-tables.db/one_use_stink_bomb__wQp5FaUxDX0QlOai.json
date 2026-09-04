@@ -1,0 +1,17 @@
+{
+	"_id": "wQp5FaUxDX0QlOai",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.wQp5FaUxDX0QlOai",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.cYwXgyDxHNnx5vl6",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "One-use stink bomb",
+	"range": [
+		89,
+		90
+	],
+	"type": "document",
+	"weight": 1
+}

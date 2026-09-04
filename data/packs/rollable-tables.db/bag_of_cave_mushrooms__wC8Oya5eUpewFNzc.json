@@ -1,0 +1,17 @@
+{
+	"_id": "wC8Oya5eUpewFNzc",
+	"_key": "!tables.results!yftRYjCKndGfznUY.wC8Oya5eUpewFNzc",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.232CzZ05U8uz5xNw",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bag of cave mushrooms",
+	"range": [
+		29,
+		30
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "7nH4qjwUIhhTFDzR",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.7nH4qjwUIhhTFDzR",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.QEQeSvJHvVrv1IxQ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Embroidered overcoat",
+	"range": [
+		31,
+		32
+	],
+	"type": "document",
+	"weight": 1
+}

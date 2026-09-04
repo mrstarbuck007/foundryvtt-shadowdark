@@ -1,0 +1,17 @@
+{
+	"_id": "CPVJoEXYb0zmESXT",
+	"_key": "!tables.results!yftRYjCKndGfznUY.CPVJoEXYb0zmESXT",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.O62wz8cUMCm0bOez",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Cozy knit socks",
+	"range": [
+		69,
+		70
+	],
+	"type": "document",
+	"weight": 1
+}

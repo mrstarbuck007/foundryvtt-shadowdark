@@ -1,0 +1,17 @@
+{
+	"_id": "nzb7KARdefpaSpzo",
+	"_key": "!tables.results!yftRYjCKndGfznUY.nzb7KARdefpaSpzo",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.UEKlSIYulO0ZJ6ox",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Trusty ale horn",
+	"range": [
+		25,
+		26
+	],
+	"type": "document",
+	"weight": 1
+}

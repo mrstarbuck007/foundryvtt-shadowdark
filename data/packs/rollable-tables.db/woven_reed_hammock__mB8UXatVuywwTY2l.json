@@ -1,0 +1,17 @@
+{
+	"_id": "mB8UXatVuywwTY2l",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.mB8UXatVuywwTY2l",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.KjGQ4LNR8S7xOHJ8",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Woven reed hammock",
+	"range": [
+		49,
+		50
+	],
+	"type": "document",
+	"weight": 1
+}

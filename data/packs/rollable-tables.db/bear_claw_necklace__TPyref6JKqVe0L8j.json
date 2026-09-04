@@ -1,0 +1,17 @@
+{
+	"_id": "TPyref6JKqVe0L8j",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.TPyref6JKqVe0L8j",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.TAgHQooZxsTpR3DM",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bear claw necklace",
+	"range": [
+		89,
+		90
+	],
+	"type": "document",
+	"weight": 1
+}

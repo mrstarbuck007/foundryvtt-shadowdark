@@ -1,0 +1,17 @@
+{
+	"_id": "c2y39V7bfDZWqXHA",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.c2y39V7bfDZWqXHA",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.tJdrR8jRHArk86d6",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Mother's finger claw",
+	"range": [
+		21,
+		22
+	],
+	"type": "document",
+	"weight": 1
+}

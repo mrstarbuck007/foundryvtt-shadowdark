@@ -1,0 +1,17 @@
+{
+	"_id": "YdUXSorQ1MC3hX4l",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.YdUXSorQ1MC3hX4l",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.q8A6we8az5i0lRln",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Chipped tea cup",
+	"range": [
+		89,
+		90
+	],
+	"type": "document",
+	"weight": 1
+}

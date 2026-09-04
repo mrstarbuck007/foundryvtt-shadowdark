@@ -1,0 +1,17 @@
+{
+	"_id": "nJisjfQLSTfshOhF",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.nJisjfQLSTfshOhF",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.wjZJ8raJKWLm71v7",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Chunk of desert glass",
+	"range": [
+		35,
+		36
+	],
+	"type": "document",
+	"weight": 1
+}

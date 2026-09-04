@@ -1,0 +1,17 @@
+{
+	"_id": "idd8P6KqC6hMtDmD",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.idd8P6KqC6hMtDmD",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.3soh09wSmQ3lekQ4",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Boar tooth necklace",
+	"range": [
+		67,
+		68
+	],
+	"type": "document",
+	"weight": 1
+}

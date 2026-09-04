@@ -1,0 +1,17 @@
+{
+	"_id": "Fngex4vz2tTKJAma",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.Fngex4vz2tTKJAma",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.3tjwGO6wDHK3BA2F",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Heavy monk's robes",
+	"range": [
+		27,
+		28
+	],
+	"type": "document",
+	"weight": 1
+}

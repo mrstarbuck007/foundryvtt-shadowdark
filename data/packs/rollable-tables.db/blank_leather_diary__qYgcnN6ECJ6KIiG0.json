@@ -1,0 +1,17 @@
+{
+	"_id": "qYgcnN6ECJ6KIiG0",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.qYgcnN6ECJ6KIiG0",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.BFs4SdrJX566sHVa",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Blank leather diary",
+	"range": [
+		69,
+		70
+	],
+	"type": "document",
+	"weight": 1
+}

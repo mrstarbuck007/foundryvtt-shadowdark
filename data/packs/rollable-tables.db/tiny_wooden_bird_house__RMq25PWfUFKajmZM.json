@@ -1,0 +1,17 @@
+{
+	"_id": "RMq25PWfUFKajmZM",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.RMq25PWfUFKajmZM",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.PV6BnQFuJYOrUIVB",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Tiny wooden bird house",
+	"range": [
+		77,
+		78
+	],
+	"type": "document",
+	"weight": 1
+}

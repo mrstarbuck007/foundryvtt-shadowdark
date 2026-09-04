@@ -1,0 +1,17 @@
+{
+	"_id": "sWdhgDqBFl9WJp0T",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.sWdhgDqBFl9WJp0T",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.WvF5myOL5A9wg92W",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bronze water cup",
+	"range": [
+		43,
+		44
+	],
+	"type": "document",
+	"weight": 1
+}

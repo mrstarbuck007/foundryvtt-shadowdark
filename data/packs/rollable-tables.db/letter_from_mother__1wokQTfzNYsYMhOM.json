@@ -1,0 +1,17 @@
+{
+	"_id": "1wokQTfzNYsYMhOM",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.1wokQTfzNYsYMhOM",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.87XcFoxAxiEZKxrB",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Letter from mother",
+	"range": [
+		49,
+		50
+	],
+	"type": "document",
+	"weight": 1
+}

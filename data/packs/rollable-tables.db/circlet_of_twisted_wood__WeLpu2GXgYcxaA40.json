@@ -1,0 +1,17 @@
+{
+	"_id": "WeLpu2GXgYcxaA40",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.WeLpu2GXgYcxaA40",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.McuymDhSm28Imb34",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Circlet of twisted wood",
+	"range": [
+		75,
+		76
+	],
+	"type": "document",
+	"weight": 1
+}

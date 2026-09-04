@@ -1,0 +1,17 @@
+{
+	"_id": "4AjjcIVql7L6Lwb1",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.4AjjcIVql7L6Lwb1",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.MhMXIZ3QdeAkQf1X",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Red fishing bobber",
+	"range": [
+		29,
+		30
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "MAMpDVs3JxRhykQU",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.MAMpDVs3JxRhykQU",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.unGGBLvSDO4Au4C0",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Wax-sealed note",
+	"range": [
+		85,
+		86
+	],
+	"type": "document",
+	"weight": 1
+}

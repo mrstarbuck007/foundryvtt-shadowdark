@@ -1,0 +1,17 @@
+{
+	"_id": "YSyzQKOpBYHYCgnh",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.YSyzQKOpBYHYCgnh",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.fKZvtDTZov1FwFzR",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Red saddle blanket",
+	"range": [
+		5,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

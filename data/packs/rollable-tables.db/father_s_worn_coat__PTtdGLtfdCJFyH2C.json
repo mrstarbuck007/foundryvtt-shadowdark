@@ -1,0 +1,17 @@
+{
+	"_id": "PTtdGLtfdCJFyH2C",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.PTtdGLtfdCJFyH2C",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.qOzAUp4amwtGPlj9",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Father's worn coat",
+	"range": [
+		1,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

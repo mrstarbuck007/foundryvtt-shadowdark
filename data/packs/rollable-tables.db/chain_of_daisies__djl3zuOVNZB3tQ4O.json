@@ -1,0 +1,17 @@
+{
+	"_id": "djl3zuOVNZB3tQ4O",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.djl3zuOVNZB3tQ4O",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.6KBfAbUDjcRSb5DO",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Chain of daisies",
+	"range": [
+		21,
+		22
+	],
+	"type": "document",
+	"weight": 1
+}

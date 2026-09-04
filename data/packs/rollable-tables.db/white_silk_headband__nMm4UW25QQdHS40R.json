@@ -1,0 +1,17 @@
+{
+	"_id": "nMm4UW25QQdHS40R",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.nMm4UW25QQdHS40R",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.liEHYi7lxmT4IuLp",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "White silk headband",
+	"range": [
+		29,
+		30
+	],
+	"type": "document",
+	"weight": 1
+}

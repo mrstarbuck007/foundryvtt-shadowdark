@@ -1,0 +1,17 @@
+{
+	"_id": "P1ZyUIxukob5Ufgp",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.P1ZyUIxukob5Ufgp",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.klKrEGG1F5sN6x7N",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Amethyst earrings",
+	"range": [
+		7,
+		8
+	],
+	"type": "document",
+	"weight": 1
+}

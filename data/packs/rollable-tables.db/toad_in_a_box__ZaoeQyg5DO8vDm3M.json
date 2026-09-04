@@ -1,0 +1,17 @@
+{
+	"_id": "ZaoeQyg5DO8vDm3M",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.ZaoeQyg5DO8vDm3M",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.wsbcDgtWMHMKE3Rl",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Toad in a box",
+	"range": [
+		49,
+		50
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "j3fYcbmNfgT6wmqJ",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.j3fYcbmNfgT6wmqJ",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.84Bt5IA9hXpNKNnQ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Flask of strong whiskey",
+	"range": [
+		93,
+		94
+	],
+	"type": "document",
+	"weight": 1
+}

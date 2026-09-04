@@ -1,0 +1,17 @@
+{
+	"_id": "1Rh2ZRFqdP62mQd0",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.1Rh2ZRFqdP62mQd0",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Xo7I4LXR0tRBQue3",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Ashes of a dead ancestor",
+	"range": [
+		57,
+		58
+	],
+	"type": "document",
+	"weight": 1
+}

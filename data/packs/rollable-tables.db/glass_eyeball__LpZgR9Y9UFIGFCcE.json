@@ -1,0 +1,17 @@
+{
+	"_id": "LpZgR9Y9UFIGFCcE",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.LpZgR9Y9UFIGFCcE",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.YziHdWaUGROBGzSL",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Glass eyeball",
+	"range": [
+		25,
+		26
+	],
+	"type": "document",
+	"weight": 1
+}

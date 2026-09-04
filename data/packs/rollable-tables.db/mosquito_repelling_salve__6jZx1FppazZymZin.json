@@ -1,0 +1,17 @@
+{
+	"_id": "6jZx1FppazZymZin",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.6jZx1FppazZymZin",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.oBofOuvTODJMh9ap",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Mosquito-repelling salve",
+	"range": [
+		93,
+		94
+	],
+	"type": "document",
+	"weight": 1
+}

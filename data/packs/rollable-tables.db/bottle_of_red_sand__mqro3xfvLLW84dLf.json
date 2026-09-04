@@ -1,0 +1,17 @@
+{
+	"_id": "mqro3xfvLLW84dLf",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.mqro3xfvLLW84dLf",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.QhUGSVr4WCE5v9Sg",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bottle of red sand",
+	"range": [
+		21,
+		22
+	],
+	"type": "document",
+	"weight": 1
+}

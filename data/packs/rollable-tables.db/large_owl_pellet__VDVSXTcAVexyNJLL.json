@@ -1,0 +1,17 @@
+{
+	"_id": "VDVSXTcAVexyNJLL",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.VDVSXTcAVexyNJLL",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Xlg1d47Pg2PIi9ma",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Large owl pellet",
+	"range": [
+		27,
+		28
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "AvdLqMYOJaMTJyuD",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.AvdLqMYOJaMTJyuD",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.29nvsnEQfqk9H7fx",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Phoenix feather",
+	"range": [
+		99,
+		100
+	],
+	"type": "document",
+	"weight": 1
+}

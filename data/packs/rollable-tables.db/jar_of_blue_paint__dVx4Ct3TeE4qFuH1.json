@@ -1,0 +1,17 @@
+{
+	"_id": "dVx4Ct3TeE4qFuH1",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.dVx4Ct3TeE4qFuH1",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.LJ6KPi51l00G8O2t",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Jar of blue paint",
+	"range": [
+		9,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

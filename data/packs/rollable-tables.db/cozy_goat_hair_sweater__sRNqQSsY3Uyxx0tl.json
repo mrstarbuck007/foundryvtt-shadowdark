@@ -1,0 +1,17 @@
+{
+	"_id": "sRNqQSsY3Uyxx0tl",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.sRNqQSsY3Uyxx0tl",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.PSZ7VjJXRCAmw8Jf",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Cozy goat hair sweater",
+	"range": [
+		51,
+		52
+	],
+	"type": "document",
+	"weight": 1
+}

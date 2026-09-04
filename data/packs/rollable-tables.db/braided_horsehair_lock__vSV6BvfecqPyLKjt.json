@@ -1,0 +1,17 @@
+{
+	"_id": "vSV6BvfecqPyLKjt",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.vSV6BvfecqPyLKjt",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.yZ9drv25QWeXgotV",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Braided horsehair lock",
+	"range": [
+		1,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

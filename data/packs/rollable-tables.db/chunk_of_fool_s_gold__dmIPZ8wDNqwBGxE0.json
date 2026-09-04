@@ -1,0 +1,17 @@
+{
+	"_id": "dmIPZ8wDNqwBGxE0",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.dmIPZ8wDNqwBGxE0",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.8KYW6VBmR4cO5xB9",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Chunk of fool's gold",
+	"range": [
+		79,
+		80
+	],
+	"type": "document",
+	"weight": 1
+}

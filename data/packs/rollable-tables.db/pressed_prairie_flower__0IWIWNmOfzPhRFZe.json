@@ -1,0 +1,17 @@
+{
+	"_id": "0IWIWNmOfzPhRFZe",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.0IWIWNmOfzPhRFZe",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.FpKU9Qjo1wzZIPgL",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Pressed prairie flower",
+	"range": [
+		19,
+		20
+	],
+	"type": "document",
+	"weight": 1
+}

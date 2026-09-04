@@ -1,0 +1,17 @@
+{
+	"_id": "UN9XhBep9yQUuLNH",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.UN9XhBep9yQUuLNH",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.66G085uENiVZJ9Xt",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Withered flower crown",
+	"range": [
+		87,
+		88
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "assJLRnXlz3AfMva",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.assJLRnXlz3AfMva",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.XjMx3MyJiQi57PR6",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Ruby-lens glasses",
+	"range": [
+		99,
+		100
+	],
+	"type": "document",
+	"weight": 1
+}

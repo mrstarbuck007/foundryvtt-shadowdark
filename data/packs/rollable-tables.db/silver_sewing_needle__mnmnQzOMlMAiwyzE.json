@@ -1,0 +1,17 @@
+{
+	"_id": "mnmnQzOMlMAiwyzE",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.mnmnQzOMlMAiwyzE",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.vZoFmpglJ7IfM2CC",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Silver sewing needle",
+	"range": [
+		55,
+		56
+	],
+	"type": "document",
+	"weight": 1
+}

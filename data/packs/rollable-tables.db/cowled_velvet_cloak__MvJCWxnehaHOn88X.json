@@ -1,0 +1,17 @@
+{
+	"_id": "MvJCWxnehaHOn88X",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.MvJCWxnehaHOn88X",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ifGA3AXvxCwdedj9",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Cowled velvet cloak",
+	"range": [
+		13,
+		14
+	],
+	"type": "document",
+	"weight": 1
+}

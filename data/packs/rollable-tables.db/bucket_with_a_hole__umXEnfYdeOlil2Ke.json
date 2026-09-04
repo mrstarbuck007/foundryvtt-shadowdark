@@ -1,0 +1,17 @@
+{
+	"_id": "umXEnfYdeOlil2Ke",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.umXEnfYdeOlil2Ke",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.JwQCgz71AngjHLoa",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bucket with a hole",
+	"range": [
+		25,
+		26
+	],
+	"type": "document",
+	"weight": 1
+}

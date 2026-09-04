@@ -1,0 +1,17 @@
+{
+	"_id": "tzQvkOomBQABAnsI",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.tzQvkOomBQABAnsI",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.st5pn3aaXcHea7YH",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Oversized boots",
+	"range": [
+		59,
+		60
+	],
+	"type": "document",
+	"weight": 1
+}

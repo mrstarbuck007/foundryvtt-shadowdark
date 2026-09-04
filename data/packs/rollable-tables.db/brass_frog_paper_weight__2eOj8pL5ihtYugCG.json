@@ -1,0 +1,17 @@
+{
+	"_id": "2eOj8pL5ihtYugCG",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.2eOj8pL5ihtYugCG",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.JXEyyi8eztmioI1B",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Brass frog paper weight",
+	"range": [
+		83,
+		84
+	],
+	"type": "document",
+	"weight": 1
+}

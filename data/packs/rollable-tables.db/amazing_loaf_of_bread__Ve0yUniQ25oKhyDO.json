@@ -1,0 +1,17 @@
+{
+	"_id": "Ve0yUniQ25oKhyDO",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.Ve0yUniQ25oKhyDO",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.qYN0Is3Mqehxv1Gi",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Amazing loaf of bread",
+	"range": [
+		1,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

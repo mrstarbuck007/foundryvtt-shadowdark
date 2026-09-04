@@ -1,0 +1,17 @@
+{
+	"_id": "cuhwKGVj1CjbeyjT",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.cuhwKGVj1CjbeyjT",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.xD7mhNDw5FlqRAZM",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Silk hammock",
+	"range": [
+		59,
+		60
+	],
+	"type": "document",
+	"weight": 1
+}

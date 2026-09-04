@@ -1,0 +1,17 @@
+{
+	"_id": "wNHNmsWAK84qUoqb",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.wNHNmsWAK84qUoqb",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.P6PaowpOqmrsv3xZ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bug catching net",
+	"range": [
+		39,
+		40
+	],
+	"type": "document",
+	"weight": 1
+}

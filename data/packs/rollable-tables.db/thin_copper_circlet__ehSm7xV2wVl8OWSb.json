@@ -1,0 +1,17 @@
+{
+	"_id": "ehSm7xV2wVl8OWSb",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.ehSm7xV2wVl8OWSb",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.xDKmUGlkACwh3dLD",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Thin copper circlet",
+	"range": [
+		51,
+		52
+	],
+	"type": "document",
+	"weight": 1
+}

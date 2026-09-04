@@ -1,0 +1,17 @@
+{
+	"_id": "ClTjQnJ3YQn7CSTv",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.ClTjQnJ3YQn7CSTv",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.HbOdJeXcWJUE2ndD",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Tiny hermit crab",
+	"range": [
+		81,
+		82
+	],
+	"type": "document",
+	"weight": 1
+}

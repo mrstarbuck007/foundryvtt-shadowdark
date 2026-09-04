@@ -1,0 +1,17 @@
+{
+	"_id": "QJXtDXnA8dEu7tKO",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.QJXtDXnA8dEu7tKO",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.JTzbNaE36EEXYPDX",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Silky red arrow feathers",
+	"range": [
+		87,
+		88
+	],
+	"type": "document",
+	"weight": 1
+}

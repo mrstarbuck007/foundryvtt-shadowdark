@@ -1,0 +1,17 @@
+{
+	"_id": "ocxcbBiOPfVLwTRN",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.ocxcbBiOPfVLwTRN",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.nVuJxYGv5xcENl3g",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Vial with a black seed",
+	"range": [
+		41,
+		42
+	],
+	"type": "document",
+	"weight": 1
+}

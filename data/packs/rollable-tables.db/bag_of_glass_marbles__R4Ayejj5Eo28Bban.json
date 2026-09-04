@@ -1,0 +1,17 @@
+{
+	"_id": "R4Ayejj5Eo28Bban",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.R4Ayejj5Eo28Bban",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.NEYGWDWrbKiuEsXZ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bag of glass marbles",
+	"range": [
+		59,
+		60
+	],
+	"type": "document",
+	"weight": 1
+}

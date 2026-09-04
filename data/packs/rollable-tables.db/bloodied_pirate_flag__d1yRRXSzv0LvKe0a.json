@@ -1,0 +1,17 @@
+{
+	"_id": "d1yRRXSzv0LvKe0a",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.d1yRRXSzv0LvKe0a",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.5yCRgBeCUO22xEgi",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bloodied pirate flag",
+	"range": [
+		53,
+		54
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "IPw6B0JEXb59Qo47",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.IPw6B0JEXb59Qo47",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.E5xApvsmHOzwbTty",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Hand-sized brass gong",
+	"range": [
+		77,
+		78
+	],
+	"type": "document",
+	"weight": 1
+}

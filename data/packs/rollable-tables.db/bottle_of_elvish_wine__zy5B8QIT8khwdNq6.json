@@ -1,0 +1,17 @@
+{
+	"_id": "zy5B8QIT8khwdNq6",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.zy5B8QIT8khwdNq6",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.QFNF0uZ2VGTwkoN4",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bottle of elvish wine",
+	"range": [
+		19,
+		20
+	],
+	"type": "document",
+	"weight": 1
+}

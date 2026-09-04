@@ -1,0 +1,17 @@
+{
+	"_id": "uJ5tGaR72zdhwtIS",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.uJ5tGaR72zdhwtIS",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.shMfnOjDD5AN51e4",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Long smoking pipe",
+	"range": [
+		91,
+		92
+	],
+	"type": "document",
+	"weight": 1
+}

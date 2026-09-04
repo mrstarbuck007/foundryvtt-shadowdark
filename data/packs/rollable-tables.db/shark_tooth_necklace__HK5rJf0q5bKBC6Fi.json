@@ -1,0 +1,17 @@
+{
+	"_id": "HK5rJf0q5bKBC6Fi",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.HK5rJf0q5bKBC6Fi",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Vky6u7XFVJIqvE8A",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Shark tooth necklace",
+	"range": [
+		17,
+		18
+	],
+	"type": "document",
+	"weight": 1
+}

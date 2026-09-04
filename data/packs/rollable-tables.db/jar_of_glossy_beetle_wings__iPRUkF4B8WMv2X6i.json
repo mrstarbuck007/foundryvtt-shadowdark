@@ -1,0 +1,17 @@
+{
+	"_id": "iPRUkF4B8WMv2X6i",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.iPRUkF4B8WMv2X6i",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.QHDSKB6cSby47MyU",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Jar of glossy beetle wings",
+	"range": [
+		51,
+		52
+	],
+	"type": "document",
+	"weight": 1
+}

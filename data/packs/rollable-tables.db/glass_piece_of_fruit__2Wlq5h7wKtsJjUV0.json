@@ -1,0 +1,17 @@
+{
+	"_id": "2Wlq5h7wKtsJjUV0",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.2Wlq5h7wKtsJjUV0",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.5xqr2mnURXKmPBU4",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Glass piece of fruit",
+	"range": [
+		21,
+		22
+	],
+	"type": "document",
+	"weight": 1
+}

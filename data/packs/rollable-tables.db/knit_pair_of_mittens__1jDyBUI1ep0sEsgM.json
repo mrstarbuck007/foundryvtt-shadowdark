@@ -1,0 +1,17 @@
+{
+	"_id": "1jDyBUI1ep0sEsgM",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.1jDyBUI1ep0sEsgM",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Rn4bKk6irnImO32I",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Knit pair of mittens",
+	"range": [
+		95,
+		96
+	],
+	"type": "document",
+	"weight": 1
+}

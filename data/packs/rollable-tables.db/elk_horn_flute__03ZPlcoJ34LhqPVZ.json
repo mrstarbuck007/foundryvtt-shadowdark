@@ -1,0 +1,17 @@
+{
+	"_id": "03ZPlcoJ34LhqPVZ",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.03ZPlcoJ34LhqPVZ",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ACeeLkBSZKxXKd6T",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Elk horn flute",
+	"range": [
+		43,
+		44
+	],
+	"type": "document",
+	"weight": 1
+}

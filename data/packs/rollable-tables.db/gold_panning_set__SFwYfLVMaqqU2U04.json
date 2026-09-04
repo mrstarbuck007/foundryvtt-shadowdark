@@ -1,0 +1,17 @@
+{
+	"_id": "SFwYfLVMaqqU2U04",
+	"_key": "!tables.results!yftRYjCKndGfznUY.SFwYfLVMaqqU2U04",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.RebbvhbqjRfP68W5",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Gold panning set",
+	"range": [
+		89,
+		90
+	],
+	"type": "document",
+	"weight": 1
+}

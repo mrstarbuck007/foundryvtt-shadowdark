@@ -1,0 +1,17 @@
+{
+	"_id": "GcWL5RJzrQ0ozwP1",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.GcWL5RJzrQ0ozwP1",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.HszDpdVA6Lgt7BwT",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Fish bone earring",
+	"range": [
+		21,
+		22
+	],
+	"type": "document",
+	"weight": 1
+}

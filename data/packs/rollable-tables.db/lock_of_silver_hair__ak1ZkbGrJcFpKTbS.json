@@ -1,0 +1,17 @@
+{
+	"_id": "ak1ZkbGrJcFpKTbS",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.ak1ZkbGrJcFpKTbS",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.WNzjLA8QQdxApPOX",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Lock of silver hair",
+	"range": [
+		39,
+		40
+	],
+	"type": "document",
+	"weight": 1
+}

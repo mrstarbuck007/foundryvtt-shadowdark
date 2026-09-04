@@ -1,0 +1,17 @@
+{
+	"_id": "qjmYqzTja5FZo2l8",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.qjmYqzTja5FZo2l8",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.jo0FZSUtFtNjRF5P",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Stained glass bird",
+	"range": [
+		95,
+		96
+	],
+	"type": "document",
+	"weight": 1
+}

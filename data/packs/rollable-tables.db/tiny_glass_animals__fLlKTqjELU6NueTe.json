@@ -1,0 +1,17 @@
+{
+	"_id": "fLlKTqjELU6NueTe",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.fLlKTqjELU6NueTe",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ZOXHySAc1wtqFtEt",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Tiny glass animals",
+	"range": [
+		39,
+		40
+	],
+	"type": "document",
+	"weight": 1
+}

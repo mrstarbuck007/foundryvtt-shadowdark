@@ -1,0 +1,17 @@
+{
+	"_id": "lZWyevgQn7LHQtgp",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.lZWyevgQn7LHQtgp",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Npy8XGTGs2cnbaVh",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bag of potpourri",
+	"range": [
+		85,
+		86
+	],
+	"type": "document",
+	"weight": 1
+}

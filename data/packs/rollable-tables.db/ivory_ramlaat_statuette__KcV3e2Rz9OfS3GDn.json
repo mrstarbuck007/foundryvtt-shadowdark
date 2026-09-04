@@ -1,0 +1,17 @@
+{
+	"_id": "KcV3e2Rz9OfS3GDn",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.KcV3e2Rz9OfS3GDn",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.giEBHUGOEZtxNrWB",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Ivory Ramlaat statuette",
+	"range": [
+		61,
+		62
+	],
+	"type": "document",
+	"weight": 1
+}

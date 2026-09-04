@@ -1,0 +1,17 @@
+{
+	"_id": "FXwsZmKiH847l7vi",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.FXwsZmKiH847l7vi",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.wsdKDN6eef9qItHf",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Wind up music box",
+	"range": [
+		35,
+		36
+	],
+	"type": "document",
+	"weight": 1
+}

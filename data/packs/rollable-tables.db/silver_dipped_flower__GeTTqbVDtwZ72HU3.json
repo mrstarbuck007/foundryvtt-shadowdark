@@ -1,0 +1,17 @@
+{
+	"_id": "GeTTqbVDtwZ72HU3",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.GeTTqbVDtwZ72HU3",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.i9Fjf0D2B9I2hXW2",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Silver-dipped flower",
+	"range": [
+		23,
+		24
+	],
+	"type": "document",
+	"weight": 1
+}

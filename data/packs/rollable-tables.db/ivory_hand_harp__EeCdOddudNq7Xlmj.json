@@ -1,0 +1,17 @@
+{
+	"_id": "EeCdOddudNq7Xlmj",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.EeCdOddudNq7Xlmj",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.feOXvKtDGibPyaR7",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Ivory hand harp",
+	"range": [
+		11,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

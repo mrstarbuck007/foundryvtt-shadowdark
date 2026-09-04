@@ -1,0 +1,17 @@
+{
+	"_id": "p31qOw988aj4767Y",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.p31qOw988aj4767Y",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.NtT0uZvzAWtSUQtl",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Hawk hood and glove",
+	"range": [
+		91,
+		92
+	],
+	"type": "document",
+	"weight": 1
+}

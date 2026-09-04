@@ -1,0 +1,17 @@
+{
+	"_id": "v3zywvZtYJPI0dGC",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.v3zywvZtYJPI0dGC",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.y3WHDZtjiDi8fxyv",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Silver camel hair hat",
+	"range": [
+		69,
+		70
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "p7o2qj8hvxm387Pg",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.p7o2qj8hvxm387Pg",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.O7vYlcCIRzWBAbuY",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Tuneless pan pipes",
+	"range": [
+		11,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

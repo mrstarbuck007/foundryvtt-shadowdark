@@ -1,0 +1,17 @@
+{
+	"_id": "qqA8892o0lTBVUTW",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.qqA8892o0lTBVUTW",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.SiI1tPJ7wRyNc2iK",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Jaunty eye patch",
+	"range": [
+		75,
+		76
+	],
+	"type": "document",
+	"weight": 1
+}

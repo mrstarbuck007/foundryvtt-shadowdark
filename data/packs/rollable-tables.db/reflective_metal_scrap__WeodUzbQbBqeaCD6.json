@@ -1,0 +1,17 @@
+{
+	"_id": "WeodUzbQbBqeaCD6",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.WeodUzbQbBqeaCD6",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.ujlym4MfpL6AJ0MJ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Reflective metal scrap",
+	"range": [
+		39,
+		40
+	],
+	"type": "document",
+	"weight": 1
+}

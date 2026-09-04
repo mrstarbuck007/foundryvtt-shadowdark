@@ -1,0 +1,17 @@
+{
+	"_id": "L95aWHGZjfLMHP6U",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.L95aWHGZjfLMHP6U",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.CIoQVGYsjEyb5oCD",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Lucky four-leafed clover",
+	"range": [
+		15,
+		16
+	],
+	"type": "document",
+	"weight": 1
+}

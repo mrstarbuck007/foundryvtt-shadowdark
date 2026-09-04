@@ -1,0 +1,17 @@
+{
+	"_id": "wSnt35HBiXBnJSv2",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.wSnt35HBiXBnJSv2",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.W8dP1nHuwIGGDcDM",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Beaded dream catcher",
+	"range": [
+		79,
+		80
+	],
+	"type": "document",
+	"weight": 1
+}

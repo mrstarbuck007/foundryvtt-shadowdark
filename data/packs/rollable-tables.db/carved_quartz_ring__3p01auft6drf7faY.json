@@ -1,0 +1,17 @@
+{
+	"_id": "3p01auft6drf7faY",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.3p01auft6drf7faY",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.IhIo4K8LokurFV8b",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Carved quartz ring",
+	"range": [
+		9,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

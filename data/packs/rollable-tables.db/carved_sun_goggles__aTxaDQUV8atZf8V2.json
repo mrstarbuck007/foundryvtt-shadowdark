@@ -1,0 +1,17 @@
+{
+	"_id": "aTxaDQUV8atZf8V2",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.aTxaDQUV8atZf8V2",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.4ts3J6rrLMEEt0L8",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Carved sun goggles",
+	"range": [
+		91,
+		92
+	],
+	"type": "document",
+	"weight": 1
+}

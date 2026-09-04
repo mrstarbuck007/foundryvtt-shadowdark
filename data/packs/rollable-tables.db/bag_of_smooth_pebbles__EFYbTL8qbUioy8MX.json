@@ -1,0 +1,17 @@
+{
+	"_id": "EFYbTL8qbUioy8MX",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.EFYbTL8qbUioy8MX",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.8F724DWZxT1l6Wvu",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bag of smooth pebbles",
+	"range": [
+		83,
+		84
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "zhA0Majpx9FKRTKg",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.zhA0Majpx9FKRTKg",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.XJ0TLRd192JWtuRB",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Old book of poetry",
+	"range": [
+		61,
+		62
+	],
+	"type": "document",
+	"weight": 1
+}

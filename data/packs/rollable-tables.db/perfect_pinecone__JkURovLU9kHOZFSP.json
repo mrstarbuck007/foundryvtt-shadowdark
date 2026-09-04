@@ -1,0 +1,17 @@
+{
+	"_id": "JkURovLU9kHOZFSP",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.JkURovLU9kHOZFSP",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.CNu8Ra8U6AQ8KyKp",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Perfect pinecone",
+	"range": [
+		33,
+		34
+	],
+	"type": "document",
+	"weight": 1
+}

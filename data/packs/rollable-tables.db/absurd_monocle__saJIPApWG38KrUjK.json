@@ -1,0 +1,17 @@
+{
+	"_id": "saJIPApWG38KrUjK",
+	"_key": "!tables.results!yftRYjCKndGfznUY.saJIPApWG38KrUjK",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.j3CCWdphlQ97ObFb",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Absurd monocle",
+	"range": [
+		99,
+		100
+	],
+	"type": "document",
+	"weight": 1
+}

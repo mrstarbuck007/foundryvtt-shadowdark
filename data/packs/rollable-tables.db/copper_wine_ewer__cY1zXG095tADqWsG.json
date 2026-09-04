@@ -1,0 +1,17 @@
+{
+	"_id": "cY1zXG095tADqWsG",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.cY1zXG095tADqWsG",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.uAlHIINbLmNFSbcw",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Copper wine ewer",
+	"range": [
+		27,
+		28
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "q9NloJTvtGpSK4ck",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.q9NloJTvtGpSK4ck",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.0037Pl0G8Pz4PtJd",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Polished rabbit skull",
+	"range": [
+		25,
+		26
+	],
+	"type": "document",
+	"weight": 1
+}

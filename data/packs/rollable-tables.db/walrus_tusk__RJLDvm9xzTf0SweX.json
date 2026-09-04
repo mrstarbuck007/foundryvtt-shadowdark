@@ -1,0 +1,17 @@
+{
+	"_id": "RJLDvm9xzTf0SweX",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.RJLDvm9xzTf0SweX",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.BP6KqbgYB3UUJSRN",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Walrus tusk",
+	"range": [
+		35,
+		36
+	],
+	"type": "document",
+	"weight": 1
+}

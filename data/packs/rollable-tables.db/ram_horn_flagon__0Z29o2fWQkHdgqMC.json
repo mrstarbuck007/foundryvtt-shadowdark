@@ -1,0 +1,17 @@
+{
+	"_id": "0Z29o2fWQkHdgqMC",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.0Z29o2fWQkHdgqMC",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.PI6JCSuggjIw0UDJ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Ram horn flagon",
+	"range": [
+		1,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

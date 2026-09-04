@@ -1,0 +1,17 @@
+{
+	"_id": "ZPd7MkKww9Q5NMiM",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.ZPd7MkKww9Q5NMiM",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Ej6TA79SAwc3Gh1f",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bag of high quality flour",
+	"range": [
+		17,
+		18
+	],
+	"type": "document",
+	"weight": 1
+}

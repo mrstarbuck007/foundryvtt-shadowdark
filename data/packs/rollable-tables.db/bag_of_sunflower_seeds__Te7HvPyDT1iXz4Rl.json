@@ -1,0 +1,17 @@
+{
+	"_id": "Te7HvPyDT1iXz4Rl",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.Te7HvPyDT1iXz4Rl",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.c14o80tG7aPXs19x",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Bag of sunflower seeds",
+	"range": [
+		25,
+		26
+	],
+	"type": "document",
+	"weight": 1
+}

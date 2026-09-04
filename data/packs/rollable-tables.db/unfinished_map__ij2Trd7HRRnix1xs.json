@@ -1,0 +1,17 @@
+{
+	"_id": "ij2Trd7HRRnix1xs",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.ij2Trd7HRRnix1xs",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.HmVrRWjvpKmGPNk4",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Unfinished map",
+	"range": [
+		81,
+		82
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "YYL8pRX5rnH9yVDB",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.YYL8pRX5rnH9yVDB",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.izejVj7dDiUKR2IC",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Lead horseshoe",
+	"range": [
+		65,
+		66
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "nPWnP7C5cf5JuFlI",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.nPWnP7C5cf5JuFlI",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.Wi9EG3qTLxq0Rsk9",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Book of fairy tales",
+	"range": [
+		27,
+		28
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "DfbEMfy5HX2rhFHC",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.DfbEMfy5HX2rhFHC",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.gear.Item.VqKF2TkZigDCWZpQ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"name": "Miniature koi fish in a jar",
+	"range": [
+		69,
+		70
+	],
+	"type": "document",
+	"weight": 1
+}
