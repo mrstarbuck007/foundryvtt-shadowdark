@@ -1,0 +1,17 @@
+{
+	"_id": "oIpSNWZK06PQVvMy",
+	"_key": "!tables.results!8R1LO47YWHvDx1lz.oIpSNWZK06PQVvMy",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.xJPC6F2f4drLi02p",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Learn a Seer Spell",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

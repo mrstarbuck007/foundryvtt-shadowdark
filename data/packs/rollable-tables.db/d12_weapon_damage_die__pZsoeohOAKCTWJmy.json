@@ -1,0 +1,17 @@
+{
+	"_id": "pZsoeohOAKCTWJmy",
+	"_key": "!tables.results!EC0PnYS8ZwS0qNaV.pZsoeohOAKCTWJmy",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.98HEgBRJSED5epGt",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/ranged/arrows-flying-salvo-blue-light.webp",
+	"name": "D12 Weapon Damage Die",
+	"range": [
+		10,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

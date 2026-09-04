@@ -1,0 +1,17 @@
+{
+	"_id": "SqRb0ofLURlEAt3E",
+	"_key": "!tables.results!8R1LO47YWHvDx1lz.SqRb0ofLURlEAt3E",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.rollable-tables.RollTable.EmBGQUSaf5L7ojKJ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+	"name": "Distribute to Stats",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

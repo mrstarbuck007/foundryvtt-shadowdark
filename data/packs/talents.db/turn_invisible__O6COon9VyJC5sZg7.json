@@ -1,0 +1,22 @@
+{
+	"_id": "O6COon9VyJC5sZg7",
+	"_key": "!items!O6COon9VyJC5sZg7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/magic/perception/silhouette-stealth-shadow.webp",
+	"name": "Turn Invisible",
+	"system": {
+		"description": "<p>1/day, turn invisible for 3 rounds</p><p>duplicate = reroll</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

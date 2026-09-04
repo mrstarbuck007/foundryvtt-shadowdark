@@ -1,0 +1,22 @@
+{
+	"_id": "L1TtMVqaCwV2IFwM",
+	"_key": "!items!L1TtMVqaCwV2IFwM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/sundries/gaming/dice-runed-brown.webp",
+	"name": "+1d4 on Luck Token Rolls",
+	"system": {
+		"description": "<p>When you use a luck token, add +1d4 to the roll</p><p>duplicate = reroll</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

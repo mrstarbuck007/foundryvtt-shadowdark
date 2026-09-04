@@ -101,6 +101,10 @@
 	* Shune the Vile's stat choice gains the Charisma option the book gives it
 - Fixed a Mugdulblub patron boon that handed out nothing, as its table result pointed at no document
 - Filled in the Learn to Wield a Longbow talent, which shipped with an empty description
+- Added the Freya, Loki and Odin patrons from Shadowdark RPG: The Western Reaches, with their Patron Boon tables
+	* Adds the +1d4 on Luck Token Rolls, Learn a Seer Spell, Turn Invisible, Illusory Duplicate, Regain Luck Token and Pray for Full HP boons
+	* The three already shipped as deities, so they are now selectable as patrons as well
+- Filled in the D12 Weapon Damage Die talent, which shipped with an empty description
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores

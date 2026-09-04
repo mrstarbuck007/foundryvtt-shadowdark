@@ -1,0 +1,22 @@
+{
+	"_id": "Vv89Omc4eMQFhYri",
+	"_key": "!items!Vv89Omc4eMQFhYri",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/sundries/gaming/dice-pair-white-green.webp",
+	"name": "Regain Luck Token",
+	"system": {
+		"description": "<p>If you use a luck token on a Dexterity or Charisma check, regain it</p><p>duplicate = reroll</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

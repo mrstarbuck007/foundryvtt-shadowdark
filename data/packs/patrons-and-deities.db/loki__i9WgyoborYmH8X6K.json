@@ -1,0 +1,21 @@
+{
+	"_id": "i9WgyoborYmH8X6K",
+	"_key": "!items!i9WgyoborYmH8X6K",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "3aze8z3qds3mZZm9",
+	"img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+	"name": "Loki",
+	"system": {
+		"boonTable": "Compendium.shadowdark.rollable-tables.RollTable.1Z9wcXE9qyAyjyfE",
+		"description": "<p>The Deceiver who wins with wit and wile. The wolf who disguises himself as a sheep. Loki is glib and infuriating; his words cut like steel, and his laughter howls like a gale. His followers do not seek Valhalla, for they know it will fall when Ragnarok comes.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Patron"
+}

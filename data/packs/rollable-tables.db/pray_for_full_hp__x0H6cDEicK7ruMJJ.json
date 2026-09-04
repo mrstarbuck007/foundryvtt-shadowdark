@@ -1,0 +1,17 @@
+{
+	"_id": "x0H6cDEicK7ruMJJ",
+	"_key": "!tables.results!EC0PnYS8ZwS0qNaV.x0H6cDEicK7ruMJJ",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.ajzUB3cAh0pLkl5Q",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
+	"name": "Pray for Full HP",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

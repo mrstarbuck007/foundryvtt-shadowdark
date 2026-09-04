@@ -1,0 +1,17 @@
+{
+	"_id": "5mS8TV3VyO8Ua3Xa",
+	"_key": "!tables.results!1Z9wcXE9qyAyjyfE.5mS8TV3VyO8Ua3Xa",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.O6COon9VyJC5sZg7",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/perception/silhouette-stealth-shadow.webp",
+	"name": "Turn Invisible",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

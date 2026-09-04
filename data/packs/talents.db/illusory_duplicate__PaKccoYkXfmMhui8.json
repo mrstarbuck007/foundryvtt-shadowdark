@@ -1,0 +1,22 @@
+{
+	"_id": "PaKccoYkXfmMhui8",
+	"_key": "!items!PaKccoYkXfmMhui8",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/magic/control/control-influence-puppet.webp",
+	"name": "Illusory Duplicate",
+	"system": {
+		"description": "<p>Create an illusory duplicate of yourself for up to 5 rounds per day</p><p>duplicate = +2 rounds</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

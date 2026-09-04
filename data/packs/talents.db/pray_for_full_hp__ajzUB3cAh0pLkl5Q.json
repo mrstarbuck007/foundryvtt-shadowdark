@@ -1,0 +1,22 @@
+{
+	"_id": "ajzUB3cAh0pLkl5Q",
+	"_key": "!items!ajzUB3cAh0pLkl5Q",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
+	"name": "Pray for Full HP",
+	"system": {
+		"description": "<p>1/day, use your action to pray and be restored to full HP</p><p>duplicate = reroll</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

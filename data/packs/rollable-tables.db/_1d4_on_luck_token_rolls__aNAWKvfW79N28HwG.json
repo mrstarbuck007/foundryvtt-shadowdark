@@ -1,0 +1,17 @@
+{
+	"_id": "aNAWKvfW79N28HwG",
+	"_key": "!tables.results!8R1LO47YWHvDx1lz.aNAWKvfW79N28HwG",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.L1TtMVqaCwV2IFwM",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/sundries/gaming/dice-runed-brown.webp",
+	"name": "+1d4 on Luck Token Rolls",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

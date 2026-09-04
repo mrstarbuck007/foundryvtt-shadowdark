@@ -10,7 +10,7 @@
 	"img": "icons/skills/ranged/arrows-flying-salvo-blue-light.webp",
 	"name": "D12 Weapon Damage Die",
 	"system": {
-		"description": "",
+		"description": "<p>You deal d12 damage with one weapon type you choose.</p>",
 		"level": 1,
 		"properties": [
 		],

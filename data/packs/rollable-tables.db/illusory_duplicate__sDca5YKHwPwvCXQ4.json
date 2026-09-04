@@ -1,0 +1,17 @@
+{
+	"_id": "sDca5YKHwPwvCXQ4",
+	"_key": "!tables.results!1Z9wcXE9qyAyjyfE.sDca5YKHwPwvCXQ4",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.PaKccoYkXfmMhui8",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/control/control-influence-puppet.webp",
+	"name": "Illusory Duplicate",
+	"range": [
+		3,
+		7
+	],
+	"type": "document",
+	"weight": 1
+}

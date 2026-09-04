@@ -1,0 +1,17 @@
+{
+	"_id": "J4Slki54QQPCaiS5",
+	"_key": "!tables.results!1Z9wcXE9qyAyjyfE.J4Slki54QQPCaiS5",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.Vv89Omc4eMQFhYri",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/sundries/gaming/dice-pair-white-green.webp",
+	"name": "Regain Luck Token",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

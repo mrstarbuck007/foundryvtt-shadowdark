@@ -1,0 +1,21 @@
+{
+	"_id": "WR05K8KG5pghK9xF",
+	"_key": "!items!WR05K8KG5pghK9xF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "3aze8z3qds3mZZm9",
+	"img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+	"name": "Freya",
+	"system": {
+		"boonTable": "Compendium.shadowdark.rollable-tables.RollTable.8R1LO47YWHvDx1lz",
+		"description": "<p>The goddess of love and hatred. The Queen of Shield Maidens whose valkyries carry worthy souls to the Great Feast. The First Seer who places her omens in bones, blood, and entrails. Freya inspires the poets and then torments them with lack.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Patron"
+}

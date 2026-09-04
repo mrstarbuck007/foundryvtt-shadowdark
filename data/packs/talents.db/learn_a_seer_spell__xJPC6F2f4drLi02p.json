@@ -1,0 +1,22 @@
+{
+	"_id": "xJPC6F2f4drLi02p",
+	"_key": "!items!xJPC6F2f4drLi02p",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Learn a Seer Spell",
+	"system": {
+		"description": "<p>Learn a seer spell, tier = half your level. Cast it with WIS</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}
