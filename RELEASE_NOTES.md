@@ -38,6 +38,9 @@
 - Added the Duelist class from Shadowdark RPG: The Western Reaches
 	* Includes its Parry, Tale Spinner and Taunt talents and its class talent table
 	* Parry tracks its use for the day and Tale Spinner rolls its check from the sheet
+- Added the Green Knight class from Shadowdark RPG: The Western Reaches
+	* Includes its Rooted talent, its class talent table, and its spells known table
+	* It casts druid spells, which the book describes as a subcategory of wizard spells, so it carries its own spell list for now
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry

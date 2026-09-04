@@ -1,0 +1,17 @@
+{
+	"_id": "pnZwoH7JZ6QmWh7n",
+	"_key": "!tables.results!I5lliD0EO0f480u0.pnZwoH7JZ6QmWh7n",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.0WmG5j0Wv685YTqO",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "+1 on Spellcasting Checks",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

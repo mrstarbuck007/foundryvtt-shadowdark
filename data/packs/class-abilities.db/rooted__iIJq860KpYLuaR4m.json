@@ -1,0 +1,30 @@
+{
+	"_id": "iIJq860KpYLuaR4m",
+	"_key": "!items!iIJq860KpYLuaR4m",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "ouQFWSadiw9Jxy42",
+	"img": "icons/magic/nature/root-vine-barrier-wall-brown.webp",
+	"name": "Rooted",
+	"system": {
+		"ability": "",
+		"dc": 0,
+		"description": "<p>3/day, activate on your turn. Negate all damage you take until your next turn begins.</p>",
+		"group": "Green Knight",
+		"limitedUses": true,
+		"loseOnFailure": false,
+		"lost": false,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"uses": {
+			"available": 3,
+			"max": 3
+		}
+	},
+	"type": "Class Ability"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "QksFeDRsXIHhGMuf",
+	"_key": "!tables.results!I5lliD0EO0f480u0.QksFeDRsXIHhGMuf",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.bOfGWKFoBGiYMbJY",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/nature/plant-sprout-hands-vines.webp",
+	"name": "Tree Step",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

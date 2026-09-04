@@ -1,0 +1,22 @@
+{
+	"_id": "EpojIA7OcUYQy5oG",
+	"_key": "!items!EpojIA7OcUYQy5oG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Spellcasting (Green Knight)",
+	"system": {
+		"description": "<p><strong>Spellcasting.</strong> You can cast druid spells you know.</p><p>Each time you gain a level, you choose new druid spells to learn according to the Druid Spells Known table.</p><p>You use your Wisdom modifier to cast druid spells. The DC is 10 + the spell's tier.</p><p>If you fail a spellcasting check, you can't cast that spell again until you complete a rest. If you roll a natural 1 on a spellcasting check, you can't cast that spell again until you complete penance in accordance with Gede's demands.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

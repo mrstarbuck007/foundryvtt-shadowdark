@@ -1,0 +1,181 @@
+{
+	"_id": "sCyRZcVbp4IsJxW5",
+	"_key": "!items!sCyRZcVbp4IsJxW5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
+	"name": "Green Knight",
+	"system": {
+		"alignment": "",
+		"allArmor": true,
+		"allMeleeWeapons": false,
+		"allRangedWeapons": false,
+		"allWeapons": false,
+		"armor": [
+		],
+		"classAbilities": [
+			"Compendium.shadowdark.class-abilities.Item.iIJq860KpYLuaR4m"
+		],
+		"classAbilityChoiceCount": 0,
+		"classAbilityChoices": [
+		],
+		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.I5lliD0EO0f480u0",
+		"description": "<p>Green-clad knights of the deep wood with armor of antler and bone. Protectors of Gede's realm from the unnatural, the demonic, and the destructive.</p>",
+		"hitPoints": "1d6",
+		"languages": {
+			"common": 0,
+			"fixed": [
+				"Compendium.shadowdark.languages.Item.Lf6kATbC1uNPLnPi"
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"patron": {
+			"required": false,
+			"startingBoons": 0
+		},
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"spellcasting": {
+			"ability": "wis",
+			"baseDifficulty": 10,
+			"class": "",
+			"spellsknown": {
+				"1": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"10": {
+					"1": 3,
+					"2": 3,
+					"3": 3,
+					"4": null,
+					"5": null
+				},
+				"2": {
+					"1": 1,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"3": {
+					"1": 2,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"4": {
+					"1": 3,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"5": {
+					"1": 3,
+					"2": 1,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"6": {
+					"1": 3,
+					"2": 2,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"7": {
+					"1": 3,
+					"2": 3,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"8": {
+					"1": 3,
+					"2": 3,
+					"3": 1,
+					"4": null,
+					"5": null
+				},
+				"9": {
+					"1": 3,
+					"2": 3,
+					"3": 2,
+					"4": null,
+					"5": null
+				}
+			}
+		},
+		"talentChoiceCount": 0,
+		"talentChoices": [
+		],
+		"talents": [
+			"Compendium.shadowdark.talents.Item.EpojIA7OcUYQy5oG",
+			"Compendium.shadowdark.talents.Item.MS6EOekQYOLz00Jh",
+			"Compendium.shadowdark.talents.Item.Hg64ZNE9iySvyYen"
+		],
+		"titles": [
+			{
+				"chaotic": "Weed",
+				"from": 1,
+				"lawful": "Sapling",
+				"neutral": "Seedling",
+				"to": 2
+			},
+			{
+				"chaotic": "Winter Wind",
+				"from": 3,
+				"lawful": "Summer Sun",
+				"neutral": "Spring Rain",
+				"to": 4
+			},
+			{
+				"chaotic": "Blighted Knight",
+				"from": 5,
+				"lawful": "Verdant Knight",
+				"neutral": "Rose Knight",
+				"to": 6
+			},
+			{
+				"chaotic": "Master of Thorns",
+				"from": 7,
+				"lawful": "Master of Trees",
+				"neutral": "Master of Roots",
+				"to": 8
+			},
+			{
+				"chaotic": "Weeping Willow",
+				"from": 9,
+				"lawful": "Mighty Oak",
+				"neutral": "Wise Elm",
+				"to": 10
+			}
+		],
+		"weapons": [
+			"Compendium.shadowdark.gear.Item.1T8oUkfkBtYTLNF3",
+			"Compendium.shadowdark.gear.Item.eeVEJexfirwWzOVu",
+			"Compendium.shadowdark.gear.Item.C3mc5OlKPSJNMrng",
+			"Compendium.shadowdark.gear.Item.9Pnhl6SOsbf6qDmt",
+			"Compendium.shadowdark.gear.Item.eqUuf9OGupuGPsBM",
+			"Compendium.shadowdark.gear.Item.3DxwBvjceq0FxcsC",
+			"Compendium.shadowdark.gear.Item.brIFMH0sOVmqX02N",
+			"Compendium.shadowdark.gear.Item.9eTpsuEuzL3Vaxge"
+		]
+	},
+	"type": "Class"
+}

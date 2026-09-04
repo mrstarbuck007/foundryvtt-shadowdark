@@ -1,0 +1,22 @@
+{
+	"_id": "bOfGWKFoBGiYMbJY",
+	"_key": "!items!bOfGWKFoBGiYMbJY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/nature/plant-sprout-hands-vines.webp",
+	"name": "Tree Step",
+	"system": {
+		"description": "<p>Once per day, step into a tree and exit from another within far.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

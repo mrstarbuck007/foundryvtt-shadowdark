@@ -1,0 +1,22 @@
+{
+	"_id": "MS6EOekQYOLz00Jh",
+	"_key": "!items!MS6EOekQYOLz00Jh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/holy/yin-yang-balance-symbol.webp",
+	"name": "Deity (Gede)",
+	"system": {
+		"description": "<p>Your deity is @UUID[Compendium.shadowdark.patrons-and-deities.Item.FhDBOHUircue27aV]{Gede}.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

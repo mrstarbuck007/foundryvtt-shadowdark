@@ -1,0 +1,22 @@
+{
+	"_id": "Hg64ZNE9iySvyYen",
+	"_key": "!items!Hg64ZNE9iySvyYen",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/nature/root-vine-barrier-wall-brown.webp",
+	"name": "Rooted",
+	"system": {
+		"description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.iIJq860KpYLuaR4m]{Rooted}</p><p>3/day, activate on your turn. Negate all damage you take until your next turn begins.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}
