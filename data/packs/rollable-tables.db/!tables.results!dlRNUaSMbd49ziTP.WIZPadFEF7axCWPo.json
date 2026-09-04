@@ -1,0 +1,15 @@
+{
+	"_id": "WIZPadFEF7axCWPo",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.WIZPadFEF7axCWPo",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "oG6kljcl8BobcQRB",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		11,
+		12
+	],
+	"text": "Bag of sugar plums",
+	"type": 2,
+	"weight": 1
+}

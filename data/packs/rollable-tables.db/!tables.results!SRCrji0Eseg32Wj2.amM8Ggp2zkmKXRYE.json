@@ -1,0 +1,15 @@
+{
+	"_id": "amM8Ggp2zkmKXRYE",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.amM8Ggp2zkmKXRYE",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "k402NvzFB70zJyFL",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		71,
+		72
+	],
+	"text": "Brass good luck amulet",
+	"type": 2,
+	"weight": 1
+}

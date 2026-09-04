@@ -1,0 +1,15 @@
+{
+	"_id": "RwCS6ypDlkrn6z5W",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.RwCS6ypDlkrn6z5W",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "66pf1ULaRCLJIqn0",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		93,
+		94
+	],
+	"text": "Shard of bone in a bottle",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "SXgXzUMtjd2rJC6s",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.SXgXzUMtjd2rJC6s",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "GzxSlYtXJjIAXaPw",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		77,
+		78
+	],
+	"text": "Honking accordion",
+	"type": 2,
+	"weight": 1
+}

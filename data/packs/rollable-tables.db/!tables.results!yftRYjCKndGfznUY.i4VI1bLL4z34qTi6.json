@@ -1,0 +1,15 @@
+{
+	"_id": "i4VI1bLL4z34qTi6",
+	"_key": "!tables.results!yftRYjCKndGfznUY.i4VI1bLL4z34qTi6",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "Z4ID5os7LDioAbiK",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		57,
+		58
+	],
+	"text": "Mining helmet",
+	"type": 2,
+	"weight": 1
+}

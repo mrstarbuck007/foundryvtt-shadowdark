@@ -1,0 +1,15 @@
+{
+	"_id": "PpmTDM7wMYXM6yas",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.PpmTDM7wMYXM6yas",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "E5QUlKf4NSSifXnx",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		73,
+		74
+	],
+	"text": "Lucky rabbit's foot",
+	"type": 2,
+	"weight": 1
+}

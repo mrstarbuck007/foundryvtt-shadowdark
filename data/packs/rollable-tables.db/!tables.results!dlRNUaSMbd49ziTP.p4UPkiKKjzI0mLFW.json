@@ -1,0 +1,15 @@
+{
+	"_id": "p4UPkiKKjzI0mLFW",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.p4UPkiKKjzI0mLFW",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "CPb4tMa7OA4O2GLN",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		65,
+		66
+	],
+	"text": "Rare tropical fruit",
+	"type": 2,
+	"weight": 1
+}

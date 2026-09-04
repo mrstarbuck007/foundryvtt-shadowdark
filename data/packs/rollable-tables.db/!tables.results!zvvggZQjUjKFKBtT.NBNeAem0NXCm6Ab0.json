@@ -1,0 +1,15 @@
+{
+	"_id": "NBNeAem0NXCm6Ab0",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.NBNeAem0NXCm6Ab0",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "Wc1PwbMV5sPDMd6a",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		9,
+		10
+	],
+	"text": "Filigreed riding saddle",
+	"type": 2,
+	"weight": 1
+}

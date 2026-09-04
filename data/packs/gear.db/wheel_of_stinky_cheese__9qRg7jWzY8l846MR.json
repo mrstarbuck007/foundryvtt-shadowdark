@@ -1,0 +1,46 @@
+{
+	"_id": "9qRg7jWzY8l846MR",
+	"_key": "!items!9qRg7jWzY8l846MR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "WiD7u7r7e6BgJAU5",
+	"img": "icons/consumables/food/cheese-wheel-round-yellow.webp",
+	"name": "Wheel of stinky cheese",
+	"system": {
+		"broken": false,
+		"cost": {
+			"cp": 0,
+			"gp": 0,
+			"sp": 0
+		},
+		"description": "",
+		"equipped": false,
+		"isAmmunition": false,
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"magicItem": false,
+		"properties": [
+		],
+		"quantity": 1,
+		"scroll": false,
+		"slots": {
+			"free_carry": 0,
+			"per_slot": 1,
+			"slots_used": 0
+		},
+		"source": {
+			"title": "western-reaches"
+		},
+		"stashed": false,
+		"treasure": false
+	},
+	"type": "Basic"
+}

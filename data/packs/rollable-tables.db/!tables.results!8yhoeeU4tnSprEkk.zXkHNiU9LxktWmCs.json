@@ -1,0 +1,15 @@
+{
+	"_id": "zXkHNiU9LxktWmCs",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.zXkHNiU9LxktWmCs",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "RnWfRcqEUZ2ae0De",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		41,
+		42
+	],
+	"text": "Grandpap's old fiddle",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "deTjfI0yH14h8moG",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.deTjfI0yH14h8moG",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "dtxcJULgvfdBrpM9",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		25,
+		26
+	],
+	"text": "Wide brim straw hat",
+	"type": 2,
+	"weight": 1
+}

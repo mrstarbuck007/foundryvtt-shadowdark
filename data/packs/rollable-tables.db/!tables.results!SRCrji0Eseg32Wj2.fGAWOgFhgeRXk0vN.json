@@ -1,0 +1,15 @@
+{
+	"_id": "fGAWOgFhgeRXk0vN",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.fGAWOgFhgeRXk0vN",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "HTuqKvjbv19NmkGl",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		53,
+		54
+	],
+	"text": "Ancient arrowhead",
+	"type": 2,
+	"weight": 1
+}

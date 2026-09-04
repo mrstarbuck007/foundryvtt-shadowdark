@@ -1,0 +1,15 @@
+{
+	"_id": "CS5S8fTVIaUype8e",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.CS5S8fTVIaUype8e",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "EhyLjOD13SdtansV",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		41,
+		42
+	],
+	"text": "Jade hair comb",
+	"type": 2,
+	"weight": 1
+}

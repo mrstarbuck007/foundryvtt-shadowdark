@@ -1,0 +1,15 @@
+{
+	"_id": "SKfalQGxi9K7adS3",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.SKfalQGxi9K7adS3",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "Ol3fzH950UISlxPT",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		65,
+		66
+	],
+	"text": "Vial of mercury",
+	"type": 2,
+	"weight": 1
+}

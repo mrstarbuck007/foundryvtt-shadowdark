@@ -1,0 +1,15 @@
+{
+	"_id": "alwLX5n0ATeXsRt0",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.alwLX5n0ATeXsRt0",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "PFIFtiqfDgr0wI8i",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		91,
+		92
+	],
+	"text": "Set of divining bones",
+	"type": 2,
+	"weight": 1
+}

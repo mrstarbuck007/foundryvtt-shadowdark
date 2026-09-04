@@ -1,0 +1,15 @@
+{
+	"_id": "ekYiV5J4gkpfGypj",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.ekYiV5J4gkpfGypj",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "IkerOO5DbixEbhCN",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		43,
+		44
+	],
+	"text": "Baby alligator skull",
+	"type": 2,
+	"weight": 1
+}

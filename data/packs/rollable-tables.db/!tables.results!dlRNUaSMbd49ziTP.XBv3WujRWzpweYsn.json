@@ -1,0 +1,15 @@
+{
+	"_id": "XBv3WujRWzpweYsn",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.XBv3WujRWzpweYsn",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "9Xl8ZIfGCFk1cSo7",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		45,
+		46
+	],
+	"text": "Chunk of clear amber",
+	"type": 2,
+	"weight": 1
+}

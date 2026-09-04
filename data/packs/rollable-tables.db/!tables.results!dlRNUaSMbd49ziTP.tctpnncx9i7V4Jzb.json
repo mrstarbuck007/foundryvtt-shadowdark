@@ -1,0 +1,15 @@
+{
+	"_id": "tctpnncx9i7V4Jzb",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.tctpnncx9i7V4Jzb",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "1Y10VZwKGbOMpNyq",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		53,
+		54
+	],
+	"text": "Tiny potted plant",
+	"type": 2,
+	"weight": 1
+}

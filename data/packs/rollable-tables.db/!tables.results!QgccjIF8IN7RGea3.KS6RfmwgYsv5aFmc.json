@@ -1,0 +1,15 @@
+{
+	"_id": "KS6RfmwgYsv5aFmc",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.KS6RfmwgYsv5aFmc",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "WVJtfklsssL17ldi",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		57,
+		58
+	],
+	"text": "Rusty bear trap",
+	"type": 2,
+	"weight": 1
+}

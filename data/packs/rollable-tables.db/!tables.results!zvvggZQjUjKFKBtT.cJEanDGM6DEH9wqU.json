@@ -1,0 +1,15 @@
+{
+	"_id": "cJEanDGM6DEH9wqU",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.cJEanDGM6DEH9wqU",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "MiCmUWuLeFYTThPI",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		17,
+		18
+	],
+	"text": "Camel hair cloak",
+	"type": 2,
+	"weight": 1
+}

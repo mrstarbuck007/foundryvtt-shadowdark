@@ -1,0 +1,15 @@
+{
+	"_id": "isi7aVoZF1L08hg6",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.isi7aVoZF1L08hg6",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "idwhopsLVdxI588W",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		83,
+		84
+	],
+	"text": "Silver piece on a string",
+	"type": 2,
+	"weight": 1
+}

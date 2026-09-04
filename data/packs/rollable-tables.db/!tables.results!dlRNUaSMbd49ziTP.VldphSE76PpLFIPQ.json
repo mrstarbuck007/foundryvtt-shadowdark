@@ -1,0 +1,15 @@
+{
+	"_id": "VldphSE76PpLFIPQ",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.VldphSE76PpLFIPQ",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "xpFS1HLE44NzYXz9",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		49,
+		50
+	],
+	"text": "Ivory dragon figurine",
+	"type": 2,
+	"weight": 1
+}

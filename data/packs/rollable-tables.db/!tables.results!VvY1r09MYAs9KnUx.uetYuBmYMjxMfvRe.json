@@ -1,0 +1,15 @@
+{
+	"_id": "uetYuBmYMjxMfvRe",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.uetYuBmYMjxMfvRe",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "IdJwIEcESun4KW7t",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		61,
+		62
+	],
+	"text": "A single old playing card",
+	"type": 2,
+	"weight": 1
+}

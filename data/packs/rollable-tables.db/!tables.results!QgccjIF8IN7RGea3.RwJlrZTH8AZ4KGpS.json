@@ -1,0 +1,15 @@
+{
+	"_id": "RwJlrZTH8AZ4KGpS",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.RwJlrZTH8AZ4KGpS",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "EhRcnuuy4kBR6pOC",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		27,
+		28
+	],
+	"text": "Scrimshaw set",
+	"type": 2,
+	"weight": 1
+}

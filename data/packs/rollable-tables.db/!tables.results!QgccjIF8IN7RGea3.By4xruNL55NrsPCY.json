@@ -1,0 +1,15 @@
+{
+	"_id": "By4xruNL55NrsPCY",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.By4xruNL55NrsPCY",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "RMCHs4sj03rpbmnq",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		85,
+		86
+	],
+	"text": "Bag of white sand",
+	"type": 2,
+	"weight": 1
+}

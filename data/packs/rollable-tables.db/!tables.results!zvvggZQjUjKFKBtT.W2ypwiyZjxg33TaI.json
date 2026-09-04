@@ -1,0 +1,15 @@
+{
+	"_id": "W2ypwiyZjxg33TaI",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.W2ypwiyZjxg33TaI",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "vD9qiB2vcFLWcOxm",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		87,
+		88
+	],
+	"text": "Folded paper crane",
+	"type": 2,
+	"weight": 1
+}

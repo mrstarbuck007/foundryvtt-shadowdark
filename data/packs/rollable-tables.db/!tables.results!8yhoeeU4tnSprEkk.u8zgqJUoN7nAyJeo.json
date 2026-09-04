@@ -1,0 +1,15 @@
+{
+	"_id": "u8zgqJUoN7nAyJeo",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.u8zgqJUoN7nAyJeo",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "EWQawxwhv3jNNTBZ",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		53,
+		54
+	],
+	"text": "Reliable dowsing rod",
+	"type": 2,
+	"weight": 1
+}

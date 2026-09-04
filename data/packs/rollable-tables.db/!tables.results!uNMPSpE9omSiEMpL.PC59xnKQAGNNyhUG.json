@@ -1,0 +1,15 @@
+{
+	"_id": "PC59xnKQAGNNyhUG",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.PC59xnKQAGNNyhUG",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "cPRoaWuHbTKxLg9p",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		23,
+		24
+	],
+	"text": "Bottle of vinegary wine",
+	"type": 2,
+	"weight": 1
+}

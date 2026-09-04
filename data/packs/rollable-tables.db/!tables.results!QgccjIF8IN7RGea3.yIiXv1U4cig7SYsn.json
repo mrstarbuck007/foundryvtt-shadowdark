@@ -1,0 +1,15 @@
+{
+	"_id": "yIiXv1U4cig7SYsn",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.yIiXv1U4cig7SYsn",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "3yIevvDqfyBpkQyy",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		47,
+		48
+	],
+	"text": "Clay pot full of pepper",
+	"type": 2,
+	"weight": 1
+}

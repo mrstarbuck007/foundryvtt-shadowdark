@@ -1,0 +1,15 @@
+{
+	"_id": "Dx2HGr10ZFR8kbBj",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.Dx2HGr10ZFR8kbBj",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "jij1fr9eBd3jiZUL",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		35,
+		36
+	],
+	"text": "Ancestral archery bracer",
+	"type": 2,
+	"weight": 1
+}

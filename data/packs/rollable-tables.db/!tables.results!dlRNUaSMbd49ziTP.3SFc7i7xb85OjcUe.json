@@ -1,0 +1,15 @@
+{
+	"_id": "3SFc7i7xb85OjcUe",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.3SFc7i7xb85OjcUe",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "mEWUVlTOGaUQO8FR",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		33,
+		34
+	],
+	"text": "Gaudy costume jewelry",
+	"type": 2,
+	"weight": 1
+}

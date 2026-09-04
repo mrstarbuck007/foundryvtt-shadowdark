@@ -1,0 +1,15 @@
+{
+	"_id": "BZ5tQLMB5jOLX8Ud",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.BZ5tQLMB5jOLX8Ud",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "IlYL4eaRwqB5srfM",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		79,
+		80
+	],
+	"text": "Four playing cards",
+	"type": 2,
+	"weight": 1
+}

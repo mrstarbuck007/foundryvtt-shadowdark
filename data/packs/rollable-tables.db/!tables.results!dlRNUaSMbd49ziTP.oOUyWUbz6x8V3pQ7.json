@@ -1,0 +1,15 @@
+{
+	"_id": "oOUyWUbz6x8V3pQ7",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.oOUyWUbz6x8V3pQ7",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "vlbDl8CVBvyoMUSx",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		51,
+		52
+	],
+	"text": "Copper mouth harp",
+	"type": 2,
+	"weight": 1
+}

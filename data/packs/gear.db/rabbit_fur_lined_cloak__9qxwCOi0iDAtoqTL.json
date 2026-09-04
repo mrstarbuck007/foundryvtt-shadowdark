@@ -1,0 +1,46 @@
+{
+	"_id": "9qxwCOi0iDAtoqTL",
+	"_key": "!items!9qxwCOi0iDAtoqTL",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "WiD7u7r7e6BgJAU5",
+	"img": "icons/equipment/back/cloak-brown-fur-brown.webp",
+	"name": "Rabbit-fur-lined cloak",
+	"system": {
+		"broken": false,
+		"cost": {
+			"cp": 0,
+			"gp": 0,
+			"sp": 0
+		},
+		"description": "",
+		"equipped": false,
+		"isAmmunition": false,
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"magicItem": false,
+		"properties": [
+		],
+		"quantity": 1,
+		"scroll": false,
+		"slots": {
+			"free_carry": 0,
+			"per_slot": 1,
+			"slots_used": 0
+		},
+		"source": {
+			"title": "western-reaches"
+		},
+		"stashed": false,
+		"treasure": false
+	},
+	"type": "Basic"
+}

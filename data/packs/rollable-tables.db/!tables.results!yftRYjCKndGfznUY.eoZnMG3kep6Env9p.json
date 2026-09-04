@@ -1,0 +1,15 @@
+{
+	"_id": "eoZnMG3kep6Env9p",
+	"_key": "!tables.results!yftRYjCKndGfznUY.eoZnMG3kep6Env9p",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "3wX0BA809JR0dgTe",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		59,
+		60
+	],
+	"text": "A perfect copper coin",
+	"type": 2,
+	"weight": 1
+}

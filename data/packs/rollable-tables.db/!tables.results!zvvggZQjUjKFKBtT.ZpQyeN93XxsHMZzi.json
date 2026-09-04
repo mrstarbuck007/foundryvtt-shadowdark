@@ -1,0 +1,15 @@
+{
+	"_id": "ZpQyeN93XxsHMZzi",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.ZpQyeN93XxsHMZzi",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "QjxgBcWwFDvyuc85",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		63,
+		64
+	],
+	"text": "Shell of an extinct turtle",
+	"type": 2,
+	"weight": 1
+}

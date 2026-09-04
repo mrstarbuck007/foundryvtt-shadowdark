@@ -1,0 +1,15 @@
+{
+	"_id": "WuNPM48eZSfjk4T2",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.WuNPM48eZSfjk4T2",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "xgsXP68MBt1XnLgS",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		47,
+		48
+	],
+	"text": "Silver tuning fork",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "YSyzQKOpBYHYCgnh",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.YSyzQKOpBYHYCgnh",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "fKZvtDTZov1FwFzR",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		5,
+		6
+	],
+	"text": "Red saddle blanket",
+	"type": 2,
+	"weight": 1
+}

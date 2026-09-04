@@ -1,0 +1,15 @@
+{
+	"_id": "QquWEhViEakB9Ze1",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.QquWEhViEakB9Ze1",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "iFz6FaFKSukosWhF",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		83,
+		84
+	],
+	"text": "Finely tailored dress robe",
+	"type": 2,
+	"weight": 1
+}

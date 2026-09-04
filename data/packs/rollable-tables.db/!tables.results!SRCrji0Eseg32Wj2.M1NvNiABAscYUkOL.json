@@ -1,0 +1,15 @@
+{
+	"_id": "M1NvNiABAscYUkOL",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.M1NvNiABAscYUkOL",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "SZ2L9ABSx2hFWezR",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		73,
+		74
+	],
+	"text": "Red-beaded mantle",
+	"type": 2,
+	"weight": 1
+}

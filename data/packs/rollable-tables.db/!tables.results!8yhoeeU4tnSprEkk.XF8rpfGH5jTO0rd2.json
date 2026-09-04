@@ -1,0 +1,15 @@
+{
+	"_id": "XF8rpfGH5jTO0rd2",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.XF8rpfGH5jTO0rd2",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "7AjQUC9WJYyEZWGX",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		13,
+		14
+	],
+	"text": "Battered cooking pan",
+	"type": 2,
+	"weight": 1
+}

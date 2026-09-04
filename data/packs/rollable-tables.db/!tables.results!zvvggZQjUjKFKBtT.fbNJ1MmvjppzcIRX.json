@@ -1,0 +1,15 @@
+{
+	"_id": "fbNJ1MmvjppzcIRX",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.fbNJ1MmvjppzcIRX",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "aOBi61Ty5YIKsIpk",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		5,
+		6
+	],
+	"text": "Embroidered silk tunic",
+	"type": 2,
+	"weight": 1
+}

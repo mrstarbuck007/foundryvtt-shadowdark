@@ -1,0 +1,15 @@
+{
+	"_id": "N20yz9J6ET2QuUYa",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.N20yz9J6ET2QuUYa",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "LZSGMlJfZuxwoO8o",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		37,
+		38
+	],
+	"text": "Taxidermied scorpion",
+	"type": 2,
+	"weight": 1
+}

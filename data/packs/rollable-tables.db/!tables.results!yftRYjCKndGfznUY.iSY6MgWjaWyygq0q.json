@@ -1,0 +1,15 @@
+{
+	"_id": "iSY6MgWjaWyygq0q",
+	"_key": "!tables.results!yftRYjCKndGfznUY.iSY6MgWjaWyygq0q",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "cCHC4YrDH3umcBWr",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		37,
+		38
+	],
+	"text": "Lock of braided hair",
+	"type": 2,
+	"weight": 1
+}

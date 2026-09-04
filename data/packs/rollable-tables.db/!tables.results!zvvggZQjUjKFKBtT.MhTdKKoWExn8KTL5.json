@@ -1,0 +1,15 @@
+{
+	"_id": "MhTdKKoWExn8KTL5",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.MhTdKKoWExn8KTL5",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "RWTOqyKz86wuB1xJ",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		31,
+		32
+	],
+	"text": "Fortune telling cards",
+	"type": 2,
+	"weight": 1
+}

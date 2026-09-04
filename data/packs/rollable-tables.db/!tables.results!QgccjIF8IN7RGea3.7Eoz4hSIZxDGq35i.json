@@ -1,0 +1,15 @@
+{
+	"_id": "7Eoz4hSIZxDGq35i",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.7Eoz4hSIZxDGq35i",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "VhbSxMr4hPaRd1jz",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		45,
+		46
+	],
+	"text": "Snake fang necklace",
+	"type": 2,
+	"weight": 1
+}

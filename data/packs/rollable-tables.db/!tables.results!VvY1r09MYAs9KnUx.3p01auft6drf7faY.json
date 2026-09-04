@@ -1,0 +1,15 @@
+{
+	"_id": "3p01auft6drf7faY",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.3p01auft6drf7faY",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "IhIo4K8LokurFV8b",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		9,
+		10
+	],
+	"text": "Carved quartz ring",
+	"type": 2,
+	"weight": 1
+}

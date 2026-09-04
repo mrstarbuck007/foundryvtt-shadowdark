@@ -1,0 +1,15 @@
+{
+	"_id": "ECXSgotUUjL6cUdT",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.ECXSgotUUjL6cUdT",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "B9DiLYQsFXiiaxgH",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		25,
+		26
+	],
+	"text": "Straw-stuffed doll",
+	"type": 2,
+	"weight": 1
+}

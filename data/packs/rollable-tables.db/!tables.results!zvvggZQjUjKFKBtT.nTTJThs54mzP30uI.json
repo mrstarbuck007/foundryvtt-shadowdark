@@ -1,0 +1,15 @@
+{
+	"_id": "nTTJThs54mzP30uI",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.nTTJThs54mzP30uI",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "YxWz0TPbfYFezIPa",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		3,
+		4
+	],
+	"text": "Owl feather quill",
+	"type": 2,
+	"weight": 1
+}

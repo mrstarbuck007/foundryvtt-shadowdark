@@ -1,0 +1,15 @@
+{
+	"_id": "IZR6KG8sHV0yCdwU",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.IZR6KG8sHV0yCdwU",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "3R9TvgadGmaX1mGv",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		63,
+		64
+	],
+	"text": "Reed bird caller",
+	"type": 2,
+	"weight": 1
+}

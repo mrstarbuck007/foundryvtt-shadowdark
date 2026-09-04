@@ -1,0 +1,15 @@
+{
+	"_id": "aK3KqXOUmgGGvhuL",
+	"_key": "!tables.results!yftRYjCKndGfznUY.aK3KqXOUmgGGvhuL",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "gaCfXaXwQimloY2y",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		1,
+		2
+	],
+	"text": "Granite dwarf figurine",
+	"type": 2,
+	"weight": 1
+}

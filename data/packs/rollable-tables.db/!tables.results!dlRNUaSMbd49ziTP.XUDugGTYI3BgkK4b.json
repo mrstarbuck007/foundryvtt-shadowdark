@@ -1,0 +1,15 @@
+{
+	"_id": "XUDugGTYI3BgkK4b",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.XUDugGTYI3BgkK4b",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "9WWQo49GQcCLDNBU",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		3,
+		4
+	],
+	"text": "Wood holy symbol",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "DBdjPanaM46LNVvK",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.DBdjPanaM46LNVvK",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "3zPk1uPk1glW8jGL",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		71,
+		72
+	],
+	"text": "Collection of snail shells",
+	"type": 2,
+	"weight": 1
+}

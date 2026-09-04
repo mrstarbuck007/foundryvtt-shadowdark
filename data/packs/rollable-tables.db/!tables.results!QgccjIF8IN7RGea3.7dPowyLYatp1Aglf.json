@@ -1,0 +1,15 @@
+{
+	"_id": "7dPowyLYatp1Aglf",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.7dPowyLYatp1Aglf",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "Qul83OuFYTY7vBRp",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		63,
+		64
+	],
+	"text": "Bolt of fine yellow silk",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "aVcxnz38Kxpko7lK",
+	"_key": "!tables.results!yftRYjCKndGfznUY.aVcxnz38Kxpko7lK",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "Zaep03t4SA3BW29s",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		49,
+		50
+	],
+	"text": "Goat hair blanket",
+	"type": 2,
+	"weight": 1
+}

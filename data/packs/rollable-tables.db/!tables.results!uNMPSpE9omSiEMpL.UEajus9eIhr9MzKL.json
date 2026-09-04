@@ -1,0 +1,15 @@
+{
+	"_id": "UEajus9eIhr9MzKL",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.UEajus9eIhr9MzKL",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "isXAxiMrgXTrJscZ",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		87,
+		88
+	],
+	"text": "String of prayer beads",
+	"type": 2,
+	"weight": 1
+}

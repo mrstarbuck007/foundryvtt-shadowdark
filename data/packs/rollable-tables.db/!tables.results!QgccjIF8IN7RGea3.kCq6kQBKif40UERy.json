@@ -1,0 +1,15 @@
+{
+	"_id": "kCq6kQBKif40UERy",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.kCq6kQBKif40UERy",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "TWq9ntfAfWTJowi6",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		31,
+		32
+	],
+	"text": "Six sticks of chalk",
+	"type": 2,
+	"weight": 1
+}

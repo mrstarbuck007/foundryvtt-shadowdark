@@ -1,0 +1,15 @@
+{
+	"_id": "mRhvaU3kHbXsa973",
+	"_key": "!tables.results!yftRYjCKndGfznUY.mRhvaU3kHbXsa973",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "HaRfUyfu62wg2Dya",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		83,
+		84
+	],
+	"text": "Clockwork flint and steel",
+	"type": 2,
+	"weight": 1
+}

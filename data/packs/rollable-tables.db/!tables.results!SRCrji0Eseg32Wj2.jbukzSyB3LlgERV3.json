@@ -1,0 +1,15 @@
+{
+	"_id": "jbukzSyB3LlgERV3",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.jbukzSyB3LlgERV3",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "19s5YlaUJvOhmwAX",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		27,
+		28
+	],
+	"text": "Goat stomach wineskin",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "TQtTg7063QMdW5mn",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.TQtTg7063QMdW5mn",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "TdzWsiNQxOpNJhNh",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		91,
+		92
+	],
+	"text": "Rabbit fur head pillow",
+	"type": 2,
+	"weight": 1
+}

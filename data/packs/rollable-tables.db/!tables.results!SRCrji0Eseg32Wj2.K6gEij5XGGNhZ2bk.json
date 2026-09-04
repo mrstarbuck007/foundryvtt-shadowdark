@@ -1,0 +1,15 @@
+{
+	"_id": "K6gEij5XGGNhZ2bk",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.K6gEij5XGGNhZ2bk",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "dzraUbKXIj7TwAcD",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		35,
+		36
+	],
+	"text": "Fork carved from bone",
+	"type": 2,
+	"weight": 1
+}

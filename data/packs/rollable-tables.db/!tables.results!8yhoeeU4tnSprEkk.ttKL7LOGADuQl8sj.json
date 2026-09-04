@@ -1,0 +1,15 @@
+{
+	"_id": "ttKL7LOGADuQl8sj",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.ttKL7LOGADuQl8sj",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "3NkvjeyAS6LoznAQ",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		87,
+		88
+	],
+	"text": "Jar of crisp pickles",
+	"type": 2,
+	"weight": 1
+}

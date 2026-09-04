@@ -1,0 +1,15 @@
+{
+	"_id": "I8zMKFnhjEHxIGtS",
+	"_key": "!tables.results!yftRYjCKndGfznUY.I8zMKFnhjEHxIGtS",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "2EC3qUv4U8G1eio1",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		17,
+		18
+	],
+	"text": "Nearly fatal arrowhead",
+	"type": 2,
+	"weight": 1
+}

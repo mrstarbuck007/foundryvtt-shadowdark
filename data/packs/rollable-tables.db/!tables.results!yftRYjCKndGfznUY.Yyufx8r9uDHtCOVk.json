@@ -1,0 +1,15 @@
+{
+	"_id": "Yyufx8r9uDHtCOVk",
+	"_key": "!tables.results!yftRYjCKndGfznUY.Yyufx8r9uDHtCOVk",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "rSIIIDaWsHdvLwPU",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		11,
+		12
+	],
+	"text": "Spiced bar of soap",
+	"type": 2,
+	"weight": 1
+}

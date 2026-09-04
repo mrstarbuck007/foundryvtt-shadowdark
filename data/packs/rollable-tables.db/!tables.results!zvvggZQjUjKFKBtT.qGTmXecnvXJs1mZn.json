@@ -1,0 +1,15 @@
+{
+	"_id": "qGTmXecnvXJs1mZn",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.qGTmXecnvXJs1mZn",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "fRcSTfmNK3TMyoO6",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		83,
+		84
+	],
+	"text": "Bottle of distilled tree oil",
+	"type": 2,
+	"weight": 1
+}

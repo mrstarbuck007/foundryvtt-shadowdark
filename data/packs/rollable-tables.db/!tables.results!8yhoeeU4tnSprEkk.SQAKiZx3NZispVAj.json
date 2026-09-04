@@ -1,0 +1,15 @@
+{
+	"_id": "SQAKiZx3NZispVAj",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.SQAKiZx3NZispVAj",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "aicjVbaLqMpNzR5e",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		75,
+		76
+	],
+	"text": "Letter from little sister",
+	"type": 2,
+	"weight": 1
+}

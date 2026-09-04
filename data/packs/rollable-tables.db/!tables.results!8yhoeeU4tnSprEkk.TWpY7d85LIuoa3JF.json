@@ -1,0 +1,15 @@
+{
+	"_id": "TWpY7d85LIuoa3JF",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.TWpY7d85LIuoa3JF",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "mzLygCTNizuPoOyT",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		81,
+		82
+	],
+	"text": "Telescoping fishing rod",
+	"type": 2,
+	"weight": 1
+}

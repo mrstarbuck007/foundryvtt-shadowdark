@@ -1,0 +1,15 @@
+{
+	"_id": "7okFwn8jCWbmeWCF",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.7okFwn8jCWbmeWCF",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "93s6N2wwAmVmVyav",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		71,
+		72
+	],
+	"text": "Copper arm cuff",
+	"type": 2,
+	"weight": 1
+}

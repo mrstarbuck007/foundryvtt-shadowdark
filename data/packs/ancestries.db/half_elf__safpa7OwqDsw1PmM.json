@@ -32,7 +32,8 @@
 		"talentChoiceCount": 1,
 		"talents": [
 			"Compendium.shadowdark.talents.Item.3hctuZiCgEWp9prr"
-		]
+		],
+		"trinketTable": "Compendium.shadowdark.rollable-tables.RollTable.VvY1r09MYAs9KnUx"
 	},
 	"type": "Ancestry"
 }

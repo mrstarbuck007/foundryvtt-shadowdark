@@ -1,0 +1,15 @@
+{
+	"_id": "eWcvHO998lScBmCx",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.eWcvHO998lScBmCx",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "osDU9Q4TWVNXJX7p",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		15,
+		16
+	],
+	"text": "Perfectly round pebble",
+	"type": 2,
+	"weight": 1
+}

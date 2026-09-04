@@ -1,0 +1,15 @@
+{
+	"_id": "43ZilXUpQkvsSw12",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.43ZilXUpQkvsSw12",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "R7p7VZyYE85nGPF7",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		7,
+		8
+	],
+	"text": "Pot of scarlet face paint",
+	"type": 2,
+	"weight": 1
+}

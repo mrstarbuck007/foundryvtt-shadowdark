@@ -1,0 +1,15 @@
+{
+	"_id": "IkpXc3OsCOO3zqhV",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.IkpXc3OsCOO3zqhV",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "NdhHtcGshtZumnf1",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		15,
+		16
+	],
+	"text": "Bottle of blue ink",
+	"type": 2,
+	"weight": 1
+}

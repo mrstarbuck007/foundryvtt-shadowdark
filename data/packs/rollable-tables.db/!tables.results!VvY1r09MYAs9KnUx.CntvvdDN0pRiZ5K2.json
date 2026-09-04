@@ -1,0 +1,15 @@
+{
+	"_id": "CntvvdDN0pRiZ5K2",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.CntvvdDN0pRiZ5K2",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "Q1QMRKNvp1XxfhhH",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		95,
+		96
+	],
+	"text": "Silver pan pipes",
+	"type": 2,
+	"weight": 1
+}

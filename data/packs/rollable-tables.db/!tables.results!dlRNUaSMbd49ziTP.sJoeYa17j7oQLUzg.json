@@ -1,0 +1,15 @@
+{
+	"_id": "sJoeYa17j7oQLUzg",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.sJoeYa17j7oQLUzg",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "oCjNdZ1ZXVe2INNR",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		9,
+		10
+	],
+	"text": "Dented drinking mug",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "F2whbHuUVrvaVD4o",
+	"_key": "!tables.results!yftRYjCKndGfznUY.F2whbHuUVrvaVD4o",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "QSMht9zmz06rgd93",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		23,
+		24
+	],
+	"text": "Compact fishing pole",
+	"type": 2,
+	"weight": 1
+}

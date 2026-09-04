@@ -1,0 +1,15 @@
+{
+	"_id": "OVPBMogFzPXX92M6",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.OVPBMogFzPXX92M6",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "nByDYLN62r394GJj",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		71,
+		72
+	],
+	"text": "Vial of perfumed oil",
+	"type": 2,
+	"weight": 1
+}

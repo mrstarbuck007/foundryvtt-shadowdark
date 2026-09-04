@@ -1,0 +1,15 @@
+{
+	"_id": "TZCiumEDPLnZUrLi",
+	"_key": "!tables.results!yftRYjCKndGfznUY.TZCiumEDPLnZUrLi",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "wOa9WWudXWZXnA6o",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		75,
+		76
+	],
+	"text": "Military arm cuff",
+	"type": 2,
+	"weight": 1
+}

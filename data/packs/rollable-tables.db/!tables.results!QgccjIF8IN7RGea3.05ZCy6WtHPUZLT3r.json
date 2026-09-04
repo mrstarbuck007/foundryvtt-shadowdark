@@ -1,0 +1,15 @@
+{
+	"_id": "05ZCy6WtHPUZLT3r",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.05ZCy6WtHPUZLT3r",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "adIxb138ZH3vCTuB",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		17,
+		18
+	],
+	"text": "Amethyst talisman",
+	"type": 2,
+	"weight": 1
+}

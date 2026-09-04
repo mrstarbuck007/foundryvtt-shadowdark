@@ -1,0 +1,15 @@
+{
+	"_id": "7De2NtZFWeIiC6lU",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.7De2NtZFWeIiC6lU",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "fOPy5Y6h6IPWmZsv",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		37,
+		38
+	],
+	"text": "Giant eagle feather",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "WS1W7SBBh29jlUFB",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.WS1W7SBBh29jlUFB",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "p8ffcNB12J9xhEwL",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		65,
+		66
+	],
+	"text": "Bag of magnificent tea",
+	"type": 2,
+	"weight": 1
+}

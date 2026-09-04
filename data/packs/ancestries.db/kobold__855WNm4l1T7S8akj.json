@@ -33,7 +33,8 @@
 		"talents": [
 			"Compendium.shadowdark.talents.Item.GVAi0l6mfRillxwZ",
 			"Compendium.shadowdark.talents.Item.VjrDCzm64JmpoqjL"
-		]
+		],
+		"trinketTable": "Compendium.shadowdark.rollable-tables.RollTable.QgccjIF8IN7RGea3"
 	},
 	"type": "Ancestry"
 }

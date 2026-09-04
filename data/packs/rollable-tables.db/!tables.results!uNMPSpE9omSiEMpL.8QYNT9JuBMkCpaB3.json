@@ -1,0 +1,15 @@
+{
+	"_id": "8QYNT9JuBMkCpaB3",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.8QYNT9JuBMkCpaB3",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "sZLhRLSyTkVTR28x",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		31,
+		32
+	],
+	"text": "Ball of ear wax",
+	"type": 2,
+	"weight": 1
+}

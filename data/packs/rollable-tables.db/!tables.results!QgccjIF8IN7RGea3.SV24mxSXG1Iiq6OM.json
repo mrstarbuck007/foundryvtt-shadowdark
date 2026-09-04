@@ -1,0 +1,15 @@
+{
+	"_id": "SV24mxSXG1Iiq6OM",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.SV24mxSXG1Iiq6OM",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "BaWqeAZmd0DpSn2Q",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		87,
+		88
+	],
+	"text": "Shards of dragon egg",
+	"type": 2,
+	"weight": 1
+}

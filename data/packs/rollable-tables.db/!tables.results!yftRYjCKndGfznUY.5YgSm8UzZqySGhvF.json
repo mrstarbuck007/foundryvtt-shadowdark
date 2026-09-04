@@ -1,0 +1,15 @@
+{
+	"_id": "5YgSm8UzZqySGhvF",
+	"_key": "!tables.results!yftRYjCKndGfznUY.5YgSm8UzZqySGhvF",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "2XFy1Qvr8tffrMX1",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		5,
+		6
+	],
+	"text": "Metal boot cleats",
+	"type": 2,
+	"weight": 1
+}

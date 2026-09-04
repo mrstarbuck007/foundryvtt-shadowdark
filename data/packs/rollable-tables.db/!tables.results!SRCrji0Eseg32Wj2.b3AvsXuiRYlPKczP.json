@@ -1,0 +1,15 @@
+{
+	"_id": "b3AvsXuiRYlPKczP",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.b3AvsXuiRYlPKczP",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "yp2d3wl1aV2gsQ1a",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		47,
+		48
+	],
+	"text": "Pronged fishing spear",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "tY82sY17ModBi17T",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.tY82sY17ModBi17T",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "3ZmmD1Hw5YyzigUk",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		57,
+		58
+	],
+	"text": "Antler back scratcher",
+	"type": 2,
+	"weight": 1
+}

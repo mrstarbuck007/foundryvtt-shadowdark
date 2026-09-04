@@ -1,0 +1,15 @@
+{
+	"_id": "ewnnoLJ213qWOx9g",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.ewnnoLJ213qWOx9g",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "8qYk8tjuW03E8YUT",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		17,
+		18
+	],
+	"text": "Pet dragonfly",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "oMXvmrpv5qL2KkDo",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.oMXvmrpv5qL2KkDo",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "RraR4x4NfnbCiHJo",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		7,
+		8
+	],
+	"text": "Bowstring bracelet",
+	"type": 2,
+	"weight": 1
+}

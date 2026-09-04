@@ -1,0 +1,15 @@
+{
+	"_id": "GpoHsnIeVOsPqCyV",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.GpoHsnIeVOsPqCyV",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "m1o5nuyCKBsniYbD",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		73,
+		74
+	],
+	"text": "Butterfly collection",
+	"type": 2,
+	"weight": 1
+}

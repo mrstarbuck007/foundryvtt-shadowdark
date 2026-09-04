@@ -1,0 +1,15 @@
+{
+	"_id": "kYtGdshOIka5fiu3",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.kYtGdshOIka5fiu3",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "9DbIvqWrXVoHzoFk",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		97,
+		98
+	],
+	"text": "Moonstone ring",
+	"type": 2,
+	"weight": 1
+}

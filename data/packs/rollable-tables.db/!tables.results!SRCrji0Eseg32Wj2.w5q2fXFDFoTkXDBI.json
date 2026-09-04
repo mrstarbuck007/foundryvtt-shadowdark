@@ -1,0 +1,15 @@
+{
+	"_id": "w5q2fXFDFoTkXDBI",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.w5q2fXFDFoTkXDBI",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "5d1F7rnDD3a4Jg3T",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		19,
+		20
+	],
+	"text": "Rabbit fur boots",
+	"type": 2,
+	"weight": 1
+}

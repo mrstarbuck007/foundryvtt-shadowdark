@@ -1,0 +1,15 @@
+{
+	"_id": "zaFuQxsUcCDj53tk",
+	"_key": "!tables.results!QgccjIF8IN7RGea3.zaFuQxsUcCDj53tk",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "UHbeBKROP7uT5U4z",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		55,
+		56
+	],
+	"text": "Tarantula in a box",
+	"type": 2,
+	"weight": 1
+}

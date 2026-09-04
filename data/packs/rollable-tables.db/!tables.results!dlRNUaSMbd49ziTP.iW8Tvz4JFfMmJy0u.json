@@ -1,0 +1,15 @@
+{
+	"_id": "iW8Tvz4JFfMmJy0u",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.iW8Tvz4JFfMmJy0u",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "VkLCycYlxxOnADxl",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		7,
+		8
+	],
+	"text": "Bag of pipe weed",
+	"type": 2,
+	"weight": 1
+}

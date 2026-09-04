@@ -1,0 +1,15 @@
+{
+	"_id": "xa1KalAZegyPHWMO",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.xa1KalAZegyPHWMO",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "klvJAexp37D398GT",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		45,
+		46
+	],
+	"text": "Mummified weasel",
+	"type": 2,
+	"weight": 1
+}

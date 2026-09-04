@@ -1,0 +1,15 @@
+{
+	"_id": "EN3ZuZQ33th6tzen",
+	"_key": "!tables.results!zvvggZQjUjKFKBtT.EN3ZuZQ33th6tzen",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "CylzFHrmwJQ11yAG",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		45,
+		46
+	],
+	"text": "Peacock feather quill",
+	"type": 2,
+	"weight": 1
+}

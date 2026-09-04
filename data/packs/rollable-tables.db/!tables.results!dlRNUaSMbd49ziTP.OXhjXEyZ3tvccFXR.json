@@ -1,0 +1,15 @@
+{
+	"_id": "OXhjXEyZ3tvccFXR",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.OXhjXEyZ3tvccFXR",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "8bsYuupqhmMmHkNy",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		99,
+		100
+	],
+	"text": "Deed to a distant castle",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "18HzNSenx1cahzPP",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.18HzNSenx1cahzPP",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "Dyr3LFL968UsPIAW",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		97,
+		98
+	],
+	"text": "Miniature marionette",
+	"type": 2,
+	"weight": 1
+}

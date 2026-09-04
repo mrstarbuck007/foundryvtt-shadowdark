@@ -1,0 +1,15 @@
+{
+	"_id": "5l7HGQDskET3fuQE",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.5l7HGQDskET3fuQE",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "XIdeAFAJHhGJ9bWZ",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		19,
+		20
+	],
+	"text": "Masquerade mask",
+	"type": 2,
+	"weight": 1
+}

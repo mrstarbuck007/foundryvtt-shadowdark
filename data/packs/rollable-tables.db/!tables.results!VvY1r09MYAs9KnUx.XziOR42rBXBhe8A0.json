@@ -1,0 +1,15 @@
+{
+	"_id": "XziOR42rBXBhe8A0",
+	"_key": "!tables.results!VvY1r09MYAs9KnUx.XziOR42rBXBhe8A0",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "4vfDgRY8ErJ3rqGH",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		3,
+		4
+	],
+	"text": "Silver leaf brooch",
+	"type": 2,
+	"weight": 1
+}

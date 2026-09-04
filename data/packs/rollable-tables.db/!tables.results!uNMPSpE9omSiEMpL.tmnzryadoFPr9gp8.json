@@ -1,0 +1,15 @@
+{
+	"_id": "tmnzryadoFPr9gp8",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.tmnzryadoFPr9gp8",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "riVPB8Ht5IeQtCqA",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		43,
+		44
+	],
+	"text": "Cooking pot armor",
+	"type": 2,
+	"weight": 1
+}

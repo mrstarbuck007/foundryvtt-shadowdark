@@ -1,0 +1,15 @@
+{
+	"_id": "al4T7PbxoLf96F6Y",
+	"_key": "!tables.results!8yhoeeU4tnSprEkk.al4T7PbxoLf96F6Y",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "a7lhFtbGtOL3F0jb",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		23,
+		24
+	],
+	"text": "Endless jar of lard",
+	"type": 2,
+	"weight": 1
+}

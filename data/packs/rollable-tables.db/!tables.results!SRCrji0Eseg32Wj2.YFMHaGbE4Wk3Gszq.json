@@ -1,0 +1,15 @@
+{
+	"_id": "YFMHaGbE4Wk3Gszq",
+	"_key": "!tables.results!SRCrji0Eseg32Wj2.YFMHaGbE4Wk3Gszq",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "cqcTr7C2M4j6aRGM",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		5,
+		6
+	],
+	"text": "Conical reed hat",
+	"type": 2,
+	"weight": 1
+}

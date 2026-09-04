@@ -1,0 +1,15 @@
+{
+	"_id": "q99YClczWkGBV9W3",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.q99YClczWkGBV9W3",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "F8vdVc38Mqly2oAM",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		51,
+		52
+	],
+	"text": "Lucky copper coin",
+	"type": 2,
+	"weight": 1
+}

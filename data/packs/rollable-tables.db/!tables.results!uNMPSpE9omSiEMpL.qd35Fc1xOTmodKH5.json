@@ -1,0 +1,15 @@
+{
+	"_id": "qd35Fc1xOTmodKH5",
+	"_key": "!tables.results!uNMPSpE9omSiEMpL.qd35Fc1xOTmodKH5",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "xQSlVbKUjol32NZ4",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		3,
+		4
+	],
+	"text": "Shriveled dead newt",
+	"type": 2,
+	"weight": 1
+}

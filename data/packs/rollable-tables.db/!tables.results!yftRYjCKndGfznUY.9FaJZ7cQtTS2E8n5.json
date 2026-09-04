@@ -1,0 +1,15 @@
+{
+	"_id": "9FaJZ7cQtTS2E8n5",
+	"_key": "!tables.results!yftRYjCKndGfznUY.9FaJZ7cQtTS2E8n5",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "3O25QMQeSlbeCkhm",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		85,
+		86
+	],
+	"text": "Mini castle in a bottle",
+	"type": 2,
+	"weight": 1
+}

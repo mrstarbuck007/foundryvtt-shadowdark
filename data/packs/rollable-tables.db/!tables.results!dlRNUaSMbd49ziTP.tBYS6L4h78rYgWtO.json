@@ -1,0 +1,15 @@
+{
+	"_id": "tBYS6L4h78rYgWtO",
+	"_key": "!tables.results!dlRNUaSMbd49ziTP.tBYS6L4h78rYgWtO",
+	"documentCollection": "shadowdark.gear",
+	"documentId": "CvhepmRlcrX8EZdt",
+	"drawn": false,
+	"img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
+	"range": [
+		79,
+		80
+	],
+	"text": "Charm for good health",
+	"type": 2,
+	"weight": 1
+}
