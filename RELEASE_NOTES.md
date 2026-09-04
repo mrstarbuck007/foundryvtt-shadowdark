@@ -94,6 +94,14 @@
 - Corrected the Seer's spellcasting and spell talents to the Western Reaches text
 	* Spellcasting points at the right page and casts off your Wisdom modifier rather than your Wisdom stat
 	* The talent table's extra spell is now drawn from any tier you can cast, where it read any tier you know
+- Corrected the Warlock's patron content to the Western Reaches text
+	* Patron now records that you gain a new Patron Boon at every even level, which was not written down anywhere
+	* Almazzat grants the dire wolf form, Mugdulblub grants +3 HP or a point in any stat, and Shune the Vile teaches a witch spell cast with Charisma instead of a wizard spell
+	* The Willowman and Titania grant damage alongside their attack bonus, and Titania grants the longbow as well rather than instead
+	* Shune the Vile's stat choice gains the Charisma option the book gives it
+- Fixed a Mugdulblub patron boon that handed out nothing, as its table result pointed at no document
+- Filled in the Learn to Wield a Longbow talent, which shipped with an empty description
+- Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin

@@ -6,18 +6,18 @@
 	],
 	"flags": {
 	},
-	"folder": "8t1Gmpgn1Q6HXJAz",
+	"folder": "Z4zDnZoxthjHXo5V",
 	"img": "icons/magic/life/heart-cross-green.webp",
 	"name": "+3 HP",
 	"system": {
 		"description": "<p>You gain +3 HP.</p>",
-		"level": 1,
+		"level": 0,
 		"properties": [
 		],
 		"source": {
 			"title": "western-reaches"
 		},
-		"talentClass": "class"
+		"talentClass": "level"
 	},
 	"type": "Talent"
 }

@@ -2,12 +2,12 @@
 	"_id": "J5BrOWEBfnGz6TOl",
 	"_key": "!tables.results!oKkk7o3Zhlab2vie.J5BrOWEBfnGz6TOl",
 	"description": "",
-	"documentUuid": "Compendium.shadowdark.talents.Item.mgRrWET5MEaGLVNo",
+	"documentUuid": "Compendium.shadowdark.talents.Item.ToKN6c506QIf7lRy",
 	"drawn": false,
 	"flags": {
 	},
-	"img": "icons/sundries/books/book-eye-purple.webp",
-	"name": "Learn a Wizard Spell",
+	"img": "icons/sundries/books/book-reye-reptile-brown.webp",
+	"name": "Learn a Witch Spell",
 	"range": [
 		12,
 		12

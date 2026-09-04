@@ -2,12 +2,12 @@
 	"_id": "wW8C7IBCvdCIY8TC",
 	"_key": "!tables.results!uM6xHa4gqStMgONB.wW8C7IBCvdCIY8TC",
 	"description": "",
-	"documentUuid": null,
+	"documentUuid": "Compendium.shadowdark.talents.Item.h1nqZJPyoJYwFnKg",
 	"drawn": false,
 	"flags": {
 	},
-	"img": null,
-	"name": "",
+	"img": "icons/magic/life/heart-cross-green.webp",
+	"name": "+3 HP",
 	"range": [
 		12,
 		12

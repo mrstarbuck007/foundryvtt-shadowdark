@@ -1,0 +1,22 @@
+{
+	"_id": "2dXRiiETilQWx5kf",
+	"_key": "!items!2dXRiiETilQWx5kf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/creatures/mammals/wolf-howl-moon-gray.webp",
+	"name": "Dire Wolf Form",
+	"system": {
+		"description": "<p>You can transform into a dire wolf for 3 rounds per day</p><p>duplicate = +1 round</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

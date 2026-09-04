@@ -9,7 +9,7 @@
 	"img": "icons/weapons/bows/longbow-recurve-leather-brown.webp",
 	"name": "Learn to Wield a Longbow",
 	"system": {
-		"description": "",
+		"description": "<p>You can wield a longbow</p>",
 		"level": 0,
 		"properties": [
 		],

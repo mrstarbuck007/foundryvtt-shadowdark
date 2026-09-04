@@ -2,12 +2,12 @@
 	"_id": "cLtfiCeSIB7Wdp9Y",
 	"_key": "!tables.results!uM6xHa4gqStMgONB.cLtfiCeSIB7Wdp9Y",
 	"description": "",
-	"documentUuid": "Compendium.shadowdark.talents.Item.8x1pq8tUSbf4UH8G",
+	"documentUuid": "Compendium.shadowdark.talents.Item.h1nqZJPyoJYwFnKg",
 	"drawn": false,
 	"flags": {
 	},
-	"img": "icons/magic/life/crosses-trio-red.webp",
-	"name": "Max 2 HP Rolls",
+	"img": "icons/magic/life/heart-cross-green.webp",
+	"name": "+3 HP",
 	"range": [
 		3,
 		7

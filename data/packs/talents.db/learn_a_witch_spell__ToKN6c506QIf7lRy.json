@@ -1,0 +1,22 @@
+{
+	"_id": "ToKN6c506QIf7lRy",
+	"_key": "!items!ToKN6c506QIf7lRy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/sundries/books/book-reye-reptile-brown.webp",
+	"name": "Learn a Witch Spell",
+	"system": {
+		"description": "<p>Learn a witch spell, tier = half your level. Cast it with CHA</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

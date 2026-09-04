@@ -1,0 +1,17 @@
+{
+	"_id": "9S3Uhfwl5Lrp2kEX",
+	"_key": "!tables.results!oKkk7o3Zhlab2vie.9S3Uhfwl5Lrp2kEX",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.UE2xABVKD0oCDtdx",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+	"name": "+2 to Charisma",
+	"range": [
+		8,
+		9
+	],
+	"type": "document",
+	"weight": 1
+}
