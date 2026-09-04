@@ -145,7 +145,7 @@ export default class CompendiumsSD {
 		return CompendiumsSD._documents("Item", "Class", filterSources);
 	}
 
-	static async classSpellBook(casterClass, filterSources=true) {
+	static async classSpellBook(casterClass, alignment="", filterSources=true) {
 		if (!casterClass) {
 			return CompendiumsSD._documents("Item", "Spell", filterSources);
 		}
@@ -154,9 +154,16 @@ export default class CompendiumsSD {
 				"Item", "Spell", filterSources
 			);
 
+			// A spell with no alignment belongs to every sub-list, and a caster
+			// with no alignment restriction sees all of them.
+			const allowed = spell => !alignment
+				|| !spell.system.alignment
+				|| spell.system.alignment === alignment;
+
 			return this._collectionFromArray(
 				documents.filter(
 					document => document.system.class.includes(casterClass)
+						&& allowed(document)
 				)
 			);
 		}

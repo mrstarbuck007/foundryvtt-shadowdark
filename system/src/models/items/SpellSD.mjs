@@ -7,6 +7,11 @@ export default class SpellSD extends BaseItemSD {
 	static defineSchema() {
 		const schema = {
 			...itemfields.magic(),
+			alignment: new fields.StringField({
+				initial: "",
+				choices: Object.keys(CONFIG.SHADOWDARK.ALIGNMENTS),
+				blank: true,
+			}),
 			tier: new fields.NumberField({ integer: true, initial: 1}),
 		};
 

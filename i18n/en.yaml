@@ -247,6 +247,9 @@ SHADOWDARK.class.languages.label: Class Languages
 SHADOWDARK.class.priest: Priest
 SHADOWDARK.class.ranger: Ranger
 SHADOWDARK.class.spellcasting_ability.label: Spellcasting Ability
+SHADOWDARK.class.spell_alignment_source.actor: The character's alignment
+SHADOWDARK.class.spell_alignment_source.deity: The alignment of the character's deity
+SHADOWDARK.class.spell_alignment_source.label: Spell Alignment From
 SHADOWDARK.class.spellcasting_class.label: Spell Class
 SHADOWDARK.class.spellcasting_class.this_class: "This ({name})"
 SHADOWDARK.class.spellcasting.base_difficulty.label: Spellcasting Base DC
@@ -565,6 +568,7 @@ SHADOWDARK.item.properties.label: Item Properties
 SHADOWDARK.item.scroll.label: Scroll
 SHADOWDARK.item.source_tag: Source Tag
 SHADOWDARK.item.source: Source
+SHADOWDARK.item.spell_alignment: Alignment
 SHADOWDARK.item.spell_caster_classes: Caster Classes
 SHADOWDARK.item.spell_class: Spell Class
 SHADOWDARK.item.spell_duration: Duration

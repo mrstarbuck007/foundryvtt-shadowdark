@@ -46,6 +46,7 @@
 		},
 		"spellcasting": {
 			"ability": "wis",
+			"alignmentSource": "neutral",
 			"baseDifficulty": 10,
 			"class": "",
 			"spellsknown": {

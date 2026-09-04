@@ -8,11 +8,32 @@ export default class SpellBookSD extends foundry.appv1.api.FormApplication {
 	constructor(classUuid, characterUid = "") {
 	    super();
 		this.classID = classUuid;
+		this.actor = null;
 
 		if (characterUid !== "") {
 			let actorObj = game.actors.get(characterUid);
+			this.actor = actorObj;
 			hasSpells = actorObj.items.filter(d => (d.type === "Spell")).map(x => x.name);
 		}
+	}
+
+	/**
+	 * Which spell alignment this caster is restricted to, if any. A class either
+	 * takes it from the character, from the deity they serve, or is fixed to one
+	 * sub-list whatever the character's own alignment is.
+	 */
+	async _spellAlignment(spellcastingClass) {
+		const source = spellcastingClass?.system?.spellcasting?.alignmentSource ?? "";
+
+		if (source === "") return "";
+		if (source === "actor") return this.actor?.system?.alignment ?? "";
+
+		if (source === "deity") {
+			const deity = await fromUuid(this.actor?.system?.deity ?? "");
+			return deity?.system?.alignment ?? "";
+		}
+
+		return source;
 	}
 
 	/** @inheritdoc */
@@ -70,7 +91,10 @@ export default class SpellBookSD extends foundry.appv1.api.FormApplication {
 		};
 
 		// load all spells for class based on source filter
-		const spells = await shadowdark.compendiums.classSpellBook(this.classID);
+		const spells = await shadowdark.compendiums.classSpellBook(
+			this.classID,
+			await this._spellAlignment(this.data.class)
+		);
 
 		const spellList = {};
 		for (const spell of spells) {

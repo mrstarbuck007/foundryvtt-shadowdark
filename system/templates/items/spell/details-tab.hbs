@@ -40,6 +40,16 @@
 					}}
 				</select>
 
+				<h3>{{localize 'SHADOWDARK.item.spell_alignment'}}</h3>
+				<select name="system.alignment">
+					<option value="">&mdash;</option>
+					{{selectOptions
+						config.ALIGNMENTS
+						selected=system.alignment
+						localize=true
+					}}
+				</select>
+
 				<h3>{{localize 'SHADOWDARK.spell_damage.formula'}}</h3>
 				<input
 					name="system.formula"

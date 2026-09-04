@@ -152,6 +152,14 @@ SHADOWDARK.OFFICIAL_SOURCES = {
 	"western-reaches": "SHADOWDARK.source.western-reaches",
 };
 
+SHADOWDARK.SPELL_ALIGNMENT_SOURCES = {
+	actor: "SHADOWDARK.class.spell_alignment_source.actor",
+	deity: "SHADOWDARK.class.spell_alignment_source.deity",
+	lawful: "SHADOWDARK.alignment.lawful",
+	neutral: "SHADOWDARK.alignment.neutral",
+	chaotic: "SHADOWDARK.alignment.chaotic",
+};
+
 SHADOWDARK.SPELL_DURATIONS = {
 	focus: "SHADOWDARK.spell_duration.focus",
 	instant: "SHADOWDARK.spell_duration.instant",

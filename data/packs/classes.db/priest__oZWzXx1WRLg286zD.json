@@ -47,6 +47,7 @@
 		},
 		"spellcasting": {
 			"ability": "wis",
+			"alignmentSource": "deity",
 			"baseDifficulty": 10,
 			"class": "",
 			"spellsknown": {

@@ -37,6 +37,16 @@
 			localize=false
 		}}
 	</select>
+
+	<h3>{{localize "SHADOWDARK.class.spell_alignment_source.label"}}</h3>
+	<select name="system.spellcasting.alignmentSource">
+		<option value="">&mdash;</option>
+		{{selectOptions
+			config.SPELL_ALIGNMENT_SOURCES
+			selected=system.spellcasting.alignmentSource
+			localize=true
+		}}
+	</select>
 	{{/if}}
 </div>
 

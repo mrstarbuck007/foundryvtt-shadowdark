@@ -164,6 +164,10 @@
 	* The link takes you to the spell in the compendium and does not go stale when the book is reprinted
 - Fixed three magic item links rendering with a doubled space, from a stray space inside the link text
 - Added the Magic Weapon Benefits table, which the Paladin's Named Blade rolls on at 3rd level
+- Spells can now belong to an alignment, so a spell list can be split the way the books split them
+	* A wizard sees the sub-list matching their own alignment, a priest the one matching their deity's, and a class can be fixed to one sub-list whatever its character's alignment
+	* Spells with no alignment set belong to every sub-list, so nothing changes until a spell is tagged
+	* The Wizard, Priest and Green Knight are wired up, the Green Knight to the druid spells
 - Added the Necromancer spell list from Shadowdark RPG: The Western Reaches
 	* Thirty spells, six in each of the five tiers
 	* Withermark's damage grows from 1d4 to 2d4 at 5th level on its own, and Drain Life, Ghoul Touch and Excoriate roll their damage from the spell

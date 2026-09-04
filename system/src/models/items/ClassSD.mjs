@@ -39,6 +39,11 @@ export default class ClassSD extends BaseItemSD {
 				startingBoons: new fields.NumberField({ integer: true, initial: 0}),
 			}),
 			spellcasting: new fields.SchemaField({
+				alignmentSource: new fields.StringField({
+					initial: "",
+					choices: Object.keys(CONFIG.SHADOWDARK.SPELL_ALIGNMENT_SOURCES),
+					blank: true,
+				}),
 				ability: new fields.StringField({
 					initial: "",
 					choices: CONFIG.SHADOWDARK.ABILITY_KEYS,
