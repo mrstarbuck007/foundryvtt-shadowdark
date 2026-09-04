@@ -1,0 +1,16 @@
+{
+	"_id": "S5uw67t625OOXsJS",
+	"_key": "!tables.results!AS9WHIoOBEiRucXx.S5uw67t625OOXsJS",
+	"description": "uun",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "uun",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

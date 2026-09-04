@@ -1,0 +1,16 @@
+{
+	"_id": "WhYBt85CkyHiTzOC",
+	"_key": "!tables.results!8EtqQkqHNxDZdXj3.WhYBt85CkyHiTzOC",
+	"description": "ivin",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ivin",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

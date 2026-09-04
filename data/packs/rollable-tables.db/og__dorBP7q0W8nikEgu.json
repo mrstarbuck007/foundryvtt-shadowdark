@@ -1,0 +1,16 @@
+{
+	"_id": "dorBP7q0W8nikEgu",
+	"_key": "!tables.results!Xkwz8IqZpIlMGsPY.dorBP7q0W8nikEgu",
+	"description": "og",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "og",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

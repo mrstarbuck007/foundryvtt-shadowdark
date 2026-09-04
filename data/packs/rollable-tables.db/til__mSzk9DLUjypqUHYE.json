@@ -1,0 +1,16 @@
+{
+	"_id": "mSzk9DLUjypqUHYE",
+	"_key": "!tables.results!duFhMn7Dt6t1np30.mSzk9DLUjypqUHYE",
+	"description": "Til",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Til",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

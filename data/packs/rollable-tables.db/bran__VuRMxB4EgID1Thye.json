@@ -1,0 +1,16 @@
+{
+	"_id": "VuRMxB4EgID1Thye",
+	"_key": "!tables.results!hHOtOeWcP0I2hPdy.VuRMxB4EgID1Thye",
+	"description": "Bran",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Bran",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

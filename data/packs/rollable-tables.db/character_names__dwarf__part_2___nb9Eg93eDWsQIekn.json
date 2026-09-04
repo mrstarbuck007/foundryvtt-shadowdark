@@ -1,0 +1,25 @@
+{
+	"_id": "nb9Eg93eDWsQIekn",
+	"_key": "!tables!nb9Eg93eDWsQIekn",
+	"description": "",
+	"displayRoll": false,
+	"flags": {
+	},
+	"folder": "sI1gi6J1ZhWrUq26",
+	"formula": "1d10",
+	"img": "icons/environment/people/spearfighter.webp",
+	"name": "Character Names: Dwarf (Part 2)",
+	"replacement": true,
+	"results": [
+		"SYLwbrlFLQB1QXU5",
+		"mTOrPrkztr5MHVuc",
+		"NJhhgRSrdcyBvxe9",
+		"TAElbo9TnKGdTCde",
+		"GXoY4wmwJiPs9SiX",
+		"xTFbSqRo9LQErSz4",
+		"4nl60KXGMdqxPhVC",
+		"221MZ1DcEXRTFAZ1",
+		"ZYIUnKZRJNxNJRc4",
+		"ScNq3NOvD1TSGKRb"
+	]
+}

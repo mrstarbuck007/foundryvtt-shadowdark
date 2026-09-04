@@ -1,0 +1,16 @@
+{
+	"_id": "B7ZFSoCyU5LRMXcu",
+	"_key": "!tables.results!duFhMn7Dt6t1np30.B7ZFSoCyU5LRMXcu",
+	"description": "Sal",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Sal",
+	"range": [
+		7,
+		7
+	],
+	"type": "text",
+	"weight": 1
+}

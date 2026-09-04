@@ -1,0 +1,16 @@
+{
+	"_id": "0uHHLiWeql0edBpH",
+	"_key": "!tables.results!bzGlkyUmy1MNPFia.0uHHLiWeql0edBpH",
+	"description": "Qala",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Qala",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

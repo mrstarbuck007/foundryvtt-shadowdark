@@ -1,0 +1,16 @@
+{
+	"_id": "Bi12LvN2VFD6gRVG",
+	"_key": "!tables.results!R2u20OqvFIdEVw5k.Bi12LvN2VFD6gRVG",
+	"description": "barik",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "barik",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

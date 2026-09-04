@@ -1,0 +1,16 @@
+{
+	"_id": "EQlcMS9HeHiBL4mz",
+	"_key": "!tables.results!Xkwz8IqZpIlMGsPY.EQlcMS9HeHiBL4mz",
+	"description": "ulg",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ulg",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

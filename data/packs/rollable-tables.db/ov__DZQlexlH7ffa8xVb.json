@@ -1,0 +1,16 @@
+{
+	"_id": "DZQlexlH7ffa8xVb",
+	"_key": "!tables.results!Xkwz8IqZpIlMGsPY.DZQlexlH7ffa8xVb",
+	"description": "ov",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ov",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

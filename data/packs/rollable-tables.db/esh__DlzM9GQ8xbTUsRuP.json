@@ -1,0 +1,16 @@
+{
+	"_id": "DlzM9GQ8xbTUsRuP",
+	"_key": "!tables.results!AS9WHIoOBEiRucXx.DlzM9GQ8xbTUsRuP",
+	"description": "esh",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "esh",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

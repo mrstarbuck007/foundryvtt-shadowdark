@@ -1,0 +1,16 @@
+{
+	"_id": "n7NKlAEndNAPzzC9",
+	"_key": "!tables.results!c2y3lUuUyjojp6rF.n7NKlAEndNAPzzC9",
+	"description": "Ulf",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Ulf",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

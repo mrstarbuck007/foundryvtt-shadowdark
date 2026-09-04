@@ -1,0 +1,16 @@
+{
+	"_id": "9CtuQ9qeQBNLzmYN",
+	"_key": "!tables.results!t6YC7P5B3AOH12mB.9CtuQ9qeQBNLzmYN",
+	"description": "Dan",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Dan",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

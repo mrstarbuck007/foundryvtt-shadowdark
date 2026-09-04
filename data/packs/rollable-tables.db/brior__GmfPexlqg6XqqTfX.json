@@ -1,0 +1,16 @@
+{
+	"_id": "GmfPexlqg6XqqTfX",
+	"_key": "!tables.results!D4x2oeXNwsIrU7cG.GmfPexlqg6XqqTfX",
+	"description": "brior",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "brior",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

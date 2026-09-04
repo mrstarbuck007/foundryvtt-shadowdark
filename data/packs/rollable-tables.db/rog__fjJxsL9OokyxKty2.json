@@ -1,0 +1,16 @@
+{
+	"_id": "fjJxsL9OokyxKty2",
+	"_key": "!tables.results!t6YC7P5B3AOH12mB.fjJxsL9OokyxKty2",
+	"description": "Rog",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Rog",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

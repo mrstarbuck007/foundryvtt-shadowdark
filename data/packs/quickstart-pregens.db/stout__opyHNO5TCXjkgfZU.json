@@ -11,7 +11,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Stout",
 	"system": {
-		"description": "<p>Start with +2 HP. Roll your hit point gains with advantage.</p>",
+		"description": "<p>Start with +2 HP. Roll hit points per level with advantage.</p>",
 		"level": 1,
 		"properties": [
 		],

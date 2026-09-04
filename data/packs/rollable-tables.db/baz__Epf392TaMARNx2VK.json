@@ -1,0 +1,16 @@
+{
+	"_id": "Epf392TaMARNx2VK",
+	"_key": "!tables.results!kmZjxbXfOKF9a2JN.Epf392TaMARNx2VK",
+	"description": "Baz",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Baz",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

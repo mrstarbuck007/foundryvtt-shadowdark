@@ -1,0 +1,16 @@
+{
+	"_id": "3TSDUfz059gTw8Da",
+	"_key": "!tables.results!R2u20OqvFIdEVw5k.3TSDUfz059gTw8Da",
+	"description": "rak",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "rak",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

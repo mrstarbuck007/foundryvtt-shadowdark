@@ -1,0 +1,16 @@
+{
+	"_id": "ozW5ZrloQnuaMhRc",
+	"_key": "!tables.results!duFhMn7Dt6t1np30.ozW5ZrloQnuaMhRc",
+	"description": "Tul",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Tul",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

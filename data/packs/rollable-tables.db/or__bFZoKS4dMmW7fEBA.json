@@ -1,0 +1,16 @@
+{
+	"_id": "bFZoKS4dMmW7fEBA",
+	"_key": "!tables.results!r4EgEWUd9q8siV06.bFZoKS4dMmW7fEBA",
+	"description": "Or",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Or",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,25 @@
+{
+	"_id": "54F581txrfkdY4CU",
+	"_key": "!tables!54F581txrfkdY4CU",
+	"description": "",
+	"displayRoll": false,
+	"flags": {
+	},
+	"folder": "sI1gi6J1ZhWrUq26",
+	"formula": "1d10",
+	"img": "icons/environment/people/spearfighter.webp",
+	"name": "Character Names: Kobold (Part 1)",
+	"replacement": true,
+	"results": [
+		"UPqoO39lAHTaKeAF",
+		"drknXFb7sibznzHG",
+		"21OGiB2ue8UwYEPv",
+		"bekwjkCGqWsEQ9Ux",
+		"uZ4kY9AV1D0IL5pz",
+		"8D2zmgrHWV6oNaV1",
+		"rZPp6k7qDkmdQ2HA",
+		"D4QxM3DVmr4Fgly4",
+		"3YJwyU7jNLJWV75C",
+		"GN4BXHfF74gG0AIS"
+	]
+}

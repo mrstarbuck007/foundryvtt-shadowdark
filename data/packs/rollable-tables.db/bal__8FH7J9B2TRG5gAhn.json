@@ -1,0 +1,16 @@
+{
+	"_id": "8FH7J9B2TRG5gAhn",
+	"_key": "!tables.results!c2y3lUuUyjojp6rF.8FH7J9B2TRG5gAhn",
+	"description": "Bal",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Bal",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

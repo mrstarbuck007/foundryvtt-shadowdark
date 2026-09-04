@@ -1,0 +1,16 @@
+{
+	"_id": "ScNq3NOvD1TSGKRb",
+	"_key": "!tables.results!nb9Eg93eDWsQIekn.ScNq3NOvD1TSGKRb",
+	"description": "drol",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "drol",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

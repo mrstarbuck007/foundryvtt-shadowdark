@@ -1,0 +1,22 @@
+{
+	"_id": "3hctuZiCgEWp9prr",
+	"_key": "!items!3hctuZiCgEWp9prr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "MFeFmA2ubOJxaTwm",
+	"img": "icons/environment/people/group.webp",
+	"name": "Adaptable",
+	"system": {
+		"description": "<p>Roll your talent rolls twice and choose which result to keep.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "ancestry"
+	},
+	"type": "Talent"
+}

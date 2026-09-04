@@ -1,0 +1,16 @@
+{
+	"_id": "uZOhsflwFA5WOpcr",
+	"_key": "!tables.results!c2y3lUuUyjojp6rF.uZOhsflwFA5WOpcr",
+	"description": "Yel",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Yel",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}

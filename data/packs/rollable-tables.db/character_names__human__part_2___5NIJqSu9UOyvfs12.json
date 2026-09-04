@@ -1,0 +1,25 @@
+{
+	"_id": "5NIJqSu9UOyvfs12",
+	"_key": "!tables!5NIJqSu9UOyvfs12",
+	"description": "",
+	"displayRoll": false,
+	"flags": {
+	},
+	"folder": "sI1gi6J1ZhWrUq26",
+	"formula": "1d10",
+	"img": "icons/environment/people/spearfighter.webp",
+	"name": "Character Names: Human (Part 2)",
+	"replacement": true,
+	"results": [
+		"E1hEbAewUFf1DN0v",
+		"T9RIVgxC8i7fqGF6",
+		"WZX3EIHagw2dzSt9",
+		"YyC4GTaFOks8lxSF",
+		"58GJRD4dARGNFuHN",
+		"ZzcfocDZfukNHOau",
+		"D1J0c4lLZXvFwgzG",
+		"F6QpgVvKxEJqDyNw",
+		"0vQ89ptOVBuUDiTf",
+		"AhrQWgkzjFdcFOG5"
+	]
+}

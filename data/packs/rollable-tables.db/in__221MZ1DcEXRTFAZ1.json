@@ -1,0 +1,16 @@
+{
+	"_id": "221MZ1DcEXRTFAZ1",
+	"_key": "!tables.results!nb9Eg93eDWsQIekn.221MZ1DcEXRTFAZ1",
+	"description": "in",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "in",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}

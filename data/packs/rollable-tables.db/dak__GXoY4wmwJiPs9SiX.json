@@ -1,0 +1,16 @@
+{
+	"_id": "GXoY4wmwJiPs9SiX",
+	"_key": "!tables.results!nb9Eg93eDWsQIekn.GXoY4wmwJiPs9SiX",
+	"description": "dak",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "dak",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

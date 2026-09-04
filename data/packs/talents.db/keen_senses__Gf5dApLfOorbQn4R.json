@@ -9,7 +9,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Keen Senses",
 	"system": {
-		"description": "<p>You can't be surprised.</p>",
+		"description": "<p>You can't be surprised (you roll initiative during surprise rounds and are not treated as unaware).</p>",
 		"level": 1,
 		"properties": [
 		],

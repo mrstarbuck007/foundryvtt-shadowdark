@@ -1,0 +1,16 @@
+{
+	"_id": "uZ4kY9AV1D0IL5pz",
+	"_key": "!tables.results!54F581txrfkdY4CU.uZ4kY9AV1D0IL5pz",
+	"description": "Gr",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Gr",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

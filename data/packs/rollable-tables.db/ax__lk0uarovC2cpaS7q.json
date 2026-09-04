@@ -1,0 +1,16 @@
+{
+	"_id": "lk0uarovC2cpaS7q",
+	"_key": "!tables.results!Xkwz8IqZpIlMGsPY.lk0uarovC2cpaS7q",
+	"description": "ax",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ax",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

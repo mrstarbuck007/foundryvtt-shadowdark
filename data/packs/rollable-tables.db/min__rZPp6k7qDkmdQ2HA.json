@@ -1,0 +1,16 @@
+{
+	"_id": "rZPp6k7qDkmdQ2HA",
+	"_key": "!tables.results!54F581txrfkdY4CU.rZPp6k7qDkmdQ2HA",
+	"description": "Min",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Min",
+	"range": [
+		7,
+		7
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,25 @@
+{
+	"_id": "r4EgEWUd9q8siV06",
+	"_key": "!tables!r4EgEWUd9q8siV06",
+	"description": "",
+	"displayRoll": false,
+	"flags": {
+	},
+	"folder": "sI1gi6J1ZhWrUq26",
+	"formula": "1d10",
+	"img": "icons/environment/people/spearfighter.webp",
+	"name": "Character Names: Half-Elf (Part 1)",
+	"replacement": true,
+	"results": [
+		"LzIbe1DCWdtUZCf1",
+		"WTz4wcIvgxXsAafN",
+		"Q7S6PmrlJy1dihrr",
+		"umcGxgtCqvRH6hNO",
+		"cKvCHJvnBdFjuFwX",
+		"ZM9gZxEiE98Hz1WK",
+		"ii6uY6OcjGi9NQDi",
+		"bFZoKS4dMmW7fEBA",
+		"GseMaQ1JDxStZ6yx",
+		"gwusYQTGQELnNq5o"
+	]
+}

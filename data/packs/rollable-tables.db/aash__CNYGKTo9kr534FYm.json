@@ -1,0 +1,16 @@
+{
+	"_id": "CNYGKTo9kr534FYm",
+	"_key": "!tables.results!AS9WHIoOBEiRucXx.CNYGKTo9kr534FYm",
+	"description": "aash",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "aash",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

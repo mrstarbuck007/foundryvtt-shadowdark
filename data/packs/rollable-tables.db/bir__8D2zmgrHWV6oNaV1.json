@@ -1,0 +1,16 @@
+{
+	"_id": "8D2zmgrHWV6oNaV1",
+	"_key": "!tables.results!54F581txrfkdY4CU.8D2zmgrHWV6oNaV1",
+	"description": "Bir",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Bir",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

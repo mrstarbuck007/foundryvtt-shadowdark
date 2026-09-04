@@ -1,0 +1,16 @@
+{
+	"_id": "w1vERL7DPAQYmRNd",
+	"_key": "!tables.results!t6YC7P5B3AOH12mB.w1vERL7DPAQYmRNd",
+	"description": "Mel",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Mel",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

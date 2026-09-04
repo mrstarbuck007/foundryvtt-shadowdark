@@ -1,0 +1,16 @@
+{
+	"_id": "4Kew4G7KFnzpqnwl",
+	"_key": "!tables.results!8EtqQkqHNxDZdXj3.4Kew4G7KFnzpqnwl",
+	"description": "ib",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ib",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

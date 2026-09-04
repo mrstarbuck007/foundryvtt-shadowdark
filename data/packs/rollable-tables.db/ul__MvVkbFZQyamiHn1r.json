@@ -1,0 +1,16 @@
+{
+	"_id": "MvVkbFZQyamiHn1r",
+	"_key": "!tables.results!8EtqQkqHNxDZdXj3.MvVkbFZQyamiHn1r",
+	"description": "ul",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ul",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

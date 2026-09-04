@@ -1,0 +1,16 @@
+{
+	"_id": "2O5IE2AsXpkiOXKR",
+	"_key": "!tables.results!8EtqQkqHNxDZdXj3.2O5IE2AsXpkiOXKR",
+	"description": "ag",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ag",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

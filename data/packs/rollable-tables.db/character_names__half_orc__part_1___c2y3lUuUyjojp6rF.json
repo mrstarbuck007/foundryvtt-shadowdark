@@ -1,0 +1,25 @@
+{
+	"_id": "c2y3lUuUyjojp6rF",
+	"_key": "!tables!c2y3lUuUyjojp6rF",
+	"description": "",
+	"displayRoll": false,
+	"flags": {
+	},
+	"folder": "sI1gi6J1ZhWrUq26",
+	"formula": "1d10",
+	"img": "icons/environment/people/spearfighter.webp",
+	"name": "Character Names: Half-Orc (Part 1)",
+	"replacement": true,
+	"results": [
+		"8FH7J9B2TRG5gAhn",
+		"NHzIS71FJHAa4CnD",
+		"n0xJk1G5D8EbsHTW",
+		"n7NKlAEndNAPzzC9",
+		"gWn35thkTxMx5Pdp",
+		"npBkAQ7WtMIABKYk",
+		"Ru2zp4wpG91QwJvO",
+		"uZOhsflwFA5WOpcr",
+		"HVTVe7G3HCUb41xR",
+		"ivWUWM3Sb2w01XDb"
+	]
+}

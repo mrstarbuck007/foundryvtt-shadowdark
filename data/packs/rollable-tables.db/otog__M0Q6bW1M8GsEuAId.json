@@ -1,0 +1,16 @@
+{
+	"_id": "M0Q6bW1M8GsEuAId",
+	"_key": "!tables.results!8EtqQkqHNxDZdXj3.M0Q6bW1M8GsEuAId",
+	"description": "otog",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "otog",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}

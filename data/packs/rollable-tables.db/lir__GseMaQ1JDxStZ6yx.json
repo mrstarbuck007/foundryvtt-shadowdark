@@ -1,0 +1,16 @@
+{
+	"_id": "GseMaQ1JDxStZ6yx",
+	"_key": "!tables.results!r4EgEWUd9q8siV06.GseMaQ1JDxStZ6yx",
+	"description": "Lir",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Lir",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

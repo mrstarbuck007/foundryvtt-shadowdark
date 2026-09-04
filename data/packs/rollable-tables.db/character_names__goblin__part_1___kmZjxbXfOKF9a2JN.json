@@ -1,0 +1,25 @@
+{
+	"_id": "kmZjxbXfOKF9a2JN",
+	"_key": "!tables!kmZjxbXfOKF9a2JN",
+	"description": "",
+	"displayRoll": false,
+	"flags": {
+	},
+	"folder": "sI1gi6J1ZhWrUq26",
+	"formula": "1d10",
+	"img": "icons/environment/people/spearfighter.webp",
+	"name": "Character Names: Goblin (Part 1)",
+	"replacement": true,
+	"results": [
+		"0UbslK99dtrfseIt",
+		"LxgTeN8z8nTFeTfr",
+		"dOonwnqbw9BDfGZB",
+		"Epf392TaMARNx2VK",
+		"VsmG14OIGt6bKQY0",
+		"SkZ4aMzQ3QuaXk4s",
+		"CDQyl7dArYiJLI0W",
+		"tX6h3cftWCufRRWL",
+		"zWS8dsvFwfNffUdb",
+		"ONlUsyv78kG8K3cK"
+	]
+}

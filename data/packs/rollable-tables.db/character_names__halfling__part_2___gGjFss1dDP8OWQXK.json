@@ -1,0 +1,25 @@
+{
+	"_id": "gGjFss1dDP8OWQXK",
+	"_key": "!tables!gGjFss1dDP8OWQXK",
+	"description": "",
+	"displayRoll": false,
+	"flags": {
+	},
+	"folder": "sI1gi6J1ZhWrUq26",
+	"formula": "1d10",
+	"img": "icons/environment/people/spearfighter.webp",
+	"name": "Character Names: Halfling (Part 2)",
+	"replacement": true,
+	"results": [
+		"EjXxk0OYjDiUu6Sx",
+		"SR5mbTPa5r4kEH9x",
+		"OTaGaoexHAcaskkP",
+		"y0HJQa74x2H01oK6",
+		"DrDmJGjxdLz3GbZx",
+		"CbbgubM5CuywW1QL",
+		"Kmjm8SUExmgVsq8q",
+		"Lgl41aU3R5YtNTRO",
+		"4hF6L6y5vUCoUhyE",
+		"emwJKNXgsjyqQLJY"
+	]
+}

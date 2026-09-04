@@ -1,0 +1,16 @@
+{
+	"_id": "KlpEzGvqKxWwFXu5",
+	"_key": "!tables.results!bzGlkyUmy1MNPFia.KlpEzGvqKxWwFXu5",
+	"description": "Ela",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Ela",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

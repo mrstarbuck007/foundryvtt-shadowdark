@@ -1,0 +1,16 @@
+{
+	"_id": "F6QpgVvKxEJqDyNw",
+	"_key": "!tables.results!5NIJqSu9UOyvfs12.F6QpgVvKxEJqDyNw",
+	"description": "ek",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ek",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "GN4BXHfF74gG0AIS",
+	"_key": "!tables.results!54F581txrfkdY4CU.GN4BXHfF74gG0AIS",
+	"description": "Yal",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Yal",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

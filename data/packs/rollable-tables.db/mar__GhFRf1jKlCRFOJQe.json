@@ -1,0 +1,16 @@
+{
+	"_id": "GhFRf1jKlCRFOJQe",
+	"_key": "!tables.results!hHOtOeWcP0I2hPdy.GhFRf1jKlCRFOJQe",
+	"description": "Mar",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Mar",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "zWS8dsvFwfNffUdb",
+	"_key": "!tables.results!kmZjxbXfOKF9a2JN.zWS8dsvFwfNffUdb",
+	"description": "Sar",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Sar",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

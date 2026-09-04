@@ -1,0 +1,16 @@
+{
+	"_id": "UcFOge8rf0kzwShw",
+	"_key": "!tables.results!D4x2oeXNwsIrU7cG.UcFOge8rf0kzwShw",
+	"description": "ndriel",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ndriel",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

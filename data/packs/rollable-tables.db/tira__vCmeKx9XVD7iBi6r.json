@@ -1,0 +1,16 @@
+{
+	"_id": "vCmeKx9XVD7iBi6r",
+	"_key": "!tables.results!bzGlkyUmy1MNPFia.vCmeKx9XVD7iBi6r",
+	"description": "Tira",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Tira",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

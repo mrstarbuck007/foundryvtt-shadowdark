@@ -1,0 +1,16 @@
+{
+	"_id": "Kmjm8SUExmgVsq8q",
+	"_key": "!tables.results!gGjFss1dDP8OWQXK.Kmjm8SUExmgVsq8q",
+	"description": "ry",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ry",
+	"range": [
+		7,
+		7
+	],
+	"type": "text",
+	"weight": 1
+}

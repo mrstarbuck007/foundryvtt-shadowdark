@@ -1,0 +1,16 @@
+{
+	"_id": "kJ8f0tyNuHMXEtP5",
+	"_key": "!tables.results!D4x2oeXNwsIrU7cG.kJ8f0tyNuHMXEtP5",
+	"description": "rien",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "rien",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

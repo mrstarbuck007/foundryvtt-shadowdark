@@ -1,0 +1,16 @@
+{
+	"_id": "SYLwbrlFLQB1QXU5",
+	"_key": "!tables.results!nb9Eg93eDWsQIekn.SYLwbrlFLQB1QXU5",
+	"description": "dor",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "dor",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

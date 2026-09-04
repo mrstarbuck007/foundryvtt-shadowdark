@@ -1,0 +1,16 @@
+{
+	"_id": "4hF6L6y5vUCoUhyE",
+	"_key": "!tables.results!gGjFss1dDP8OWQXK.4hF6L6y5vUCoUhyE",
+	"description": "son",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "son",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

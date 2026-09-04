@@ -1,0 +1,16 @@
+{
+	"_id": "KRd1BWX7jKkNr4Mh",
+	"_key": "!tables.results!8EtqQkqHNxDZdXj3.KRd1BWX7jKkNr4Mh",
+	"description": "atok",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "atok",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

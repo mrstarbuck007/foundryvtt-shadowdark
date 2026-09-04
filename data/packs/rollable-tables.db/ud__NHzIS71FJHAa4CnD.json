@@ -1,0 +1,16 @@
+{
+	"_id": "NHzIS71FJHAa4CnD",
+	"_key": "!tables.results!c2y3lUuUyjojp6rF.NHzIS71FJHAa4CnD",
+	"description": "Ud",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Ud",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

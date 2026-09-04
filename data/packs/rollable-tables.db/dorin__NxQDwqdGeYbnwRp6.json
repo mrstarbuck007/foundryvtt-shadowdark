@@ -1,0 +1,16 @@
+{
+	"_id": "NxQDwqdGeYbnwRp6",
+	"_key": "!tables.results!R2u20OqvFIdEVw5k.NxQDwqdGeYbnwRp6",
+	"description": "dorin",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "dorin",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

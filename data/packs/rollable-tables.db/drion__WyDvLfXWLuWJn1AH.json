@@ -1,0 +1,16 @@
+{
+	"_id": "WyDvLfXWLuWJn1AH",
+	"_key": "!tables.results!D4x2oeXNwsIrU7cG.WyDvLfXWLuWJn1AH",
+	"description": "drion",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "drion",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

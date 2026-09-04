@@ -1,0 +1,16 @@
+{
+	"_id": "ivWUWM3Sb2w01XDb",
+	"_key": "!tables.results!c2y3lUuUyjojp6rF.ivWUWM3Sb2w01XDb",
+	"description": "Klar",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Klar",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

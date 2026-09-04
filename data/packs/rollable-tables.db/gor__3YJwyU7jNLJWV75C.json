@@ -1,0 +1,16 @@
+{
+	"_id": "3YJwyU7jNLJWV75C",
+	"_key": "!tables.results!54F581txrfkdY4CU.3YJwyU7jNLJWV75C",
+	"description": "Gor",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Gor",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "5SQJBeFN5oD0wSK9",
+	"_key": "!tables.results!bzGlkyUmy1MNPFia.5SQJBeFN5oD0wSK9",
+	"description": "Vela",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Vela",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

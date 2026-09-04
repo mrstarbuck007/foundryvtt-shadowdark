@@ -1,0 +1,16 @@
+{
+	"_id": "cKvCHJvnBdFjuFwX",
+	"_key": "!tables.results!r4EgEWUd9q8siV06.cKvCHJvnBdFjuFwX",
+	"description": "Gal",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Gal",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

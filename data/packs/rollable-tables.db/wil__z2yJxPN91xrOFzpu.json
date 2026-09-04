@@ -1,0 +1,16 @@
+{
+	"_id": "z2yJxPN91xrOFzpu",
+	"_key": "!tables.results!duFhMn7Dt6t1np30.z2yJxPN91xrOFzpu",
+	"description": "Wil",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Wil",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

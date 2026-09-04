@@ -1,0 +1,16 @@
+{
+	"_id": "soBojwgQq5fvDw2d",
+	"_key": "!tables.results!Xkwz8IqZpIlMGsPY.soBojwgQq5fvDw2d",
+	"description": "az",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "az",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

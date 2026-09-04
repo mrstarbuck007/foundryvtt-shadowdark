@@ -1,0 +1,16 @@
+{
+	"_id": "lRpZjUJqMG3z5TRJ",
+	"_key": "!tables.results!D4x2oeXNwsIrU7cG.lRpZjUJqMG3z5TRJ",
+	"description": "bren",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "bren",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}

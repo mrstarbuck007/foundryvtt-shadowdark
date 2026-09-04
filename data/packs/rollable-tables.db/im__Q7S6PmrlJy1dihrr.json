@@ -1,0 +1,16 @@
+{
+	"_id": "Q7S6PmrlJy1dihrr",
+	"_key": "!tables.results!r4EgEWUd9q8siV06.Q7S6PmrlJy1dihrr",
+	"description": "Im",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Im",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

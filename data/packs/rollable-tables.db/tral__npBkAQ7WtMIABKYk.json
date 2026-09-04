@@ -1,0 +1,16 @@
+{
+	"_id": "npBkAQ7WtMIABKYk",
+	"_key": "!tables.results!c2y3lUuUyjojp6rF.npBkAQ7WtMIABKYk",
+	"description": "Tral",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Tral",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

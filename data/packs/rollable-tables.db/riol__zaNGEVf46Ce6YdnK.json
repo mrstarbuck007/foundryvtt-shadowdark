@@ -1,0 +1,16 @@
+{
+	"_id": "zaNGEVf46Ce6YdnK",
+	"_key": "!tables.results!D4x2oeXNwsIrU7cG.zaNGEVf46Ce6YdnK",
+	"description": "riol",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "riol",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

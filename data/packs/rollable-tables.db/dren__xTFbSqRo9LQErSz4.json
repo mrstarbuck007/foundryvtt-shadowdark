@@ -1,0 +1,16 @@
+{
+	"_id": "xTFbSqRo9LQErSz4",
+	"_key": "!tables.results!nb9Eg93eDWsQIekn.xTFbSqRo9LQErSz4",
+	"description": "dren",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "dren",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

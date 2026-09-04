@@ -1,0 +1,16 @@
+{
+	"_id": "EstdyQGYcNt9xV7b",
+	"_key": "!tables.results!8EtqQkqHNxDZdXj3.EstdyQGYcNt9xV7b",
+	"description": "laz",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "laz",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

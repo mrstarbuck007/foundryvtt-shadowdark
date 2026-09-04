@@ -1,0 +1,16 @@
+{
+	"_id": "YyC4GTaFOks8lxSF",
+	"_key": "!tables.results!5NIJqSu9UOyvfs12.YyC4GTaFOks8lxSF",
+	"description": "ien",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ien",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "RsmJiFRUvojbtY8L",
+	"_key": "!tables.results!R2u20OqvFIdEVw5k.RsmJiFRUvojbtY8L",
+	"description": "teril",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "teril",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

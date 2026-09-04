@@ -1,0 +1,16 @@
+{
+	"_id": "ZM9gZxEiE98Hz1WK",
+	"_key": "!tables.results!r4EgEWUd9q8siV06.ZM9gZxEiE98Hz1WK",
+	"description": "Tova",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Tova",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

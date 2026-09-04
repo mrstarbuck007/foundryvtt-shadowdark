@@ -1,0 +1,16 @@
+{
+	"_id": "gwusYQTGQELnNq5o",
+	"_key": "!tables.results!r4EgEWUd9q8siV06.gwusYQTGQELnNq5o",
+	"description": "Cal",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Cal",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

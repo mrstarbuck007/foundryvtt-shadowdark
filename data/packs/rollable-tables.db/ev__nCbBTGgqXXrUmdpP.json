@@ -1,0 +1,16 @@
+{
+	"_id": "nCbBTGgqXXrUmdpP",
+	"_key": "!tables.results!Xkwz8IqZpIlMGsPY.nCbBTGgqXXrUmdpP",
+	"description": "ev",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ev",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}

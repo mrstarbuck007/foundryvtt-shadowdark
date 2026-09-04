@@ -1,0 +1,16 @@
+{
+	"_id": "K3wMegPGLlGwCVun",
+	"_key": "!tables.results!hHOtOeWcP0I2hPdy.K3wMegPGLlGwCVun",
+	"description": "Il",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Il",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

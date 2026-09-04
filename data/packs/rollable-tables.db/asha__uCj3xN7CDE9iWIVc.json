@@ -1,0 +1,16 @@
+{
+	"_id": "uCj3xN7CDE9iWIVc",
+	"_key": "!tables.results!AS9WHIoOBEiRucXx.uCj3xN7CDE9iWIVc",
+	"description": "asha",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "asha",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

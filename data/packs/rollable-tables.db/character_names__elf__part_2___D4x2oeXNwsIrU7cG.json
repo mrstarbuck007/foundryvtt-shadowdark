@@ -1,0 +1,25 @@
+{
+	"_id": "D4x2oeXNwsIrU7cG",
+	"_key": "!tables!D4x2oeXNwsIrU7cG",
+	"description": "",
+	"displayRoll": false,
+	"flags": {
+	},
+	"folder": "sI1gi6J1ZhWrUq26",
+	"formula": "1d10",
+	"img": "icons/environment/people/spearfighter.webp",
+	"name": "Character Names: Elf (Part 2)",
+	"replacement": true,
+	"results": [
+		"kJ8f0tyNuHMXEtP5",
+		"zaNGEVf46Ce6YdnK",
+		"6U1OwEUDk6EYBSUp",
+		"PkHqPEZY3LCJyaER",
+		"WyDvLfXWLuWJn1AH",
+		"9h2wjK88TqRwx80N",
+		"O6F6jwhNdUQUzkrZ",
+		"lRpZjUJqMG3z5TRJ",
+		"UcFOge8rf0kzwShw",
+		"GmfPexlqg6XqqTfX"
+	]
+}

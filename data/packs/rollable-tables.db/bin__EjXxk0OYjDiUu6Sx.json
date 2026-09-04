@@ -1,0 +1,16 @@
+{
+	"_id": "EjXxk0OYjDiUu6Sx",
+	"_key": "!tables.results!gGjFss1dDP8OWQXK.EjXxk0OYjDiUu6Sx",
+	"description": "bin",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "bin",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

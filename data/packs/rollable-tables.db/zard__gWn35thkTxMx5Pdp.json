@@ -1,0 +1,16 @@
+{
+	"_id": "gWn35thkTxMx5Pdp",
+	"_key": "!tables.results!c2y3lUuUyjojp6rF.gWn35thkTxMx5Pdp",
+	"description": "Zard",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Zard",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

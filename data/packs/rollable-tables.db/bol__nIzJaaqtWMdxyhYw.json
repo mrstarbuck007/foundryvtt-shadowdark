@@ -1,0 +1,16 @@
+{
+	"_id": "nIzJaaqtWMdxyhYw",
+	"_key": "!tables.results!t6YC7P5B3AOH12mB.nIzJaaqtWMdxyhYw",
+	"description": "Bol",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Bol",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

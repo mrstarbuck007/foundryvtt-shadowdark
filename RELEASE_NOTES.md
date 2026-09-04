@@ -16,6 +16,8 @@
 - Added the new weapons from Shadowdark RPG: The Western Reaches, along with the Charge, Devastating and Mounted weapon properties
 - Added the mithral shields from Shadowdark RPG: The Western Reaches and the Mount armor property, and brought the existing armor properties into line with the book
 	* The armor is now named as the book writes it, so Mithral Chainmail is now Chainmail, mithral and Plate Mail is now Plate mail
+- Added the Half-Elf ancestry from Shadowdark RPG: The Western Reaches, along with its Adaptable talent
+- Updated every ancestry to the Western Reaches text, adding Population and Origins to their descriptions and setting their randomisation weights to the population percentages the book gives
 - Ancestry names are now rolled from two tables and joined, matching the book's d10 x d10 name tables, and all eight ancestries have been converted
 	* An ancestry with only one table set still works as it did, so no migration is needed
 

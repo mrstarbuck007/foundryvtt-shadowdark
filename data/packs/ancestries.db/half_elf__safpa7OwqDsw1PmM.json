@@ -1,0 +1,38 @@
+{
+	"_id": "safpa7OwqDsw1PmM",
+	"_key": "!items!safpa7OwqDsw1PmM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/environment/people/group.webp",
+	"name": "Half-Elf",
+	"system": {
+		"description": "<p>Lithe, long-lived humans with subtle elven features. Their boldness is tempered by insight.</p><p><strong>Population.</strong> Half-elves are rarely seen. They make up 5% of the population.</p><p><strong>Origins.</strong> Half-elves typically hail from the Kyzian Steppes or the Djurum Desert where their parents have the greatest crossover in territory. They are beloved by both peoples and seen as a symbol of alliance. Half-elves often become legendary horse riders, archers, and leaders.</p>",
+		"languages": {
+			"common": 1,
+			"fixed": [
+				"Compendium.shadowdark.languages.Item.DQzHvoMWSZ0eiRWP",
+				"Compendium.shadowdark.languages.Item.wABiw5UhzG2G8Kpa"
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"nameTable": "Compendium.shadowdark.rollable-tables.RollTable.r4EgEWUd9q8siV06",
+		"nameTable2": "Compendium.shadowdark.rollable-tables.RollTable.R2u20OqvFIdEVw5k",
+		"properties": [
+		],
+		"randomWeight": 5,
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentChoiceCount": 1,
+		"talents": [
+			"Compendium.shadowdark.talents.Item.3hctuZiCgEWp9prr"
+		]
+	},
+	"type": "Ancestry"
+}

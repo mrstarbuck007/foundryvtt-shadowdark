@@ -1,0 +1,16 @@
+{
+	"_id": "688w4XpPO8RMckIT",
+	"_key": "!tables.results!AS9WHIoOBEiRucXx.688w4XpPO8RMckIT",
+	"description": "uul",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "uul",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

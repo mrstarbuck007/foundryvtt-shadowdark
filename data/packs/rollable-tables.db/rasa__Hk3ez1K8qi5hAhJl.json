@@ -1,0 +1,16 @@
+{
+	"_id": "Hk3ez1K8qi5hAhJl",
+	"_key": "!tables.results!bzGlkyUmy1MNPFia.Hk3ez1K8qi5hAhJl",
+	"description": "Rasa",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Rasa",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

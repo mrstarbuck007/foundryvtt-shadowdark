@@ -1,0 +1,16 @@
+{
+	"_id": "OTaGaoexHAcaskkP",
+	"_key": "!tables.results!gGjFss1dDP8OWQXK.OTaGaoexHAcaskkP",
+	"description": "ana",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ana",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "SQlcBa4gnhfdULUT",
+	"_key": "!tables.results!duFhMn7Dt6t1np30.SQlcBa4gnhfdULUT",
+	"description": "Sam",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Sam",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

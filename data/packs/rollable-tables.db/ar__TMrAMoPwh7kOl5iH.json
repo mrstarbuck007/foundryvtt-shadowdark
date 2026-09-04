@@ -1,0 +1,16 @@
+{
+	"_id": "TMrAMoPwh7kOl5iH",
+	"_key": "!tables.results!hHOtOeWcP0I2hPdy.TMrAMoPwh7kOl5iH",
+	"description": "Ar",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Ar",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

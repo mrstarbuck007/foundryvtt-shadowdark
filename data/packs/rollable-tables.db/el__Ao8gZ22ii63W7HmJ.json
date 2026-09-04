@@ -1,0 +1,16 @@
+{
+	"_id": "Ao8gZ22ii63W7HmJ",
+	"_key": "!tables.results!hHOtOeWcP0I2hPdy.Ao8gZ22ii63W7HmJ",
+	"description": "El",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "El",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

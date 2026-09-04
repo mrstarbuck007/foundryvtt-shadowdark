@@ -1,0 +1,16 @@
+{
+	"_id": "mTOrPrkztr5MHVuc",
+	"_key": "!tables.results!nb9Eg93eDWsQIekn.mTOrPrkztr5MHVuc",
+	"description": "grim",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "grim",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

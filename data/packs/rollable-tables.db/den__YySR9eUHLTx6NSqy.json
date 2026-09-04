@@ -1,0 +1,16 @@
+{
+	"_id": "YySR9eUHLTx6NSqy",
+	"_key": "!tables.results!t6YC7P5B3AOH12mB.YySR9eUHLTx6NSqy",
+	"description": "Den",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Den",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

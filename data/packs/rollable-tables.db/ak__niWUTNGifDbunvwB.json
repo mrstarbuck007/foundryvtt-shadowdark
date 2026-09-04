@@ -1,0 +1,16 @@
+{
+	"_id": "niWUTNGifDbunvwB",
+	"_key": "!tables.results!Xkwz8IqZpIlMGsPY.niWUTNGifDbunvwB",
+	"description": "ak",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ak",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

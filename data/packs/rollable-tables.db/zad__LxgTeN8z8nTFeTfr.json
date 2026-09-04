@@ -1,0 +1,16 @@
+{
+	"_id": "LxgTeN8z8nTFeTfr",
+	"_key": "!tables.results!kmZjxbXfOKF9a2JN.LxgTeN8z8nTFeTfr",
+	"description": "Zad",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Zad",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

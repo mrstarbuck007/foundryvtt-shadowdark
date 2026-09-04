@@ -1,0 +1,16 @@
+{
+	"_id": "YULXTd6NLAcFBKfr",
+	"_key": "!tables.results!hHOtOeWcP0I2hPdy.YULXTd6NLAcFBKfr",
+	"description": "Rom",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Rom",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "HVTVe7G3HCUb41xR",
+	"_key": "!tables.results!c2y3lUuUyjojp6rF.HVTVe7G3HCUb41xR",
+	"description": "Iv",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Iv",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

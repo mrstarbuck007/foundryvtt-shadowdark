@@ -1,0 +1,16 @@
+{
+	"_id": "0vQ89ptOVBuUDiTf",
+	"_key": "!tables.results!5NIJqSu9UOyvfs12.0vQ89ptOVBuUDiTf",
+	"description": "ora",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ora",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

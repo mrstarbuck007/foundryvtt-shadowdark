@@ -1,0 +1,16 @@
+{
+	"_id": "Ru2zp4wpG91QwJvO",
+	"_key": "!tables.results!c2y3lUuUyjojp6rF.Ru2zp4wpG91QwJvO",
+	"description": "Brog",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Brog",
+	"range": [
+		7,
+		7
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "gkY02DJJb1Cjt926",
+	"_key": "!tables.results!duFhMn7Dt6t1np30.gkY02DJJb1Cjt926",
+	"description": "Bib",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Bib",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

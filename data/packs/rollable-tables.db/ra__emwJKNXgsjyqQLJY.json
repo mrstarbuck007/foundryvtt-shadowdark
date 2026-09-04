@@ -1,0 +1,16 @@
+{
+	"_id": "emwJKNXgsjyqQLJY",
+	"_key": "!tables.results!gGjFss1dDP8OWQXK.emwJKNXgsjyqQLJY",
+	"description": "ra",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ra",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

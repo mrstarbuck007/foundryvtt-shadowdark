@@ -1,0 +1,16 @@
+{
+	"_id": "nMkJYOMRaYeAbuQ7",
+	"_key": "!tables.results!duFhMn7Dt6t1np30.nMkJYOMRaYeAbuQ7",
+	"description": "Pel",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Pel",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

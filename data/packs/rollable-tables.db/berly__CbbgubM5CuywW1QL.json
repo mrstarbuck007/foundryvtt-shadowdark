@@ -1,0 +1,16 @@
+{
+	"_id": "CbbgubM5CuywW1QL",
+	"_key": "!tables.results!gGjFss1dDP8OWQXK.CbbgubM5CuywW1QL",
+	"description": "berly",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "berly",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

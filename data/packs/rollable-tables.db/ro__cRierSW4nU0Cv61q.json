@@ -1,0 +1,16 @@
+{
+	"_id": "cRierSW4nU0Cv61q",
+	"_key": "!tables.results!duFhMn7Dt6t1np30.cRierSW4nU0Cv61q",
+	"description": "Ro",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Ro",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

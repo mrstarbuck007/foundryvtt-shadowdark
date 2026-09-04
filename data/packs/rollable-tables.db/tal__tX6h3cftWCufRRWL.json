@@ -1,0 +1,16 @@
+{
+	"_id": "tX6h3cftWCufRRWL",
+	"_key": "!tables.results!kmZjxbXfOKF9a2JN.tX6h3cftWCufRRWL",
+	"description": "Tal",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Tal",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}

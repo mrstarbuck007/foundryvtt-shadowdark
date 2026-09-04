@@ -1,0 +1,16 @@
+{
+	"_id": "DnflZ8F6jYzh7ZmW",
+	"_key": "!tables.results!duFhMn7Dt6t1np30.DnflZ8F6jYzh7ZmW",
+	"description": "Tro",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Tro",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

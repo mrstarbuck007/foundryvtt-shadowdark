@@ -9,7 +9,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Halfling",
 	"system": {
-		"description": "<p>Small, cheerful country folk with mischievous streaks. They enjoy life’s simple pleasures.</p>",
+		"description": "<p>Small, cheerful country folk with mischievous streaks. They enjoy life’s simple pleasures.</p><p><strong>Population.</strong> Halflings are uncommon but widely known. They form about 10% of the population.</p><p><strong>Origins.</strong> Most halfling villages are clustered in the sunny, rolling meadows in the Duchy of Montmar. Some also live on the fringes of the Lowland Moor, where they have a knack for merging seamlessly with the natural landscape.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [
@@ -20,10 +20,11 @@
 			"selectOptions": [
 			]
 		},
-		"nameTable": "Compendium.shadowdark.rollable-tables.RollTable.zIJh954RRbmssIFq",
+		"nameTable": "Compendium.shadowdark.rollable-tables.RollTable.duFhMn7Dt6t1np30",
+		"nameTable2": "Compendium.shadowdark.rollable-tables.RollTable.gGjFss1dDP8OWQXK",
 		"properties": [
 		],
-		"randomWeight": 2,
+		"randomWeight": 10,
 		"source": {
 			"title": "core-rules"
 		},

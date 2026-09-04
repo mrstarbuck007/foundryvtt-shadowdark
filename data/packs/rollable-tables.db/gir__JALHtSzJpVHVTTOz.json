@@ -1,0 +1,16 @@
+{
+	"_id": "JALHtSzJpVHVTTOz",
+	"_key": "!tables.results!hHOtOeWcP0I2hPdy.JALHtSzJpVHVTTOz",
+	"description": "Gir",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Gir",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

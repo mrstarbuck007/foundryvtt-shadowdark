@@ -1,0 +1,16 @@
+{
+	"_id": "8l5JmCfDgPTmNZY2",
+	"_key": "!tables.results!AS9WHIoOBEiRucXx.8l5JmCfDgPTmNZY2",
+	"description": "ok",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "ok",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

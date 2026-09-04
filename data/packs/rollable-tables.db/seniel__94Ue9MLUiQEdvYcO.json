@@ -1,0 +1,16 @@
+{
+	"_id": "94Ue9MLUiQEdvYcO",
+	"_key": "!tables.results!R2u20OqvFIdEVw5k.94Ue9MLUiQEdvYcO",
+	"description": "seniel",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "seniel",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}

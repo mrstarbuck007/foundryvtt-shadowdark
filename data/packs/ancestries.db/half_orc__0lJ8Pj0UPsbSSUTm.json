@@ -9,7 +9,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Half-Orc",
 	"system": {
-		"description": "<p>Towering, tusked warriors who are as daring as humans and as relentless as orcs.</p>",
+		"description": "<p>Towering, tusked warriors who are as daring as humans and as relentless as orcs.</p><p><strong>Population.</strong> Half-orcs are quite rare, making up only 5% of the population.</p><p><strong>Origins.</strong> Barbarian tribes of orcs rove north of the Gilzai Mountains and into the Kyzian Steppes, where they sometimes cross paths with human tribes. Some of these groups share a mutual worship of the warrior god Ramlaat, and half-orcs can result from this rare cultural merging.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [
@@ -21,10 +21,11 @@
 			"selectOptions": [
 			]
 		},
-		"nameTable": "Compendium.shadowdark.rollable-tables.RollTable.noInf0ReaXapH7xb",
+		"nameTable": "Compendium.shadowdark.rollable-tables.RollTable.c2y3lUuUyjojp6rF",
+		"nameTable2": "Compendium.shadowdark.rollable-tables.RollTable.AS9WHIoOBEiRucXx",
 		"properties": [
 		],
-		"randomWeight": 1,
+		"randomWeight": 5,
 		"source": {
 			"title": "core-rules"
 		},

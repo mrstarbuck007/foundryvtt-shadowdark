@@ -1,0 +1,16 @@
+{
+	"_id": "LzIbe1DCWdtUZCf1",
+	"_key": "!tables.results!r4EgEWUd9q8siV06.LzIbe1DCWdtUZCf1",
+	"description": "Me",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Me",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

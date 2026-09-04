@@ -1,0 +1,16 @@
+{
+	"_id": "WTz4wcIvgxXsAafN",
+	"_key": "!tables.results!r4EgEWUd9q8siV06.WTz4wcIvgxXsAafN",
+	"description": "Ira",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Ira",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

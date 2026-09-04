@@ -1,0 +1,16 @@
+{
+	"_id": "H9adUHngacS00VJn",
+	"_key": "!tables.results!R2u20OqvFIdEVw5k.H9adUHngacS00VJn",
+	"description": "rynn",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "rynn",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

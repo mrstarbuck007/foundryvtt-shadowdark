@@ -1,0 +1,16 @@
+{
+	"_id": "umcGxgtCqvRH6hNO",
+	"_key": "!tables.results!r4EgEWUd9q8siV06.umcGxgtCqvRH6hNO",
+	"description": "Hu",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Hu",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

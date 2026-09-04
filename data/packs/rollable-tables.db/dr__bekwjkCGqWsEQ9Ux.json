@@ -1,0 +1,16 @@
+{
+	"_id": "bekwjkCGqWsEQ9Ux",
+	"_key": "!tables.results!54F581txrfkdY4CU.bekwjkCGqWsEQ9Ux",
+	"description": "Dr",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Dr",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

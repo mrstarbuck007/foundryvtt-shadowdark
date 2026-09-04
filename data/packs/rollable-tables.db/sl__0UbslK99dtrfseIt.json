@@ -1,0 +1,16 @@
+{
+	"_id": "0UbslK99dtrfseIt",
+	"_key": "!tables.results!kmZjxbXfOKF9a2JN.0UbslK99dtrfseIt",
+	"description": "Sl",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Sl",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

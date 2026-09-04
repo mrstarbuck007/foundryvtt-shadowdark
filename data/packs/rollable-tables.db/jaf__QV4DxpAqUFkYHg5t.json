@@ -1,0 +1,16 @@
+{
+	"_id": "QV4DxpAqUFkYHg5t",
+	"_key": "!tables.results!hHOtOeWcP0I2hPdy.QV4DxpAqUFkYHg5t",
+	"description": "Jaf",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Jaf",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

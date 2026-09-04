@@ -1,0 +1,16 @@
+{
+	"_id": "n0xJk1G5D8EbsHTW",
+	"_key": "!tables.results!c2y3lUuUyjojp6rF.n0xJk1G5D8EbsHTW",
+	"description": "Zoran",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Zoran",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}
