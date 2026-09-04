@@ -1,0 +1,33 @@
+{
+	"_id": "hReg9cwUJQT7sSBp",
+	"_key": "!items!hReg9cwUJQT7sSBp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "7DWu9AynRV2zb9Rw",
+	"img": "icons/magic/control/hypnosis-mesmerism-eye-tan.webp",
+	"name": "Mischief",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You magically beguile one humanoid of level 2 or less within near range.</p><p>The target is overcome with a compulsion to commit harmful mischief for the spell’s duration.</p><p>Each round, it tries to commit a sneaky, cruel act that would hinder or inconvenience its nearest ally.</p><p>The spell ends if you or your allies do anything to hurt the target that it notices.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

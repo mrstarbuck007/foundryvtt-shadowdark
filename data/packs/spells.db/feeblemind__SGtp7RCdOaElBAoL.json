@@ -1,0 +1,33 @@
+{
+	"_id": "SGtp7RCdOaElBAoL",
+	"_key": "!items!SGtp7RCdOaElBAoL",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "a6WcvmZpOASURb60",
+	"img": "icons/magic/perception/eye-slit-pink.webp",
+	"name": "Feeblemind",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>One creature of LV 10 or less within range has its INT and CHA reduced to 1 for the duration. It can’t cast spells during this time.</p>",
+		"duration": {
+			"type": "days",
+			"value": "1d8"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,29 @@
+{
+	"_id": "bWK4XFotyTl60EuS",
+	"_key": "!items.effects!alXneC232LnFOjm8.bWK4XFotyTl60EuS",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/magic/defensive/shield-barrier-deflect-gold.webp",
+	"name": "Protection From Good",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

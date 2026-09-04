@@ -164,6 +164,9 @@
 	* The link takes you to the spell in the compendium and does not go stale when the book is reprinted
 - Fixed three magic item links rendering with a doubled space, from a stray space inside the link text
 - Added the Magic Weapon Benefits table, which the Paladin's Named Blade rolls on at 3rd level
+- Added the sixteen sorcerer spells from Shadowdark RPG: The Western Reaches
+	* They are the chaotic part of the wizard list, completing the three sub-lists at sixteen spells each
+	* Adds Protection From Good, the mirror of Protection From Evil, along with the effect it applies
 - Added the sixteen mage spells from Shadowdark RPG: The Western Reaches
 	* They are the lawful part of the wizard list, so a lawful wizard sees them alongside their own spells
 	* Flare applies the blind effect, and Glyph links the paralysed condition and the teleport spell it refers to

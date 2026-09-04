@@ -1,0 +1,33 @@
+{
+	"_id": "81fYkK47OHuVvjQv",
+	"_key": "!items!81fYkK47OHuVvjQv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "riXhNqeauiWpVKAz",
+	"img": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
+	"name": "Phantoms",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You conjure a terrifying illusion that appears in the mind of one target of LV 3 or less in range.</p><p>The target must immediately make a morale check.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

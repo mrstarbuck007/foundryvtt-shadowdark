@@ -1,0 +1,33 @@
+{
+	"_id": "FSufKl3xM2pXAHJZ",
+	"_key": "!items!FSufKl3xM2pXAHJZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "riXhNqeauiWpVKAz",
+	"img": "icons/skills/toxins/cup-glass-poisoned-held.webp",
+	"name": "Envenom",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You turn one cup or vial of potable liquid into a toxic poison. It still appears to be the original liquid in all ways.</p><p>A living creature of LV 10 or less who drinks the liquid must pass a [[check 15 con]] check or go to 0 HP.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,33 @@
+{
+	"_id": "ZnPTqdJ6PZJM4ua4",
+	"_key": "!items!ZnPTqdJ6PZJM4ua4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "JWPZqQ3Dk9n1iW1g",
+	"img": "icons/magic/control/hypnosis-mesmerism-swirl.webp",
+	"name": "Mazzim's Mesmerism",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You weave a mind-numbing miasma of dark magic around nearby creatures.</p><p>At the start of their turn, all humanoid creatures of LV 5 or less in range must pass a Charisma check vs. the last spellcasting check you made.</p><p>Creatures who fail stand motionless and agape, staring at unseen images.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,33 @@
+{
+	"_id": "ScQa13oe0VWMABMN",
+	"_key": "!items!ScQa13oe0VWMABMN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "7DWu9AynRV2zb9Rw",
+	"img": "icons/magic/earth/barrier-stone-brown-green.webp",
+	"name": "Blight",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>When you cast this spell, a close-sized patch of earth around you crumbles into lifeless ash.</p><p>You gain +1 to your spellcasting checks for the spell’s duration.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

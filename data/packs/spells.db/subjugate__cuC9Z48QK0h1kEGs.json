@@ -1,0 +1,33 @@
+{
+	"_id": "cuC9Z48QK0h1kEGs",
+	"_key": "!items!cuC9Z48QK0h1kEGs",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "a6WcvmZpOASURb60",
+	"img": "icons/commodities/gems/gem-faceted-diamond-pink-gold.webp",
+	"name": "Subjugate",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>In order to cast this spell, you must sprinkle a powdered diamond on the target.</p><p>Choose one creature in range that is currently under the effects of a @UUID[Compendium.shadowdark.spells.Item.ClcdWDlouhR7vIAW]{dominate}, @UUID[Compendium.shadowdark.spells.Item.SGtp7RCdOaElBAoL]{feeblemind}, or @UUID[Compendium.shadowdark.spells.Item.1ZAZQsFvPBEZPkVP]{polymorph} spell you have cast. The duration of that spell becomes 1 year.</p>",
+		"duration": {
+			"type": "days",
+			"value": "365"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

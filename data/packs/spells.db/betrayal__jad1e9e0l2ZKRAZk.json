@@ -1,0 +1,33 @@
+{
+	"_id": "jad1e9e0l2ZKRAZk",
+	"_key": "!items!jad1e9e0l2ZKRAZk",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "JWPZqQ3Dk9n1iW1g",
+	"img": "icons/magic/control/control-influence-puppet.webp",
+	"name": "Betrayal",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>One creature of LV 7 or less you can see in range turns on its allies, regarding them as hostile enemies for the spell’s duration.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,33 @@
+{
+	"_id": "UsxXnULfSfDpa4ne",
+	"_key": "!items!UsxXnULfSfDpa4ne",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "JWPZqQ3Dk9n1iW1g",
+	"img": "icons/magic/earth/projectile-boulder-debris.webp",
+	"name": "Defile",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>When you cast this spell, a near-sized circle of earth around you disintegrates into infertile ash.</p><p>For this spell’s duration, treat all tier 1-3 spells you successfully cast as critical successes.</p><p>You cannot cast this spell while under its effects.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,33 @@
+{
+	"_id": "lf6LaBqG5Tw6cCN8",
+	"_key": "!items!lf6LaBqG5Tw6cCN8",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "JWPZqQ3Dk9n1iW1g",
+	"img": "icons/magic/death/skull-humanoid-white-red.webp",
+	"name": "Unlife",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>A humanoid skull you touch regains a semblance of its former life, animating with red witchlight in its eyes.</p><p>The skull can converse in Common. It retains its personality and memories from life, but its recall can be spotty if it’s been dead a long time.</p><p>When the spell ends, the skull crumbles into grave dust.</p>",
+		"duration": {
+			"type": "days",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

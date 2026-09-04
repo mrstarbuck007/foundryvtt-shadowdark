@@ -1,0 +1,33 @@
+{
+	"_id": "QlmETMZy15fuOh69",
+	"_key": "!items!QlmETMZy15fuOh69",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "riXhNqeauiWpVKAz",
+	"img": "icons/skills/wounds/anatomy-organ-brain-pink-red.webp",
+	"name": "Wrack",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>A creature you can see within range of LV 5 or less is overcome by agonizing pain.</p><p>The target must pass a Constitution check on its turn equal to your last spellcasting check or it cannot move or act.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

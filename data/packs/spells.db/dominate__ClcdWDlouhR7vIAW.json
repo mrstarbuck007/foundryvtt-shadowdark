@@ -1,0 +1,33 @@
+{
+	"_id": "ClcdWDlouhR7vIAW",
+	"_key": "!items!ClcdWDlouhR7vIAW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "24bp7luJolmj7e9e",
+	"img": "icons/magic/control/hypnosis-mesmerism-watch.webp",
+	"name": "Dominate",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You subjugate the will of one creature of LV 9 or less that you can see within range.</p><p>The creature cannot act except to follow your commands for the spell’s duration.</p><p>On your turn, you can command the creature to take actions and move.</p><p>The creature acts and moves on its turn, following any instructions you gave it.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

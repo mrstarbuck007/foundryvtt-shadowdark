@@ -1,0 +1,33 @@
+{
+	"_id": "7sU6e6BFgdWKf5ku",
+	"_key": "!items!7sU6e6BFgdWKf5ku",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "7DWu9AynRV2zb9Rw",
+	"img": "icons/magic/defensive/shield-barrier-deflect-gold.webp",
+	"name": "Protection From Good",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>For the spell’s duration, lawful beings have disadvantage on attack rolls and hostile spellcasting checks against the target. These beings also can’t possess, compel, or beguile it.</p><p>When cast on an already-possessed target, the possessing entity makes a Charisma check vs. the last spellcasting check. On a failure, the entity is expelled.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.alXneC232LnFOjm8]{Spell Effect: Protection From Good}</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}
