@@ -7,7 +7,7 @@
 	},
 	"folder": null,
 	"img": "icons/equipment/chest/breastplate-layered-leather-brown-silver.webp",
-	"name": "Leather Armor",
+	"name": "Leather armor",
 	"system": {
 		"ac": {
 			"attribute": "dex",
