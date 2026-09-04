@@ -1,0 +1,33 @@
+{
+	"_id": "FHBTMEGrCOtIrdPC",
+	"_key": "!items!FHBTMEGrCOtIrdPC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Gi0Kjg7bAAVEqjvM",
+	"img": "icons/magic/life/cross-beam-green.webp",
+	"name": "Fortify",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>One creature you touch gains [[/r 1d6]] temporary HP for the spell’s duration.</p><p>You cannot target the same creature with this spell again until its effects end.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

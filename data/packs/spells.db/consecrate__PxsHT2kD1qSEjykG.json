@@ -1,0 +1,33 @@
+{
+	"_id": "PxsHT2kD1qSEjykG",
+	"_key": "!items!PxsHT2kD1qSEjykG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "IqNdoEHw03QSMA55",
+	"img": "icons/magic/holy/barrier-shield-winged-cross.webp",
+	"name": "Consecrate",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>A near-sized area around where you cast this spell becomes sanctified with a holy blessing.</p><p>Chaotic creatures of LV 4 or less cannot physically enter this area for the spell’s duration.</p><p>If your deity is @UUID[Compendium.shadowdark.patrons-and-deities.Item.hNbUUJnD6HIda5tl]{Saint Terragnis}, cast this spell with ADV.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

@@ -164,6 +164,10 @@
 	* The link takes you to the spell in the compendium and does not go stale when the book is reprinted
 - Fixed three magic item links rendering with a doubled space, from a stray space inside the link text
 - Added the Magic Weapon Benefits table, which the Paladin's Named Blade rolls on at 3rd level
+- Added ten lawful priest spells from Shadowdark RPG: The Western Reaches
+	* A priest who serves a lawful god sees these alongside the priest spells every priest can cast
+	* Revitalize heals a number of d10s that grows with your level, and Wheel of Flames rolls its damage and links the paralysed condition
+	* Consecrate and Covenant link the deity each one names
 - A talent that teaches spells from one sub-list now grants that sub-list alone
 	* Molek's Learn a Sorcerer Spell boon offers the sorcerer spells whatever the character's alignment, where before it offered whichever sub-list matched them
 	* The Green Knight likewise sees the druid spells and only those

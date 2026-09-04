@@ -1,0 +1,33 @@
+{
+	"_id": "9vX4voZRvMRqSlBe",
+	"_key": "!items!9vX4voZRvMRqSlBe",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Gi0Kjg7bAAVEqjvM",
+	"img": "icons/magic/holy/prayer-hands-glowing-yellow-white.webp",
+	"name": "Prayer",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>You say a prayer over one creature, granting it resolve.</p><p>The next time the target fails an attack roll during this spell’s duration, it succeeds instead and this spell ends.</p><p>You cannot target the same creature with this spell again until its effects end.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

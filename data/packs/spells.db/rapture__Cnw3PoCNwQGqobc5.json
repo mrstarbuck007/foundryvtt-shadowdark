@@ -1,0 +1,33 @@
+{
+	"_id": "Cnw3PoCNwQGqobc5",
+	"_key": "!items!Cnw3PoCNwQGqobc5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "S2MLlGpmsIRnqf6Z",
+	"img": "icons/magic/light/beam-rays-yellow.webp",
+	"name": "Rapture",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>The searing light of Law itself blazes out from you, washing over everything in sight.</p><p>All other creatures of LV 15 or less in range must pass a [[check 15 cha]] check or be permanently rendered mute and blind.</p><p>You cannot cast this spell again until you complete penance.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

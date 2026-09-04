@@ -1,0 +1,33 @@
+{
+	"_id": "LldT5qZNqqbq5cIJ",
+	"_key": "!items!LldT5qZNqqbq5cIJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "IqNdoEHw03QSMA55",
+	"img": "icons/magic/holy/meditation-chi-focus-blue.webp",
+	"name": "Peace",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>You calm the anger and hostility of all living creatures of LV 4 or less within near range.</p><p>These creatures will not attack you or your allies for the spell’s duration. This spell ends if the creatures notice any attempts to harm them.</p><p>When this spell ends, the creatures revert to their original dispositions.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

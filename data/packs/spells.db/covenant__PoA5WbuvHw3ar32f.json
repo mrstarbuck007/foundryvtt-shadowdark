@@ -1,0 +1,33 @@
+{
+	"_id": "PoA5WbuvHw3ar32f",
+	"_key": "!items!PoA5WbuvHw3ar32f",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DzARPzBmfc6ssBqS",
+	"img": "icons/magic/holy/yin-yang-balance-symbol.webp",
+	"name": "Covenant",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>You become a beacon of cosmic order, banishing the forces of chaos and entropy.</p><p>For the spell’s duration, you are immune to all spells and magical effects from chaotic sources.</p><p>If your deity is @UUID[Compendium.shadowdark.patrons-and-deities.Item.p91vJhT8FXvb2mLj]{Madeera the Covenant}, cast this spell with ADV.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

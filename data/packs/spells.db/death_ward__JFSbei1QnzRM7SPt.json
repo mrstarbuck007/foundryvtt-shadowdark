@@ -1,0 +1,33 @@
+{
+	"_id": "JFSbei1QnzRM7SPt",
+	"_key": "!items!JFSbei1QnzRM7SPt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "S2MLlGpmsIRnqf6Z",
+	"img": "icons/magic/holy/barrier-shield-winged-blue.webp",
+	"name": "Death Ward",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>You touch a living creature, sealing its life force against death itself.</p><p>The target of this spell cannot go below 1 HP for the duration.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

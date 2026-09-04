@@ -1,0 +1,33 @@
+{
+	"_id": "UPZj72iX4JrknRTP",
+	"_key": "!items!UPZj72iX4JrknRTP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "EDfN0tPLXXsmyaEn",
+	"img": "icons/magic/holy/saint-glass-portrait-halo.webp",
+	"name": "Halo",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>A brilliant halo of golden light appears over your head.</p><p>Hostile spells that target you are DC 18 to cast for this spell’s duration.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "10"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

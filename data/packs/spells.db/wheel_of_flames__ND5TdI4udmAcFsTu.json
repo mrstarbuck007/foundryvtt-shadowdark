@@ -1,0 +1,33 @@
+{
+	"_id": "ND5TdI4udmAcFsTu",
+	"_key": "!items!ND5TdI4udmAcFsTu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "EDfN0tPLXXsmyaEn",
+	"img": "icons/magic/fire/barrier-wall-flame-ring-yellow.webp",
+	"name": "Wheel of Flames",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "damage",
+		"description": "<p>You summon a blazing wheel of flames and eyes that envelops one creature in holy energy.</p><p>The target takes [[/r 3d6]] damage.</p><p>If the target is a demon or devil, it must pass a [[check 15 cha]] check or be paralyzed for 3 rounds.</p><p>@UUID[Compendium.shadowdark.conditions.Item.ROTpAUAHx5s4AZZh]{Condition: Paralyzed}</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "3d6",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}
