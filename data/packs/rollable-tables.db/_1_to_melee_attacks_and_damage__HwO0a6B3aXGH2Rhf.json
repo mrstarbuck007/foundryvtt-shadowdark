@@ -1,0 +1,17 @@
+{
+	"_id": "HwO0a6B3aXGH2Rhf",
+	"_key": "!tables.results!9Wx9ZDWb10t4L30M.HwO0a6B3aXGH2Rhf",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.0yk16c9qcJ9vCekD",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/spear-tips-triple-orange.webp",
+	"name": "+1 to Melee Attacks and Damage",
+	"range": [
+		3,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

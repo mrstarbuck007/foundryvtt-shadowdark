@@ -1,0 +1,22 @@
+{
+	"_id": "sLEVU4rQGwzxsDX9",
+	"_key": "!items!sLEVU4rQGwzxsDX9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/containers/bags/sack-leather-tan.webp",
+	"name": "Scavenger",
+	"system": {
+		"description": "<p>When you expend the last of a consumable item you've carried since your last rest, roll [[/r 1d6]]. On a 5 or 6, you regain one use of that item.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

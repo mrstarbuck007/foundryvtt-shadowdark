@@ -32,6 +32,9 @@
 	* A migration retags any items already in your world so they do not show an unknown source
 - Added the Necromancer class from Shadowdark RPG: The Western Reaches
 	* Includes its Death Sense and River of Death talents, its class talent table, and its spells known table
+- Added the Delver class from Shadowdark RPG: The Western Reaches
+	* Includes its Scavenger, Trailblazer and Trusty Gear talents and its class talent table
+	* Trusty Gear prompts for the gear or weapon it applies to, and adds its bonus to attack rolls made with it
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry

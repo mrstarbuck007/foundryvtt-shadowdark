@@ -1,0 +1,23 @@
+{
+	"_id": "5tqltyq0uxkAsybF",
+	"_key": "!items!5tqltyq0uxkAsybF",
+	"effects": [
+		"xY24a5QoxYdcy5Bv"
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/tools/hand/hammer-and-nail.webp",
+	"name": "Trusty Gear",
+	"system": {
+		"description": "<p>Choose one type of gear or weapon you can wield. You gain 1 + half your level (round down) on checks or attack rolls made with that type of gear or weapon.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

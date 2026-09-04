@@ -1,0 +1,22 @@
+{
+	"_id": "QLVrupGC1UDbs1GJ",
+	"_key": "!items!QLVrupGC1UDbs1GJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/tools/navigation/map-chart-tan.webp",
+	"name": "Trailblazer",
+	"system": {
+		"description": "<p>You are adept at exploring inhospitable, lost, or unknown places. You have advantage on the following tasks:</p><ul><li><p>Climbing</p></li><li><p>Swimming</p></li><li><p>Foraging</p></li><li><p>Understanding unknown languages</p></li><li><p>Avoiding or escaping natural terrain hazards</p></li></ul>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

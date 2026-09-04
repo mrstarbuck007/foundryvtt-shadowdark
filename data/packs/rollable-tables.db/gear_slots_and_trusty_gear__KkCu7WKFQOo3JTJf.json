@@ -1,0 +1,17 @@
+{
+	"_id": "KkCu7WKFQOo3JTJf",
+	"_key": "!tables.results!9Wx9ZDWb10t4L30M.KkCu7WKFQOo3JTJf",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.Tfw11XpsR275NKMe",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/containers/bags/pack-leather-brown.webp",
+	"name": "Gear Slots and Trusty Gear",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

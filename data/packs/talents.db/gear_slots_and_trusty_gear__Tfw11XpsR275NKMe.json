@@ -1,0 +1,23 @@
+{
+	"_id": "Tfw11XpsR275NKMe",
+	"_key": "!items!Tfw11XpsR275NKMe",
+	"effects": [
+		"3aj0ZEblPnXBzIvI"
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/containers/bags/pack-leather-brown.webp",
+	"name": "Gear Slots and Trusty Gear",
+	"system": {
+		"description": "<p>You gain 2 gear slots and an additional Trusty Gear.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

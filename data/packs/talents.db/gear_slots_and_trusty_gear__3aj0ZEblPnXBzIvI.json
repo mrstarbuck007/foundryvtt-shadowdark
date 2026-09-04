@@ -1,0 +1,35 @@
+{
+	"_id": "3aj0ZEblPnXBzIvI",
+	"_key": "!items.effects!Tfw11XpsR275NKMe.3aj0ZEblPnXBzIvI",
+	"changes": [
+		{
+			"key": "system.slots",
+			"mode": 2,
+			"priority": null,
+			"value": "2"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/containers/bags/pack-leather-brown.webp",
+	"name": "Gear Slots and Trusty Gear",
+	"origin": "Compendium.shadowdark.talents.Tfw11XpsR275NKMe",
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

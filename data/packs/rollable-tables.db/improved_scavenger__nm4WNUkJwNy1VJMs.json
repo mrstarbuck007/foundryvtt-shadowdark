@@ -1,0 +1,17 @@
+{
+	"_id": "nm4WNUkJwNy1VJMs",
+	"_key": "!tables.results!9Wx9ZDWb10t4L30M.nm4WNUkJwNy1VJMs",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.PLkuHkcWw1Df5sq7",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/containers/bags/sack-leather-tan.webp",
+	"name": "Improved Scavenger",
+	"range": [
+		10,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

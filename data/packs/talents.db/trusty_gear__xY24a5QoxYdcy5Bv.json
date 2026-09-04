@@ -1,0 +1,35 @@
+{
+	"_id": "xY24a5QoxYdcy5Bv",
+	"_key": "!items.effects!5tqltyq0uxkAsybF.xY24a5QoxYdcy5Bv",
+	"changes": [
+		{
+			"key": "system.roll.attack.bonus.REPLACEME",
+			"mode": 2,
+			"priority": null,
+			"value": "1+floor(@level.value/2)"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/tools/hand/hammer-and-nail.webp",
+	"name": "Trusty Gear",
+	"origin": "Compendium.shadowdark.talents.5tqltyq0uxkAsybF",
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

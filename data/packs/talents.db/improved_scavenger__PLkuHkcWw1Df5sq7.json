@@ -1,0 +1,22 @@
+{
+	"_id": "PLkuHkcWw1Df5sq7",
+	"_key": "!items!PLkuHkcWw1Df5sq7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/containers/bags/sack-leather-tan.webp",
+	"name": "Improved Scavenger",
+	"system": {
+		"description": "<p>Add one more point to your Scavenger success range.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}
