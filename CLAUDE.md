@@ -8,7 +8,10 @@ A Foundry VTT **game system** (not a module) implementing Shadowdark RPG. There 
 to run: the build produces `system/` as a Foundry-installable system directory, which Foundry loads.
 `system/system.json` is the manifest (id `shadowdark`, Foundry v13 minimum, v14 verified).
 
-The default branch for PRs is `develop`.
+This is a personal fork (`mrstarbuck007/foundryvtt-shadowdark`) and changes are not contributed
+back upstream. Do not create pull requests or offer to. Do not create, switch, merge or rebase
+branches -- the repository owner handles all branching and merging. Commit and push only when
+explicitly asked.
 
 ## Commands
 
