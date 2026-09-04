@@ -1,0 +1,33 @@
+{
+	"_id": "PYHHgsh2p5ZzAAAX",
+	"_key": "!items!PYHHgsh2p5ZzAAAX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "JWPZqQ3Dk9n1iW1g",
+	"img": "icons/magic/nature/elemental-plant-humanoid.webp",
+	"name": "Anima",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You animate the life force of one natural object you touch the size of a horse or less.</p><p>The object becomes a loyal creature for the spell’s duration using the below stats. Its level is equal to yours.</p><p>The creature acts on your turn. You may use your action to command it, which it obeys. Otherwise, it does not act.</p><p><strong>AC</strong> 10 + LV, <strong>HP</strong> 4.5 x LV, <strong>ATK</strong> 2 bash +7 ([[/r 1d12]]), <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +0, <strong>C</strong> +0, <strong>I</strong> -4, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> *</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.dc6hmJeeFqTACiQO]{Spell Effect: Anima}</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

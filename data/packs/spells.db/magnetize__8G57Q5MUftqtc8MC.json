@@ -1,0 +1,33 @@
+{
+	"_id": "8G57Q5MUftqtc8MC",
+	"_key": "!items!8G57Q5MUftqtc8MC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "riXhNqeauiWpVKAz",
+	"img": "icons/magic/lightning/orb-ball-purple.webp",
+	"name": "Magnetize",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>One object you touch up to the size of a horse becomes powerfully magnetized.</p><p>It attracts all smaller magnetic objects within near.</p><p>If it can move, it is pulled toward larger magnetic objects within near. A metal creature must pass a Strength check equal to your spellcasting check to resist.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.LyVUb5XbziOGsLXM]{Spell Effect: Magnetize}</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

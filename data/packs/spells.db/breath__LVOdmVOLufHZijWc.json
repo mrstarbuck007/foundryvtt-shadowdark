@@ -1,0 +1,33 @@
+{
+	"_id": "LVOdmVOLufHZijWc",
+	"_key": "!items!LVOdmVOLufHZijWc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "7DWu9AynRV2zb9Rw",
+	"img": "icons/magic/water/bubbles-air-water-blue.webp",
+	"name": "Breath",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You can hold your breath for the spell’s duration.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.9fGlLVuMyuJeOHRU]{Spell Effect: Breath}</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "10"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

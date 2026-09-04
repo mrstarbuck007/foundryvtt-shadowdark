@@ -1,0 +1,33 @@
+{
+	"_id": "5iXuCtUbKvWGDNT7",
+	"_key": "!items!5iXuCtUbKvWGDNT7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "JWPZqQ3Dk9n1iW1g",
+	"img": "icons/magic/symbols/runes-carved-stone-green.webp",
+	"name": "Alchemy",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>One inanimate object of human size or less you touch turns into another material of equal or lesser value.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

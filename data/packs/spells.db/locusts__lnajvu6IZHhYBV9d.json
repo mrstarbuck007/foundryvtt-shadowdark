@@ -1,0 +1,33 @@
+{
+	"_id": "lnajvu6IZHhYBV9d",
+	"_key": "!items!lnajvu6IZHhYBV9d",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "JWPZqQ3Dk9n1iW1g",
+	"img": "icons/creatures/invertebrates/bee-simple-green.webp",
+	"name": "Locusts",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "damage",
+		"description": "<p>A disorienting cloud of angry, biting locusts fills an area around you out to near.</p><p>The cloud moves with you as you move. You are not affected by it.</p><p>Creatures in the area of effect take [[/r 1d10]] damage per round at the start of their turn. They must pass a Constitution check equal to your last spellcasting check or be unable to move on their turn.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.S56vv5Gz3Pcy4DxZ]{Spell Effect: Locusts}</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "1d10",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

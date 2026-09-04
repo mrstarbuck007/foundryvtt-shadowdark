@@ -1,0 +1,33 @@
+{
+	"_id": "t9Z4cJV1FTKLLZLa",
+	"_key": "!items!t9Z4cJV1FTKLLZLa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "riXhNqeauiWpVKAz",
+	"img": "icons/creatures/abilities/paw-print-orange.webp",
+	"name": "Truespeech",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>A natural creature you touch understands and can communicate with you in the true language of all animals.</p><p>You can ask the creature one yes or no question. The GM truthfully answers &quot;yes&quot; or &quot;no.&quot;</p><p>If you cast this spell more than once on the same creature in 24 hours, treat a failed spellcasting check for it as a critical failure instead.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

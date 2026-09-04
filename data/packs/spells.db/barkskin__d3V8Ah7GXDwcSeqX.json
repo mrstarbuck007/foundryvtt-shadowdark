@@ -1,0 +1,33 @@
+{
+	"_id": "d3V8Ah7GXDwcSeqX",
+	"_key": "!items!d3V8Ah7GXDwcSeqX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "riXhNqeauiWpVKAz",
+	"img": "icons/magic/nature/barrier-shield-wood-vines.webp",
+	"name": "Barkskin",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>Your skin hardens into tough tree bark. Your AC becomes 15 (18 on a critical spellcasting check) for the spell’s duration.</p><p>You take double damage from fire while you are under the spell’s effects.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.7GAeLAX0xl65gxer]{Spell Effect: Barkskin}</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.qbCPO5ftwWImjRIG]{Spell Effect: Barkskin (Critical)}</p>",
+		"duration": {
+			"type": "days",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

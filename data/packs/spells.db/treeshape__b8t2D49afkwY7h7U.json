@@ -1,0 +1,33 @@
+{
+	"_id": "b8t2D49afkwY7h7U",
+	"_key": "!items!b8t2D49afkwY7h7U",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "JWPZqQ3Dk9n1iW1g",
+	"img": "icons/magic/nature/tree-animated-strike.webp",
+	"name": "Treeshape",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You and your gear turn into a treant with the below stats for the spell’s duration (you do not have the Animate Tree talent).</p><p>You can’t cast spells while under the effect of this spell. You retain your INT, WIS, and CHA stats.</p><p>If you go to 0 HP while under the effects of this spell, you revert to your true form at 0 HP.</p><p><strong>AC</strong> 14, <strong>HP</strong> 38, <strong>ATK</strong> 2 slam +8 ([[/r 1d12]]) or 1 rock (far) +8 ([[/r 2d6]]), <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> -1, <strong>C</strong> +2, <strong>I</strong> *, <strong>W</strong> *, <strong>Ch</strong> *, <strong>AL</strong> N, <strong>LV</strong> 8</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.rgfyqmZvgYX1PWqw]{Spell Effect: Treeshape}</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "10"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

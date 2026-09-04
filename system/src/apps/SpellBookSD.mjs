@@ -23,7 +23,14 @@ export default class SpellBookSD extends foundry.appv1.api.FormApplication {
 	 * sub-list whatever the character's own alignment is.
 	 */
 	async _spellAlignment(spellcastingClass) {
-		const source = spellcastingClass?.system?.spellcasting?.alignmentSource ?? "";
+		// The character's own class decides the restriction, even when the list
+		// it casts from belongs to another class: a Green Knight casts from the
+		// wizard list but only ever sees the druid spells in it.
+		const ownClass = await fromUuid(this.actor?.system?.class ?? "");
+
+		const source = ownClass?.system?.spellcasting?.alignmentSource
+			|| spellcastingClass?.system?.spellcasting?.alignmentSource
+			|| "";
 
 		if (source === "") return "";
 		if (source === "actor") return this.actor?.system?.alignment ?? "";

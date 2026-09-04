@@ -2,6 +2,24 @@
 	"_id": "ZdO7fIT4Y62U19ut",
 	"_key": "!items.effects!tplKQpO6Q94eMnGI.ZdO7fIT4Y62U19ut",
 	"changes": [
+		{
+			"key": "system.roll.attack.bonus.all",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		},
+		{
+			"key": "system.roll.attack.damage.all",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		},
+		{
+			"key": "system.roll.attack.upgrade-damage-die.staff",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		}
 	],
 	"description": "",
 	"disabled": false,

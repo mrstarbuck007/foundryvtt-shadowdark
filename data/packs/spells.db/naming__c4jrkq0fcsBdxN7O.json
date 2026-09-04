@@ -1,0 +1,33 @@
+{
+	"_id": "c4jrkq0fcsBdxN7O",
+	"_key": "!items!c4jrkq0fcsBdxN7O",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "a6WcvmZpOASURb60",
+	"img": "icons/sundries/scrolls/scroll-runed-brown-purple.webp",
+	"name": "Naming",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You learn the @UUID[Compendium.shadowdark.magic-items.Item.gNah418e2ykhDWDE]{True Name} of one creature you touch.</p><p>If the creature is willing, you may give it a new True Name. A creature may only change its True Name once in its lifetime.</p><p>If it does so, its alignment changes to your alignment.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

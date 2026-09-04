@@ -1,0 +1,33 @@
+{
+	"_id": "taLII1m97MloMAiZ",
+	"_key": "!items!taLII1m97MloMAiZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "7DWu9AynRV2zb9Rw",
+	"img": "icons/commodities/metal/ingot-copper.webp",
+	"name": "Oxidize",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>One inanimate object you touch the size of a door or less ages [[/r 1d100]] years.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

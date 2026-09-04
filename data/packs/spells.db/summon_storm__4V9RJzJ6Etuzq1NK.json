@@ -1,0 +1,33 @@
+{
+	"_id": "4V9RJzJ6Etuzq1NK",
+	"_key": "!items!4V9RJzJ6Etuzq1NK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "24bp7luJolmj7e9e",
+	"img": "icons/magic/lightning/bolt-strike-clouds-blue.webp",
+	"name": "Summon Storm",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You summon a violent storm that affects an area around you out to one mile for the duration.</p><p>The storm brings darkened skies, severe wind, and driving rain.</p><p>For the duration of the spell, you can cast @UUID[Compendium.shadowdark.spells.Item.TKDuwFu1hP2lX549]{control water}, even if you do not know the spell.</p><p>For the duration of the spell, you can cast @UUID[Compendium.shadowdark.spells.Item.7uTblEDfklCO1et7]{lightning bolt}, even if you do not know the spell.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.wr0hnCfjAaNiTGkU]{Spell Effect: Summon Storm}</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "10"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "oneMile",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

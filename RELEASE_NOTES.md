@@ -164,6 +164,11 @@
 	* The link takes you to the spell in the compendium and does not go stale when the book is reprinted
 - Fixed three magic item links rendering with a doubled space, from a stray space inside the link text
 - Added the Magic Weapon Benefits table, which the Paladin's Named Blade rolls on at 3rd level
+- Added the sixteen druid spells from Shadowdark RPG: The Western Reaches
+	* They are the neutral part of the wizard list, so a neutral wizard sees them alongside their own spells and a Green Knight sees these and nothing else
+	* The Green Knight can now cast at all, which it could not before, as its spellcasting talent granted no spell class
+	* Ten spell effects that were already in the packs but reachable from nothing now belong to these spells, among them Anima, Barkskin, Magnetize and Summon Storm
+- Fixed the Instill spell effect granting nothing, so it now applies its +1 and steps a staff's damage die from d4 to d6
 - Spells can now belong to an alignment, so a spell list can be split the way the books split them
 	* A wizard sees the sub-list matching their own alignment, a priest the one matching their deity's, and a class can be fixed to one sub-list whatever its character's alignment
 	* Spells with no alignment set belong to every sub-list, so nothing changes until a spell is tagged

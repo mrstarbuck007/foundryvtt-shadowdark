@@ -1,0 +1,33 @@
+{
+	"_id": "Apv9jeWJyNONySRm",
+	"_key": "!items!Apv9jeWJyNONySRm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "a6WcvmZpOASURb60",
+	"img": "icons/magic/earth/barrier-stone-explosion-debris.webp",
+	"name": "Earthquake",
+	"system": {
+		"alignment": "neutral",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "damage",
+		"description": "<p>The earth shakes violently and splits open, swallowing creatures down to their doom.</p><p>All creatures standing on the ground within double near of you take [[/r 4d6]] damage.</p><p>Each affected creature of LV 9 or less must pass a Dexterity check equal to the damage they took or else be swallowed by the earth, never to be seen again.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "4d6",
+		"lost": false,
+		"properties": [
+		],
+		"range": "doubleNear",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}
