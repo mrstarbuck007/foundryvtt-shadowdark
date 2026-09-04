@@ -91,6 +91,9 @@
 	* It now names the three Old Gods of the nords, and Freya's luck token is gained once a day
 - The Sea Wolf's Go Berserk talent now links its Berserk class ability, so the once a day use is tracked on the sheet
 	* The ability in turn links the effect that marks the three rounds, which the talent used to link directly
+- Corrected the Seer's spellcasting and spell talents to the Western Reaches text
+	* Spellcasting points at the right page and casts off your Wisdom modifier rather than your Wisdom stat
+	* The talent table's extra spell is now drawn from any tier you can cast, where it read any tier you know
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin

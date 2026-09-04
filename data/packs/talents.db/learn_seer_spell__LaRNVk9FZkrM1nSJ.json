@@ -9,7 +9,7 @@
 	"img": "icons/sundries/books/book-turquoise-moon.webp",
 	"name": "Learn Seer Spell",
 	"system": {
-		"description": "<p>Learn one additional seer spell of any tier you know.</p>",
+		"description": "<p>Learn an additional seer spell from any tier you can cast.</p>",
 		"level": 0,
 		"properties": [
 		],
