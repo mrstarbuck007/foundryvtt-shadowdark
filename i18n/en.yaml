@@ -660,6 +660,7 @@ SHADOWDARK.property.type.option.weapon: Weapon
 SHADOWDARK.property.type.title: Property Type
 SHADOWDARK.range.close_short: C
 SHADOWDARK.range.close: Close
+SHADOWDARK.range.double_close: Double Close
 SHADOWDARK.range.double_near: Double Near
 SHADOWDARK.range.far_short: F
 SHADOWDARK.range.far: Far

@@ -29,7 +29,7 @@
 			"Compendium.shadowdark.properties.Item.b6Gm2ULKj2qyy2xJ"
 		],
 		"quantity": 1,
-		"range": "close",
+		"range": "doubleClose",
 		"slots": {
 			"free_carry": 0,
 			"per_slot": 1,

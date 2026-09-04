@@ -26,6 +26,7 @@
 - [#1419] Spell Importer should use uuid field, not build it manually
 - Corrected the Whip's cost and melee weapon type, and the Sling's cost and missing Loading property
 - Fixed the Stave rolling no damage, as its damage die was set for one-handed use despite the weapon being two-handed
+- Fixed the Pike having a close range instead of double close, adding the missing double close range in the process
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin
