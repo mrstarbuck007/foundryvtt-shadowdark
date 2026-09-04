@@ -20,6 +20,7 @@
 - Updated every ancestry to the Western Reaches text, adding Population and Origins to their descriptions and setting their randomisation weights to the population percentages the book gives
 - Ancestry names are now rolled from two tables and joined, matching the book's d10 x d10 name tables, and all eight ancestries have been converted
 	* An ancestry with only one table set still works as it did, so no migration is needed
+	* The Quickstart Character Names and End Papers journals now show the two-part tables
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry
