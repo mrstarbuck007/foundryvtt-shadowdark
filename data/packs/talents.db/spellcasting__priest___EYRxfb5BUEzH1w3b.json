@@ -10,7 +10,7 @@
 	"img": "icons/magic/symbols/runes-star-pentagon-blue.webp",
 	"name": "Spellcasting (Priest)",
 	"system": {
-		"description": "<p><strong>Spellcasting.</strong> You can cast priest spells you know.</p><p>You know two tier 1 spells of your choice from the priest spell list on pg. 57.</p><p>Each time you gain a level, you choose new priest spells to learn according to the Priest Spells Known table.</p><p>For casting priest spells, see Spellcasting on pg. 52.</p>",
+		"description": "<p><strong>Spellcasting.</strong> You can cast priest spells you know.</p><p>You know two tier 1 spells of your choice from the priest spell list on pg. 51.</p><p>Each time you gain a level, you choose new priest spells to learn according to the Priest Spells Known table.</p><p>For casting priest spells, see Spellcasting on pg. 44.</p>",
 		"level": 1,
 		"properties": [
 		],

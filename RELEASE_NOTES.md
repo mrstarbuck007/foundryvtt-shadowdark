@@ -147,6 +147,11 @@
 - Every item in the packs now records which book it comes from
 	* The +1 to Damage talent, both Arrows entries, the Witch's Teleport to Familiar ability and the Magnetize spell effect had no source, so they showed as blank in the source filter
 - Removed a duplicate Iron Spikes item that nothing referenced
+- Corrected the Priest's page references to the current printing of the core rules
+	* Deity points at page 28, and Spellcasting at pages 51 and 44
+	* The Wizard's Spellcasting reference moves with it, as it cites the same section
+- Every class spellcasting talent now opens with a bolded Spellcasting heading
+	* The Knight of St. Ydris, Seer and Witch were missing it, where the Green Knight, Necromancer, Priest and Wizard had it
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores
