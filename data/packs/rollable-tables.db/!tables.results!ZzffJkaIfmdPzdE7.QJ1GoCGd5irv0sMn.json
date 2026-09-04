@@ -1,0 +1,16 @@
+{
+	"_id": "QJ1GoCGd5irv0sMn",
+	"_key": "!tables.results!ZzffJkaIfmdPzdE7.QJ1GoCGd5irv0sMn",
+	"description": "+2 points to distribute to any stats",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		7,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

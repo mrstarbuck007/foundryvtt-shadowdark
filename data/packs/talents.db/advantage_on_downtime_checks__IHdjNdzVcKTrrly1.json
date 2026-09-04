@@ -1,0 +1,22 @@
+{
+	"_id": "IHdjNdzVcKTrrly1",
+	"_key": "!items!IHdjNdzVcKTrrly1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/environment/settlement/tavern.webp",
+	"name": "Advantage on Downtime Checks",
+	"system": {
+		"description": "<p>You have advantage on downtime checks (excluding carousing).</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

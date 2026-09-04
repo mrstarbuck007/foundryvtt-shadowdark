@@ -1,0 +1,17 @@
+{
+	"_id": "eY3ORunroQfNVmNl",
+	"_key": "!tables.results!ZzffJkaIfmdPzdE7.eY3ORunroQfNVmNl",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.aInVHu5bD3gxRsnx",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/control/hypnosis-mesmerism-swirl.webp",
+	"name": "+1 to Fascinate Rolls",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

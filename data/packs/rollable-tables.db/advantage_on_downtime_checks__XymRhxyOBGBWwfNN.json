@@ -1,0 +1,17 @@
+{
+	"_id": "XymRhxyOBGBWwfNN",
+	"_key": "!tables.results!ZzffJkaIfmdPzdE7.XymRhxyOBGBWwfNN",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.IHdjNdzVcKTrrly1",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/tavern.webp",
+	"name": "Advantage on Downtime Checks",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -73,8 +73,6 @@ export default class ShadowdarklingImporterSD extends foundry.appv1.api.FormAppl
 		// Shadowdarklings doesn't match the name in Foundry
 		//
 		switch (name) {
-			case "Bard":
-				return "Bard (Legacy)";
 			case "Bard (CS6)":
 				return "Bard";
 			default:

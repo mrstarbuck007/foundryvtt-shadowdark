@@ -1,0 +1,17 @@
+{
+	"_id": "rUpzdd6myr4McZtI",
+	"_key": "!tables.results!ZzffJkaIfmdPzdE7.rUpzdd6myr4McZtI",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.ZfaFn8TDum3NXYZN",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+	"name": "+2 to Constitution",
+	"range": [
+		7,
+		9
+	],
+	"type": "document",
+	"weight": 1
+}

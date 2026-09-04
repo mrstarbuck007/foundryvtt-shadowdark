@@ -1,0 +1,22 @@
+{
+	"_id": "aInVHu5bD3gxRsnx",
+	"_key": "!items!aInVHu5bD3gxRsnx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/control/hypnosis-mesmerism-swirl.webp",
+	"name": "+1 to Fascinate Rolls",
+	"system": {
+		"description": "<p>You get a +1 bonus to your Fascinate rolls.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

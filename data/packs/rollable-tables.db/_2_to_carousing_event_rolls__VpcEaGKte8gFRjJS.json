@@ -1,0 +1,17 @@
+{
+	"_id": "VpcEaGKte8gFRjJS",
+	"_key": "!tables.results!ZzffJkaIfmdPzdE7.VpcEaGKte8gFRjJS",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.sFLKYF0GNbUSZrF7",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/containers/kitchenware/mug-stein-grey.webp",
+	"name": "+2 to Carousing Event Rolls",
+	"range": [
+		10,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}
