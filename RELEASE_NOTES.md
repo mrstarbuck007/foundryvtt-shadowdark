@@ -117,6 +117,8 @@
 	* The boons that teach a seer, priest, witch or wizard spell now make you a caster for that list, without which the spell could not be cast at all
 	* Boons the system has no way to express, such as the immunities and the once a day transformations, remain descriptive
 - Fixed a typo in the Slime Form patron boon, which read 1/dary instead of 1/day
+- Corrected the Witch's spellcasting talent to the Western Reaches text
+	* It points at the right pages for the witch spell list and the Diabolical Mishap tables, and casts off your Charisma modifier rather than your Charisma stat
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores
