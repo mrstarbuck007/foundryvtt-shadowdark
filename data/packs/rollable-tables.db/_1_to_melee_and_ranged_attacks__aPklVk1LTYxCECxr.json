@@ -2,12 +2,12 @@
 	"_id": "aPklVk1LTYxCECxr",
 	"_key": "!tables.results!dExHo4P85MgpwHd9.aPklVk1LTYxCECxr",
 	"description": "",
-	"documentUuid": "Compendium.shadowdark.talents.Item.0yk16c9qcJ9vCekD",
+	"documentUuid": "Compendium.shadowdark.talents.Item.WSm6JESNoyFBnkW2",
 	"drawn": false,
 	"flags": {
 	},
-	"img": "icons/skills/melee/blade-tip-chipped-blood-red.webp",
-	"name": "+1 to Melee Attacks and Damage",
+	"img": "icons/skills/melee/spear-tips-triple-orange.webp",
+	"name": "+1 to Melee and Ranged Attacks",
 	"range": [
 		12,
 		12

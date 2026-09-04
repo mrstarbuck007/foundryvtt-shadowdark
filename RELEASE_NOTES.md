@@ -140,6 +140,11 @@
 - Class abilities that make no check now show a DC of 0 rather than the schema's default of 10, which was never rolled against
 - Noted on the D10 Weapon Damage Die talent that its die has to be set by hand
 	* Active effects can only step a damage die up from where it is, so unlike the d12 version it cannot apply itself
+- Added the Fighter's Grit talent, which the class was missing entirely
+	* A Fighter created in Foundry only received Weapon Mastery and Hauler
+- Fixed the Fighter's talent table offering +1 to Melee Attacks and Damage on a roll of 12, a talent the table never grants
+	* It now offers +1 to Melee and Ranged Attacks, which is what the 3-6 band grants
+- Set the missing source on the +1 to Damage talent, which showed as blank in the source filter
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores

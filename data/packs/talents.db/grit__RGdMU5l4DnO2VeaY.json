@@ -1,0 +1,22 @@
+{
+	"_id": "RGdMU5l4DnO2VeaY",
+	"_key": "!items!RGdMU5l4DnO2VeaY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/control/buff-strength-muscle-damage.webp",
+	"name": "Grit",
+	"system": {
+		"description": "<p>Choose Strength or Dexterity. You have advantage on checks of that type to overcome an opposing force, such as kicking open a stuck door (Strength) or slipping free of rusty chains (Dexterity).</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "core-rules"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}
