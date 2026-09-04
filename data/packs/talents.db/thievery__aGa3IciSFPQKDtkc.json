@@ -21,6 +21,9 @@
 		"turns": null
 	},
 	"flags": {
+		"shadowdark": {
+			"situational": true
+		}
 	},
 	"img": "icons/skills/social/theft-pickpocket-bribery-brown.webp",
 	"name": "Thievery",

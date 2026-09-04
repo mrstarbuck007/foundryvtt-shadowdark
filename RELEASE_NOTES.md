@@ -140,8 +140,8 @@
 - Class abilities that make no check now show a DC of 0 rather than the schema's default of 10, which was never rolled against
 - Noted on the D10 Weapon Damage Die talent that its die has to be set by hand
 	* Active effects can only step a damage die up from where it is, so unlike the d12 version it cannot apply itself
-- Added the Fighter's Grit talent, which the class was missing entirely
-	* A Fighter created in Foundry only received Weapon Mastery and Hauler
+- Fixed the Fighter offering no talent choice, so its Grit talent could not be taken
+	* The class already carried Grit (Strength) and Grit (Dexterity) as a choice, but the number of choices to make was set to zero
 - Fixed the Fighter's talent table offering +1 to Melee Attacks and Damage on a roll of 12, a talent the table never grants
 	* It now offers +1 to Melee and Ranged Attacks, which is what the 3-6 band grants
 - Every item in the packs now records which book it comes from
@@ -152,6 +152,8 @@
 	* The Wizard's Spellcasting reference moves with it, as it cites the same section
 - Every class spellcasting talent now opens with a bolded Spellcasting heading
 	* The Knight of St. Ydris, Seer and Witch were missing it, where the Green Knight, Necromancer, Priest and Wizard had it
+- Fixed the Thief's Thievery talent granting advantage on every ability check
+	* Its effect was always on rather than toggled, so a Thief had advantage on everything instead of the five thieving tasks the book lists
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores

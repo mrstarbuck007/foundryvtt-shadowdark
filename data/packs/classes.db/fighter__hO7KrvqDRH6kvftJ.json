@@ -119,15 +119,14 @@
 				}
 			}
 		},
-		"talentChoiceCount": 0,
+		"talentChoiceCount": 1,
 		"talentChoices": [
 			"Compendium.shadowdark.talents.Item.DGZqkVUtcmxejdm1",
 			"Compendium.shadowdark.talents.Item.F0NXUJcnBOYKzhMi"
 		],
 		"talents": [
 			"Compendium.shadowdark.talents.Item.5bpWuaT0KTNzuzCu",
-			"Compendium.shadowdark.talents.Item.7JTDRLtHc6FOrIEc",
-			"Compendium.shadowdark.talents.Item.RGdMU5l4DnO2VeaY"
+			"Compendium.shadowdark.talents.Item.7JTDRLtHc6FOrIEc"
 		],
 		"titles": [
 			{

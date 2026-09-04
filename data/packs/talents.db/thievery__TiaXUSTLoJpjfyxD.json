@@ -10,7 +10,7 @@
 	"img": "icons/skills/social/theft-pickpocket-bribery-brown.webp",
 	"name": "Thievery",
 	"system": {
-		"description": "<p>You are adept at thieving skills and have the necessary tools of the trade secreted on your person (they take up no gear slots).</p><p>You are trained in the following tasks and have advantage on any associated checks:</p><ul><li><p>Climbing</p></li><li><p>Sneaking and hiding</p></li><li><p>Applying disguises</p></li><li><p>Finding and disabling traps</p></li><li><p>Delicate tasks such as picking pockets and opening locks</p></li></ul>",
+		"description": "<p>You are adept at thieving skills and have the necessary tools of the trade secreted on your person (they take up no gear slots).</p><p>You are trained in the following tasks and have advantage on any associated checks:</p><ul><li><p>Climbing</p></li><li><p>Sneaking and hiding</p></li><li><p>Applying disguises</p></li><li><p>Finding and disabling traps</p></li><li><p>Delicate tasks such as picking pockets and opening locks</p></li></ul><p><em><strong>Note:</strong> Remember to toggle the <strong>Thievery</strong> Active Effect on/off in the Effects tab of your character sheet when needed.</em></p>",
 		"level": 1,
 		"properties": [
 		],
