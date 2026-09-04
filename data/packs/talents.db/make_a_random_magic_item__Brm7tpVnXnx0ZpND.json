@@ -9,7 +9,7 @@
 	"img": "icons/equipment/neck/pendant-faceted-silver-green.webp",
 	"name": "Make a Random Magic Item",
 	"system": {
-		"description": "<p>Make one random magic item. See <em>Magic Items</em> compendium.</p>",
+		"description": "<p>Make one random magic item of a type you choose (see pg. 282).</p><p>See the <em>Magic Items</em> compendium.</p>",
 		"level": 1,
 		"properties": [
 		],

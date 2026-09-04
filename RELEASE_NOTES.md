@@ -155,6 +155,9 @@
 - Fixed the Thief's Thievery talent granting advantage on every ability check
 	* Its effect was always on rather than toggled, so a Thief had advantage on everything instead of the five thieving tasks the book lists
 	* The Wyrdling's Creepy Stillness had the same problem and is fixed too, as it covered every Dexterity check rather than hiding and sneaking
+- Corrected the Wizard's page references to the current printing of the core rules
+	* Spellcasting points at page 52 for the wizard spell list, and the talent table's magic item entry now names the type you choose and its page
+	* Fixed flameconjuring in the class description, which had lost its hyphen to a line break in the book
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores
