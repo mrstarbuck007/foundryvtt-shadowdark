@@ -1,0 +1,22 @@
+{
+	"_id": "x4uqFPD2iPwVT9zW",
+	"_key": "!items!x4uqFPD2iPwVT9zW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/skills/social/diplomacy-handshake.webp",
+	"name": "Tale Spinner",
+	"system": {
+		"description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.lJgoLGho93wEyYHm]{Tale Spinner}</p><p>You may make a [[check 15 cha]] check. If you pass, unknown people around you believe you are famous and important for the remainder of your interaction with them. The same individual cannot be fooled by this twice.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

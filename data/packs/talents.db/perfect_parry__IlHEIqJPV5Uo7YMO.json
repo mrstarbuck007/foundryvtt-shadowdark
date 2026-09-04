@@ -1,0 +1,22 @@
+{
+	"_id": "IlHEIqJPV5Uo7YMO",
+	"_key": "!items!IlHEIqJPV5Uo7YMO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/equipment/shield/buckler-wooden-boss-steel.webp",
+	"name": "Perfect Parry",
+	"system": {
+		"description": "<p>Once per day, all attacks that would hit you this round miss instead.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

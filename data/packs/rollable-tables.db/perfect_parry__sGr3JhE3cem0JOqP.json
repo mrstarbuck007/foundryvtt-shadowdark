@@ -1,0 +1,17 @@
+{
+	"_id": "sGr3JhE3cem0JOqP",
+	"_key": "!tables.results!bcfWYy4LLIALf011.sGr3JhE3cem0JOqP",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.IlHEIqJPV5Uo7YMO",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/equipment/shield/buckler-wooden-boss-steel.webp",
+	"name": "Perfect Parry",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,22 @@
+{
+	"_id": "Cd51qePbrnHtQI3v",
+	"_key": "!items!Cd51qePbrnHtQI3v",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/equipment/shield/buckler-wooden-boss-steel.webp",
+	"name": "Additional Use of Parry",
+	"system": {
+		"description": "<p>You gain one additional use of Parry each day.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

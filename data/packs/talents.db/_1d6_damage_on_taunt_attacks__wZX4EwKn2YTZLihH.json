@@ -1,0 +1,22 @@
+{
+	"_id": "wZX4EwKn2YTZLihH",
+	"_key": "!items!wZX4EwKn2YTZLihH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/skills/social/intimidation-impressing.webp",
+	"name": "+1d6 Damage on Taunt Attacks",
+	"system": {
+		"description": "<p>Deal [[/r 1d6]] extra damage when you hit with a Taunt attack.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

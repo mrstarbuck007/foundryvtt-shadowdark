@@ -1,0 +1,17 @@
+{
+	"_id": "XbNJFT9FHivhfhvu",
+	"_key": "!tables.results!bcfWYy4LLIALf011.XbNJFT9FHivhfhvu",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.Cd51qePbrnHtQI3v",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/equipment/shield/buckler-wooden-boss-steel.webp",
+	"name": "Additional Use of Parry",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

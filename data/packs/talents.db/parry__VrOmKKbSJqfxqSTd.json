@@ -1,0 +1,22 @@
+{
+	"_id": "VrOmKKbSJqfxqSTd",
+	"_key": "!items!VrOmKKbSJqfxqSTd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/equipment/shield/buckler-wooden-boss-steel.webp",
+	"name": "Parry",
+	"system": {
+		"description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.m90huli5biMHArXu]{Parry}</p><p>Once per day, an attack of your choice that would hit you misses instead.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

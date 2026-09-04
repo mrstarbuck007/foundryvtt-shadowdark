@@ -1,0 +1,17 @@
+{
+	"_id": "gsBmtNzpeWpk5mkc",
+	"_key": "!tables.results!bcfWYy4LLIALf011.gsBmtNzpeWpk5mkc",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.wZX4EwKn2YTZLihH",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/social/intimidation-impressing.webp",
+	"name": "+1d6 Damage on Taunt Attacks",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

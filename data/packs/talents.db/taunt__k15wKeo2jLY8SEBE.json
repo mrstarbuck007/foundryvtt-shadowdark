@@ -1,0 +1,22 @@
+{
+	"_id": "k15wKeo2jLY8SEBE",
+	"_key": "!items!k15wKeo2jLY8SEBE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/skills/social/intimidation-impressing.webp",
+	"name": "Taunt",
+	"system": {
+		"description": "<p>When an enemy misses you with an attack, you have advantage on attacks against that enemy next round.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

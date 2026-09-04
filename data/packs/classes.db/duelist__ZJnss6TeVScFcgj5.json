@@ -1,0 +1,113 @@
+{
+	"_id": "ZJnss6TeVScFcgj5",
+	"_key": "!items!ZJnss6TeVScFcgj5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
+	"name": "Duelist",
+	"system": {
+		"alignment": "",
+		"allArmor": false,
+		"allMeleeWeapons": false,
+		"allRangedWeapons": false,
+		"allWeapons": false,
+		"armor": [
+			"Compendium.shadowdark.gear.Item.EoTEHXApVDS7rHfw",
+			"Compendium.shadowdark.gear.Item.UDyHeJCreIFZ9y2I"
+		],
+		"classAbilities": [
+			"Compendium.shadowdark.class-abilities.Item.m90huli5biMHArXu",
+			"Compendium.shadowdark.class-abilities.Item.lJgoLGho93wEyYHm"
+		],
+		"classAbilityChoiceCount": 0,
+		"classAbilityChoices": [
+		],
+		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.bcfWYy4LLIALf011",
+		"description": "<p>Spinning swordsmen and fast-talking fame mongers. Duelists deliver insults and injuries alike to defeat their foes in style.</p>",
+		"hitPoints": "1d8",
+		"languages": {
+			"common": 0,
+			"fixed": [
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"patron": {
+			"required": false,
+			"startingBoons": 0
+		},
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"spellcasting": {
+			"ability": "",
+			"baseDifficulty": 10,
+			"class": "__not_spellcaster__",
+			"spellsknown": {
+			}
+		},
+		"talentChoiceCount": 0,
+		"talentChoices": [
+		],
+		"talents": [
+			"Compendium.shadowdark.talents.Item.VrOmKKbSJqfxqSTd",
+			"Compendium.shadowdark.talents.Item.x4uqFPD2iPwVT9zW",
+			"Compendium.shadowdark.talents.Item.k15wKeo2jLY8SEBE"
+		],
+		"titles": [
+			{
+				"chaotic": "Ruffian",
+				"from": 1,
+				"lawful": "Fencer",
+				"neutral": "Student",
+				"to": 2
+			},
+			{
+				"chaotic": "Heckler",
+				"from": 3,
+				"lawful": "Defender",
+				"neutral": "Challenger",
+				"to": 4
+			},
+			{
+				"chaotic": "Viper",
+				"from": 5,
+				"lawful": "Mongoose",
+				"neutral": "Mouser",
+				"to": 6
+			},
+			{
+				"chaotic": "Cobra",
+				"from": 7,
+				"lawful": "Wolf",
+				"neutral": "Panther",
+				"to": 8
+			},
+			{
+				"chaotic": "Swordmaster",
+				"from": 9,
+				"lawful": "Swordmaster",
+				"neutral": "Swordmaster",
+				"to": 10
+			}
+		],
+		"weapons": [
+			"Compendium.shadowdark.gear.Item.C3mc5OlKPSJNMrng",
+			"Compendium.shadowdark.gear.Item.1T8oUkfkBtYTLNF3",
+			"Compendium.shadowdark.gear.Item.wpLJgXIs3SSgwkou",
+			"Compendium.shadowdark.gear.Item.eqUuf9OGupuGPsBM",
+			"Compendium.shadowdark.gear.Item.ZPUhNMmwXXrtbCXi",
+			"Compendium.shadowdark.gear.Item.v7wDNpRrBzkFBViM",
+			"Compendium.shadowdark.gear.Item.DKBDkJ3LcRv8scLv",
+			"Compendium.shadowdark.gear.Item.KQTWQwznjK80gVEU"
+		]
+	},
+	"type": "Class"
+}

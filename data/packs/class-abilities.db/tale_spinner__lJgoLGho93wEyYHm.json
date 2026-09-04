@@ -1,0 +1,30 @@
+{
+	"_id": "lJgoLGho93wEyYHm",
+	"_key": "!items!lJgoLGho93wEyYHm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "ouQFWSadiw9Jxy42",
+	"img": "icons/skills/social/diplomacy-handshake.webp",
+	"name": "Tale Spinner",
+	"system": {
+		"ability": "cha",
+		"dc": 15,
+		"description": "<p>Make a DC 15 CHA check. If you pass, unknown people around you believe you are famous and important for the remainder of your interaction with them. The same individual cannot be fooled by this twice.</p>",
+		"group": "Duelist",
+		"limitedUses": false,
+		"loseOnFailure": true,
+		"lost": false,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"uses": {
+			"available": 0,
+			"max": 0
+		}
+	},
+	"type": "Class Ability"
+}
