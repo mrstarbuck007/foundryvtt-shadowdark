@@ -1,0 +1,22 @@
+{
+	"_id": "p4Dafkhk348O8XP3",
+	"_key": "!items!p4Dafkhk348O8XP3",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/skills/melee/blade-tip-chipped-blood-red.webp",
+	"name": "+1 to Melee Attacks and +2 to Melee Damage",
+	"system": {
+		"description": "<p>+1 to melee attacks and +2 to melee damage</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

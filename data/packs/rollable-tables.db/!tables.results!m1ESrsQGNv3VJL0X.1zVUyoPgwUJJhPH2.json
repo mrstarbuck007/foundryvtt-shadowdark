@@ -1,0 +1,16 @@
+{
+	"_id": "1zVUyoPgwUJJhPH2",
+	"_key": "!tables.results!m1ESrsQGNv3VJL0X.1zVUyoPgwUJJhPH2",
+	"description": "Choose 1",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		12,
+		12
+	],
+	"type": "text",
+	"weight": 1
+}

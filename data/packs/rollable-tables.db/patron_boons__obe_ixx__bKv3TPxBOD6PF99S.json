@@ -1,0 +1,25 @@
+{
+	"_id": "bKv3TPxBOD6PF99S",
+	"_key": "!tables!bKv3TPxBOD6PF99S",
+	"description": "",
+	"displayRoll": true,
+	"flags": {
+	},
+	"folder": "CKyT2XJsdWmcwbhX",
+	"formula": "2d6",
+	"img": "icons/magic/death/bones-crossed-gray.webp",
+	"name": "Patron Boons: Obe-Ixx",
+	"replacement": true,
+	"results": [
+		"v7f4BdqTMDmrRy2r",
+		"8tYwd8UeHtbStE6A",
+		"2kIlZvZZuMzy602u",
+		"UbSeVjMaJilVeRYr",
+		"LZZ7eX6ciQhVzzyP",
+		"BqoMR8IIlw9eM3wP",
+		"HIEdozTrFLro1igf",
+		"sq7osZQRMpgQic0z",
+		"nB7nlghXojGqqHnG",
+		"7SYNZ05c88f9PRhS"
+	]
+}

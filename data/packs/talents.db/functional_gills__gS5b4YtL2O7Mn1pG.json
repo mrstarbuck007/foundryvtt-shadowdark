@@ -1,0 +1,22 @@
+{
+	"_id": "gS5b4YtL2O7Mn1pG",
+	"_key": "!items!gS5b4YtL2O7Mn1pG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/magic/water/orb-water-bubbles-teal.webp",
+	"name": "Functional Gills",
+	"system": {
+		"description": "<p>You grow functional gills and can swim effortlessly</p><p>duplicate = reroll</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

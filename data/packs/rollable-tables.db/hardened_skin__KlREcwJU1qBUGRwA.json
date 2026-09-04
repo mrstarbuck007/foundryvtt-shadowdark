@@ -1,0 +1,17 @@
+{
+	"_id": "KlREcwJU1qBUGRwA",
+	"_key": "!tables.results!c2rPrYnp8Sww6Qzj.KlREcwJU1qBUGRwA",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.rnDf02COvzc0oCYP",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/defensive/armor-stone-skin.webp",
+	"name": "Hardened Skin",
+	"range": [
+		3,
+		7
+	],
+	"type": "document",
+	"weight": 1
+}

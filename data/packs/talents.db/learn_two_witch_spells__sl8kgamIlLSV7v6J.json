@@ -1,0 +1,22 @@
+{
+	"_id": "sl8kgamIlLSV7v6J",
+	"_key": "!items!sl8kgamIlLSV7v6J",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/sundries/books/book-reye-reptile-brown.webp",
+	"name": "Learn Two Witch Spells",
+	"system": {
+		"description": "<p>Learn two witch spells of different tiers up to tier 3</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

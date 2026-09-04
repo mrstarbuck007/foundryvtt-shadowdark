@@ -1,0 +1,17 @@
+{
+	"_id": "sq7osZQRMpgQic0z",
+	"_key": "!tables.results!bKv3TPxBOD6PF99S.sq7osZQRMpgQic0z",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.vbtVxj3cHK91xuQ5",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/bones/bone-jaw-teeth-grey.webp",
+	"name": "Warband Level",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

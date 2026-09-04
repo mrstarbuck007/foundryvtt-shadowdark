@@ -1,0 +1,17 @@
+{
+	"_id": "f8XTQz6rXdVgcPGO",
+	"_key": "!tables.results!vbtkX8OKlAXLS4Gr.f8XTQz6rXdVgcPGO",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.FB0SAwy4ybT19nFV",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/water/wave-water-teal.webp",
+	"name": "Walk on Water",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

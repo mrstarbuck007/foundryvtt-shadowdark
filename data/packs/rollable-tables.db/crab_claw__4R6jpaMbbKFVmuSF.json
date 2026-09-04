@@ -1,0 +1,17 @@
+{
+	"_id": "4R6jpaMbbKFVmuSF",
+	"_key": "!tables.results!c2rPrYnp8Sww6Qzj.4R6jpaMbbKFVmuSF",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.0egVHvqlyLww84ZB",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/invertebrates/scorpion-yellow.webp",
+	"name": "Crab Claw",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

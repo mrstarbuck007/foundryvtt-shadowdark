@@ -1,0 +1,22 @@
+{
+	"_id": "S1D3DIUasJ2iZMaE",
+	"_key": "!items!S1D3DIUasJ2iZMaE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/sundries/books/book-reye-reptile-brown.webp",
+	"name": "Learn a Witch Spell You Can Cast",
+	"system": {
+		"description": "<p>Learn one witch spell of a tier you can cast (tier 1 if none)</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

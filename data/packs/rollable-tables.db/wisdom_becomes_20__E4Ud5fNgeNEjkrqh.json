@@ -1,0 +1,17 @@
+{
+	"_id": "E4Ud5fNgeNEjkrqh",
+	"_key": "!tables.results!KMnlvvc3iWq3Alnc.E4Ud5fNgeNEjkrqh",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.MzmlIrxv4qD0plHV",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/cosmos/planet-moon-blue.webp",
+	"name": "Wisdom Becomes 20",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

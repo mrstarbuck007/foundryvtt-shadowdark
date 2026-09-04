@@ -1,0 +1,17 @@
+{
+	"_id": "3UJirg7rm6wm6NLY",
+	"_key": "!tables.results!z9uCX8WUcc2HfihP.3UJirg7rm6wm6NLY",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.sl8kgamIlLSV7v6J",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/sundries/books/book-reye-reptile-brown.webp",
+	"name": "Learn Two Witch Spells",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

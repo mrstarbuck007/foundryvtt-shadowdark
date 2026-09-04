@@ -1,0 +1,17 @@
+{
+	"_id": "KCYM2aIz5XavtzfD",
+	"_key": "!tables.results!vbtkX8OKlAXLS4Gr.KCYM2aIz5XavtzfD",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.5B5H9a9KEGXG8M4K",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/fire/barrier-shield-explosion-yellow.webp",
+	"name": "Immunity to Fire",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

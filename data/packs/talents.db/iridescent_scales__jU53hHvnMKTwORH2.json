@@ -1,0 +1,22 @@
+{
+	"_id": "jU53hHvnMKTwORH2",
+	"_key": "!items!jU53hHvnMKTwORH2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/magic/nature/leaf-armor-scale-green.webp",
+	"name": "Iridescent Scales",
+	"system": {
+		"description": "<p>You sprout multi-hued, iridescent scales and gain +1 AC</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

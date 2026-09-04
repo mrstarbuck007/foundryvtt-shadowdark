@@ -1,0 +1,17 @@
+{
+	"_id": "24L9IW72cuvoGsBi",
+	"_key": "!tables.results!SRjDgltVdP2gQYYN.24L9IW72cuvoGsBi",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.re8om8VXQaA3n1QN",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/water/bubbles-air-water-blue.webp",
+	"name": "Immunity to Drowning",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,22 @@
+{
+	"_id": "vbtVxj3cHK91xuQ5",
+	"_key": "!items!vbtVxj3cHK91xuQ5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/commodities/bones/bone-jaw-teeth-grey.webp",
+	"name": "Warband Level",
+	"system": {
+		"description": "<p>Your warbands each gain a LV (+8 HP, +1 attack bonus)</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

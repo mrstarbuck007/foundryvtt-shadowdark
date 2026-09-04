@@ -1,0 +1,17 @@
+{
+	"_id": "ZkzcjNwnuYt5tMNo",
+	"_key": "!tables.results!vbtkX8OKlAXLS4Gr.ZkzcjNwnuYt5tMNo",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.Ovw15rq5cAfDMe1t",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/toxins/bottle-open-vapors-pink.webp",
+	"name": "Immunity to Poison",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

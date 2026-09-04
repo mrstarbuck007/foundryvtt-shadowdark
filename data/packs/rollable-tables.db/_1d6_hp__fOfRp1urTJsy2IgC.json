@@ -1,0 +1,17 @@
+{
+	"_id": "fOfRp1urTJsy2IgC",
+	"_key": "!tables.results!m1ESrsQGNv3VJL0X.fOfRp1urTJsy2IgC",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.uWaTtEmn8z27nr5o",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/life/cross-worn-green.webp",
+	"name": "+1d6 HP",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

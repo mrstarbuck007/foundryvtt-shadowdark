@@ -1,15 +1,15 @@
 {
-	"_id": "71NHQE8WsxOe9ShC",
-	"_key": "!items!71NHQE8WsxOe9ShC",
+	"_id": "rnDf02COvzc0oCYP",
+	"_key": "!items!rnDf02COvzc0oCYP",
 	"effects": [
 	],
 	"flags": {
 	},
 	"folder": "TcpWrnecaN2k2gYr",
-	"img": "icons/magic/acid/pouring-gas-smoke-liquid.webp",
-	"name": "Immunity to Acid",
+	"img": "icons/magic/defensive/armor-stone-skin.webp",
+	"name": "Hardened Skin",
 	"system": {
-		"description": "<p>You become immune to acid</p>",
+		"description": "<p>Your skin hardens; gain +1 AC (reroll if at +3)</p>",
 		"level": 0,
 		"properties": [
 		],

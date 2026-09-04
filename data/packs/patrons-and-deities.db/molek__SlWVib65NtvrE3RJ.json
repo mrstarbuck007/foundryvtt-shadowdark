@@ -1,0 +1,21 @@
+{
+	"_id": "SlWVib65NtvrE3RJ",
+	"_key": "!items!SlWVib65NtvrE3RJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "3aze8z3qds3mZZm9",
+	"img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+	"name": "Molek",
+	"system": {
+		"boonTable": "Compendium.shadowdark.rollable-tables.RollTable.SRjDgltVdP2gQYYN",
+		"description": "",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Patron"
+}

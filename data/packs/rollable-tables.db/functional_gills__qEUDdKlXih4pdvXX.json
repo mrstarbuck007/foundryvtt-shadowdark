@@ -1,0 +1,17 @@
+{
+	"_id": "qEUDdKlXih4pdvXX",
+	"_key": "!tables.results!c2rPrYnp8Sww6Qzj.qEUDdKlXih4pdvXX",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.gS5b4YtL2O7Mn1pG",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/water/orb-water-bubbles-teal.webp",
+	"name": "Functional Gills",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

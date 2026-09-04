@@ -1,0 +1,17 @@
+{
+	"_id": "07H6kfT87J72DhYV",
+	"_key": "!tables.results!KMnlvvc3iWq3Alnc.07H6kfT87J72DhYV",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.Sd2cRc9FAUozrguS",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/symbols/runes-etched-steel-blade.webp",
+	"name": "Weapons Gain +1 Magical Bonus",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

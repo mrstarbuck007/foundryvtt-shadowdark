@@ -1,15 +1,15 @@
 {
-	"_id": "71NHQE8WsxOe9ShC",
-	"_key": "!items!71NHQE8WsxOe9ShC",
+	"_id": "re8om8VXQaA3n1QN",
+	"_key": "!items!re8om8VXQaA3n1QN",
 	"effects": [
 	],
 	"flags": {
 	},
 	"folder": "TcpWrnecaN2k2gYr",
-	"img": "icons/magic/acid/pouring-gas-smoke-liquid.webp",
-	"name": "Immunity to Acid",
+	"img": "icons/magic/water/bubbles-air-water-blue.webp",
+	"name": "Immunity to Drowning",
 	"system": {
-		"description": "<p>You become immune to acid</p>",
+		"description": "<p>You become immune to drowning</p>",
 		"level": 0,
 		"properties": [
 		],

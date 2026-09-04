@@ -1,0 +1,22 @@
+{
+	"_id": "euAkKgA8gMxm2WEa",
+	"_key": "!items!euAkKgA8gMxm2WEa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/magic/defensive/barrier-shield-dome-blue-purple.webp",
+	"name": "Hostile Magic DC 18",
+	"system": {
+		"description": "<p>Hostile magical effects that target you are DC 18 to cast</p><p>duplicate = reroll</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

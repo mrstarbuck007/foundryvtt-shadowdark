@@ -1,0 +1,17 @@
+{
+	"_id": "TtNT1gJJu9DPfTEh",
+	"_key": "!tables.results!SRjDgltVdP2gQYYN.TtNT1gJJu9DPfTEh",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.orVty24yhYScHBnF",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/life/heart-cross-green.webp",
+	"name": "Gain 2d4 HP",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

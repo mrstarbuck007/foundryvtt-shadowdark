@@ -1,0 +1,17 @@
+{
+	"_id": "L36yPuQpPD2FVdWX",
+	"_key": "!tables.results!wevfuVJuUCYPAnFo.L36yPuQpPD2FVdWX",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.phb2fm7lipM6oA3J",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+	"name": "Redistribute Stats",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

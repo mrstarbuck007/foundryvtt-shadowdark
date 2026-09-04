@@ -1,0 +1,17 @@
+{
+	"_id": "8tYwd8UeHtbStE6A",
+	"_key": "!tables.results!bKv3TPxBOD6PF99S.8tYwd8UeHtbStE6A",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.TvSiOtrPguIOhRPQ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/death/hand-undead-skeleton-fire-green.webp",
+	"name": "Additional Skeleton Warband",
+	"range": [
+		3,
+		7
+	],
+	"type": "document",
+	"weight": 1
+}

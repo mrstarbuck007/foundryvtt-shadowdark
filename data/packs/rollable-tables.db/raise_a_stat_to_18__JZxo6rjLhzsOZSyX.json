@@ -1,0 +1,17 @@
+{
+	"_id": "JZxo6rjLhzsOZSyX",
+	"_key": "!tables.results!SRjDgltVdP2gQYYN.JZxo6rjLhzsOZSyX",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.Qw97terc71K9WJNx",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+	"name": "Raise a Stat to 18",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

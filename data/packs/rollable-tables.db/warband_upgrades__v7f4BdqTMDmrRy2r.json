@@ -1,0 +1,17 @@
+{
+	"_id": "v7f4BdqTMDmrRy2r",
+	"_key": "!tables.results!bKv3TPxBOD6PF99S.v7f4BdqTMDmrRy2r",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.3Gg2zxpY2Udrulgj",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/death/bones-crossed-orange.webp",
+	"name": "Warband Upgrades",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

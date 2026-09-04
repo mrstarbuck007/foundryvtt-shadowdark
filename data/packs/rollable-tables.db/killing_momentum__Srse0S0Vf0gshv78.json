@@ -1,0 +1,17 @@
+{
+	"_id": "Srse0S0Vf0gshv78",
+	"_key": "!tables.results!m1ESrsQGNv3VJL0X.Srse0S0Vf0gshv78",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.j4KpZYg1XyN1a7ma",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/blood-slash-foam-red.webp",
+	"name": "Killing Momentum",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

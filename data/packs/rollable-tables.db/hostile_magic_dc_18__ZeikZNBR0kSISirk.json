@@ -1,0 +1,17 @@
+{
+	"_id": "ZeikZNBR0kSISirk",
+	"_key": "!tables.results!wevfuVJuUCYPAnFo.ZeikZNBR0kSISirk",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.euAkKgA8gMxm2WEa",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/defensive/barrier-shield-dome-blue-purple.webp",
+	"name": "Hostile Magic DC 18",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

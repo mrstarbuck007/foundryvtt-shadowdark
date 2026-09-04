@@ -1,0 +1,17 @@
+{
+	"_id": "VHZGCognGfIgwUNn",
+	"_key": "!tables.results!wevfuVJuUCYPAnFo.VHZGCognGfIgwUNn",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.5WEzAOGusol1Sy4u",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/sundries/books/book-worn-red.webp",
+	"name": "Learn a Lawful Priest Spell",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

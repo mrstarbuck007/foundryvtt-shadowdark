@@ -1,0 +1,17 @@
+{
+	"_id": "0OrbXhyFEzZdVDWb",
+	"_key": "!tables.results!m1ESrsQGNv3VJL0X.0OrbXhyFEzZdVDWb",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.p4Dafkhk348O8XP3",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/blade-tip-chipped-blood-red.webp",
+	"name": "+1 to Melee Attacks and +2 to Melee Damage",
+	"range": [
+		3,
+		7
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,22 @@
+{
+	"_id": "TvSiOtrPguIOhRPQ",
+	"_key": "!items!TvSiOtrPguIOhRPQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/magic/death/hand-undead-skeleton-fire-green.webp",
+	"name": "Additional Skeleton Warband",
+	"system": {
+		"description": "<p>Gain an additional warband of skeletons (free to maintain)</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

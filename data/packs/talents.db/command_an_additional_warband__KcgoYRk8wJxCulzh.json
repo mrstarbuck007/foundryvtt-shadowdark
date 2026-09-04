@@ -1,0 +1,22 @@
+{
+	"_id": "KcgoYRk8wJxCulzh",
+	"_key": "!items!KcgoYRk8wJxCulzh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/magic/death/bones-crossed-gray.webp",
+	"name": "Command an Additional Warband",
+	"system": {
+		"description": "<p>You can command 1 additional warband (see pg. 248)</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

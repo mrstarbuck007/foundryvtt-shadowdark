@@ -1,0 +1,22 @@
+{
+	"_id": "FEccpZkShu7Hhv8M",
+	"_key": "!items!FEccpZkShu7Hhv8M",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/skills/melee/strike-axe-blood-red.webp",
+	"name": "Double Damage",
+	"system": {
+		"description": "<p>1/day, double all damage you deal for 3 rounds</p><p>duplicate = +1 use per day</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

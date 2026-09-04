@@ -1,0 +1,17 @@
+{
+	"_id": "r7WzUw3V4AI37nBP",
+	"_key": "!tables.results!vbtkX8OKlAXLS4Gr.r7WzUw3V4AI37nBP",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.jU53hHvnMKTwORH2",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/nature/leaf-armor-scale-green.webp",
+	"name": "Iridescent Scales",
+	"range": [
+		10,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

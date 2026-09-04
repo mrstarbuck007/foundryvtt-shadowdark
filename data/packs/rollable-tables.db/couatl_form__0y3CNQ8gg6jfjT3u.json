@@ -1,0 +1,17 @@
+{
+	"_id": "0y3CNQ8gg6jfjT3u",
+	"_key": "!tables.results!vbtkX8OKlAXLS4Gr.0y3CNQ8gg6jfjT3u",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.FYdBZ9M5JUCgK88P",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/reptiles/serpent-horned-green.webp",
+	"name": "Couatl Form",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

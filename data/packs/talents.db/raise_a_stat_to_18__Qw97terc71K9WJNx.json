@@ -1,15 +1,15 @@
 {
-	"_id": "71NHQE8WsxOe9ShC",
-	"_key": "!items!71NHQE8WsxOe9ShC",
+	"_id": "Qw97terc71K9WJNx",
+	"_key": "!items!Qw97terc71K9WJNx",
 	"effects": [
 	],
 	"flags": {
 	},
 	"folder": "TcpWrnecaN2k2gYr",
-	"img": "icons/magic/acid/pouring-gas-smoke-liquid.webp",
-	"name": "Immunity to Acid",
+	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+	"name": "Raise a Stat to 18",
 	"system": {
-		"description": "<p>You become immune to acid</p>",
+		"description": "<p>Choose one stat to increase to 18</p>",
 		"level": 0,
 		"properties": [
 		],

@@ -1,0 +1,17 @@
+{
+	"_id": "8UEEhJZ6WINSbkjC",
+	"_key": "!tables.results!z9uCX8WUcc2HfihP.8UEEhJZ6WINSbkjC",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.Z7og9OPv8PKFuWmQ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/life/cross-worn-green.webp",
+	"name": "Additional HP",
+	"range": [
+		10,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

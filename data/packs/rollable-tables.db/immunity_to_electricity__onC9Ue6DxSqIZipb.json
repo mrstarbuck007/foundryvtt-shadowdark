@@ -1,0 +1,17 @@
+{
+	"_id": "onC9Ue6DxSqIZipb",
+	"_key": "!tables.results!vbtkX8OKlAXLS4Gr.onC9Ue6DxSqIZipb",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.mkNzM5i88lWnExQr",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/lightning/barrier-wall-shield-gray.webp",
+	"name": "Immunity to Electricity",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

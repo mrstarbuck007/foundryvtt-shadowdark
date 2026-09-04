@@ -1,0 +1,21 @@
+{
+	"_id": "z36luJi8hl4Bxqgv",
+	"_key": "!items!z36luJi8hl4Bxqgv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "3aze8z3qds3mZZm9",
+	"img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+	"name": "Yag-Kesh",
+	"system": {
+		"boonTable": "Compendium.shadowdark.rollable-tables.RollTable.KMnlvvc3iWq3Alnc",
+		"description": "",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Patron"
+}

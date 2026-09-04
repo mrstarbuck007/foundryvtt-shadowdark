@@ -1,15 +1,15 @@
 {
-	"_id": "71NHQE8WsxOe9ShC",
-	"_key": "!items!71NHQE8WsxOe9ShC",
+	"_id": "orVty24yhYScHBnF",
+	"_key": "!items!orVty24yhYScHBnF",
 	"effects": [
 	],
 	"flags": {
 	},
 	"folder": "TcpWrnecaN2k2gYr",
-	"img": "icons/magic/acid/pouring-gas-smoke-liquid.webp",
-	"name": "Immunity to Acid",
+	"img": "icons/magic/life/heart-cross-green.webp",
+	"name": "Gain 2d4 HP",
 	"system": {
-		"description": "<p>You become immune to acid</p>",
+		"description": "<p>You gain [[/r 2d4]] HP</p>",
 		"level": 0,
 		"properties": [
 		],

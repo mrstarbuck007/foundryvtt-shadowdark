@@ -1,15 +1,15 @@
 {
-	"_id": "71NHQE8WsxOe9ShC",
-	"_key": "!items!71NHQE8WsxOe9ShC",
+	"_id": "5B5H9a9KEGXG8M4K",
+	"_key": "!items!5B5H9a9KEGXG8M4K",
 	"effects": [
 	],
 	"flags": {
 	},
 	"folder": "TcpWrnecaN2k2gYr",
-	"img": "icons/magic/acid/pouring-gas-smoke-liquid.webp",
-	"name": "Immunity to Acid",
+	"img": "icons/magic/fire/barrier-shield-explosion-yellow.webp",
+	"name": "Immunity to Fire",
 	"system": {
-		"description": "<p>You become immune to acid</p>",
+		"description": "<p>You become immune to fire</p>",
 		"level": 0,
 		"properties": [
 		],

@@ -1,0 +1,22 @@
+{
+	"_id": "FYdBZ9M5JUCgK88P",
+	"_key": "!items!FYdBZ9M5JUCgK88P",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/creatures/reptiles/serpent-horned-green.webp",
+	"name": "Couatl Form",
+	"system": {
+		"description": "<p>1/day, turn into a couatl for 5 rounds</p><p>duplicate = +1 use per day</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

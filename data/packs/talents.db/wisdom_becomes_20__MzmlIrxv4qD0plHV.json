@@ -1,0 +1,22 @@
+{
+	"_id": "MzmlIrxv4qD0plHV",
+	"_key": "!items!MzmlIrxv4qD0plHV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/environment/cosmos/planet-moon-blue.webp",
+	"name": "Wisdom Becomes 20",
+	"system": {
+		"description": "<p>Your Wisdom stat becomes 20 (+5)</p><p>duplicate = reroll</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

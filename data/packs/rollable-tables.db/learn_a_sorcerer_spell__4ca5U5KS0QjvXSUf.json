@@ -1,0 +1,17 @@
+{
+	"_id": "4ca5U5KS0QjvXSUf",
+	"_key": "!tables.results!SRjDgltVdP2gQYYN.4ca5U5KS0QjvXSUf",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.eJHyUA6ULWI3cY4x",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/sundries/books/book-eye-purple.webp",
+	"name": "Learn a Sorcerer Spell",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

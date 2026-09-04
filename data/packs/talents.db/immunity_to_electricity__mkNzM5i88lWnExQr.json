@@ -1,0 +1,22 @@
+{
+	"_id": "mkNzM5i88lWnExQr",
+	"_key": "!items!mkNzM5i88lWnExQr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/magic/lightning/barrier-wall-shield-gray.webp",
+	"name": "Immunity to Electricity",
+	"system": {
+		"description": "<p>You become immune to electricity</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

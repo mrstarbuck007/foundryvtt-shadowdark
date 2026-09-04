@@ -1,0 +1,21 @@
+{
+	"_id": "T7vzyXWrqF4wsv7v",
+	"_key": "!items!T7vzyXWrqF4wsv7v",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "3aze8z3qds3mZZm9",
+	"img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+	"name": "Rathgamnon",
+	"system": {
+		"boonTable": "Compendium.shadowdark.rollable-tables.RollTable.wevfuVJuUCYPAnFo",
+		"description": "",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Patron"
+}

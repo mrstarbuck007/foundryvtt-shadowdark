@@ -9,7 +9,7 @@
 	"img": "icons/skills/toxins/bottle-open-vapors-pink.webp",
 	"name": "Immunity to Poison",
 	"system": {
-		"description": "",
+		"description": "<p>You become immune to poison</p>",
 		"level": 0,
 		"properties": [
 		],

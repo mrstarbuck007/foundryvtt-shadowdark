@@ -1,0 +1,22 @@
+{
+	"_id": "Sd2cRc9FAUozrguS",
+	"_key": "!items!Sd2cRc9FAUozrguS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/magic/symbols/runes-etched-steel-blade.webp",
+	"name": "Weapons Gain +1 Magical Bonus",
+	"system": {
+		"description": "<p>All weapons you wield gain an additional +1 magical bonus (reroll if +3 total)</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

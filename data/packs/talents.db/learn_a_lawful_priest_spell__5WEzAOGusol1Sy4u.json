@@ -1,0 +1,22 @@
+{
+	"_id": "5WEzAOGusol1Sy4u",
+	"_key": "!items!5WEzAOGusol1Sy4u",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/sundries/books/book-worn-red.webp",
+	"name": "Learn a Lawful Priest Spell",
+	"system": {
+		"description": "<p>Learn a lawful priest spell, tier = half your level. Cast it with WIS</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

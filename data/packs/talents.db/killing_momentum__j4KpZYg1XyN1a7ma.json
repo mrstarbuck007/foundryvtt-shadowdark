@@ -1,0 +1,22 @@
+{
+	"_id": "j4KpZYg1XyN1a7ma",
+	"_key": "!items!j4KpZYg1XyN1a7ma",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/skills/melee/blood-slash-foam-red.webp",
+	"name": "Killing Momentum",
+	"system": {
+		"description": "<p>When you kill a foe, your next hit becomes a critical hit</p><p>duplicate = reroll</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

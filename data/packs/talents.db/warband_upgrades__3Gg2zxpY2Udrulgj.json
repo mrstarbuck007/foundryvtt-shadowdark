@@ -1,0 +1,22 @@
+{
+	"_id": "3Gg2zxpY2Udrulgj",
+	"_key": "!items!3Gg2zxpY2Udrulgj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/magic/death/bones-crossed-orange.webp",
+	"name": "Warband Upgrades",
+	"system": {
+		"description": "<p>You gain +2 upgrades for your warbands (see pg. 250)</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

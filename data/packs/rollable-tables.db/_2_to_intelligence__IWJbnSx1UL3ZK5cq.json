@@ -1,0 +1,17 @@
+{
+	"_id": "IWJbnSx1UL3ZK5cq",
+	"_key": "!tables.results!wevfuVJuUCYPAnFo.IWJbnSx1UL3ZK5cq",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.aRY0hjpvzYpdRbfR",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+	"name": "+2 to Intelligence",
+	"range": [
+		3,
+		7
+	],
+	"type": "document",
+	"weight": 1
+}

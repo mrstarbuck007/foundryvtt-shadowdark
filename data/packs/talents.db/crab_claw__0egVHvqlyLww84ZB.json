@@ -1,0 +1,22 @@
+{
+	"_id": "0egVHvqlyLww84ZB",
+	"_key": "!items!0egVHvqlyLww84ZB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/creatures/invertebrates/scorpion-yellow.webp",
+	"name": "Crab Claw",
+	"system": {
+		"description": "<p>Your arm turns into a crab claw you can wield (melee, d8)</p><p>duplicate = reroll</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

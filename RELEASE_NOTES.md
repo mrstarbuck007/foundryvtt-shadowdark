@@ -105,6 +105,11 @@
 	* Adds the +1d4 on Luck Token Rolls, Learn a Seer Spell, Turn Invisible, Illusory Duplicate, Regain Luck Token and Pray for Full HP boons
 	* The three already shipped as deities, so they are now selectable as patrons as well
 - Filled in the D12 Weapon Damage Die talent, which shipped with an empty description
+- Added the remaining eight patrons from Shadowdark RPG: The Western Reaches, with their Patron Boon tables
+	* Krraktanamak, Molek, Oatali, Obe-Ixx, Oros, Rathgamnon, Saint Ydris and Yag-Kesh, so all seventeen patrons the book lists are now selectable
+	* Adds 27 new Patron Boon talents, from the crab claw and the couatl form to the warband boons and the sorcerer, priest and witch spell grants
+	* These eight have no description yet, as the book text for them has not been entered
+- Filled in the Immunity to Acid, Immunity to Cold and Immunity to Poison talents, which shipped with empty descriptions
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores

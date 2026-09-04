@@ -1,0 +1,17 @@
+{
+	"_id": "1qFpDGaJ28UilGuR",
+	"_key": "!tables.results!z9uCX8WUcc2HfihP.1qFpDGaJ28UilGuR",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.S1D3DIUasJ2iZMaE",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/sundries/books/book-reye-reptile-brown.webp",
+	"name": "Learn a Witch Spell You Can Cast",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

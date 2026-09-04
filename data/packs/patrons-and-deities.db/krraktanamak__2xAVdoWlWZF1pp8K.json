@@ -1,0 +1,21 @@
+{
+	"_id": "2xAVdoWlWZF1pp8K",
+	"_key": "!items!2xAVdoWlWZF1pp8K",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "3aze8z3qds3mZZm9",
+	"img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+	"name": "Krraktanamak",
+	"system": {
+		"boonTable": "Compendium.shadowdark.rollable-tables.RollTable.c2rPrYnp8Sww6Qzj",
+		"description": "",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Patron"
+}

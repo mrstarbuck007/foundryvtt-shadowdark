@@ -1,0 +1,17 @@
+{
+	"_id": "BEBxjJGmAoLTybxh",
+	"_key": "!tables.results!m1ESrsQGNv3VJL0X.BEBxjJGmAoLTybxh",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.FEccpZkShu7Hhv8M",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/strike-axe-blood-red.webp",
+	"name": "Double Damage",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

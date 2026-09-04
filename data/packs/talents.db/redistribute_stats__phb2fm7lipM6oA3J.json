@@ -1,0 +1,22 @@
+{
+	"_id": "phb2fm7lipM6oA3J",
+	"_key": "!items!phb2fm7lipM6oA3J",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "TcpWrnecaN2k2gYr",
+	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+	"name": "Redistribute Stats",
+	"system": {
+		"description": "<p>Move as many points as you wish from one stat to another</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "patronBoon"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "nB7nlghXojGqqHnG",
+	"_key": "!tables.results!bKv3TPxBOD6PF99S.nB7nlghXojGqqHnG",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.KcgoYRk8wJxCulzh",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/death/bones-crossed-gray.webp",
+	"name": "Command an Additional Warband",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

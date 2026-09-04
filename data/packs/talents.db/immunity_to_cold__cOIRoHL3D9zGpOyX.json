@@ -9,7 +9,7 @@
 	"img": "icons/magic/water/snowflake-ice-blue-white.webp",
 	"name": "Immunity to Cold",
 	"system": {
-		"description": "",
+		"description": "<p>You become immune to cold</p>",
 		"level": 0,
 		"properties": [
 		],
