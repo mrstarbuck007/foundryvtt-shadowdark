@@ -1,0 +1,22 @@
+{
+	"_id": "Yp0ZyRJwOTPNFvVa",
+	"_key": "!items!Yp0ZyRJwOTPNFvVa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/environment/creatures/horse-brown.webp",
+	"name": "Mount (Paladin)",
+	"system": {
+		"description": "<p>You have a warhorse with a lovely demeanor (pg. 114). It comes when you call.</p><p>You can only have one such mount at a time. Your mount has additional levels equal to half your level (round down).</p><p>If you lose your mount, you can use your downtime to acquire and train another. Pass a [[check 15 cha]] check for the new warhorse to become your mount. Lower the DC one step each attempt.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

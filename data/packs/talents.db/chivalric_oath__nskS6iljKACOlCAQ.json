@@ -1,0 +1,22 @@
+{
+	"_id": "nskS6iljKACOlCAQ",
+	"_key": "!items!nskS6iljKACOlCAQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
+	"name": "Chivalric Oath",
+	"system": {
+		"description": "<p>You swear to act with integrity, humility, and chivalry. You must give honor and mercy to the deserving.</p><p>If you break this oath, you lose your Inspiring Presence and Named Blade talents until completing a holy quest of great challenge.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

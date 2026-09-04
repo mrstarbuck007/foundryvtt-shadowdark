@@ -1,0 +1,22 @@
+{
+	"_id": "qvi06fEOCpy1rhY1",
+	"_key": "!items!qvi06fEOCpy1rhY1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/holy/angel-wings-gray.webp",
+	"name": "Inspiring Presence",
+	"system": {
+		"description": "<p>Allies within near of you rise from dying on a roll of 18-20 and regain HP equal to your CHA bonus (min. 1).</p><p>Enemies within near of you lose immunity to morale checks.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

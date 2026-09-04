@@ -1,0 +1,22 @@
+{
+	"_id": "mMoyQSc807hJUuRi",
+	"_key": "!items!mMoyQSc807hJUuRi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/weapons/swords/sword-gold-holy.webp",
+	"name": "Random Magic Weapon Benefit",
+	"system": {
+		"description": "<p>Your Named Blade gains a random magic weapon benefit.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "h10YV70I80iWkO0L",
+	"_key": "!tables.results!T7UDZ9HwKBDqmqHN.h10YV70I80iWkO0L",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.mMoyQSc807hJUuRi",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/weapons/swords/sword-gold-holy.webp",
+	"name": "Random Magic Weapon Benefit",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "T7UDZ9HwKBDqmqHN",
+	"_key": "!tables!T7UDZ9HwKBDqmqHN",
+	"description": "",
+	"displayRoll": false,
+	"flags": {
+	},
+	"folder": null,
+	"formula": "2d6",
+	"img": "icons/weapons/swords/sword-gold-holy.webp",
+	"name": "Class Talents: Paladin",
+	"replacement": true,
+	"results": [
+		"7TRgtbicKNaH6Jjw",
+		"QFSIJBArQy6lJMRM",
+		"K19NAda2eziKGdMp",
+		"fx3qi2c9D5GIt4w6",
+		"ZZBnW9p3JuNKgxwA",
+		"N48gaeFP4VzsICMO",
+		"iCNKuraIW7lQeFGw",
+		"qeh15IwkDzT71YRn",
+		"h10YV70I80iWkO0L",
+		"9nNEMqSAoQtQ4kIi",
+		"fwXHAKc45776yG6x",
+		"8qVqYchYZNDYvOnT"
+	]
+}

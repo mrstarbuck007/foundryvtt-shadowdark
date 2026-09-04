@@ -48,6 +48,8 @@
 - Added the Monk of Yag-Kesh class from Shadowdark RPG: The Western Reaches
 	* Includes its Eye of Yag-Kesh, Fist of the Moon God, Still the Heart and Sun on the Water talents and its class talent table
 	* Eye of Yag-Kesh adds your Wisdom to your unarmored AC, and Fist of the Moon God makes your strikes deal a d8
+- Added the Paladin class from Shadowdark RPG: The Western Reaches
+	* Includes its Chivalric Oath, Inspiring Presence, Mount and Named Blade talents and its class talent table
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry

@@ -1,0 +1,41 @@
+{
+	"_id": "v0gqep7ScjjnmPlg",
+	"_key": "!items.effects!aICA36XyDHeaXVun.v0gqep7ScjjnmPlg",
+	"changes": [
+		{
+			"key": "system.roll.attack.bonus.REPLACEME",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		},
+		{
+			"key": "system.roll.attack.damage.REPLACEME",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/weapons/swords/sword-gold-holy.webp",
+	"name": "+1 to Named Blade Attacks and Damage",
+	"origin": "Compendium.shadowdark.talents.aICA36XyDHeaXVun",
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

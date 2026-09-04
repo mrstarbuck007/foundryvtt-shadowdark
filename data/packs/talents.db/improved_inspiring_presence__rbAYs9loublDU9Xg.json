@@ -1,0 +1,22 @@
+{
+	"_id": "rbAYs9loublDU9Xg",
+	"_key": "!items!rbAYs9loublDU9Xg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/holy/angel-wings-gray.webp",
+	"name": "Improved Inspiring Presence",
+	"system": {
+		"description": "<p>Increase your Inspiring Presence dying roll range by 1.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

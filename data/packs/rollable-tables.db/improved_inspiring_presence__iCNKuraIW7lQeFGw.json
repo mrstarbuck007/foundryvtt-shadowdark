@@ -1,0 +1,17 @@
+{
+	"_id": "iCNKuraIW7lQeFGw",
+	"_key": "!tables.results!T7UDZ9HwKBDqmqHN.iCNKuraIW7lQeFGw",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.rbAYs9loublDU9Xg",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/holy/angel-wings-gray.webp",
+	"name": "Improved Inspiring Presence",
+	"range": [
+		10,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

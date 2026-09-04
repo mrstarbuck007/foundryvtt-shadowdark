@@ -1,0 +1,109 @@
+{
+	"_id": "pGs7iFPjmPGplBH2",
+	"_key": "!items!pGs7iFPjmPGplBH2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
+	"name": "Paladin",
+	"system": {
+		"alignment": "",
+		"allArmor": true,
+		"allMeleeWeapons": false,
+		"allRangedWeapons": false,
+		"allWeapons": false,
+		"armor": [
+		],
+		"classAbilities": [
+		],
+		"classAbilityChoiceCount": 0,
+		"classAbilityChoices": [
+		],
+		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.T7UDZ9HwKBDqmqHN",
+		"description": "<p>Steel-clad paragons of knighthood who exemplify its highest ideals. They embody honor, duty, and courage.</p>",
+		"hitPoints": "1d8",
+		"languages": {
+			"common": 0,
+			"fixed": [
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"patron": {
+			"required": false,
+			"startingBoons": 0
+		},
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"spellcasting": {
+			"ability": "",
+			"baseDifficulty": 10,
+			"class": "__not_spellcaster__",
+			"spellsknown": {
+			}
+		},
+		"talentChoiceCount": 0,
+		"talentChoices": [
+		],
+		"talents": [
+			"Compendium.shadowdark.talents.Item.nskS6iljKACOlCAQ",
+			"Compendium.shadowdark.talents.Item.qvi06fEOCpy1rhY1",
+			"Compendium.shadowdark.talents.Item.Yp0ZyRJwOTPNFvVa",
+			"Compendium.shadowdark.talents.Item.CTWr3wfm6UOeDNim"
+		],
+		"titles": [
+			{
+				"chaotic": "Page",
+				"from": 1,
+				"lawful": "Page",
+				"neutral": "Page",
+				"to": 2
+			},
+			{
+				"chaotic": "Squire",
+				"from": 3,
+				"lawful": "Squire",
+				"neutral": "Squire",
+				"to": 4
+			},
+			{
+				"chaotic": "Fell Knight",
+				"from": 5,
+				"lawful": "Knight",
+				"neutral": "Knight Errant",
+				"to": 6
+			},
+			{
+				"chaotic": "Oathbreaker",
+				"from": 7,
+				"lawful": "Knight Banneret",
+				"neutral": "Knight Penitent",
+				"to": 8
+			},
+			{
+				"chaotic": "Blackguard",
+				"from": 9,
+				"lawful": "Knight of the Cross",
+				"neutral": "Knight of the Legion",
+				"to": 10
+			}
+		],
+		"weapons": [
+			"Compendium.shadowdark.gear.Item.1T8oUkfkBtYTLNF3",
+			"Compendium.shadowdark.gear.Item.C3mc5OlKPSJNMrng",
+			"Compendium.shadowdark.gear.Item.eqUuf9OGupuGPsBM",
+			"Compendium.shadowdark.gear.Item.B3ZPeUtbChN8lrDm",
+			"Compendium.shadowdark.gear.Item.n2tdDTvKCOv2NKuE",
+			"Compendium.shadowdark.gear.Item.ZPUhNMmwXXrtbCXi",
+			"Compendium.shadowdark.gear.Item.KQTWQwznjK80gVEU"
+		]
+	},
+	"type": "Class"
+}

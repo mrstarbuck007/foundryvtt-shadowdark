@@ -1,0 +1,23 @@
+{
+	"_id": "aICA36XyDHeaXVun",
+	"_key": "!items!aICA36XyDHeaXVun",
+	"effects": [
+		"v0gqep7ScjjnmPlg"
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/weapons/swords/sword-gold-holy.webp",
+	"name": "+1 to Named Blade Attacks and Damage",
+	"system": {
+		"description": "<p>Gain +1 to attacks and damage with your Named Blade.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

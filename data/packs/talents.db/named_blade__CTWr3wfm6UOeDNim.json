@@ -1,0 +1,22 @@
+{
+	"_id": "CTWr3wfm6UOeDNim",
+	"_key": "!items!CTWr3wfm6UOeDNim",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/weapons/swords/sword-gold-holy.webp",
+	"name": "Named Blade",
+	"system": {
+		"description": "<p>At 1st level, you gain a sword of your choice. It is a +0 magic weapon.</p><p>It becomes a +1 weapon at 2nd level, +2 at 5th level, and +3 at 8th level.</p><p>When you reach 3rd level, it gains a random magic weapon benefit.</p><p>If you lose your Named Blade, you can find another by completing a holy quest.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "9nNEMqSAoQtQ4kIi",
+	"_key": "!tables.results!T7UDZ9HwKBDqmqHN.9nNEMqSAoQtQ4kIi",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.aICA36XyDHeaXVun",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/weapons/swords/sword-gold-holy.webp",
+	"name": "+1 to Named Blade Attacks and Damage",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}
