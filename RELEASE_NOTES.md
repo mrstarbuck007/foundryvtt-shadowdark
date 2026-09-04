@@ -164,6 +164,8 @@
 	* The link takes you to the spell in the compendium and does not go stale when the book is reprinted
 - Fixed three magic item links rendering with a doubled space, from a stray space inside the link text
 - Added the Magic Weapon Benefits table, which the Paladin's Named Blade rolls on at 3rd level
+- Corrected the ancestry weights the character generator rolls on, which came to 101 rather than 100
+	* Human is 54, matching the book's d100 table, where it covers 01-54
 - Added ten chaotic priest spells from Shadowdark RPG: The Western Reaches
 	* A priest who serves a chaotic god sees these alongside the priest spells every priest can cast
 	* Completes the priest list at sixty spells: thirty for every priest and ten for each alignment
