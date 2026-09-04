@@ -1,0 +1,33 @@
+{
+	"_id": "2LJHs6ZF7XGmDvt4",
+	"_key": "!items!2LJHs6ZF7XGmDvt4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "JWPZqQ3Dk9n1iW1g",
+	"img": "icons/magic/defensive/barrier-shield-dome-deflect-teal.webp",
+	"name": "Forbid",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>Creatures cannot teleport into, out of, or within an area of effect extending out to double near from you. This area of effect moves with you.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "10"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

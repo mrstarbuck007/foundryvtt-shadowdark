@@ -1,0 +1,33 @@
+{
+	"_id": "x2oGwAC39AQnXoeI",
+	"_key": "!items!x2oGwAC39AQnXoeI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "JWPZqQ3Dk9n1iW1g",
+	"img": "icons/magic/perception/orb-crystal-ball-scrying.webp",
+	"name": "Identify",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You learn all the magical properties of one item you touch. You cannot cast this spell again until you complete a rest.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

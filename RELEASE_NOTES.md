@@ -164,6 +164,9 @@
 	* The link takes you to the spell in the compendium and does not go stale when the book is reprinted
 - Fixed three magic item links rendering with a doubled space, from a stray space inside the link text
 - Added the Magic Weapon Benefits table, which the Paladin's Named Blade rolls on at 3rd level
+- Added the sixteen mage spells from Shadowdark RPG: The Western Reaches
+	* They are the lawful part of the wizard list, so a lawful wizard sees them alongside their own spells
+	* Flare applies the blind effect, and Glyph links the paralysed condition and the teleport spell it refers to
 - Added the sixteen druid spells from Shadowdark RPG: The Western Reaches
 	* They are the neutral part of the wizard list, so a neutral wizard sees them alongside their own spells and a Green Knight sees these and nothing else
 	* The Green Knight can now cast at all, which it could not before, as its spellcasting talent granted no spell class

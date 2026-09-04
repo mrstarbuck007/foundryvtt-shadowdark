@@ -1,0 +1,33 @@
+{
+	"_id": "wZpj4y2hRWcBErpg",
+	"_key": "!items!wZpj4y2hRWcBErpg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "7DWu9AynRV2zb9Rw",
+	"img": "icons/magic/symbols/rune-sigil-green.webp",
+	"name": "Ward",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You ward yourself with a magical charm against ambush.</p><p>For the spell’s duration, you can’t be surprised (you roll initiative during surprise rounds and are treated as aware of all enemies).</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "10"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

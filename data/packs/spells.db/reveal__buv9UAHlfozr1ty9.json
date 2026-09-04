@@ -1,0 +1,33 @@
+{
+	"_id": "buv9UAHlfozr1ty9",
+	"_key": "!items!buv9UAHlfozr1ty9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "7DWu9AynRV2zb9Rw",
+	"img": "icons/magic/perception/eye-ringed-green.webp",
+	"name": "Reveal",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>End all invisibility effects out to a near distance from you.</p><p>You also become aware of the location of any hiding creatures within range.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

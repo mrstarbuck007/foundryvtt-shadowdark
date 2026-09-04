@@ -1,0 +1,33 @@
+{
+	"_id": "J0tFjWqLO2npPcie",
+	"_key": "!items!J0tFjWqLO2npPcie",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "24bp7luJolmj7e9e",
+	"img": "icons/magic/time/clock-stopwatch-white-blue.webp",
+	"name": "Stasis",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>A willing creature you touch becomes suspended in time. If the target is unwilling, it must be of LV 5 or less.</p><p>The target becomes unconscious and does not age. Its bodily functions cease, though it remains alive.</p><p>You may end the spell at any time or when a predefined condition you chose while casting the spell is met.</p>",
+		"duration": {
+			"type": "permanent",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

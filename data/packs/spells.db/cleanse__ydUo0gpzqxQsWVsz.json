@@ -1,0 +1,33 @@
+{
+	"_id": "ydUo0gpzqxQsWVsz",
+	"_key": "!items!ydUo0gpzqxQsWVsz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "7DWu9AynRV2zb9Rw",
+	"img": "icons/magic/life/cross-area-circle-green-white.webp",
+	"name": "Cleanse",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You expunge natural toxins from one creature you touch.</p><p>End the effects of one poison currently affecting the target.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

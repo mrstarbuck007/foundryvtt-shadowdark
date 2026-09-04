@@ -1,0 +1,33 @@
+{
+	"_id": "Z2NGx5T2N5KoCjDg",
+	"_key": "!items!Z2NGx5T2N5KoCjDg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "JWPZqQ3Dk9n1iW1g",
+	"img": "icons/magic/movement/portal-vortex-orange.webp",
+	"name": "Banish",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>With a word of power, you send one extraplanar creature of LV 6 or less who hears you back to its dimension of origin.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,33 @@
+{
+	"_id": "mm97v4O4hmFcPxvW",
+	"_key": "!items!mm97v4O4hmFcPxvW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "JWPZqQ3Dk9n1iW1g",
+	"img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+	"name": "Speak with Object",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>An object you touch mentally answers your questions.</p><p>The object’s wit matches the rarity of its primary materials. A diamond is wittier than a stone.</p><p>You can ask the object up to three yes or no questions (one at a time). The GM truthfully answers &quot;yes&quot; or &quot;no&quot; to each.</p><p>If you cast this spell more than once in 24 hours, treat a failed spellcasting check for it as a critical failure instead.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

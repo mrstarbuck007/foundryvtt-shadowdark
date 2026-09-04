@@ -1,0 +1,33 @@
+{
+	"_id": "b72zA0F0NSB0y7IS",
+	"_key": "!items!b72zA0F0NSB0y7IS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "riXhNqeauiWpVKAz",
+	"img": "icons/magic/movement/trail-streak-impact-blue.webp",
+	"name": "Push/Pull",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You move one human-sized object or a creature of LV 4 or less a near distance.</p><p>If the target is anchored in a way that prevents free movement, the DC to cast this spell is 18.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

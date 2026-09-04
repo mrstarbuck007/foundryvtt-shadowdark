@@ -1,0 +1,33 @@
+{
+	"_id": "kPo6oRnsyQ5hQQyO",
+	"_key": "!items!kPo6oRnsyQ5hQQyO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "a6WcvmZpOASURb60",
+	"img": "icons/commodities/gems/gem-faceted-diamond-blue.webp",
+	"name": "Permanence",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>In order to cast this spell, you must sprinkle a powdered diamond on the target.</p><p>Choose one object in range that is currently under the effects of a spell you have cast. The duration of that spell becomes 1 year.</p><p>You cannot alter the original spell’s effects after casting permanence. For instance, you can no longer move an object under the effects of @UUID[Compendium.shadowdark.spells.Item.AZo6rYWOo0SHvpxZ]{telekinesis}.</p>",
+		"duration": {
+			"type": "days",
+			"value": "365"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

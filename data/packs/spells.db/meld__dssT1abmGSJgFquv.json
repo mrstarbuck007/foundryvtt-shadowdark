@@ -1,0 +1,33 @@
+{
+	"_id": "dssT1abmGSJgFquv",
+	"_key": "!items!dssT1abmGSJgFquv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "riXhNqeauiWpVKAz",
+	"img": "icons/magic/control/silhouette-aura-energy.webp",
+	"name": "Meld",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You merge slightly with the ethereal plane, freeing yourself from physical hindrances.</p><p>You may ignore any effect that would impact your movement for the spell’s duration.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

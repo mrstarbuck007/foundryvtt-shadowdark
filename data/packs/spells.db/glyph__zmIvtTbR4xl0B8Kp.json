@@ -1,0 +1,33 @@
+{
+	"_id": "zmIvtTbR4xl0B8Kp",
+	"_key": "!items!zmIvtTbR4xl0B8Kp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "24bp7luJolmj7e9e",
+	"img": "icons/magic/symbols/rune-sigil-hook-white-red.webp",
+	"name": "Glyph",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>You draw an arcane symbol on an object that imparts one of the following magical effects:</p><ul><li><p><strong>Bind.</strong> A reader of LV 6 or less is paralyzed for 1 hour. (@UUID[Compendium.shadowdark.conditions.Item.ROTpAUAHx5s4AZZh]{Condition: Paralyzed})</p></li><li><p><strong>Harm.</strong> The reader takes [[/r 3d6]] damage.</p></li><li><p><strong>Message.</strong> The reader hears a brief mental message.</p></li><li><p><strong>Teleportation Sigil.</strong> Treat the object as a teleportation sigil per the @UUID[Compendium.shadowdark.spells.Item.F9tt99DLLvAGukpg]{teleport} spell.</p></li></ul><p>The glyph disappears once activated.</p>",
+		"duration": {
+			"type": "days",
+			"value": "7"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

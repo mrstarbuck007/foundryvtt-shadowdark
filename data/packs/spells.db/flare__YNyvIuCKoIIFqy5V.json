@@ -1,0 +1,33 @@
+{
+	"_id": "YNyvIuCKoIIFqy5V",
+	"_key": "!items!YNyvIuCKoIIFqy5V",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "7DWu9AynRV2zb9Rw",
+	"img": "icons/magic/light/beams-explosion-blue.webp",
+	"name": "Flare",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+			"Compendium.shadowdark.classes.Item.035nuVkU9q2wtMPs"
+		],
+		"damageType": "none",
+		"description": "<p>A flash of white-hot light fills a near-sized cube extending from you. All creatures in the area of effect are blinded for one round.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.SOkcvkzrGMGQKhmk]{Spell Effect: Blind}</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}
