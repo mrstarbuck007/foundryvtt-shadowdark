@@ -22,6 +22,7 @@
 	* An ancestry with only one table set still works as it did, so no migration is needed
 	* The Quickstart Character Names and End Papers journals now show the two-part tables
 - PCs now start with a trinket, rolled from a d100 table on their ancestry
+	* A migration retags any items already in your world so they do not show an unknown source
 	* Adds the eight trinket tables from Shadowdark RPG: The Western Reaches and the items they hand out, which take up no gear slots
 	* The character generator rolls one for every character it creates, and it can be removed if it is not wanted
 
