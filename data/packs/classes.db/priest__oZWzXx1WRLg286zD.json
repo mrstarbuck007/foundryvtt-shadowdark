@@ -23,7 +23,7 @@
 		],
 		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.CtkKBhsOpV1v5YjX",
 		"description": "<p>Crusading templars, prophetic shamans, or mad-eyed zealots who wield the power of their gods to cleanse the unholy.</p>",
-		"hitPoints": "d6",
+		"hitPoints": "1d6",
 		"languages": {
 			"common": 0,
 			"fixed": [

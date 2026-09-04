@@ -25,7 +25,7 @@
 		],
 		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.vPME2uXw5RuoKEP8",
 		"description": "<p>Cursed knights who walk the path of St. Ydris the Unholy, the Possessed. They embrace the darkness in order to fight it, cleansing evil with a flurry of steel and forbidden sorcery.</p>",
-		"hitPoints": "d6",
+		"hitPoints": "1d6",
 		"languages": {
 			"common": 0,
 			"fixed": [

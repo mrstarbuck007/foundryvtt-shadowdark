@@ -26,7 +26,7 @@
 		],
 		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.vwwDlzGjfaiM0R4S",
 		"description": "<p>Howling barbarians thundering across the sand on wild horses, elven spies wielding curved blades atop silvery camels, or bandits wrapped in colorful silks racing on sleek, desert stallions.</p>",
-		"hitPoints": "d8",
+		"hitPoints": "1d8",
 		"languages": {
 			"common": 0,
 			"fixed": [

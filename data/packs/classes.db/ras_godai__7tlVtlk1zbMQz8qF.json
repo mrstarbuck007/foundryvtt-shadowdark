@@ -25,7 +25,7 @@
 		],
 		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.0vRwhfQgvAkzToHN",
 		"description": "<p>Black-clad assassins who train from childhood inside a hidden desert monastery. They gain their sorcerous powers from a legendary black lotus flower that was given to them by a demon.</p>",
-		"hitPoints": "d6",
+		"hitPoints": "1d6",
 		"languages": {
 			"common": 0,
 			"fixed": [

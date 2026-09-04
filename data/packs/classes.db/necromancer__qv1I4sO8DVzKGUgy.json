@@ -25,7 +25,7 @@
 		],
 		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.GZYCCWKA5WZVpzus",
 		"description": "<p>Feared mystics who see beyond the shores of the living world. These warrior-mages guide the dead to their final rest or call them back from its dark waters to walk again in life.</p>",
-		"hitPoints": "d6",
+		"hitPoints": "1d6",
 		"languages": {
 			"common": 0,
 			"fixed": [

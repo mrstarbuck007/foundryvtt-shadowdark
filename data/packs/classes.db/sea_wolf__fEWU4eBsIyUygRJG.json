@@ -26,7 +26,7 @@
 		],
 		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.r87J1r4hXVNnPDUK",
 		"description": "<p>Seafaring raiders who prowl the isles for plunder in dragonheaded longboats. When the warhorn sounds, they become fierce berserkers and shield maidens who hope to please their gods with a brave death.</p>",
-		"hitPoints": "d8",
+		"hitPoints": "1d8",
 		"languages": {
 			"common": 0,
 			"fixed": [

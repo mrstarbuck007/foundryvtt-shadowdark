@@ -25,7 +25,7 @@
 		],
 		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.XU4gJD2AK8FCeEZh",
 		"description": "<p>Baleful diviners who reek of smoke and blood. They untangle the whispers of the gods by reading the runes, the bones, and the stars. Their knowledge of fate allows them to bend it.</p>",
-		"hitPoints": "d6",
+		"hitPoints": "1d6",
 		"languages": {
 			"common": 0,
 			"fixed": [

@@ -24,7 +24,7 @@
 		],
 		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.fifOKQmilp9Y45lf",
 		"description": "<p>Cackling crones stooped over cauldrons, chanting shamans smeared in blood and clay, and outcast maidens with milky eyes that see portents and secrets.</p>",
-		"hitPoints": "d4",
+		"hitPoints": "1d4",
 		"languages": {
 			"common": 0,
 			"fixed": [

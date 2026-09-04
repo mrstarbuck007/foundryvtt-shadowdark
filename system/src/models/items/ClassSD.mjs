@@ -33,7 +33,7 @@ export default class ClassSD extends BaseItemSD {
 			classAbilityChoices: new fields.ArrayField(new fields.DocumentUUIDField()),
 			classAbilityChoiceCount: new fields.NumberField({ integer: true, initial: 0, min: 0 }),
 			classTalentTable: new fields.DocumentUUIDField(),
-			hitPoints: new fields.StringField({initial: "d6"}),
+			hitPoints: new fields.StringField({initial: "1d6"}),
 			patron: new fields.SchemaField({
 				required: new fields.BooleanField({initial: false}),
 				startingBoons: new fields.NumberField({ integer: true, initial: 0}),

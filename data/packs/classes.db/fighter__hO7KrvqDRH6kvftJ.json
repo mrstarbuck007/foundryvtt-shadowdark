@@ -23,7 +23,7 @@
 		],
 		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.dExHo4P85MgpwHd9",
 		"description": "<p>Blood-soaked gladiators in dented armor, acrobatic duelists with darting swords, or far-eyed elven archers who carve their legends with steel and grit.</p>",
-		"hitPoints": "d8",
+		"hitPoints": "1d8",
 		"languages": {
 			"common": 0,
 			"fixed": [

@@ -30,7 +30,7 @@
 		],
 		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.PPsLlxyDTbhy1aRI",
 		"description": "<p>Skilled trackers, stealthy wanderers, and peerless warriors who call the wilds their home.</p>",
-		"hitPoints": "d8",
+		"hitPoints": "1d8",
 		"languages": {
 			"common": 0,
 			"fixed": [
