@@ -13,6 +13,7 @@
 	* Now at the top of the sidebar and renamed "Build Character" to make it more obvious
 - [#1420] Show Effects tab on non-Magic Item items as well
 - Added the new basic gear from Shadowdark RPG: The Western Reaches, along with the book itself as a selectable source and a new candle light source template
+- Added the new weapons from Shadowdark RPG: The Western Reaches, along with the Charge, Devastating and Mounted weapon properties
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry

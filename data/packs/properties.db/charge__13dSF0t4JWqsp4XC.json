@@ -1,0 +1,21 @@
+{
+	"_id": "13dSF0t4JWqsp4XC",
+	"_key": "!items!13dSF0t4JWqsp4XC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vFaoMFPGDGlKn4gF",
+	"img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+	"name": "Charge",
+	"system": {
+		"description": "<p>You can only attack with this weapon after moving at least a near distance.</p>",
+		"itemType": "weapon",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Property"
+}

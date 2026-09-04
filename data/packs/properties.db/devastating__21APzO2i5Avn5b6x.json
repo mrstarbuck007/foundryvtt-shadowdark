@@ -1,0 +1,21 @@
+{
+	"_id": "21APzO2i5Avn5b6x",
+	"_key": "!items!21APzO2i5Avn5b6x",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vFaoMFPGDGlKn4gF",
+	"img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+	"name": "Devastating",
+	"system": {
+		"description": "<p>This weapon deals x4 damage on a critical hit and is then destroyed.</p>",
+		"itemType": "weapon",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Property"
+}

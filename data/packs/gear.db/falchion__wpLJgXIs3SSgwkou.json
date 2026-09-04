@@ -1,0 +1,46 @@
+{
+	"_id": "wpLJgXIs3SSgwkou",
+	"_key": "!items!wpLJgXIs3SSgwkou",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "LVzvIhYHieRT4O6q",
+	"img": "icons/weapons/swords/scimitar-broad.webp",
+	"name": "Falchion",
+	"system": {
+		"ammoClass": "",
+		"baseWeapon": "",
+		"broken": false,
+		"cost": {
+			"cp": 0,
+			"gp": 12,
+			"sp": 0
+		},
+		"damage": {
+			"oneHanded": "",
+			"twoHanded": "d8"
+		},
+		"description": "",
+		"equipped": false,
+		"isAmmunition": false,
+		"magicItem": false,
+		"properties": [
+			"Compendium.shadowdark.properties.Item.rqQwpoeWEqi0ZcYK",
+			"Compendium.shadowdark.properties.Item.b6Gm2ULKj2qyy2xJ"
+		],
+		"quantity": 1,
+		"range": "close",
+		"slots": {
+			"free_carry": 0,
+			"per_slot": 1,
+			"slots_used": 1
+		},
+		"source": {
+			"title": "western-reaches"
+		},
+		"stashed": false,
+		"type": "melee"
+	},
+	"type": "Weapon"
+}

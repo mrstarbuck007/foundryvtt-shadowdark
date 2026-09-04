@@ -1,0 +1,46 @@
+{
+	"_id": "WXQnYAODKBbHycDC",
+	"_key": "!items!WXQnYAODKBbHycDC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "LVzvIhYHieRT4O6q",
+	"img": "icons/weapons/thrown/throwing-star-quad-steel.webp",
+	"name": "Chakram",
+	"system": {
+		"ammoClass": "",
+		"baseWeapon": "",
+		"broken": false,
+		"cost": {
+			"cp": 0,
+			"gp": 20,
+			"sp": 0
+		},
+		"damage": {
+			"oneHanded": "d6",
+			"twoHanded": ""
+		},
+		"description": "",
+		"equipped": false,
+		"isAmmunition": false,
+		"magicItem": false,
+		"properties": [
+			"Compendium.shadowdark.properties.Item.R9rw4pKdIHfJJoyJ",
+			"Compendium.shadowdark.properties.Item.c35ROL1nXwC840kC"
+		],
+		"quantity": 1,
+		"range": "near",
+		"slots": {
+			"free_carry": 0,
+			"per_slot": 1,
+			"slots_used": 1
+		},
+		"source": {
+			"title": "western-reaches"
+		},
+		"stashed": false,
+		"type": "ranged"
+	},
+	"type": "Weapon"
+}

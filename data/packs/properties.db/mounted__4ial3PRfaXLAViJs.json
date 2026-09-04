@@ -1,0 +1,21 @@
+{
+	"_id": "4ial3PRfaXLAViJs",
+	"_key": "!items!4ial3PRfaXLAViJs",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vFaoMFPGDGlKn4gF",
+	"img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+	"name": "Mounted",
+	"system": {
+		"description": "<p>This weapon can only be wielded while mounted.</p>",
+		"itemType": "weapon",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Property"
+}

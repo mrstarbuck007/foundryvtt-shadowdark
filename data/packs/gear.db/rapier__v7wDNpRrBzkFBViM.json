@@ -1,0 +1,46 @@
+{
+	"_id": "v7wDNpRrBzkFBViM",
+	"_key": "!items!v7wDNpRrBzkFBViM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "LVzvIhYHieRT4O6q",
+	"img": "icons/weapons/swords/sword-guard-engraved.webp",
+	"name": "Rapier",
+	"system": {
+		"ammoClass": "",
+		"baseWeapon": "",
+		"broken": false,
+		"cost": {
+			"cp": 0,
+			"gp": 8,
+			"sp": 0
+		},
+		"damage": {
+			"oneHanded": "d8",
+			"twoHanded": ""
+		},
+		"description": "",
+		"equipped": false,
+		"isAmmunition": false,
+		"magicItem": false,
+		"properties": [
+			"Compendium.shadowdark.properties.Item.e5RpI0crHweCVt8B",
+			"Compendium.shadowdark.properties.Item.rqQwpoeWEqi0ZcYK"
+		],
+		"quantity": 1,
+		"range": "close",
+		"slots": {
+			"free_carry": 0,
+			"per_slot": 1,
+			"slots_used": 1
+		},
+		"source": {
+			"title": "western-reaches"
+		},
+		"stashed": false,
+		"type": "melee"
+	},
+	"type": "Weapon"
+}
