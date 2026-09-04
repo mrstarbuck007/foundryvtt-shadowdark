@@ -15,7 +15,7 @@
 			"gp": 0,
 			"sp": 0
 		},
-		"description": "<p><em>A thin, weighty rod of dark iron inscribed with spiraling runes.</em></p><p><strong>Benefit.</strong> This wand contains the spells @UUID[Compendium.shadowdark.spells.Item.6N33hyLWYZCRgkeX]{dispel magic} (pg. 59) and @UUID[Compendium.shadowdark.spells.Item.P9LFIH0PW4Zlx3RG]{protection from energy }(pg. 68).</p><p><strong>Curse.</strong> Each time you fail a spellcasting check with this wand, you also lose the ability to cast a random spell you know until you complete a rest.</p>",
+		"description": "<p><em>A thin, weighty rod of dark iron inscribed with spiraling runes.</em></p><p><strong>Benefit.</strong> This wand contains the spells @UUID[Compendium.shadowdark.spells.Item.6N33hyLWYZCRgkeX]{dispel magic} and @UUID[Compendium.shadowdark.spells.Item.P9LFIH0PW4Zlx3RG]{protection from energy}.</p><p><strong>Curse.</strong> Each time you fail a spellcasting check with this wand, you also lose the ability to cast a random spell you know until you complete a rest.</p>",
 		"equipped": false,
 		"identification": {
 			"description": "",

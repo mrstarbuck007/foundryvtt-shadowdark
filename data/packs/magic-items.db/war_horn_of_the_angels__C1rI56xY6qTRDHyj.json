@@ -15,7 +15,7 @@
 			"gp": 0,
 			"sp": 0
 		},
-		"description": "<p><em>An opalescent ox horn capped with a golden mouthpiece.</em></p><p><strong>Benefit.</strong> Only a lawful being can wield the horn. Once per day, you can blow the horn to cast @UUID[Compendium.shadowdark.spells.Item.hhCpwnqFy8ntO0jU]{rebuke unholy} (pg. 69) with a +4 bonus.</p><p>A demon or devil who hears the horn has disadvantage on its Charisma check vs. your rebuke unholy spellcasting check.</p>",
+		"description": "<p><em>An opalescent ox horn capped with a golden mouthpiece.</em></p><p><strong>Benefit.</strong> Only a lawful being can wield the horn. Once per day, you can blow the horn to cast @UUID[Compendium.shadowdark.spells.Item.hhCpwnqFy8ntO0jU]{rebuke unholy} with a +4 bonus.</p><p>A demon or devil who hears the horn has disadvantage on its Charisma check vs. your rebuke unholy spellcasting check.</p>",
 		"equipped": false,
 		"identification": {
 			"description": "",

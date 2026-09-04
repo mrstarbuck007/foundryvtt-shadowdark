@@ -15,7 +15,7 @@
 			"gp": 0,
 			"sp": 0
 		},
-		"description": "<p><em>The knobby finger-bone of a swamp troll steeped in acrid embalming fluid.</em></p><p><strong>Benefit.</strong> This wand contains the spells @UUID[Compendium.shadowdark.spells.Item.M702ErO4KOtMJzsK]{animate dead} (pg. 54) and @UUID[Compendium.shadowdark.spells.Item.uNxbpd7fENzDUxfd]{create undead} (pg. 58).</p><p><strong>Curse.</strong> Each time you use the wand to cast a spell, you take [[/r 1d4]] points of Constitution damage. If you reach 0 Constitution from this effect, you die and turn into a zombie.</p>",
+		"description": "<p><em>The knobby finger-bone of a swamp troll steeped in acrid embalming fluid.</em></p><p><strong>Benefit.</strong> This wand contains the spells @UUID[Compendium.shadowdark.spells.Item.M702ErO4KOtMJzsK]{animate dead} and @UUID[Compendium.shadowdark.spells.Item.uNxbpd7fENzDUxfd]{create undead}.</p><p><strong>Curse.</strong> Each time you use the wand to cast a spell, you take [[/r 1d4]] points of Constitution damage. If you reach 0 Constitution from this effect, you die and turn into a zombie.</p>",
 		"equipped": false,
 		"identification": {
 			"description": "",

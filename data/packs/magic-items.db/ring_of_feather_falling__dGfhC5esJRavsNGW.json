@@ -21,7 +21,7 @@
 			"gp": 0,
 			"sp": 0
 		},
-		"description": "<p><em>A pearly ring carved in the likeness of an owl feather.</em></p><p><strong>Benefit.</strong> Once per day, the ring can cast @UUID[Compendium.shadowdark.spells.Item.0ejsM2UIZDHs5u2f]{feather fall }(pg. 60) on you when you fall.</p><p><strong>Personality.</strong> Neutral. Fearful of heights. Mentally hoots in an owl-like voice to stay away from the edge of cliffs and pits.</p>",
+		"description": "<p><em>A pearly ring carved in the likeness of an owl feather.</em></p><p><strong>Benefit.</strong> Once per day, the ring can cast @UUID[Compendium.shadowdark.spells.Item.0ejsM2UIZDHs5u2f]{feather fall} on you when you fall.</p><p><strong>Personality.</strong> Neutral. Fearful of heights. Mentally hoots in an owl-like voice to stay away from the edge of cliffs and pits.</p>",
 		"equipped": false,
 		"identification": {
 			"description": "",

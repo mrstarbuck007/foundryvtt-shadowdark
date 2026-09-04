@@ -15,7 +15,7 @@
 			"gp": 0,
 			"sp": 0
 		},
-		"description": "<p><em>A tarnished, brass oil lamp.</em></p><p><strong>Benefit.</strong> Rubbing the lamp causes its resident @UUID[Compendium.shadowdark.monsters.Actor.ytftI0motwEnF29v]{djinni} (50% chance) or efreeti (50% chance) to emerge. A djinni grants its summoner one @UUID[Compendium.shadowdark.spells.Item.hMGQuETjBxuMwjsR]{wish} spell (pg. 73) before disappearing. An @UUID[Compendium.shadowdark.monsters.Actor.o1aBfxHFxYVHLTRn]{efreeti} does the same, but only after being defeated in combat.</p>",
+		"description": "<p><em>A tarnished, brass oil lamp.</em></p><p><strong>Benefit.</strong> Rubbing the lamp causes its resident @UUID[Compendium.shadowdark.monsters.Actor.ytftI0motwEnF29v]{djinni} (50% chance) or efreeti (50% chance) to emerge. A djinni grants its summoner one @UUID[Compendium.shadowdark.spells.Item.hMGQuETjBxuMwjsR]{wish} spell before disappearing. An @UUID[Compendium.shadowdark.monsters.Actor.o1aBfxHFxYVHLTRn]{efreeti} does the same, but only after being defeated in combat.</p>",
 		"equipped": false,
 		"identification": {
 			"description": "",

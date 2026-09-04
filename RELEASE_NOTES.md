@@ -158,6 +158,11 @@
 - Corrected the Wizard's page references to the current printing of the core rules
 	* Spellcasting points at page 52 for the wizard spell list, and the talent table's magic item entry now names the type you choose and its page
 	* Fixed flameconjuring in the class description, which had lost its hyphen to a line break in the book
+- Page references throughout the packs now point at the right pages
+	* Torch and Lantern point at Light Sources on page 84, and the Knight of St. Ydris at the Diabolical Mishap tables on page 184
+	* Removed 27 page references that sat beside a link to the very spell they cited, across sixteen magic items and the Summon Storm effect
+	* The link takes you to the spell in the compendium and does not go stale when the book is reprinted
+- Fixed three magic item links rendering with a doubled space, from a stray space inside the link text
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores

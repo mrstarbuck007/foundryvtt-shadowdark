@@ -24,7 +24,7 @@
 			"oneHanded": "d6",
 			"twoHanded": ""
 		},
-		"description": "<p><em>A three-pronged, mithral harpoon studded with pearls.</em></p><p><strong>Bonus.</strong> +2 spear.</p><p><strong>Benefit.</strong> You can breathe underwater, as well as speak to and understand wild sea creatures. Once per day, you can cast @UUID[Compendium.shadowdark.spells.Item.TKDuwFu1hP2lX549]{control water} (pg. 57) with a +4 bonus.</p>",
+		"description": "<p><em>A three-pronged, mithral harpoon studded with pearls.</em></p><p><strong>Bonus.</strong> +2 spear.</p><p><strong>Benefit.</strong> You can breathe underwater, as well as speak to and understand wild sea creatures. Once per day, you can cast @UUID[Compendium.shadowdark.spells.Item.TKDuwFu1hP2lX549]{control water} with a +4 bonus.</p>",
 		"equipped": false,
 		"handedness": "",
 		"identification": {

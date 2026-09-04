@@ -16,7 +16,7 @@
 			"gp": 0,
 			"sp": 0
 		},
-		"description": "<p><em>A marble with a blue ring of light glowing softly inside it.</em></p><p><strong>Benefit.</strong> You can throw this bead at one target up to a near distance. If you hit, the target becomes caught in a @UUID[Compendium.shadowdark.spells.Item.B091clRxdPW3SQ4G]{resilient sphere} spell (pg. 69).</p>",
+		"description": "<p><em>A marble with a blue ring of light glowing softly inside it.</em></p><p><strong>Benefit.</strong> You can throw this bead at one target up to a near distance. If you hit, the target becomes caught in a @UUID[Compendium.shadowdark.spells.Item.B091clRxdPW3SQ4G]{resilient sphere} spell.</p>",
 		"equipped": false,
 		"isAmmunition": false,
 		"isPhysical": true,

@@ -15,7 +15,7 @@
 			"gp": 0,
 			"sp": 0
 		},
-		"description": "<p><em>A brass-plated book with pages of etched copper leaf.</em></p><p><strong>Benefit.</strong> The tome contains one each of the following scrolls: @UUID[Compendium.shadowdark.spells.Item.ItN82uLU3PhJFLNm]{burning hands} (pg. 56), @UUID[Compendium.shadowdark.spells.Item.j2gvzfnMGQwxqgGg]{fireball} (pg. 60), and @UUID[Compendium.shadowdark.spells.Item.71VbHnopcTmRXz47]{prismatic orb} (pg. 67).</p>",
+		"description": "<p><em>A brass-plated book with pages of etched copper leaf.</em></p><p><strong>Benefit.</strong> The tome contains one each of the following scrolls: @UUID[Compendium.shadowdark.spells.Item.ItN82uLU3PhJFLNm]{burning hands}, @UUID[Compendium.shadowdark.spells.Item.j2gvzfnMGQwxqgGg]{fireball}, and @UUID[Compendium.shadowdark.spells.Item.71VbHnopcTmRXz47]{prismatic orb}.</p>",
 		"equipped": false,
 		"identification": {
 			"description": "",

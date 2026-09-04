@@ -16,7 +16,7 @@
 			"gp": 0,
 			"sp": 0
 		},
-		"description": "<p><em>A flawless glass orb with roiling images swirling inside it.</em></p><p><strong>Benefit.</strong> Only wizards can use a Crystal Ball. You can use it to cast the @UUID[Compendium.shadowdark.spells.Item.FrdLzy8cWPcVS2Mz]{scrying} spell (pg. 70). If you fail the spellcasting check to cast scrying, the Crystal Ball ceases to function for a day.</p>",
+		"description": "<p><em>A flawless glass orb with roiling images swirling inside it.</em></p><p><strong>Benefit.</strong> Only wizards can use a Crystal Ball. You can use it to cast the @UUID[Compendium.shadowdark.spells.Item.FrdLzy8cWPcVS2Mz]{scrying} spell. If you fail the spellcasting check to cast scrying, the Crystal Ball ceases to function for a day.</p>",
 		"equipped": false,
 		"isAmmunition": false,
 		"isPhysical": true,

@@ -22,7 +22,7 @@
 			"gp": 0,
 			"sp": 0
 		},
-		"description": "<p><em>A helm carved with brain ridges, a spinal neck-guard, and octopus-like tentacles.</em></p><p><strong>Benefit.</strong> You can cast the @UUID[Compendium.shadowdark.spells.Item.XBt4wA37ypUiXkp6]{detect thoughts} spell (pg. 58) three times per day (+4 bonus).</p>",
+		"description": "<p><em>A helm carved with brain ridges, a spinal neck-guard, and octopus-like tentacles.</em></p><p><strong>Benefit.</strong> You can cast the @UUID[Compendium.shadowdark.spells.Item.XBt4wA37ypUiXkp6]{detect thoughts} spell three times per day (+4 bonus).</p>",
 		"equipped": false,
 		"identification": {
 			"description": "",
