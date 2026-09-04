@@ -21,6 +21,9 @@
 		"turns": null
 	},
 	"flags": {
+		"shadowdark": {
+			"situational": true
+		}
 	},
 	"img": "icons/magic/perception/silhouette-stealth-shadow.webp",
 	"name": "Creepy Stillness",

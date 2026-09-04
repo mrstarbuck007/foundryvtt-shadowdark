@@ -154,6 +154,7 @@
 	* The Knight of St. Ydris, Seer and Witch were missing it, where the Green Knight, Necromancer, Priest and Wizard had it
 - Fixed the Thief's Thievery talent granting advantage on every ability check
 	* Its effect was always on rather than toggled, so a Thief had advantage on everything instead of the five thieving tasks the book lists
+	* The Wyrdling's Creepy Stillness had the same problem and is fixed too, as it covered every Dexterity check rather than hiding and sneaking
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores

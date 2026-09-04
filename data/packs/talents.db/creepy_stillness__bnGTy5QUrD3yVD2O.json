@@ -10,7 +10,7 @@
 	"img": "icons/magic/perception/silhouette-stealth-shadow.webp",
 	"name": "Creepy Stillness",
 	"system": {
-		"description": "<p>You gain ADV on Dexterity checks to hide and sneak.</p>",
+		"description": "<p>You gain ADV on Dexterity checks to hide and sneak.</p><p><em><strong>Note:</strong> Remember to toggle the <strong>Creepy Stillness</strong> Active Effect on/off in the Effects tab of your character sheet when needed.</em></p>",
 		"level": 0,
 		"properties": [
 		],
