@@ -108,8 +108,9 @@
 - Added the remaining eight patrons from Shadowdark RPG: The Western Reaches, with their Patron Boon tables
 	* Krraktanamak, Molek, Oatali, Obe-Ixx, Oros, Rathgamnon, Saint Ydris and Yag-Kesh, so all seventeen patrons the book lists are now selectable
 	* Adds 27 new Patron Boon talents, from the crab claw and the couatl form to the warband boons and the sorcerer, priest and witch spell grants
-	* These eight have no description yet, as the book text for them has not been entered
 - Filled in the Immunity to Acid, Immunity to Cold and Immunity to Poison talents, which shipped with empty descriptions
+- Every patron now carries its full Western Reaches entry, with its Demands and its In the Reaches passage
+	* The six patrons that already had a description gain the fuller book text, including their alignments and the rest of their opening passages
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores
