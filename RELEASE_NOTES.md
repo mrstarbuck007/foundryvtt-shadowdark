@@ -144,7 +144,9 @@
 	* A Fighter created in Foundry only received Weapon Mastery and Hauler
 - Fixed the Fighter's talent table offering +1 to Melee Attacks and Damage on a roll of 12, a talent the table never grants
 	* It now offers +1 to Melee and Ranged Attacks, which is what the 3-6 band grants
-- Set the missing source on the +1 to Damage talent, which showed as blank in the source filter
+- Every item in the packs now records which book it comes from
+	* The +1 to Damage talent, both Arrows entries, the Witch's Teleport to Familiar ability and the Magnetize spell effect had no source, so they showed as blank in the source filter
+- Removed a duplicate Iron Spikes item that nothing referenced
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores
