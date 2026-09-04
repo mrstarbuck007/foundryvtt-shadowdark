@@ -1,0 +1,17 @@
+{
+	"_id": "BKfuMtWlIfpsq88D",
+	"_key": "!tables.results!GZYCCWKA5WZVpzus.BKfuMtWlIfpsq88D",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.pZ96AvqmtMVktogA",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/life/heart-cross-strong-purple-orange.webp",
+	"name": "Return to Life",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

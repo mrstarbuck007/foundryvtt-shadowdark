@@ -1,0 +1,16 @@
+{
+	"_id": "8PKwsmViYZtj5zgA",
+	"_key": "!tables.results!VJpygr1SMMBn4oRM.8PKwsmViYZtj5zgA",
+	"description": "<b>Decay!</b> You are cursed with necrotic rot; you lose 1 point of CON each day until you find a way to end the curse.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

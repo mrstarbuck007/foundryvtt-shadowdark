@@ -1,0 +1,16 @@
+{
+	"_id": "klTIh8hXFZWjMSwo",
+	"_key": "!tables.results!VJpygr1SMMBn4oRM.klTIh8hXFZWjMSwo",
+	"description": "<b>Memento mori!</b> Visions of mortality fill your mind, causing you to lose [[/r 1d4]] spells from each tier until you rest.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		7,
+		7
+	],
+	"type": "text",
+	"weight": 1
+}

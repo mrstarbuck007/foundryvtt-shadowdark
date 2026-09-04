@@ -1,0 +1,16 @@
+{
+	"_id": "iMPf52WkeaTcgwrZ",
+	"_key": "!tables.results!xgrEKr2Fp1KRAF3h.iMPf52WkeaTcgwrZ",
+	"description": "<b>Somnolence!</b> You fall into a deep sleep for [[/r 1d4]] rounds.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

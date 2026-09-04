@@ -1,0 +1,17 @@
+{
+	"_id": "jVgjTYtmhJ6TTMmC",
+	"_key": "!tables.results!GZYCCWKA5WZVpzus.jVgjTYtmhJ6TTMmC",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.93QoQQ6cI7xa4TCm",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/spear-tips-triple-orange.webp",
+	"name": "+1 to Melee Attacks",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

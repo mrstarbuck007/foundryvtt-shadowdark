@@ -1,0 +1,22 @@
+{
+	"_id": "pZ96AvqmtMVktogA",
+	"_key": "!items!pZ96AvqmtMVktogA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/life/heart-cross-strong-purple-orange.webp",
+	"name": "Return to Life",
+	"system": {
+		"description": "<p>The next time you die, you may return to life with full HP.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

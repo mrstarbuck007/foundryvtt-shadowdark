@@ -1,0 +1,16 @@
+{
+	"_id": "LEMx87XVtSnhPUA5",
+	"_key": "!tables.results!xgrEKr2Fp1KRAF3h.LEMx87XVtSnhPUA5",
+	"description": "<b>Calamity!</b> Roll twice and combine both effects (reroll any further 1s).",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

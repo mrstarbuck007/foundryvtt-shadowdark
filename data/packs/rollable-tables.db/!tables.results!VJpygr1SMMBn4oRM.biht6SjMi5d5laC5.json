@@ -1,0 +1,16 @@
+{
+	"_id": "biht6SjMi5d5laC5",
+	"_key": "!tables.results!VJpygr1SMMBn4oRM.biht6SjMi5d5laC5",
+	"description": "<b>Wellspring!</b> The River of Death breaks through into the world where you stand, causing a spring of necrotic water to bubble forth; hordes of undead emerge through this breach each day until it is somehow closed.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		12,
+		12
+	],
+	"type": "text",
+	"weight": 1
+}

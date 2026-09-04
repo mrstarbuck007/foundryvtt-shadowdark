@@ -1,0 +1,16 @@
+{
+	"_id": "RMa2xxH30NMH1iyE",
+	"_key": "!tables.results!xgrEKr2Fp1KRAF3h.RMa2xxH30NMH1iyE",
+	"description": "<b>Silence!</b> You cannot speak or cast spells for 10 rounds.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}

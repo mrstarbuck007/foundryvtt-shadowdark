@@ -1,0 +1,16 @@
+{
+	"_id": "TEAvEMHVH9Fold3k",
+	"_key": "!tables.results!VJpygr1SMMBn4oRM.TEAvEMHVH9Fold3k",
+	"description": "<b>Possession!</b> A hostile ghost appears and uses its action to try to possess you for [[/r 1d4]] rounds before disappearing.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		8,
+		8
+	],
+	"type": "text",
+	"weight": 1
+}

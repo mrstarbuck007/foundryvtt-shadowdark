@@ -1,0 +1,16 @@
+{
+	"_id": "W6gtMMQilVjxJ8p1",
+	"_key": "!tables.results!VJpygr1SMMBn4oRM.W6gtMMQilVjxJ8p1",
+	"description": "<b>Hopelessness!</b> Your spirit is drained of all hope and will, leaving you unable to act for the next 5 rounds.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

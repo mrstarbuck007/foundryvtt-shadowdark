@@ -1,0 +1,16 @@
+{
+	"_id": "tpHSHerAszUzLVdY",
+	"_key": "!tables.results!xgrEKr2Fp1KRAF3h.tpHSHerAszUzLVdY",
+	"description": "<b>Memory fog!</b> You have DISADV on casting spells of the same tier for the next 10 rounds.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		12,
+		12
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "1MK5PmHTSUQMEJrV",
+	"_key": "!tables.results!VJpygr1SMMBn4oRM.1MK5PmHTSUQMEJrV",
+	"description": "<b>Sap power!</b> You have DISADV on casting all spells for the next 10 rounds.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		11,
+		11
+	],
+	"type": "text",
+	"weight": 1
+}

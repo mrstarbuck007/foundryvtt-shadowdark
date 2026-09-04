@@ -1,0 +1,22 @@
+{
+	"_id": "usGkmU3DQ4i95Now",
+	"_key": "!items!usGkmU3DQ4i95Now",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/death/skull-energy-light-white.webp",
+	"name": "Death Sense",
+	"system": {
+		"description": "<p>You can sense the location and general nature of undead and dying creatures within near of you.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

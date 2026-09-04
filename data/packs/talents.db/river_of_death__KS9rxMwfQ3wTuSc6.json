@@ -1,0 +1,22 @@
+{
+	"_id": "KS9rxMwfQ3wTuSc6",
+	"_key": "!items!KS9rxMwfQ3wTuSc6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/water/wave-water-teal.webp",
+	"name": "River of Death",
+	"system": {
+		"description": "<p>Your spirit has walked in the eternal river, and you have learned to resist the pull of death. You do not die at 0 CON, and you roll a d6 for your death timer instead of a d4.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

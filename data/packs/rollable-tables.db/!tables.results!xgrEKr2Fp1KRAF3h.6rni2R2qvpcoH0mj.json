@@ -1,0 +1,16 @@
+{
+	"_id": "6rni2R2qvpcoH0mj",
+	"_key": "!tables.results!xgrEKr2Fp1KRAF3h.6rni2R2qvpcoH0mj",
+	"description": "<b>Spectral hands!</b> You lose a random piece of gear.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

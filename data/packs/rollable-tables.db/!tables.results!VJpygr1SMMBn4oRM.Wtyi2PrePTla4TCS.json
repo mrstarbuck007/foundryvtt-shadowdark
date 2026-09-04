@@ -1,0 +1,16 @@
+{
+	"_id": "Wtyi2PrePTla4TCS",
+	"_key": "!tables.results!VJpygr1SMMBn4oRM.Wtyi2PrePTla4TCS",
+	"description": "<b>Flung into death!</b> You are ripped away on an involuntary tumble through the River of Death; you reappear after [[/r 1d4]] rounds standing in the nearest river.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "I17wAa1xGrcJXf2F",
+	"_key": "!tables.results!xgrEKr2Fp1KRAF3h.I17wAa1xGrcJXf2F",
+	"description": "<b>Zombification!</b> You transform into a mindless zombie for [[/r 1d4]] rounds (if you go to 0 HP, you return to normal at 1 HP).",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

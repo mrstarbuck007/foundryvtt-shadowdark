@@ -30,6 +30,8 @@
 - All Cursed Scroll and Bard, Ranger and Kobold content is now attributed to Shadowdark RPG: The Western Reaches, which reprints it
 	* Those books are no longer listed as sources to filter on
 	* A migration retags any items already in your world so they do not show an unknown source
+- Added the Necromancer class from Shadowdark RPG: The Western Reaches
+	* Includes its Death Sense and River of Death talents, its class talent table, and its spells known table
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry

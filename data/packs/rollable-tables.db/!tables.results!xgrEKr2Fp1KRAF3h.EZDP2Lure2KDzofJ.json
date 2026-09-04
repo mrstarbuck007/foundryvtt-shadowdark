@@ -1,0 +1,16 @@
+{
+	"_id": "EZDP2Lure2KDzofJ",
+	"_key": "!tables.results!xgrEKr2Fp1KRAF3h.EZDP2Lure2KDzofJ",
+	"description": "<b>Life drain!</b> You take [[/r 1d6]] damage per spell tier.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "lyeKO4IHACIZObjT",
+	"_key": "!tables.results!xgrEKr2Fp1KRAF3h.lyeKO4IHACIZObjT",
+	"description": "<b>Skeletons!</b> [[/r 1d4]] hostile skeletons appear within near of you and target you with their attacks.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

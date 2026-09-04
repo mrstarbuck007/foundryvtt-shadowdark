@@ -1,0 +1,22 @@
+{
+	"_id": "9914puA30hRcas41",
+	"_key": "!items!9914puA30hRcas41",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Spellcasting (Necromancer)",
+	"system": {
+		"description": "<p><strong>Spellcasting.</strong> You can cast necromancer spells you know. You know two tier 1 spells of your choice from the necromancer spell list.</p><p>Each time you gain a level, you choose new necromancer spells to learn according to the Necromancer Spells Known table.</p><p>You use your Charisma modifier to cast necromancer spells. The DC is 10 + the spell's tier. If you fail a spellcasting check, you can't cast that spell again until you complete a rest.</p><p>If you roll a natural 1 on a spellcasting check, you must also roll on the corresponding Necromancer Mishaps table for the spell's tier.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

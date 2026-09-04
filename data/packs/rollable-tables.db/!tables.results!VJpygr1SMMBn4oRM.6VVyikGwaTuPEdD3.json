@@ -1,0 +1,16 @@
+{
+	"_id": "6VVyikGwaTuPEdD3",
+	"_key": "!tables.results!VJpygr1SMMBn4oRM.6VVyikGwaTuPEdD3",
+	"description": "<b>Pain for power!</b> You must permanently sacrifice either [[/r 1d4]] HP or the ability to cast this spell.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

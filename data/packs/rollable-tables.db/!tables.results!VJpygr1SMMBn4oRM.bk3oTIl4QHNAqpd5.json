@@ -1,0 +1,16 @@
+{
+	"_id": "bk3oTIl4QHNAqpd5",
+	"_key": "!tables.results!VJpygr1SMMBn4oRM.bk3oTIl4QHNAqpd5",
+	"description": "<b>Necrotic backlash!</b> You deal [[/r 3d8]] damage to yourself and all living creatures within near; all undead within the same area are healed this amount.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

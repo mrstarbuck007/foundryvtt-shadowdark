@@ -1,0 +1,16 @@
+{
+	"_id": "3DKvEVCXbtXBuvfg",
+	"_key": "!tables.results!xgrEKr2Fp1KRAF3h.3DKvEVCXbtXBuvfg",
+	"description": "<b>Ennui!</b> Next round, you must pass a [[check 12 cha]] check on your turn or you cannot act.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		11,
+		11
+	],
+	"type": "text",
+	"weight": 1
+}

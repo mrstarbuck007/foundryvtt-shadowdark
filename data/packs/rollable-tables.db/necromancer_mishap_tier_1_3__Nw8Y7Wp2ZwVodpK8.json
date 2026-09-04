@@ -1,0 +1,17 @@
+{
+	"_id": "Nw8Y7Wp2ZwVodpK8",
+	"_key": "!tables.results!xgrEKr2Fp1KRAF3h.Nw8Y7Wp2ZwVodpK8",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.rollable-tables.RollTable.xgrEKr2Fp1KRAF3h",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Necromancer Mishap Tier 1-3",
+	"range": [
+		1,
+		1
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "XJ7RBLI7Fa9u9PVj",
+	"_key": "!tables.results!VJpygr1SMMBn4oRM.XJ7RBLI7Fa9u9PVj",
+	"description": "<b>Escapees!</b> [[/r 1d4]] wraiths break through the border between life and death and wreak havoc on the living around them.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

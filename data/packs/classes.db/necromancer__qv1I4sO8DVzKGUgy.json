@@ -1,0 +1,179 @@
+{
+	"_id": "qv1I4sO8DVzKGUgy",
+	"_key": "!items!qv1I4sO8DVzKGUgy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
+	"name": "Necromancer",
+	"system": {
+		"alignment": "",
+		"allArmor": false,
+		"allMeleeWeapons": false,
+		"allRangedWeapons": false,
+		"allWeapons": false,
+		"armor": [
+			"Compendium.shadowdark.gear.Item.EoTEHXApVDS7rHfw",
+			"Compendium.shadowdark.gear.Item.DeqtKQQzI6HTYvV0"
+		],
+		"classAbilities": [
+		],
+		"classAbilityChoiceCount": 0,
+		"classAbilityChoices": [
+		],
+		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.GZYCCWKA5WZVpzus",
+		"description": "<p>Feared mystics who see beyond the shores of the living world. These warrior-mages guide the dead to their final rest or call them back from its dark waters to walk again in life.</p>",
+		"hitPoints": "d6",
+		"languages": {
+			"common": 0,
+			"fixed": [
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"patron": {
+			"required": false,
+			"startingBoons": 0
+		},
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"spellcasting": {
+			"ability": "cha",
+			"baseDifficulty": 10,
+			"class": "",
+			"spellsknown": {
+				"1": {
+					"1": 2,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"10": {
+					"1": 3,
+					"2": 3,
+					"3": 3,
+					"4": 2,
+					"5": 2
+				},
+				"2": {
+					"1": 3,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"3": {
+					"1": 3,
+					"2": 1,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"4": {
+					"1": 3,
+					"2": 2,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"5": {
+					"1": 3,
+					"2": 2,
+					"3": 1,
+					"4": null,
+					"5": null
+				},
+				"6": {
+					"1": 3,
+					"2": 2,
+					"3": 2,
+					"4": null,
+					"5": null
+				},
+				"7": {
+					"1": 3,
+					"2": 3,
+					"3": 2,
+					"4": 1,
+					"5": null
+				},
+				"8": {
+					"1": 3,
+					"2": 3,
+					"3": 2,
+					"4": 2,
+					"5": null
+				},
+				"9": {
+					"1": 3,
+					"2": 3,
+					"3": 2,
+					"4": 2,
+					"5": 1
+				}
+			}
+		},
+		"talentChoiceCount": 0,
+		"talentChoices": [
+		],
+		"talents": [
+			"Compendium.shadowdark.talents.Item.9914puA30hRcas41",
+			"Compendium.shadowdark.talents.Item.usGkmU3DQ4i95Now",
+			"Compendium.shadowdark.talents.Item.KS9rxMwfQ3wTuSc6"
+		],
+		"titles": [
+			{
+				"chaotic": "Adept",
+				"from": 1,
+				"lawful": "Apprentice",
+				"neutral": "Seeker",
+				"to": 2
+			},
+			{
+				"chaotic": "Weeper",
+				"from": 3,
+				"lawful": "Walker",
+				"neutral": "Watcher",
+				"to": 4
+			},
+			{
+				"chaotic": "Reaper",
+				"from": 5,
+				"lawful": "Guardian",
+				"neutral": "Guide",
+				"to": 6
+			},
+			{
+				"chaotic": "Death Master",
+				"from": 7,
+				"lawful": "River Master",
+				"neutral": "Gate Master",
+				"to": 8
+			},
+			{
+				"chaotic": "Undying One",
+				"from": 9,
+				"lawful": "Angel of Death",
+				"neutral": "Arbiter of Death",
+				"to": 10
+			}
+		],
+		"weapons": [
+			"Compendium.shadowdark.gear.Item.eeVEJexfirwWzOVu",
+			"Compendium.shadowdark.gear.Item.C3mc5OlKPSJNMrng",
+			"Compendium.shadowdark.gear.Item.ZPUhNMmwXXrtbCXi",
+			"Compendium.shadowdark.gear.Item.DKBDkJ3LcRv8scLv",
+			"Compendium.shadowdark.gear.Item.9eTpsuEuzL3Vaxge",
+			"Compendium.shadowdark.gear.Item.P4aAkDkgwR9zcATw"
+		]
+	},
+	"type": "Class"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "8vBzDmfY9B4qqAuh",
+	"_key": "!tables.results!VJpygr1SMMBn4oRM.8vBzDmfY9B4qqAuh",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.rollable-tables.RollTable.VJpygr1SMMBn4oRM",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "Necromancer Mishap Tier 4-5",
+	"range": [
+		1,
+		1
+	],
+	"type": "document",
+	"weight": 1
+}

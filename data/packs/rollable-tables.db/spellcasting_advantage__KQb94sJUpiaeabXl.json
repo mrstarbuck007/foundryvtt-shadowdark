@@ -1,0 +1,17 @@
+{
+	"_id": "KQb94sJUpiaeabXl",
+	"_key": "!tables.results!GZYCCWKA5WZVpzus.KQb94sJUpiaeabXl",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.IZZnFjWhZurAIZPP",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Spellcasting Advantage",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

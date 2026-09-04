@@ -1,0 +1,16 @@
+{
+	"_id": "nj4VXAAbYX4IYoRE",
+	"_key": "!tables.results!xgrEKr2Fp1KRAF3h.nj4VXAAbYX4IYoRE",
+	"description": "<b>Misfire!</b> Your spell targets a random creature you can see, even if it would not normally be possible.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

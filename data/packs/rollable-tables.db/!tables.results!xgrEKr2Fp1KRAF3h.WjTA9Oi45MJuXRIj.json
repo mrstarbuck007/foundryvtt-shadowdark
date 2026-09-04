@@ -1,0 +1,16 @@
+{
+	"_id": "WjTA9Oi45MJuXRIj",
+	"_key": "!tables.results!xgrEKr2Fp1KRAF3h.WjTA9Oi45MJuXRIj",
+	"description": "<b>Slow!</b> For the next 5 rounds, you can only move or take an action on your turn, not both.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}
