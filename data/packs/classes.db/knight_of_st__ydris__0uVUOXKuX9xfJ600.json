@@ -9,7 +9,7 @@
 	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
 	"name": "Knight of St. Ydris",
 	"system": {
-		"alignment": "neutral",
+		"alignment": "",
 		"allArmor": true,
 		"allMeleeWeapons": true,
 		"allRangedWeapons": false,

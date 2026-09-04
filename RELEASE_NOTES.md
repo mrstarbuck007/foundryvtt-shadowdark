@@ -49,6 +49,10 @@
 - Fixed a typo in the Bard's level 9-10 neutral title, which read Trushbearer instead of Truthbearer
 - Fixed the Basilisk Warrior's Petrifying Gaze not being rollable, as it had no ability or DC set to roll against
 - Fixed a typo in the Basilisk Warrior's description, which read basilik instead of basilisk
+- Fixed every class forcing new characters to a neutral alignment
+	* The schema default was corrected previously, but the classes themselves still stored neutral, and the character generator applies whatever the class sets
+- Fixed the Basilisk Warrior's Petrifying Gaze not being rollable, as it had no ability or DC set to roll against
+- Fixed a typo in the Basilisk Warrior's description, which read basilik instead of basilisk
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin

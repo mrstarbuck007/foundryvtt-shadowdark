@@ -9,7 +9,7 @@
 	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
 	"name": "Ranger",
 	"system": {
-		"alignment": "neutral",
+		"alignment": "",
 		"allArmor": false,
 		"allMeleeWeapons": false,
 		"allRangedWeapons": false,
