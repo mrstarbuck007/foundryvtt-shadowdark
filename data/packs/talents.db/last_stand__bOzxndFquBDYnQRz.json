@@ -7,9 +7,9 @@
 	},
 	"folder": "8t1Gmpgn1Q6HXJAz",
 	"img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
-	"name": "Last stand",
+	"name": "Last Stand",
 	"system": {
-		"description": "<p>You get up from dying with 1 hit point on a natural d20 roll of 18-20.</p>",
+		"description": "<p>You get up from dying with 1 HP on a natural d20 roll of 18-20. Once per day, automatically pass this check.</p>",
 		"level": 0,
 		"properties": [
 		],

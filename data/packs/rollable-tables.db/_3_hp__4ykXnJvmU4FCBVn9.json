@@ -2,12 +2,12 @@
 	"_id": "4ykXnJvmU4FCBVn9",
 	"_key": "!tables.results!owING8sYmiI43Od0.4ykXnJvmU4FCBVn9",
 	"description": "",
-	"documentUuid": "Compendium.shadowdark.talents.Item.93QoQQ6cI7xa4TCm",
+	"documentUuid": "Compendium.shadowdark.talents.Item.h1nqZJPyoJYwFnKg",
 	"drawn": false,
 	"flags": {
 	},
-	"img": "icons/skills/melee/blade-tip-chipped-blood-red.webp",
-	"name": "+1 to Melee Attacks",
+	"img": "icons/magic/life/heart-cross-green.webp",
+	"name": "+3 HP",
 	"range": [
 		7,
 		9

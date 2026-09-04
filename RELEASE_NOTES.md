@@ -50,6 +50,10 @@
 	* Eye of Yag-Kesh adds your Wisdom to your unarmored AC, and Fist of the Moon God makes your strikes deal a d8
 - Added the Paladin class from Shadowdark RPG: The Western Reaches
 	* Includes its Chivalric Oath, Inspiring Presence, Mount and Named Blade talents and its class talent table
+- Updated the Pit Fighter class to the Western Reaches text
+	* Relentless is now a different ability entirely: while dying you may forgo your d20 rolls to stay conscious and act, losing a death timer round each time you take damage
+	* Last Stand now lets you automatically pass its check once per day
+	* The class talent table now grants +1 to melee attacks and damage where it granted damage alone, and a new +3 HP talent in place of the melee attack bonus
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry

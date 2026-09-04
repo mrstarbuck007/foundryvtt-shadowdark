@@ -1,0 +1,35 @@
+{
+	"_id": "rRrzhD1X7nQh3R2g",
+	"_key": "!items.effects!h1nqZJPyoJYwFnKg.rRrzhD1X7nQh3R2g",
+	"changes": [
+		{
+			"key": "system.attributes.hp.max",
+			"mode": 2,
+			"priority": null,
+			"value": "3"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/magic/life/heart-cross-green.webp",
+	"name": "+3 HP",
+	"origin": "Compendium.shadowdark.talents.h1nqZJPyoJYwFnKg",
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

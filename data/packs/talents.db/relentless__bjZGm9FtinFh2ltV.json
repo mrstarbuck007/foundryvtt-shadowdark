@@ -9,7 +9,7 @@
 	"img": "icons/skills/wounds/injury-face-impact-orange.webp",
 	"name": "Relentless",
 	"system": {
-		"description": "<p>3/day, when you are reduced to 0 HP, make a [[check 18 con]] check (the Implacable talent applies to this roll). On a success, you instead go to 1 HP.</p><p>@UUID[Compendium.shadowdark.class-abilities.Item.z5uKTDf4wtkipQ4s]{Relentless}</p>",
+		"description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.z5uKTDf4wtkipQ4s]{Relentless}</p><p>While you are dying, you may forgo d20 rolls to rise from dying. If you do, you remain conscious and can act. Each time you take damage in this state, lose 1 death timer round.</p>",
 		"level": 0,
 		"properties": [
 		],
