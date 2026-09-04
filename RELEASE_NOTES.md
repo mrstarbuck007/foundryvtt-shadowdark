@@ -24,6 +24,8 @@
 - [#1410] Characters with the Stout talent get +2 added every level up HP roll, instead of just the first level
 - [#1418] Class alignment restrictions defaulting to neutral instead of empty string
 - [#1419] Spell Importer should use uuid field, not build it manually
+- Corrected the Whip's cost and melee weapon type, and the Sling's cost and missing Loading property
+- Fixed the Stave rolling no damage, as its damage die was set for one-handed use despite the weapon being two-handed
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin

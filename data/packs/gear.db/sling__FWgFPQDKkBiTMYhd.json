@@ -14,8 +14,8 @@
 		"broken": false,
 		"cost": {
 			"cp": 0,
-			"gp": 5,
-			"sp": 0
+			"gp": 0,
+			"sp": 5
 		},
 		"damage": {
 			"oneHanded": "d4",
@@ -26,6 +26,7 @@
 		"isAmmunition": false,
 		"magicItem": false,
 		"properties": [
+			"Compendium.shadowdark.properties.Item.HyqHR9AhIDkm4La9"
 		],
 		"quantity": 1,
 		"range": "far",

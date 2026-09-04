@@ -14,7 +14,7 @@
 		"broken": false,
 		"cost": {
 			"cp": 0,
-			"gp": 10,
+			"gp": 3,
 			"sp": 0
 		},
 		"damage": {
@@ -40,7 +40,7 @@
 			"title": "cursed-scroll-2"
 		},
 		"stashed": false,
-		"type": "ranged"
+		"type": "melee"
 	},
 	"type": "Weapon"
 }

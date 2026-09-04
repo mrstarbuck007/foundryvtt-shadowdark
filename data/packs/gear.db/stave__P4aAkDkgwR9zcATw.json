@@ -18,8 +18,8 @@
 			"sp": 0
 		},
 		"damage": {
-			"oneHanded": "d6",
-			"twoHanded": ""
+			"oneHanded": "",
+			"twoHanded": "d6"
 		},
 		"description": "",
 		"equipped": false,
