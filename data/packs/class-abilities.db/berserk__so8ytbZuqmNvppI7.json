@@ -10,7 +10,7 @@
 	"name": "Berserk",
 	"system": {
 		"ability": "",
-		"dc": 10,
+		"dc": 0,
 		"description": "<p>1/day, go berserk: immune to damage for 3 rounds.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.sfeg7jRt0oW5qXO4]{Spell Effect: Berserk}</p>",
 		"group": "Sea Wolf",
 		"limitedUses": true,

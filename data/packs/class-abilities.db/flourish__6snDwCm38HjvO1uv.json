@@ -10,7 +10,7 @@
 	"name": "Flourish",
 	"system": {
 		"ability": "",
-		"dc": null,
+		"dc": 0,
 		"description": "<p>3/day, regain [[/roll 1d6]] hit points when you hit an enemy with a melee attack.</p>",
 		"group": "Pit Fighter",
 		"limitedUses": true,

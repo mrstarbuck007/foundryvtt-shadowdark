@@ -134,6 +134,12 @@
 - Removed 138 dead roll table results left behind by earlier edits to the class talent tables
 	* None was listed in its table, so nothing rolled them, and every one was superseded by the Distribute to Stats table the tables now use
 	* With those gone, no result in the packs still uses the pre-v13 format that Foundry never migrates
+- The Monk of Yag-Kesh's Fist of the Moon God and the Paladin's Named Blade now apply their magical bonus, which grows with your level
+	* Neither applied anything before, so the bonus had to be tracked by hand
+- Removed the redundant Shield from the Knight of St. Ydris armor list, as the class already allows all armor
+- Class abilities that make no check now show a DC of 0 rather than the schema's default of 10, which was never rolled against
+- Noted on the D10 Weapon Damage Die talent that its die has to be set by hand
+	* Active effects can only step a damage die up from where it is, so unlike the d12 version it cannot apply itself
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores

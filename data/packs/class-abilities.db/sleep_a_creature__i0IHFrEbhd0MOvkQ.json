@@ -10,7 +10,7 @@
 	"name": "Sleep a Creature",
 	"system": {
 		"ability": "",
-		"dc": 10,
+		"dc": 0,
 		"description": "<p>1/day, choose a living creature of LV 5 or less you can see within near; it must pass a [[check 15 con]] check or fall asleep.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.FrFilluk4S5VaWut]{Spell Effect: Sleep}</p>",
 		"group": "Black Lotus",
 		"limitedUses": true,

@@ -10,7 +10,7 @@
 	"name": "Walk on Water",
 	"system": {
 		"ability": "",
-		"dc": 10,
+		"dc": 0,
 		"description": "<p>1/day, you can walk on water as if it were solid for 1d4 rounds.</p>",
 		"group": "Black Lotus",
 		"limitedUses": true,

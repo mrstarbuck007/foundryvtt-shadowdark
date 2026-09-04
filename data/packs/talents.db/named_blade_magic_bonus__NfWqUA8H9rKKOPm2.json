@@ -1,0 +1,41 @@
+{
+	"_id": "NfWqUA8H9rKKOPm2",
+	"_key": "!items.effects!CTWr3wfm6UOeDNim.NfWqUA8H9rKKOPm2",
+	"changes": [
+		{
+			"key": "system.roll.attack.bonus.REPLACEME",
+			"mode": 2,
+			"priority": null,
+			"value": "floor((@level.value+1)/3)"
+		},
+		{
+			"key": "system.roll.attack.damage.REPLACEME",
+			"mode": 2,
+			"priority": null,
+			"value": "floor((@level.value+1)/3)"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/weapons/swords/sword-gold-holy.webp",
+	"name": "Named Blade Magic Bonus",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

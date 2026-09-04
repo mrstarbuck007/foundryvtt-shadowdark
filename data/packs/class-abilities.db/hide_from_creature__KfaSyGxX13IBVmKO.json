@@ -10,7 +10,7 @@
 	"name": "Hide from Creature",
 	"system": {
 		"ability": "",
-		"dc": 10,
+		"dc": 0,
 		"description": "<p>1/day, choose a creature of LV 9 or less you can see; it must pass a [[check 15 wis]] check or it can't see or hear you for 1d4 rounds.</p>",
 		"group": "Black Lotus",
 		"limitedUses": true,

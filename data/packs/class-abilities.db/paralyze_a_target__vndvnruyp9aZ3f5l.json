@@ -10,7 +10,7 @@
 	"name": "Paralyze a Target",
 	"system": {
 		"ability": "",
-		"dc": 10,
+		"dc": 0,
 		"description": "<p>1/day, paralyze a target of LV 9 or less for 1d4 rounds when you damage it with a weapon.</p>",
 		"group": "Black Lotus",
 		"limitedUses": true,

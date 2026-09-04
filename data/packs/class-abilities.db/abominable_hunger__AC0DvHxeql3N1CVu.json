@@ -10,7 +10,7 @@
 	"name": "Abominable Hunger",
 	"system": {
 		"ability": "",
-		"dc": 10,
+		"dc": 0,
 		"description": "<p>Once a day, regain [[/r 2d6]] HP by devouring humanoid flesh.</p>",
 		"group": "Wyrdling",
 		"limitedUses": true,

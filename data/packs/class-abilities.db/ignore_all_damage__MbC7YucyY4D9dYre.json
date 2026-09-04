@@ -10,7 +10,7 @@
 	"name": "Ignore All Damage",
 	"system": {
 		"ability": "",
-		"dc": 10,
+		"dc": 0,
 		"description": "<p>1/day, ignore all damage and effects from one attack.</p>",
 		"group": "Pit Fighter",
 		"limitedUses": true,

@@ -10,7 +10,7 @@
 	"name": "Walk on Sheer Surfaces",
 	"system": {
 		"ability": "",
-		"dc": 10,
+		"dc": 0,
 		"description": "<p>1/day, you can walk on sheer surfaces such as walls for 1d4 rounds.</p>",
 		"group": "Black Lotus",
 		"limitedUses": true,
