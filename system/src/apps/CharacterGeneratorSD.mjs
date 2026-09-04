@@ -394,6 +394,11 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 			}
 		}
 
+		// PCs may start with a trinket, so one is rolled for every character and can be
+		// removed afterwards if it is not wanted
+		const trinket = await this._drawTrinket();
+		if (trinket) allItems.push(trinket);
+
 		// Calculate initial HP
 		let hpConMod = this.formData.actor.system.abilities.con.mod;
 		if (hpConMod < 1) hpConMod = 1;
@@ -855,6 +860,21 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		shadowdark.utils.diceSound();
 
 		this.render();
+	}
+
+
+	async _drawTrinket() {
+		// Rolls one trinket from the ancestry's table, if it has one
+		const tableUuid = this.ancestry?.system.trinketTable;
+		if (!tableUuid) return null;
+
+		const table = await fromUuid(tableUuid);
+		if (!table) return null;
+
+		const draw = await table.draw({displayChat: false});
+		const items = await shadowdark.utils.getItemsFromRollResults(draw.results);
+
+		return items[0] ?? null;
 	}
 
 

@@ -109,6 +109,15 @@ export default class ItemSheetSD extends foundry.appv1.sheets.ItemSheet {
 			ancestryNameTable.name.replace(/^Character\s+Names:\s/, "");
 		}
 
+		const ancestryTrinketTables =
+			await shadowdark.compendiums.ancestryTrinketTables();
+
+		context.ancestryTrinketTables = {};
+		for (const ancestryTrinketTable of ancestryTrinketTables) {
+			context.ancestryTrinketTables[ancestryTrinketTable.uuid] =
+			ancestryTrinketTable.name.replace(/^Trinkets:s/, "");
+		}
+
 		context.fixedLanguagesConfig = {
 			availableItems: availableFixedLanguages,
 			choicesKey: "languages.fixed",

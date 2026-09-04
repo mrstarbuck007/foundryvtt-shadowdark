@@ -32,6 +32,20 @@
 	{{/ui/sd-box}}
 
 	{{#> ui/sd-box
+		header-label=(localize "SHADOWDARK.ancestry.trinket_table.label")
+		header-class="light"
+	}}
+		<select name="system.trinketTable">
+			<option value="">&mdash;</option>
+			{{selectOptions
+				ancestryTrinketTables
+				selected=system.trinketTable
+				localize=false
+			}}
+		</select>
+	{{/ui/sd-box}}
+
+	{{#> ui/sd-box
 		header-label=""
 		header-class="light"
 		content-class="SD-grid right"

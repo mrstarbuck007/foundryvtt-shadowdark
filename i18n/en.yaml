@@ -23,6 +23,7 @@ SHADOWDARK.ancestry.nametable.label_part_two: Random Name Table (Part 2)
 SHADOWDARK.ancestry.nametable.placeholder: Drag Roll Table Here
 SHADOWDARK.ancestry.nametable.random_weight: Randomization Weight
 SHADOWDARK.ancestry.nametable.tooltip.weight: Affects the chance of rolling when using the Character Generator. Higher values increase chance. Default value is 1.
+SHADOWDARK.ancestry.trinket_table.label: Trinket Table
 SHADOWDARK.ancestry.talents.label: Ancestry Talents
 SHADOWDARK.ancestry.talents.prompt: Select Talent...
 SHADOWDARK.app.active_effects.title: Active Effects

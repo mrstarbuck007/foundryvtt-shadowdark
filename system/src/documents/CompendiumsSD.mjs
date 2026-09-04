@@ -81,6 +81,18 @@ export default class CompendiumsSD {
 		);
 	}
 
+	static async ancestryTrinketTables(filterSources=true) {
+		const documents = await CompendiumsSD._documents(
+			"RollTable", null, filterSources
+		);
+
+		return this._collectionFromArray(
+			documents.filter(
+				document => document.name.match(/Trinkets/i)
+			)
+		);
+	}
+
 	static async ancestryTalents(filterSources=true) {
 		return CompendiumsSD.talents("ancestry", filterSources);
 	}

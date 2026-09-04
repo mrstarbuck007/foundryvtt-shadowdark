@@ -21,6 +21,8 @@
 - Ancestry names are now rolled from two tables and joined, matching the book's d10 x d10 name tables, and all eight ancestries have been converted
 	* An ancestry with only one table set still works as it did, so no migration is needed
 	* The Quickstart Character Names and End Papers journals now show the two-part tables
+- PCs now start with a trinket, rolled from a d100 table on their ancestry
+	* The character generator rolls one for every character it creates, and it can be removed if it is not wanted
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry
