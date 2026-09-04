@@ -1,0 +1,16 @@
+{
+	"_id": "nlyBZ4CT72T4cCug",
+	"_key": "!tables.results!WHZEoTiuLfJnrVlD.nlyBZ4CT72T4cCug",
+	"description": "When you hit a creature, learn its @UUID[Compendium.shadowdark.magic-items.Item.gNah418e2ykhDWDE]{True Name}",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		5,
+		5
+	],
+	"type": "text",
+	"weight": 1
+}

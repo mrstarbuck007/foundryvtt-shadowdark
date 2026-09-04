@@ -1,0 +1,16 @@
+{
+	"_id": "EdplZmDqrKhXdjuL",
+	"_key": "!tables.results!WHZEoTiuLfJnrVlD.EdplZmDqrKhXdjuL",
+	"description": "Has the @UUID[Compendium.shadowdark.properties.Item.c35ROL1nXwC840kC]{thrown} property, near distance, returns to you",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

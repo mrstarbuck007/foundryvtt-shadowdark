@@ -1,0 +1,16 @@
+{
+	"_id": "XchZblfgGRLXxG65",
+	"_key": "!tables.results!WHZEoTiuLfJnrVlD.XchZblfgGRLXxG65",
+	"description": "Reroll natural 1s once each when attacking with this weapon",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		12,
+		12
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "SmCXv82Zcpna95uL",
+	"_key": "!tables.results!WHZEoTiuLfJnrVlD.SmCXv82Zcpna95uL",
+	"description": "Once per day, deflect a melee attack that would hit you",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		7,
+		7
+	],
+	"type": "text",
+	"weight": 1
+}

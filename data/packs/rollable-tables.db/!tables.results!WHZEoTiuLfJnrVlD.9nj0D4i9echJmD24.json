@@ -1,0 +1,16 @@
+{
+	"_id": "9nj0D4i9echJmD24",
+	"_key": "!tables.results!WHZEoTiuLfJnrVlD.9nj0D4i9echJmD24",
+	"description": "Behead the enemy on a critical hit",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

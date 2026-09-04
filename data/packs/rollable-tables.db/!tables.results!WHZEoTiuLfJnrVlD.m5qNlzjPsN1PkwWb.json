@@ -1,0 +1,16 @@
+{
+	"_id": "m5qNlzjPsN1PkwWb",
+	"_key": "!tables.results!WHZEoTiuLfJnrVlD.m5qNlzjPsN1PkwWb",
+	"description": "You have advantage on initiative rolls",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

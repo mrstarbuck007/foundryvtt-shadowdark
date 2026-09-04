@@ -1,0 +1,16 @@
+{
+	"_id": "N9WLTCLV9yCZS2aS",
+	"_key": "!tables.results!WHZEoTiuLfJnrVlD.N9WLTCLV9yCZS2aS",
+	"description": "Cut or smash through any material",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

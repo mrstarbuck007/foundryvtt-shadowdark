@@ -163,6 +163,8 @@
 	* Removed 27 page references that sat beside a link to the very spell they cited, across sixteen magic items and the Summon Storm effect
 	* The link takes you to the spell in the compendium and does not go stale when the book is reprinted
 - Fixed three magic item links rendering with a doubled space, from a stray space inside the link text
+- Added the Magic Weapon Benefits table, which the Paladin's Named Blade rolls on at 3rd level
+	* The Named Blade talent links it, and its dice and checks are rollable from the result
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores

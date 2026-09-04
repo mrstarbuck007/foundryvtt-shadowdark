@@ -1,0 +1,16 @@
+{
+	"_id": "2TiefhvV0rDepKz0",
+	"_key": "!tables.results!WHZEoTiuLfJnrVlD.2TiefhvV0rDepKz0",
+	"description": "Once per day, ignites for 5 rounds, deals [[/r 1d4]] extra damage",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

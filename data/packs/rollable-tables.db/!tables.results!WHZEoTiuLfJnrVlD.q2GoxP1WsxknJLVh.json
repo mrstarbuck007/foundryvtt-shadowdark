@@ -1,0 +1,16 @@
+{
+	"_id": "q2GoxP1WsxknJLVh",
+	"_key": "!tables.results!WHZEoTiuLfJnrVlD.q2GoxP1WsxknJLVh",
+	"description": "[[check 15 cha]] check to command a wild animal within far",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "ZlwSIZadSoiSDiqQ",
+	"_key": "!tables.results!WHZEoTiuLfJnrVlD.ZlwSIZadSoiSDiqQ",
+	"description": "Double damage to [[/r 1d4]]: 1-2. undead, 3. demons, 4. dragons",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		11,
+		11
+	],
+	"type": "text",
+	"weight": 1
+}
