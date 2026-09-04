@@ -1,0 +1,17 @@
+{
+	"_id": "b1Nf8yJNH0tBZfCx",
+	"_key": "!tables.results!CnBZuTAOg19jd9Q5.b1Nf8yJNH0tBZfCx",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.yeiTn1WlfCPmHA4s",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/fish/fish-man-eye-green.webp",
+	"name": "Fish Gills",
+	"range": [
+		4,
+		4
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "90sMchZVFdmd1OV4",
+	"_key": "!tables.results!CnBZuTAOg19jd9Q5.90sMchZVFdmd1OV4",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.AkOjKZqI3EtvgKJf",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/tentacles/tentacles-suctioncups-pink.webp",
+	"name": "Vicious Pseudopod",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

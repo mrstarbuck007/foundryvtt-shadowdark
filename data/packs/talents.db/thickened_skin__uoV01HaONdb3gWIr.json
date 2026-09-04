@@ -1,0 +1,35 @@
+{
+	"_id": "uoV01HaONdb3gWIr",
+	"_key": "!items.effects!l70bT0Q304vobHV2.uoV01HaONdb3gWIr",
+	"changes": [
+		{
+			"key": "system.attributes.ac.value",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/magic/defensive/armor-stone-skin.webp",
+	"name": "Thickened Skin",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

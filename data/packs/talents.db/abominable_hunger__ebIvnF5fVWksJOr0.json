@@ -1,0 +1,22 @@
+{
+	"_id": "ebIvnF5fVWksJOr0",
+	"_key": "!items!ebIvnF5fVWksJOr0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Z4zDnZoxthjHXo5V",
+	"img": "icons/creatures/abilities/mouth-teeth-rows-red.webp",
+	"name": "Abominable Hunger",
+	"system": {
+		"description": "<p>Once a day, regain [[/r 2d6]] HP by devouring humanoid flesh. +1 use each time rolled.</p><p>@UUID[Compendium.shadowdark.class-abilities.Item.AC0DvHxeql3N1CVu]{Abominable Hunger}</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

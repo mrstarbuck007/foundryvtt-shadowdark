@@ -1,0 +1,22 @@
+{
+	"_id": "3cOpcV7h02P5Opx8",
+	"_key": "!items!3cOpcV7h02P5Opx8",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/creatures/tentacles/tentacle-earth-green.webp",
+	"name": "Pseudopod",
+	"system": {
+		"description": "<p>You can sprout a clawed, horrid pseudopod from your body.</p><p>@UUID[Compendium.shadowdark.gear.Item.H8TeloWJuRGQ8Gx6]{Pseudopod}</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

@@ -119,6 +119,11 @@
 - Fixed a typo in the Slime Form patron boon, which read 1/dary instead of 1/day
 - Corrected the Witch's spellcasting talent to the Western Reaches text
 	* It points at the right pages for the witch spell list and the Diabolical Mishap tables, and casts off your Charisma modifier rather than your Charisma stat
+- Added the Wyrdling class from Shadowdark RPG: The Western Reaches
+	* Includes its Corruption, Hideous Biology and Pseudopod talents, its titles, its class talent table and its d10 Corruption table
+	* The pseudopod is a real weapon, a finesse melee weapon with near range that takes up no gear slots, and the class can wield it
+	* Vicious Pseudopod, Thickened Skin, Creepy Stillness and the pseudopod attack bonus all apply themselves
+	* Abominable Hunger tracks its use for the day, so the extra uses the table grants have something to add to
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores

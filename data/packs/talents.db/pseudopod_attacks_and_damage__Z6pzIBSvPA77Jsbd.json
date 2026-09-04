@@ -1,0 +1,41 @@
+{
+	"_id": "Z6pzIBSvPA77Jsbd",
+	"_key": "!items.effects!MOr8d8NVNS3K3X9D.Z6pzIBSvPA77Jsbd",
+	"changes": [
+		{
+			"key": "system.roll.melee.bonus.pseudopod",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		},
+		{
+			"key": "system.roll.melee.damage.pseudopod",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/creatures/tentacles/tentacle-earth-green.webp",
+	"name": "Pseudopod Attacks and Damage",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

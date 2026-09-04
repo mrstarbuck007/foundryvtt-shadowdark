@@ -1,0 +1,22 @@
+{
+	"_id": "WuJOh1ASV94WJHz0",
+	"_key": "!items!WuJOh1ASV94WJHz0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Z4zDnZoxthjHXo5V",
+	"img": "icons/magic/life/cross-worn-green.webp",
+	"name": "Dorsal Hump",
+	"system": {
+		"description": "<p>You permanently gain [[/r 1d6]] hit points.</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

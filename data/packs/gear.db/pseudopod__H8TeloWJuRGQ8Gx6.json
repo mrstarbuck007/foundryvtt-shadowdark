@@ -1,0 +1,45 @@
+{
+	"_id": "H8TeloWJuRGQ8Gx6",
+	"_key": "!items!H8TeloWJuRGQ8Gx6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "LVzvIhYHieRT4O6q",
+	"img": "icons/creatures/tentacles/tentacle-earth-green.webp",
+	"name": "Pseudopod",
+	"system": {
+		"ammoClass": "",
+		"baseWeapon": "",
+		"broken": false,
+		"cost": {
+			"cp": 0,
+			"gp": 0,
+			"sp": 0
+		},
+		"damage": {
+			"oneHanded": "d6",
+			"twoHanded": ""
+		},
+		"description": "<p>A clawed, horrid pseudopod sprouted from your own body.</p>",
+		"equipped": false,
+		"isAmmunition": false,
+		"magicItem": false,
+		"properties": [
+			"Compendium.shadowdark.properties.Item.rqQwpoeWEqi0ZcYK"
+		],
+		"quantity": 1,
+		"range": "near",
+		"slots": {
+			"free_carry": 1,
+			"per_slot": 1,
+			"slots_used": 1
+		},
+		"source": {
+			"title": "western-reaches"
+		},
+		"stashed": false,
+		"type": "melee"
+	},
+	"type": "Weapon"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "9WP8r8O9EVfxOfUF",
+	"_key": "!tables.results!CnBZuTAOg19jd9Q5.9WP8r8O9EVfxOfUF",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.N68ag03q8Q6fCBhN",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/tentacles/tentacle-eyes-yellow-pink.webp",
+	"name": "Evolution",
+	"range": [
+		10,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

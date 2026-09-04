@@ -1,0 +1,22 @@
+{
+	"_id": "kvxSVU1CZ5Is6CF8",
+	"_key": "!items!kvxSVU1CZ5Is6CF8",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Z4zDnZoxthjHXo5V",
+	"img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
+	"name": "Segmented Pseudopod",
+	"system": {
+		"description": "<p>Your pseudopod's range increases to double near.</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

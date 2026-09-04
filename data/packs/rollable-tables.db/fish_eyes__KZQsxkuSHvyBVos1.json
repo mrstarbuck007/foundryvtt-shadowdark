@@ -1,0 +1,17 @@
+{
+	"_id": "KZQsxkuSHvyBVos1",
+	"_key": "!tables.results!CnBZuTAOg19jd9Q5.KZQsxkuSHvyBVos1",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.X0IYrcu3JTQwgzCB",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/eyes/lizard-single-slit-green.webp",
+	"name": "Fish Eyes",
+	"range": [
+		7,
+		7
+	],
+	"type": "document",
+	"weight": 1
+}

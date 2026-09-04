@@ -1,0 +1,22 @@
+{
+	"_id": "N68ag03q8Q6fCBhN",
+	"_key": "!items!N68ag03q8Q6fCBhN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Z4zDnZoxthjHXo5V",
+	"img": "icons/creatures/tentacles/tentacle-eyes-yellow-pink.webp",
+	"name": "Evolution",
+	"system": {
+		"description": "<p>Distribute +3 points between your stats and HP.</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

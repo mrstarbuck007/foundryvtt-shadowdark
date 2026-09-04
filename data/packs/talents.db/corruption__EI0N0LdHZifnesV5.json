@@ -1,0 +1,22 @@
+{
+	"_id": "EI0N0LdHZifnesV5",
+	"_key": "!items!EI0N0LdHZifnesV5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/creatures/tentacles/tentacles-eyes-poisoned-green.webp",
+	"name": "Corruption",
+	"system": {
+		"description": "<p>Roll one talent on the @UUID[Compendium.shadowdark.rollable-tables.RollTable.CnBZuTAOg19jd9Q5]{Corruption} table.</p><p>You may reroll duplicates.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

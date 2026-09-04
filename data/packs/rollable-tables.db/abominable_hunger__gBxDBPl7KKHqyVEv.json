@@ -1,0 +1,17 @@
+{
+	"_id": "gBxDBPl7KKHqyVEv",
+	"_key": "!tables.results!CnBZuTAOg19jd9Q5.gBxDBPl7KKHqyVEv",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.ebIvnF5fVWksJOr0",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/abilities/mouth-teeth-rows-red.webp",
+	"name": "Abominable Hunger",
+	"range": [
+		8,
+		8
+	],
+	"type": "document",
+	"weight": 1
+}

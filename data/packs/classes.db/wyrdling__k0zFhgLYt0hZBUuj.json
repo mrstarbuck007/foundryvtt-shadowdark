@@ -1,0 +1,182 @@
+{
+	"_id": "k0zFhgLYt0hZBUuj",
+	"_key": "!items!k0zFhgLYt0hZBUuj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
+	"name": "Wyrdling",
+	"system": {
+		"alignment": "",
+		"allArmor": false,
+		"allMeleeWeapons": false,
+		"allRangedWeapons": false,
+		"allWeapons": false,
+		"armor": [
+			"Compendium.shadowdark.gear.Item.EoTEHXApVDS7rHfw",
+			"Compendium.shadowdark.gear.Item.DeqtKQQzI6HTYvV0",
+			"Compendium.shadowdark.gear.Item.UWp4WkkiaBMSXYPE"
+		],
+		"classAbilities": [
+		],
+		"classAbilityChoiceCount": 0,
+		"classAbilityChoices": [
+		],
+		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.t0vpdslLHwQmEwSj",
+		"description": "<p>Those who have been called down into the dark, have listened to the gibbering of vile abominations, and have felt the rapturous presence of The Lost walking with them in the abyss.</p>",
+		"hitPoints": "1d6",
+		"languages": {
+			"common": 0,
+			"fixed": [
+				"Compendium.shadowdark.languages.Item.ufwua5RXnJXlA0St"
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"patron": {
+			"required": false,
+			"startingBoons": 0
+		},
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"spellcasting": {
+			"ability": "",
+			"baseDifficulty": 10,
+			"class": "__not_spellcaster__",
+			"spellsknown": {
+				"1": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"10": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"2": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"3": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"4": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"5": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"6": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"7": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"8": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"9": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				}
+			}
+		},
+		"talentChoiceCount": 0,
+		"talentChoices": [
+		],
+		"talents": [
+			"Compendium.shadowdark.talents.Item.EI0N0LdHZifnesV5",
+			"Compendium.shadowdark.talents.Item.yFs028JtIS5Sbore",
+			"Compendium.shadowdark.talents.Item.3cOpcV7h02P5Opx8"
+		],
+		"titles": [
+			{
+				"chaotic": "Chosen One",
+				"from": 1,
+				"lawful": "Chosen One",
+				"neutral": "Chosen One",
+				"to": 2
+			},
+			{
+				"chaotic": "Blessed",
+				"from": 3,
+				"lawful": "Cursed",
+				"neutral": "Seeker",
+				"to": 4
+			},
+			{
+				"chaotic": "Consecrated",
+				"from": 5,
+				"lawful": "Haunted",
+				"neutral": "Listener",
+				"to": 6
+			},
+			{
+				"chaotic": "Revered",
+				"from": 7,
+				"lawful": "Tortured",
+				"neutral": "Watcher",
+				"to": 8
+			},
+			{
+				"chaotic": "Exalted One",
+				"from": 9,
+				"lawful": "Crazed One",
+				"neutral": "Learned One",
+				"to": 10
+			}
+		],
+		"weapons": [
+			"Compendium.shadowdark.gear.Item.JM2XN855QYNhgtre",
+			"Compendium.shadowdark.gear.Item.eeVEJexfirwWzOVu",
+			"Compendium.shadowdark.gear.Item.C3mc5OlKPSJNMrng",
+			"Compendium.shadowdark.gear.Item.H8TeloWJuRGQ8Gx6",
+			"Compendium.shadowdark.gear.Item.UfHAWj5weH111Bea",
+			"Compendium.shadowdark.gear.Item.KQTWQwznjK80gVEU",
+			"Compendium.shadowdark.gear.Item.brIFMH0sOVmqX02N"
+		]
+	},
+	"type": "Class"
+}

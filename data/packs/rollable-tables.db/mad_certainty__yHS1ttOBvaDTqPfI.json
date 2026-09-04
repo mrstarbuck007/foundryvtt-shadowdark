@@ -1,0 +1,17 @@
+{
+	"_id": "yHS1ttOBvaDTqPfI",
+	"_key": "!tables.results!CnBZuTAOg19jd9Q5.yHS1ttOBvaDTqPfI",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.aNdqkc39VTm0wIiA",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
+	"name": "Mad Certainty",
+	"range": [
+		1,
+		1
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,35 @@
+{
+	"_id": "lW9whZRx53YujEDt",
+	"_key": "!items.effects!AkOjKZqI3EtvgKJf.lW9whZRx53YujEDt",
+	"changes": [
+		{
+			"key": "system.roll.attack.upgrade-damage-die.pseudopod",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/creatures/tentacles/tentacles-suctioncups-pink.webp",
+	"name": "Vicious Pseudopod",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

@@ -1,0 +1,23 @@
+{
+	"_id": "l70bT0Q304vobHV2",
+	"_key": "!items!l70bT0Q304vobHV2",
+	"effects": [
+		"uoV01HaONdb3gWIr"
+	],
+	"flags": {
+	},
+	"folder": "Z4zDnZoxthjHXo5V",
+	"img": "icons/magic/defensive/armor-stone-skin.webp",
+	"name": "Thickened Skin",
+	"system": {
+		"description": "<p>You gain +1 to your armor class.</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,22 @@
+{
+	"_id": "X0IYrcu3JTQwgzCB",
+	"_key": "!items!X0IYrcu3JTQwgzCB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Z4zDnZoxthjHXo5V",
+	"img": "icons/creatures/eyes/lizard-single-slit-green.webp",
+	"name": "Fish Eyes",
+	"system": {
+		"description": "<p>You cannot be surprised (goblins reroll).</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

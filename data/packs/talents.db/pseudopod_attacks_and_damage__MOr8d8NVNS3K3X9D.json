@@ -1,0 +1,23 @@
+{
+	"_id": "MOr8d8NVNS3K3X9D",
+	"_key": "!items!MOr8d8NVNS3K3X9D",
+	"effects": [
+		"Z6pzIBSvPA77Jsbd"
+	],
+	"flags": {
+	},
+	"folder": "Z4zDnZoxthjHXo5V",
+	"img": "icons/creatures/tentacles/tentacle-earth-green.webp",
+	"name": "Pseudopod Attacks and Damage",
+	"system": {
+		"description": "<p>Gain +1 to attacks and damage rolls with your pseudopod.</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

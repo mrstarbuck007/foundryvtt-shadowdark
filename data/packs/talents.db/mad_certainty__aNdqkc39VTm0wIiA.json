@@ -1,0 +1,22 @@
+{
+	"_id": "aNdqkc39VTm0wIiA",
+	"_key": "!items!aNdqkc39VTm0wIiA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Z4zDnZoxthjHXo5V",
+	"img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
+	"name": "Mad Certainty",
+	"system": {
+		"description": "<p>You are immune to effects that target your mind or spirit, including The Chittering (GMWR pg. 70).</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,22 @@
+{
+	"_id": "yFs028JtIS5Sbore",
+	"_key": "!items!yFs028JtIS5Sbore",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/creatures/slimes/slime-movement-dripping-pseudopods-green.webp",
+	"name": "Hideous Biology",
+	"system": {
+		"description": "<p>You can hideously stretch your body to fit through inch-wide cracks. It takes you 3 rounds to pass through an obstacle in this way.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

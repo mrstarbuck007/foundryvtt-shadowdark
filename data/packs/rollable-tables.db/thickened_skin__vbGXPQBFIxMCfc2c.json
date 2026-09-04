@@ -1,0 +1,17 @@
+{
+	"_id": "vbGXPQBFIxMCfc2c",
+	"_key": "!tables.results!CnBZuTAOg19jd9Q5.vbGXPQBFIxMCfc2c",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.l70bT0Q304vobHV2",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/defensive/armor-stone-skin.webp",
+	"name": "Thickened Skin",
+	"range": [
+		6,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

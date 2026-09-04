@@ -1,0 +1,17 @@
+{
+	"_id": "GnRSKAtmRqNxV0ZC",
+	"_key": "!tables.results!t0vpdslLHwQmEwSj.GnRSKAtmRqNxV0ZC",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.MOr8d8NVNS3K3X9D",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/tentacles/tentacle-earth-green.webp",
+	"name": "Pseudopod Attacks and Damage",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

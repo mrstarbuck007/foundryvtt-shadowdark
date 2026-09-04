@@ -1,0 +1,23 @@
+{
+	"_id": "AkOjKZqI3EtvgKJf",
+	"_key": "!items!AkOjKZqI3EtvgKJf",
+	"effects": [
+		"lW9whZRx53YujEDt"
+	],
+	"flags": {
+	},
+	"folder": "Z4zDnZoxthjHXo5V",
+	"img": "icons/creatures/tentacles/tentacles-suctioncups-pink.webp",
+	"name": "Vicious Pseudopod",
+	"system": {
+		"description": "<p>Your pseudopod sprouts barbs. Increase its damage die by one step (reroll if its die is d12).</p>",
+		"level": 0,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "595NdZzn0OIAWMfI",
+	"_key": "!tables.results!t0vpdslLHwQmEwSj.595NdZzn0OIAWMfI",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.rollable-tables.RollTable.CnBZuTAOg19jd9Q5",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/tentacles/tentacles-eyes-poisoned-green.webp",
+	"name": "Corruption",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,35 @@
+{
+	"_id": "wIUWn7oqnRhdQHOi",
+	"_key": "!items.effects!bnGTy5QUrD3yVD2O.wIUWn7oqnRhdQHOi",
+	"changes": [
+		{
+			"key": "system.roll.stat.advantage.dex",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"flags": {
+	},
+	"img": "icons/magic/perception/silhouette-stealth-shadow.webp",
+	"name": "Creepy Stillness",
+	"origin": null,
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

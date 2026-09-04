@@ -1,0 +1,25 @@
+{
+	"_id": "CnBZuTAOg19jd9Q5",
+	"_key": "!tables!CnBZuTAOg19jd9Q5",
+	"description": "",
+	"displayRoll": true,
+	"flags": {
+	},
+	"folder": "nvmUa5zF3reHgMlg",
+	"formula": "1d10",
+	"img": "icons/creatures/tentacles/tentacles-eyes-poisoned-green.webp",
+	"name": "Corruption",
+	"replacement": true,
+	"results": [
+		"yHS1ttOBvaDTqPfI",
+		"90sMchZVFdmd1OV4",
+		"T3o6wcNNjGoMSj5s",
+		"b1Nf8yJNH0tBZfCx",
+		"sVrNu0T5WmLMjC46",
+		"vbGXPQBFIxMCfc2c",
+		"KZQsxkuSHvyBVos1",
+		"gBxDBPl7KKHqyVEv",
+		"F2Xo0jftjL8cSot3",
+		"9WP8r8O9EVfxOfUF"
+	]
+}

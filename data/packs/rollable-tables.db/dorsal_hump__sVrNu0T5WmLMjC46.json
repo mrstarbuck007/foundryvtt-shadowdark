@@ -1,0 +1,17 @@
+{
+	"_id": "sVrNu0T5WmLMjC46",
+	"_key": "!tables.results!CnBZuTAOg19jd9Q5.sVrNu0T5WmLMjC46",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.talents.Item.WuJOh1ASV94WJHz0",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/life/cross-worn-green.webp",
+	"name": "Dorsal Hump",
+	"range": [
+		5,
+		5
+	],
+	"type": "document",
+	"weight": 1
+}
