@@ -164,6 +164,10 @@
 	* The link takes you to the spell in the compendium and does not go stale when the book is reprinted
 - Fixed three magic item links rendering with a doubled space, from a stray space inside the link text
 - Added the Magic Weapon Benefits table, which the Paladin's Named Blade rolls on at 3rd level
+- Added ten chaotic priest spells from Shadowdark RPG: The Western Reaches
+	* A priest who serves a chaotic god sees these alongside the priest spells every priest can cast
+	* Completes the priest list at sixty spells: thirty for every priest and ten for each alignment
+	* Nine of the new priest spells link the deity they name for their advantage clause
 - Added ten neutral priest spells from Shadowdark RPG: The Western Reaches
 	* A priest who serves a neutral god sees these alongside the priest spells every priest can cast
 	* Detect Magic and Dispel Magic already existed for the wizard and now have a priest version

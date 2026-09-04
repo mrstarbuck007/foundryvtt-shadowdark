@@ -1,0 +1,33 @@
+{
+	"_id": "OMBa19QLq1E8svqs",
+	"_key": "!items!OMBa19QLq1E8svqs",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "S2MLlGpmsIRnqf6Z",
+	"img": "icons/magic/unholy/orb-contained-pink.webp",
+	"name": "Damnation",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>Choose one creature in range of LV 10 or less. You can only target the same creature with this spell one time.</p><p>The creature is cast into your god’s domain. Unless the creature is a worthy follower of your god, it is trapped there to suffer eternal punishment.</p><p>You cannot cast this spell again until you complete penance.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

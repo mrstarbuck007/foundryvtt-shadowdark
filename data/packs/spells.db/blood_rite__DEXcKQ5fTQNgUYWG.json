@@ -1,0 +1,33 @@
+{
+	"_id": "DEXcKQ5fTQNgUYWG",
+	"_key": "!items!DEXcKQ5fTQNgUYWG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DzARPzBmfc6ssBqS",
+	"img": "icons/magic/death/blood-corruption-vomit-red.webp",
+	"name": "Blood Rite",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>You enter a supernatural rage.</p><p>For the spell’s duration, you have ADV on melee attacks, and your attacks deal +[[/r 1d8]] damage.</p><p>You must make a melee attack against the creature nearest to you on your turn, even if it’s an ally. If you cannot, the spell ends.</p><p>If your deity is @UUID[Compendium.shadowdark.patrons-and-deities.Item.6qeBzYJUTgrMhUcW]{Ramlaat}, cast this spell with ADV.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

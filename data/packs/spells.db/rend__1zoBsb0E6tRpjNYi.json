@@ -1,0 +1,33 @@
+{
+	"_id": "1zoBsb0E6tRpjNYi",
+	"_key": "!items!1zoBsb0E6tRpjNYi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DzARPzBmfc6ssBqS",
+	"img": "icons/magic/unholy/beam-ringed-impact-purple.webp",
+	"name": "Rend",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>You become a conduit of pure chaos, shredding all organized magic around you.</p><p>For the spell’s duration, you are immune to all spells and magical effects from lawful sources.</p><p>If your deity is @UUID[Compendium.shadowdark.patrons-and-deities.Item.oT5Urxeq9eAeXJZf]{Memnon}, cast this spell with ADV.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

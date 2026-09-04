@@ -1,0 +1,33 @@
+{
+	"_id": "QWYFiuGCD9MmTW9T",
+	"_key": "!items!QWYFiuGCD9MmTW9T",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "S2MLlGpmsIRnqf6Z",
+	"img": "icons/magic/unholy/hand-claw-glow-orange.webp",
+	"name": "Harm",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>One creature you touch goes to 0 hit points.</p><p>You cannot cast this spell again until you complete penance.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

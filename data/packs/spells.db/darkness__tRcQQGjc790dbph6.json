@@ -1,0 +1,33 @@
+{
+	"_id": "tRcQQGjc790dbph6",
+	"_key": "!items!tRcQQGjc790dbph6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "Gi0Kjg7bAAVEqjvM",
+	"img": "icons/magic/perception/silhouette-stealth-shadow.webp",
+	"name": "Darkness",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>The light cast by one object in range (even a magical object) is permanently extinguished.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,33 @@
+{
+	"_id": "e60KKBK30HnZWXp1",
+	"_key": "!items!e60KKBK30HnZWXp1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "EDfN0tPLXXsmyaEn",
+	"img": "icons/magic/control/fear-fright-mask-orange.webp",
+	"name": "Unhinge",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>One creature in range of LV 5 or less descends into total madness.</p><p>It spends its turn raving and stalking around uselessly.</p><p>If you successfully focus on this spell for 3 rounds in a row, the madness becomes permanent.</p><p>If your deity is @UUID[Compendium.shadowdark.patrons-and-deities.Item.r1j3fFsxwgxvIqxl]{The Lost}, cast this spell with ADV.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,33 @@
+{
+	"_id": "ZzxQWuhr1WU453MJ",
+	"_key": "!items!ZzxQWuhr1WU453MJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "EDfN0tPLXXsmyaEn",
+	"img": "icons/skills/wounds/illness-disease-glowing-green.webp",
+	"name": "Contagion",
+	"system": {
+		"alignment": "chaotic",
+		"class": [
+			"Compendium.shadowdark.classes.Item.oZWzXx1WRLg286zD"
+		],
+		"damageType": "none",
+		"description": "<p>A creature you touch is inflicted with a horrible wasting disease.</p><p>Choose a stat. The target must pass a [[check 15 con]] check each day or lose [[/r 1d6]] points from this stat that cannot heal with rest.</p><p>The target dies when the stat reaches 0.</p>",
+		"duration": {
+			"type": "permanent",
+			"value": "1"
+		},
+		"formula": "",
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "western-reaches"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}
