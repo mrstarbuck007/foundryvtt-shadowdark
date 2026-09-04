@@ -9,7 +9,7 @@
 	"img": "icons/magic/movement/abstract-ribbons-red-orange.webp",
 	"name": "Go Berserk",
 	"system": {
-		"description": "<p>1/day, go @UUID[Compendium.shadowdark.spell-effects.Item.sfeg7jRt0oW5qXO4]{berserk}: immune to damage for 3 rounds</p><p>duplicate = +1 use/day</p>",
+		"description": "<p>1/day, go berserk: immune to damage for 3 rounds</p><p>duplicate = +1 use/day</p><p>@UUID[Compendium.shadowdark.class-abilities.Item.so8ytbZuqmNvppI7]{Berserk}</p>",
 		"level": 0,
 		"properties": [
 		],

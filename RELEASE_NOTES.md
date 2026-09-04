@@ -85,8 +85,12 @@
 	* Foebane no longer drops the "You get" from its wording, and each remedy now reads as the book writes it
 - Corrected the Ras-Godai to the Western Reaches text
 	* The Trained Assassin talent is now named Assassin, as the book names it
-	* Poisons Training points at the right page and no longer carries a stray line from the talent table's header
+	* Poisons Training points at the right page
 	* Fixed a typo in the level 7-8 chaotic title, which read Assasin instead of Assassin
+- Corrected the Sea Wolf's Old Gods talent to the Western Reaches text
+	* It now names the three Old Gods of the nords, and Freya's luck token is gained once a day
+- The Sea Wolf's Go Berserk talent now links its Berserk class ability, so the once a day use is tracked on the sheet
+	* The ability in turn links the effect that marks the three rounds, which the talent used to link directly
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin
