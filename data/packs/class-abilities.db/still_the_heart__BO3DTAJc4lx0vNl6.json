@@ -1,17 +1,17 @@
 {
-	"_id": "LWjqD5BWCszxxGkZ",
-	"_key": "!items!LWjqD5BWCszxxGkZ",
+	"_id": "BO3DTAJc4lx0vNl6",
+	"_key": "!items!BO3DTAJc4lx0vNl6",
 	"effects": [
 	],
 	"flags": {
 	},
 	"folder": "DF9o8pCFlpy7lDri",
-	"img": "icons/magic/light/explosion-star-glow-yellow.webp",
-	"name": "Sun on the Water",
+	"img": "icons/magic/control/energy-stream-link-white.webp",
+	"name": "Still the Heart",
 	"system": {
 		"ability": "",
 		"dc": 0,
-		"description": "<p>Once per day, when a melee or ranged attack misses you, reflect the attack back at the source using the attacker's bonus.</p>",
+		"description": "<p>Stop your metabolism for a number of rounds per day equal to your level. Raise the maximum uses to match your level as you gain levels.</p>",
 		"group": "Monk of Yag-Kesh",
 		"limitedUses": true,
 		"loseOnFailure": false,

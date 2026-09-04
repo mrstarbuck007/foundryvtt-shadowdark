@@ -124,6 +124,13 @@
 	* The pseudopod is a real weapon, a finesse melee weapon with near range that takes up no gear slots, and the class can wield it
 	* Vicious Pseudopod, Thickened Skin, Creepy Stillness and the pseudopod attack bonus all apply themselves
 	* Abominable Hunger tracks its use for the day, so the extra uses the table grants have something to add to
+- Talents granting a once-a-day ability now track that use on your sheet
+	* Covers the Duelist's Perfect Parry, the Green Knight's Double Movement Speed and Tree Step, the Monk of Yag-Kesh's Still the Heart and the Pit Fighter's Last Stand
+	* Still the Heart starts at one use, as its maximum is your level and has to be raised as you level up
+	* Sleep a Creature now links the effect that marks a sleeping target
+- Fixed five class abilities being filed under the Bard in the compendium
+	* Parry and Tale Spinner now sit under the Duelist, Hawk Eye under the Kyzian Archer, Rooted under the Green Knight and Sun on the Water under the Monk of Yag-Kesh
+	* Teleport to Familiar was grouped as Class rather than as the Witch ability it is
 - Fixed the +3 HP talent being filed as a class talent, so it now groups with the level talents it is drawn alongside
 
 # Chores

@@ -1,17 +1,17 @@
 {
-	"_id": "m90huli5biMHArXu",
-	"_key": "!items!m90huli5biMHArXu",
+	"_id": "plTirEhhJY0foy71",
+	"_key": "!items!plTirEhhJY0foy71",
 	"effects": [
 	],
 	"flags": {
 	},
 	"folder": "QNGVr2j2DOEsBq8V",
 	"img": "icons/equipment/shield/buckler-wooden-boss-steel.webp",
-	"name": "Parry",
+	"name": "Perfect Parry",
 	"system": {
 		"ability": "",
 		"dc": 0,
-		"description": "<p>Once per day, an attack of your choice that would hit you misses instead.</p>",
+		"description": "<p>Once per day, all attacks that would hit you this round miss instead.</p>",
 		"group": "Duelist",
 		"limitedUses": true,
 		"loseOnFailure": false,

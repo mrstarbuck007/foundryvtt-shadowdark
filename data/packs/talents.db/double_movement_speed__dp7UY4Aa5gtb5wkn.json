@@ -9,7 +9,7 @@
 	"img": "icons/skills/movement/figure-running-gray.webp",
 	"name": "Double Movement Speed",
 	"system": {
-		"description": "<p>Once per day, double your movement speed for 3 rounds.</p>",
+		"description": "<p>Once per day, double your movement speed for 3 rounds.</p><p>@UUID[Compendium.shadowdark.class-abilities.Item.3tIRqk4e8AXENl1k]{Double Movement Speed}</p>",
 		"level": 1,
 		"properties": [
 		],

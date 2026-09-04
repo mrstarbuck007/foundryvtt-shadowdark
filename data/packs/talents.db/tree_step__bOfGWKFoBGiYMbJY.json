@@ -9,7 +9,7 @@
 	"img": "icons/magic/nature/plant-sprout-hands-vines.webp",
 	"name": "Tree Step",
 	"system": {
-		"description": "<p>Once per day, step into a tree and exit from another within far.</p>",
+		"description": "<p>Once per day, step into a tree and exit from another within far.</p><p>@UUID[Compendium.shadowdark.class-abilities.Item.6rQVm382s94GqlYQ]{Tree Step}</p>",
 		"level": 1,
 		"properties": [
 		],

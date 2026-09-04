@@ -1,17 +1,17 @@
 {
-	"_id": "iIJq860KpYLuaR4m",
-	"_key": "!items!iIJq860KpYLuaR4m",
+	"_id": "3tIRqk4e8AXENl1k",
+	"_key": "!items!3tIRqk4e8AXENl1k",
 	"effects": [
 	],
 	"flags": {
 	},
 	"folder": "TSGiUYJ1v5pW0HRd",
-	"img": "icons/magic/nature/root-vine-barrier-wall-brown.webp",
-	"name": "Rooted",
+	"img": "icons/skills/movement/figure-running-gray.webp",
+	"name": "Double Movement Speed",
 	"system": {
 		"ability": "",
 		"dc": 0,
-		"description": "<p>3/day, activate on your turn. Negate all damage you take until your next turn begins.</p>",
+		"description": "<p>Once per day, double your movement speed for 3 rounds.</p>",
 		"group": "Green Knight",
 		"limitedUses": true,
 		"loseOnFailure": false,
@@ -22,8 +22,8 @@
 			"title": "western-reaches"
 		},
 		"uses": {
-			"available": 3,
-			"max": 3
+			"available": 1,
+			"max": 1
 		}
 	},
 	"type": "Class Ability"

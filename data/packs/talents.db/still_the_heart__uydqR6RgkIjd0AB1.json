@@ -9,7 +9,7 @@
 	"img": "icons/magic/control/energy-stream-link-white.webp",
 	"name": "Still the Heart",
 	"system": {
-		"description": "<p>You can stop your metabolism for a total number of rounds per day equal to your level.</p><p>You gain the following benefits for the duration:</p><ul><li><p>You do not need to breathe.</p></li><li><p>Delay the onset of any poisons until this effect ends.</p></li><li><p>If you drop to 0 HP, you do not fall unconscious or begin dying until this effect ends.</p></li></ul>",
+		"description": "<p>You can stop your metabolism for a total number of rounds per day equal to your level.</p><p>You gain the following benefits for the duration:</p><ul><li><p>You do not need to breathe.</p></li><li><p>Delay the onset of any poisons until this effect ends.</p></li><li><p>If you drop to 0 HP, you do not fall unconscious or begin dying until this effect ends.</p></li></ul><p>@UUID[Compendium.shadowdark.class-abilities.Item.BO3DTAJc4lx0vNl6]{Still the Heart}</p>",
 		"level": 1,
 		"properties": [
 		],

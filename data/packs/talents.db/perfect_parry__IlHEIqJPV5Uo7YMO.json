@@ -9,7 +9,7 @@
 	"img": "icons/equipment/shield/buckler-wooden-boss-steel.webp",
 	"name": "Perfect Parry",
 	"system": {
-		"description": "<p>Once per day, all attacks that would hit you this round miss instead.</p>",
+		"description": "<p>Once per day, all attacks that would hit you this round miss instead.</p><p>@UUID[Compendium.shadowdark.class-abilities.Item.plTirEhhJY0foy71]{Perfect Parry}</p>",
 		"level": 1,
 		"properties": [
 		],

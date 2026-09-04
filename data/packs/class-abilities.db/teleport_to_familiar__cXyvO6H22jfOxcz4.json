@@ -12,7 +12,7 @@
 		"ability": "",
 		"dc": 10,
 		"description": "<p>1/day, teleport to your familiar's location as a move</p><p>duplicate = +1 use per day</p>",
-		"group": "Class",
+		"group": "Witch",
 		"limitedUses": true,
 		"loseOnFailure": false,
 		"lost": false,
