@@ -9,7 +9,7 @@
 	"img": "icons/skills/movement/feet-winged-sandals-tan.webp",
 	"name": "Walk on Sheer Surfaces",
 	"system": {
-		"description": "<p>1/day, you can walk on sheer surfaces like walls for 1d4 rds.</p><p>@UUID[Compendium.shadowdark.class-abilities.Item.1hc2HGy3pZ89jvGM]{Walk on Sheer Surfaces}</p>",
+		"description": "<p>1/day, you can walk on sheer surfaces such as walls for 1d4 rounds.</p><p>@UUID[Compendium.shadowdark.class-abilities.Item.1hc2HGy3pZ89jvGM]{Walk on Sheer Surfaces}</p>",
 		"level": 0,
 		"properties": [
 		],

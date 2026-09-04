@@ -79,6 +79,10 @@
 - Corrected the Ranger's herbal remedies and Herbalism talent option to the Western Reaches text
 	* The talent option grants advantage on a remedy you choose, where it read herb
 	* Foebane no longer drops the "You get" from its wording, and each remedy now reads as the book writes it
+- Corrected the Ras-Godai to the Western Reaches text
+	* The Trained Assassin talent is now named Assassin, as the book names it
+	* Poisons Training points at the right page and no longer carries a stray line from the talent table's header
+	* Fixed a typo in the level 7-8 chaotic title, which read Assasin instead of Assassin
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin

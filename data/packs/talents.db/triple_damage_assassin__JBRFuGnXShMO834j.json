@@ -9,7 +9,7 @@
 	"img": "icons/skills/melee/strike-dagger-skull-white.webp",
 	"name": "Triple Damage Assassin",
 	"system": {
-		"description": "<p>Your deal triple damage with your Trained Assassin talent.</p>",
+		"description": "<p>You deal triple damage with your Assassin talent.</p>",
 		"level": 0,
 		"properties": [
 		],

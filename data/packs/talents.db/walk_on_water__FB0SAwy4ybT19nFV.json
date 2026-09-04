@@ -9,7 +9,7 @@
 	"img": "icons/magic/water/wave-water-teal.webp",
 	"name": "Walk on Water",
 	"system": {
-		"description": "<p>1/day, you can walk on water as if it were solid for 1d4 rds.</p><p>@UUID[Compendium.shadowdark.class-abilities.Item.xwE0DGzMTxMQWqRj]{Walk on Water}</p>",
+		"description": "<p>1/day, you can walk on water as if it were solid for 1d4 rounds.</p><p>@UUID[Compendium.shadowdark.class-abilities.Item.xwE0DGzMTxMQWqRj]{Walk on Water}</p>",
 		"level": 0,
 		"properties": [
 		],
