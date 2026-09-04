@@ -11,7 +11,7 @@
 	"system": {
 		"ability": "int",
 		"dc": 13,
-		"description": "<p>@UUID[Compendium.shadowdark.gear.Item.FeoRamUTz5jakMJ8]{Foebane} ADV on attacks and damage against one creature type you choose for [[/r 1d6]] rounds</p>",
+		"description": "<p>@UUID[Compendium.shadowdark.gear.Item.FeoRamUTz5jakMJ8]{Foebane}. You get ADV on attacks and damage against one creature type you choose for [[/r 1d6]] rounds</p>",
 		"group": "Herbalism",
 		"limitedUses": false,
 		"loseOnFailure": true,

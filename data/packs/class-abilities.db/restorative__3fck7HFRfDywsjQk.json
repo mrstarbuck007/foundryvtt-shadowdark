@@ -11,7 +11,7 @@
 	"system": {
 		"ability": "int",
 		"dc": 14,
-		"description": "<p>@UUID[Compendium.shadowdark.gear.Item.QV93CYmgcgJ3UCPf]{Restorative} Ends one poison or disease</p>",
+		"description": "<p>@UUID[Compendium.shadowdark.gear.Item.QV93CYmgcgJ3UCPf]{Restorative}. Ends one poison or disease</p>",
 		"group": "Herbalism",
 		"limitedUses": false,
 		"loseOnFailure": true,

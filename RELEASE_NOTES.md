@@ -76,6 +76,9 @@
 - Fixed the Knight of St. Ydris learning spells a level later than it should, and being a spell short at level 10
 - Fixed the Knight of St. Ydris' Demonic Possession, which granted its bonus to damage rolls but not attack rolls
 - Updated the Desert Rider's Mount talent to the Western Reaches wording and page reference
+- Corrected the Ranger's herbal remedies and Herbalism talent option to the Western Reaches text
+	* The talent option grants advantage on a remedy you choose, where it read herb
+	* Foebane no longer drops the "You get" from its wording, and each remedy now reads as the book writes it
 
 # Chores
 - [#1369] Merge Spanish translation updates from Crowdin

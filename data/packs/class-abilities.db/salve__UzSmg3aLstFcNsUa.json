@@ -11,7 +11,7 @@
 	"system": {
 		"ability": "int",
 		"dc": 11,
-		"description": "<p>@UUID[Compendium.shadowdark.gear.Item.m857P6MI00wAONTp]{Salve} Heals 1 HP</p>",
+		"description": "<p>@UUID[Compendium.shadowdark.gear.Item.m857P6MI00wAONTp]{Salve}. Heals 1 HP</p>",
 		"group": "Herbalism",
 		"limitedUses": false,
 		"loseOnFailure": true,

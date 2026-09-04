@@ -9,7 +9,7 @@
 	"img": "icons/consumables/fruit/eggplant-ripe-purple.webp",
 	"name": "Herbalism Check Advantage",
 	"system": {
-		"description": "<p>You gain ADV on Herbalism checks for an herb you choose</p>",
+		"description": "<p>You gain ADV on Herbalism checks for a remedy you choose</p>",
 		"level": 1,
 		"properties": [
 		],
