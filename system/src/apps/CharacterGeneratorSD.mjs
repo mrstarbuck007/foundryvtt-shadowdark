@@ -865,14 +865,25 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 			{permanent: false}
 		);
 
-		const table = await fromUuid(this.ancestry.system.nameTable);
-		if (table) {
+		// Ancestries may split their names across two tables, rolled together and
+		// joined, or use a single table holding whole names
+		const tableUuids = [
+			this.ancestry.system.nameTable,
+			this.ancestry.system.nameTable2,
+		].filter(Boolean);
+
+		const parts = [];
+		for (const tableUuid of tableUuids) {
+			const table = await fromUuid(tableUuid);
+			if (!table) continue;
+
 			const result = await table.draw({displayChat: false});
-			this.formData.actor.name = result.results[0].name;
+			parts.push(result.results[0].name);
 		}
-		else {
-			this.formData.actor.name = `Unnamed ${this.ancestry.name}`;
-		}
+
+		this.formData.actor.name = parts.length > 0
+			? parts.join("")
+			: `Unnamed ${this.ancestry.name}`;
 	}
 
 

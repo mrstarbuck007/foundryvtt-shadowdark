@@ -10,6 +10,7 @@ export default class AncestrySD extends BaseItemSD {
 			talents: new fields.ArrayField(new fields.DocumentUUIDField()),
 			talentChoiceCount: new fields.NumberField({ integer: true, initial: 1, min: 0}),
 			nameTable: new fields.DocumentUUIDField(),
+			nameTable2: new fields.DocumentUUIDField(),
 			randomWeight: new fields.NumberField({ integer: true, initial: 1, min: 1}),
 		};
 

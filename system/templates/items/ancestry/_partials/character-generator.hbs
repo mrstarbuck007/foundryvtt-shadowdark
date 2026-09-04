@@ -2,7 +2,7 @@
 	{{localize "SHADOWDARK.apps.character-generator.title"}}
 </div>
 
-<div class=" grid-colspan-3 grid-2-columns">
+<div class=" grid-colspan-3 grid-3-columns">
 	{{#> ui/sd-box
 		header-label=(localize "SHADOWDARK.ancestry.nametable.label")
 		header-class="light"
@@ -12,6 +12,20 @@
 			{{selectOptions
 				ancestryNameTables
 				selected=system.nameTable
+				localize=false
+			}}
+		</select>
+	{{/ui/sd-box}}
+
+	{{#> ui/sd-box
+		header-label=(localize "SHADOWDARK.ancestry.nametable.label_part_two")
+		header-class="light"
+	}}
+		<select name="system.nameTable2">
+			<option value="">&mdash;</option>
+			{{selectOptions
+				ancestryNameTables
+				selected=system.nameTable2
 				localize=false
 			}}
 		</select>
