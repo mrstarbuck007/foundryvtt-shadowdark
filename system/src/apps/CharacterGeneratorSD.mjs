@@ -465,12 +465,36 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 
 	async _formatDescription(text) {
 		return await foundry.applications.ux.TextEditor.implementation.enrichHTML(
-			jQuery(text.replace(/<p><\/p>/g, " ")).text(),
+			this._flattenDescription(text),
 			{
 				async: false,
 				cache: false,
 			}
 		);
+	}
+
+
+	/**
+	 * Collapses description markup into the single line the generator's compact
+	 * panels display, keeping ordered list numbering, which is carried by the
+	 * markup alone, and spacing the blocks so their words do not run together.
+	 * @param {string} html - The description markup
+	 * @returns {string} The description as plain text
+	 */
+	_flattenDescription(html) {
+		const body = new DOMParser().parseFromString(html ?? "", "text/html").body;
+
+		for (const list of body.querySelectorAll("ol")) {
+			[...list.children].forEach((item, index) => {
+				item.textContent = `${index + 1}. ${item.textContent.trim()}`;
+			});
+		}
+
+		for (const block of body.querySelectorAll("p, li, div, br, h1, h2, h3, h4, h5, h6")) {
+			block.after(" ");
+		}
+
+		return body.textContent.replace(/\s+/g, " ").trim();
 	}
 
 
