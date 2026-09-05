@@ -41,8 +41,9 @@
 	* Shapechanger is now named Shapechange, as the books print it, along with its spell effect
 	* Divination is tier 3 for the Witch, and Dreamwalk has a range of Self
 	* Wording brought into line on Charm Person, Polymorph, Shapechange, Swarm, Enfeeble, Whisper, Divination and Speak with Dead
-- Expanded six deities to their Shadowdark RPG: The Western Reaches entries
-	* Madeera the Covenant, Saint Terragnis, Gede, Ord, Memnon and Shune the Vile now carry their full description, Tenets, In the Reaches, Spell Penance and Holy Days
+- Expanded all eight core rules deities to their Shadowdark RPG: The Western Reaches entries
+	* Each now carries its full description, Tenets, In the Reaches, Spell Penance and Holy Days
+	* The Lost are chaotic rather than neutral, which is how the books list them; a priest who worships them now sees the chaotic spells
 	* Ord's first penance links the three Wizard Mishap tables it sends you to
 - Added the d100 Secrets table from Shadowdark RPG: The Western Reaches
 	* The character generator can roll one, and records it on the new character's Notes tab where it can be reworded or removed
