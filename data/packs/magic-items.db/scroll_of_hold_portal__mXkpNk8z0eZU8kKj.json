@@ -15,7 +15,7 @@
 			"gp": 0,
 			"sp": 0
 		},
-		"description": "<p>@UUID[Compendium.shadowdark.spells.q600IZtPTAgkz6vB]{Hold Portal}</p>",
+		"description": "<p><em>A tightly rolled parchment scroll scribed with symbols of locks.</em></p><p><strong>Benefit.</strong> You can cast the @UUID[Compendium.shadowdark.spells.Item.q600IZtPTAgkz6vB]{hold portal} spell with this scroll (DC 11 spellcasting check). The scroll crumbles after an attempt to cast the spell from it, successful or not.</p>",
 		"equipped": false,
 		"isAmmunition": false,
 		"light": {

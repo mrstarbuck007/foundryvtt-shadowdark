@@ -23,7 +23,7 @@
 			"oneHanded": "",
 			"twoHanded": "d12"
 		},
-		"description": "<p><strong>Benefit</strong>. A creature cannot move the wielder against their will.</p>",
+		"description": "<p><em>A bronze, brightly polished blade as tall as a human.</em></p><p><strong>Bonus.</strong> +1 greatsword.</p><p><strong>Benefit.</strong> You cannot be moved against your will while you wield this sword.</p>",
 		"equipped": false,
 		"isAmmunition": false,
 		"magicItem": true,

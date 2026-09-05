@@ -24,7 +24,7 @@
 			"oneHanded": "d8",
 			"twoHanded": "d10"
 		},
-		"description": "",
+		"description": "<p><em>A double-headed, bronze greataxe crusted with old blood.</em></p><p><strong>Bonus.</strong> +1 greataxe.</p><p><strong>Benefit.</strong> You deal x4 damage on critical hits made with this weapon.</p>",
 		"equipped": false,
 		"isAmmunition": false,
 		"magicItem": true,

@@ -9,26 +9,28 @@
 	"img": "icons/weapons/wands/wand-gem-purple.webp",
 	"name": "Wand of Blind/Deafen",
 	"system": {
-		"ammoClass": "",
-		"baseWeapon": "",
 		"broken": false,
 		"cost": {
 			"cp": 0,
 			"gp": 0,
 			"sp": 0
 		},
-		"damage": {
-			"oneHanded": "",
-			"twoHanded": ""
-		},
-		"description": "<p>@UUID[Compendium.shadowdark.spells.ItoZZ0nli29N5d7G]{Blind/Deafen}</p><p>DC 12</p>",
+		"description": "<p><em>A bone wand carved with various animals' eyes and ears.</em></p><p><strong>Benefit.</strong> You can cast the @UUID[Compendium.shadowdark.spells.Item.ItoZZ0nli29N5d7G]{blind/deafen} spell with this wand (DC 12 spellcasting check). On a failure, you can't use this wand again until you successfully rest.</p><p>On a critical failure, the wand breaks permanently and you must roll a mishap if you are subject to them.</p>",
 		"equipped": false,
 		"isAmmunition": false,
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
 		"magicItem": true,
 		"properties": [
 		],
 		"quantity": 1,
-		"range": "close",
+		"scroll": false,
 		"slots": {
 			"free_carry": 0,
 			"per_slot": 1,
@@ -38,7 +40,7 @@
 			"title": "core-rules"
 		},
 		"stashed": false,
-		"type": "melee"
+		"treasure": false
 	},
-	"type": "Weapon"
+	"type": "Basic"
 }

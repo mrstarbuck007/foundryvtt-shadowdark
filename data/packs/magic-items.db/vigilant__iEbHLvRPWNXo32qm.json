@@ -23,7 +23,7 @@
 			"oneHanded": "d6",
 			"twoHanded": ""
 		},
-		"description": "<p><strong>Benefit</strong>. The wielder cannot be surprised.</p>",
+		"description": "<p><em>A golden, broad-bladed spear with crimson tassels.</em></p><p><strong>Bonus.</strong> +1 spear.</p><p><strong>Benefit.</strong> You can't be surprised (you always roll for initiative in surprise rounds and are not treated as unaware).</p>",
 		"equipped": false,
 		"isAmmunition": false,
 		"magicItem": true,

@@ -35,6 +35,9 @@
 - Corrected a stray comma in the Seer's Wolfshape
 - Corrected the wizard mishap tables against the core rules text
 - Checked the magic items against the core rules text and corrected where they differed
+- Filled in the magic items from The Lost Citadel of the Scarlet Minotaur
+	* Adds the Blood Bowl, which was missing, and gives Asterion, Bloodlust and Vigilant their full descriptions; Bloodlust had none at all
+	* The Wand of Blind/Deafen and the two scrolls now carry the book's text instead of a bare spell link, and the wand is a Basic item like the other wands
 	* Brak's Cube of Perfection linked its six stat options to a world compendium rather than the system one, so they resolved for nobody
 	* Potion of Healing now heals from LV 0 rather than LV 1, and the Immovable Rod holds 5,000 lbs again
 	* Wording and spacing fixed on the Jewel of Barbalt, Blade of Vengeance, Immovable Rod, Boots of the Cat, Shortsword of the Thief, Dagger of the Goblin Hero, Staff of Ord and The Kytherian Mechanism
