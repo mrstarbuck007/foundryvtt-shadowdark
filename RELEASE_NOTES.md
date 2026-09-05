@@ -33,6 +33,10 @@
 - Spells that were set to a Touch range now use Close, which is what the books print, and Touch has been retired as a spell range
 	* Affects 18 spells across the Seer, Witch and Wizard lists; a migration converts any world or module spell still set to Touch
 - Corrected a stray comma in the Seer's Wolfshape
+- Checked the Priest and Wizard spells against the current printing of the core rules and corrected where they differed
+	* Cloud Kill is now named Cloudkill, and Telekinesis lifts 1,000 pounds rather than 450kg
+	* Turn Undead, Web and Detect Thoughts now read "vs. your spellcasting check", matching every other spell
+	* Wording, punctuation and missing full stops fixed on Burning Hands, Sleep, Sending, Floating Disk, Lay to Rest, Restoration, Commune, Disintegrate and Prismatic Orb
 - Checked the Witch spells against the Western Reaches text and corrected where they differed
 	* Shapechanger is now named Shapechange, as the books print it, along with its spell effect
 	* Divination is tier 3 for the Witch, and Dreamwalk has a range of Self
