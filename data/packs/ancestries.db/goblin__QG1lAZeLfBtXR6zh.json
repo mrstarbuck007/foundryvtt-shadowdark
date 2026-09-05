@@ -9,7 +9,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Goblin",
 	"system": {
-		"description": "<p>Green, clever beings who thrive in dark, cramped places. As fierce as they are tiny.</p><p><strong>Population.</strong> Goblins are very rare, comprising only 5% of the population.</p><p><strong>Origins.</strong> Goblins come mainly from the deepest parts of the Sablewood and in the cave systems beneath the Rimespire Mountains. They are very environmentally adaptable, and it's thought that large tribes of goblins live in remote areas that have little contact with the outside world.</p>",
+		"description": "<p>Green, clever beings who thrive in dark, cramped places. As fierce as they are tiny.</p><p><strong>Population:</strong> Goblins are very rare, comprising only 5% of the population.</p><p><strong>Origins:</strong> Goblins come mainly from the deepest parts of the Sablewood and in the cave systems beneath the Rimespire Mountains. They are very environmentally adaptable, and it's thought that large tribes of goblins live in remote areas that have little contact with the outside world.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [

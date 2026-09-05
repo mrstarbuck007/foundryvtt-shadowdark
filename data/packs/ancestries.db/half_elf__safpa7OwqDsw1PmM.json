@@ -9,7 +9,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Half-Elf",
 	"system": {
-		"description": "<p>Lithe, long-lived humans with subtle elven features. Their boldness is tempered by insight.</p><p><strong>Population.</strong> Half-elves are rarely seen. They make up 5% of the population.</p><p><strong>Origins.</strong> Half-elves typically hail from the Kyzian Steppes or the Djurum Desert where their parents have the greatest crossover in territory. They are beloved by both peoples and seen as a symbol of alliance. Half-elves often become legendary horse riders, archers, and leaders.</p>",
+		"description": "<p>Lithe, long-lived humans with subtle elven features. Their boldness is tempered by insight.</p><p><strong>Population:</strong> Half-elves are rarely seen. They make up 5% of the population.</p><p><strong>Origins:</strong> Half-elves typically hail from the Kyzian Steppes or the Djurum Desert where their parents have the greatest crossover in territory. They are beloved by both peoples and seen as a symbol of alliance. Half-elves often become legendary horse riders, archers, and leaders.</p>",
 		"languages": {
 			"common": 1,
 			"fixed": [

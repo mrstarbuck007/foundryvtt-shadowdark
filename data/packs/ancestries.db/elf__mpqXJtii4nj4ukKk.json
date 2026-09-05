@@ -9,7 +9,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Elf",
 	"system": {
-		"description": "<p>Ethereal, graceful people who revere knowledge and beauty. Elves see far and live long.</p><p><strong>Population.</strong> Elves are uncommon but widely known in the Reaches. They form 10% of the population.</p><p><strong>Origins.</strong> Many free-spirited elves roam the Djurum Desert in nomadic tribes that flow with the seasons and winds. Others live in the quiet stillness of the Sablewood, kept safe by the rangers and knights who serve the King of the Wood in his citadel, Lydonia.</p>",
+		"description": "<p>Ethereal, graceful people who revere knowledge and beauty. Elves see far and live long.</p><p><strong>Population:</strong> Elves are uncommon but widely known in the Reaches. They form 10% of the population.</p><p><strong>Origins:</strong> Many free-spirited elves roam the Djurum Desert in nomadic tribes that flow with the seasons and winds. Others live in the quiet stillness of the Sablewood, kept safe by the rangers and knights who serve the King of the Wood in his citadel, Lydonia.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [

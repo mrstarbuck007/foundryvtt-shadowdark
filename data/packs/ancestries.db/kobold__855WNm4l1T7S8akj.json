@@ -9,7 +9,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Kobold",
 	"system": {
-		"description": "<p>Tiny, humanoid dog-lizards with a penchant for tinkering, trap building, and a hint of magic.</p><p><strong>Population.</strong> Kobolds are extremely rare beings. They comprise less than 1% of the population.</p><p><strong>Origins.</strong> Kobolds almost never venture outside their clans, which are mainly centered around remote deserts and volcanoes. Scholars believe they naturally emerge in places that have large packs of coyotes plus the sorcerous influence of a nearby dragon.</p>",
+		"description": "<p>Tiny, humanoid dog-lizards with a penchant for tinkering, trap building, and a hint of magic.</p><p><strong>Population:</strong> Kobolds are extremely rare beings. They comprise less than 1% of the population.</p><p><strong>Origins:</strong> Kobolds almost never venture outside their clans, which are mainly centered around remote deserts and volcanoes. Scholars believe they naturally emerge in places that have large packs of coyotes plus the sorcerous influence of a nearby dragon.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [

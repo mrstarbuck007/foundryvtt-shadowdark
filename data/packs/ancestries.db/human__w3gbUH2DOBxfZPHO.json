@@ -9,7 +9,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Human",
 	"system": {
-		"description": "<p>Bold, adaptable, and diverse people who learn quickly and accomplish mighty deeds.</p><p><strong>Population.</strong> Humans are the most common people in the Reaches, making up about 55% of the population.</p><p><strong>Origins.</strong> There are few civilizations more far-flung than those of humans. They come from all territories within the Reaches and are deeply adaptable to the terrain around them. Humankind holds dominion over the land's largest and most powerful city-states.</p>",
+		"description": "<p>Bold, adaptable, and diverse people who learn quickly and accomplish mighty deeds.</p><p><strong>Population:</strong> Humans are the most common people in the Reaches, making up about 55% of the population.</p><p><strong>Origins:</strong> There are few civilizations more far-flung than those of humans. They come from all territories within the Reaches and are deeply adaptable to the terrain around them. Humankind holds dominion over the land's largest and most powerful city-states.</p>",
 		"languages": {
 			"common": 1,
 			"fixed": [

@@ -9,7 +9,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Dwarf",
 	"system": {
-		"description": "<p>Brave, stalwart folk as sturdy as the stone kingdoms they carve inside mountains.</p><p><strong>Population.</strong> Dwarves are uncommon and reclusive. They account for about 10% of the population.</p><p><strong>Origins.</strong> Dwarves are the heartier cousins of the fey-like dverg who dwell in the Isles of Andrik. Both carve out vast, stone halls inside mountains. Most dwarves hail from their ancestral clans that live beneath the Rimespire and Bastion mountain chains.</p>",
+		"description": "<p>Brave, stalwart folk as sturdy as the stone kingdoms they carve inside mountains.</p><p><strong>Population:</strong> Dwarves are uncommon and reclusive. They account for about 10% of the population.</p><p><strong>Origins:</strong> Dwarves are the heartier cousins of the fey-like dverg who dwell in the Isles of Andrik. Both carve out vast, stone halls inside mountains. Most dwarves hail from their ancestral clans that live beneath the Rimespire and Bastion mountain chains.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [

@@ -202,7 +202,7 @@ export default function registerHandlebarsHelpers() {
 	});
 
 	Handlebars.registerHelper("remove-p-tag", str1 => {
-		return str1.replace(/(<p[^>]+?>|<p>|<\/p>)/img, "");
+		return str1.replace(/<\/p>\s*<p[^>]*>/img, " ").replace(/<[^>]+>/g, "");
 	});
 
 	Handlebars.registerHelper("secondsToMins", seconds => {
