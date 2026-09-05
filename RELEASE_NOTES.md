@@ -36,6 +36,8 @@
 - Corrected the wizard mishap tables against the core rules text
 - Checked the magic items against the core rules text and corrected where they differed
 - Checked the monsters against the core rules text and corrected where they differed
+- Added the Scarlet Minotaur to the monsters compendium, the one monster from The Lost Citadel of the Scarlet Minotaur that was not already there
+- Removed 134 leftover monster attacks and features that no monster used
 	* The Brachiosaurus is level 12 again rather than level 1
 	* The Gibbering Mouther, Bone Naga and Obe-ixx regain the movement they were missing, and Animated Armor its Statue ability
 - Filled in the magic items from The Lost Citadel of the Scarlet Minotaur

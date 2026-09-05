@@ -1,0 +1,20 @@
+{
+	"_id": "5u0gf2g5kNdnufFN",
+	"_key": "!actors.items!TzLD5bwRetFeYN9m.5u0gf2g5kNdnufFN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Charge",
+	"system": {
+		"description": "<p>In place of attacks, move up to double near in a straight line and make 1 horns attack. If hit, x2 damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}
