@@ -19,11 +19,15 @@
 	</div>
 
 	<div class="content">
-		<select name="actor.system.deity" {{disabled editing}}>
+		<select
+			name="actor.system.deity"
+			title="{{tooltips.deity}}"
+			{{disabled editing}}
+		>
 			<option value=""></option>
 			{{#each deities as |value key|}}
 				<option
-					title="{{remove-p-tag value.system.description}}"
+					title="{{html-to-text value.system.description}}"
 					value="{{value.uuid}}"
 					{{#ifCond ../actor.system.deity "===" value.uuid}}
 						selected

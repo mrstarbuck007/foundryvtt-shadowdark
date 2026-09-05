@@ -264,10 +264,28 @@ export default class UtilitySD {
 		}
 	}
 
+	/**
+	 * Flattens markup into a single line of text, keeping the numbering of
+	 * ordered lists, which the markup alone carries, and spacing blocks apart so
+	 * the words either side of them do not run together.
+	 * @param {string} text - The markup to flatten
+	 * @returns {string} The markup's text
+	 */
 	static removeHTML(text) {
 		const el = document.createElement("div");
-		el.innerHTML = text;
-		return el.textContent;
+		el.innerHTML = text ?? "";
+
+		for (const list of el.querySelectorAll("ol")) {
+			[...list.children].forEach((item, index) => {
+				item.textContent = `${index + 1}. ${item.textContent.trim()}`;
+			});
+		}
+
+		for (const block of el.querySelectorAll("p, li, div, br, h1, h2, h3, h4, h5, h6")) {
+			block.after(" ");
+		}
+
+		return el.textContent.replace(/\s+/g, " ").trim();
 	}
 
 	/**

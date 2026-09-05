@@ -201,8 +201,8 @@ export default function registerHandlebarsHelpers() {
 		}
 	});
 
-	Handlebars.registerHelper("remove-p-tag", str1 => {
-		return str1.replace(/<\/p>\s*<p[^>]*>/img, " ").replace(/<[^>]+>/g, "");
+	Handlebars.registerHelper("html-to-text", html => {
+		return shadowdark.utils.removeHTML(html);
 	});
 
 	Handlebars.registerHelper("secondsToMins", seconds => {

@@ -304,6 +304,21 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		// selected one tracks the form
 		this.formData.backgroundGroups = this._groupBackgrounds();
 
+		// Describe each picker's current selection, so hovering a closed picker
+		// says the same thing its option does in the open menu
+		this.formData.tooltips = {
+			ancestry: this._pickerTooltip(
+				this.formData.ancestries, this.formData.actor.system.ancestry
+			),
+			background: this._pickerTooltip(
+				this.formData.backgrounds, this.formData.actor.system.background
+			),
+			class: shadowdark.utils.removeHTML(this.class?.system?.description),
+			deity: this._pickerTooltip(
+				this.formData.deities, this.formData.actor.system.deity
+			),
+		};
+
 		// format talents
 		return this.formData;
 	}
@@ -465,36 +480,12 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 
 	async _formatDescription(text) {
 		return await foundry.applications.ux.TextEditor.implementation.enrichHTML(
-			this._flattenDescription(text),
+			shadowdark.utils.removeHTML(text),
 			{
 				async: false,
 				cache: false,
 			}
 		);
-	}
-
-
-	/**
-	 * Collapses description markup into the single line the generator's compact
-	 * panels display, keeping ordered list numbering, which is carried by the
-	 * markup alone, and spacing the blocks so their words do not run together.
-	 * @param {string} html - The description markup
-	 * @returns {string} The description as plain text
-	 */
-	_flattenDescription(html) {
-		const body = new DOMParser().parseFromString(html ?? "", "text/html").body;
-
-		for (const list of body.querySelectorAll("ol")) {
-			[...list.children].forEach((item, index) => {
-				item.textContent = `${index + 1}. ${item.textContent.trim()}`;
-			});
-		}
-
-		for (const block of body.querySelectorAll("p, li, div, br, h1, h2, h3, h4, h5, h6")) {
-			block.after(" ");
-		}
-
-		return body.textContent.replace(/\s+/g, " ").trim();
 	}
 
 
@@ -513,6 +504,20 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 
 	_getRandom(max) {
 		return Math.floor(Math.random() * max);
+	}
+
+
+	/**
+	 * @param {Collection} items - The documents a picker lists
+	 * @param {string} uuid - The uuid of the picker's selection
+	 * @returns {string} The selected document's description as plain text
+	 */
+	_pickerTooltip(items, uuid) {
+		if (!uuid) return "";
+
+		const selected = [...items].find(x => x.uuid === uuid);
+
+		return selected ? shadowdark.utils.removeHTML(selected.system?.description) : "";
 	}
 
 
@@ -566,7 +571,7 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 			if (!groups.has(folderName)) groups.set(folderName, []);
 
 			groups.get(folderName).push({
-				description: this._removeParagraphs(background.system?.description ?? ""),
+				description: shadowdark.utils.removeHTML(background.system?.description),
 				name: background.name,
 				selected,
 				uuid: background.uuid,
@@ -1033,11 +1038,6 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		catch(error) {
 			shadowdark.error(error);
 		}
-	}
-
-
-	_removeParagraphs(value) {
-		return value.replace(/(<p[^>]+?>|<p>|<\/p>)/img, "");
 	}
 
 

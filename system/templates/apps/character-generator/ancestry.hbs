@@ -16,12 +16,13 @@
 			data-action='load-ancestry'
 			id="ancestry"
 			name="actor.system.ancestry"
+			title="{{tooltips.ancestry}}"
 			{{disabled editing}}
 		>
 			<option value=""></option>
 			{{#each ancestries as |value key|}}
 				<option
-					title="{{remove-p-tag value.system.description}}"
+					title="{{html-to-text value.system.description}}"
 					value="{{value.uuid}}"
 					{{#ifEq ../actor.system.ancestry value.uuid}}
 						selected

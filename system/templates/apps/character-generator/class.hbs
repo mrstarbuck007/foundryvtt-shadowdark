@@ -22,6 +22,7 @@
 			data-action='load-class-talents'
 			id="class"
 			name="actor.system.class"
+			title="{{tooltips.class}}"
 		>
 			{{#if level0}}
 				<option value="{{level0Class.uuid}}" selected>
@@ -31,7 +32,7 @@
 				<option value=""></option>
 				{{#each classes as |value key|}}
 					<option
-						title="{{remove-p-tag value.system.description}}"
+						title="{{html-to-text value.system.description}}"
 						value="{{value.uuid}}"
 						{{#ifEq ../actor.system.class value.uuid}}
 							selected
