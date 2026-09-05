@@ -9,6 +9,11 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 
 	LEVEL_ZERO_GEAR_TABLE_UUID = "Compendium.shadowdark.rollable-tables.RollTable.WKVfMaGkoXe3DGub";
 
+	// House rule: ability modifiers totalling this or less earn a reroll even
+	// when an ability reached 14, catching the lone high score that props up
+	// five bad ones. Set to leave the rate close to the 14 rule's on its own.
+	REROLL_MODIFIER_TOTAL = -6;
+
 	SECRETS_TABLE_UUID = "Compendium.shadowdark.rollable-tables.RollTable.UPWRrKkyIrOI3CsH";
 
 	/**
@@ -1058,10 +1063,17 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		}
 		this._calculateModifiers();
 
-		// Only allow a reroll if no ability came up 14 or higher
-		this.formData.statsRolled = CONFIG.SHADOWDARK.ABILITY_KEYS.some(
-			key => this.formData.actor.system.abilities[key].value >= 14
+		const abilities = CONFIG.SHADOWDARK.ABILITY_KEYS.map(
+			key => this.formData.actor.system.abilities[key]
 		);
+
+		// A reroll is earned by rolling no ability of 14 or higher, or by the
+		// modifiers totalling too little to make a playable character
+		const reachedFourteen = abilities.some(ability => ability.value >= 14);
+		const modifierTotal = abilities.reduce((total, ability) => total + ability.mod, 0);
+
+		this.formData.statsRolled =
+			reachedFourteen && modifierTotal > this.REROLL_MODIFIER_TOTAL;
 	}
 
 
