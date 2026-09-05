@@ -10,7 +10,7 @@
 	"name": "All Nord Gods",
 	"system": {
 		"alignment": "neutral",
-		"description": "<p>The faithful worship all of the Old Gods in turn, but many find they align with one in particular. Paying respect to all the gods is not a betrayal; it is honorable.</p>",
+		"description": "<p>The Old Gods have countless names and aspects. These are the three most prominent, though many others rise and fall in the ballads of the nord poets.</p><p>The faithful worship all of the Old Gods in turn, but many find they align with one in particular. Paying respect to all the gods is not a betrayal; it is honorable.</p><p>The Old Gods often demand sacrifices and brutal suffering as a test of worth. Outsiders might see this as barbaric, but the truth is not theirs to understand.</p>",
 		"properties": [
 		],
 		"source": {

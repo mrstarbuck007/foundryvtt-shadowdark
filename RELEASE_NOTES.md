@@ -44,6 +44,7 @@
 - Expanded all eight core rules deities to their Shadowdark RPG: The Western Reaches entries
 	* Each now carries its full description, Tenets, In the Reaches, Spell Penance and Holy Days
 	* The Lost are chaotic rather than neutral, which is how the books list them; a priest who worships them now sees the chaotic spells
+	* All Nord Gods carries the book's full introduction to the Old Gods
 	* Ord's first penance links the three Wizard Mishap tables it sends you to
 - Added the d100 Secrets table from Shadowdark RPG: The Western Reaches
 	* The character generator can roll one, and records it on the new character's Notes tab where it can be reworded or removed
