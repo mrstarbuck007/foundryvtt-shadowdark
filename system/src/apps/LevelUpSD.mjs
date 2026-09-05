@@ -265,7 +265,21 @@ export default class LevelUpSD extends foundry.appv1.api.FormApplication {
 	}
 
 	async _onRollTalent() {
-		await this.data.talentTable.draw();
+		// Half-Elves roll every talent roll twice with the Adaptable talent and
+		// keep whichever of the two results they prefer
+		const adaptable = this.data.actor.items.find(x => x.name === "Adaptable");
+
+		if (adaptable) {
+			await ChatMessage.create({
+				flavor: adaptable.name,
+				content: `${adaptable.system.description}`,
+			});
+		}
+
+		for (let i = 0; i < (adaptable ? 2 : 1); i++) {
+			await this.data.talentTable.draw();
+		}
+
 		ui.sidebar.activateTab("chat");
 
 		this.data.talentRollsMade += 1;
