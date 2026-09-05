@@ -361,6 +361,8 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 
 	async _createCharacter() {
 
+		if (!this._validateSelections()) return;
+
 		const allItems = [];
 
 		// load all talents and promp player to choose effects
@@ -384,12 +386,6 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		// load talents with selection of options
 		for (const talentItem of allTalents) {
 			allItems.push(await shadowdark.effects.createItemWithEffect(talentItem));
-		}
-
-		// Check for Name
-		if (this.formData.actor.name === "" ) {
-			ui.notifications.error( game.i18n.localize("SHADOWDARK.apps.character-generator.error.name"));
-			return;
 		}
 
 		// make changes only for level 0 characters
@@ -1079,6 +1075,8 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 
 
 	async _updateCharacter() {
+		if (!this._validateSelections()) return;
+
 		let actorRef = game.actors.get(this.actorUid);
 
 		// remove all talents from the actor's current class
@@ -1225,5 +1223,41 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		}
 
 		this.render();
+	}
+
+
+	/**
+	 * Checks the choices that have no default, so a character cannot be created
+	 * with a required selection left unmade.
+	 * @returns {boolean} True when every required choice has been made
+	 */
+	_validateSelections() {
+		const errors = [];
+
+		if (this.formData.actor.name === "") {
+			errors.push("SHADOWDARK.apps.character-generator.error.name");
+		}
+
+		if (this.formData.patron.required && !this.formData.actor.system.patron) {
+			errors.push("SHADOWDARK.apps.character-generator.error.patron");
+		}
+
+		if (this.formData.ancestryTalents.choice.length > 0
+			&& this.formData.ancestryTalents.selection.length < 1
+		) {
+			errors.push("SHADOWDARK.apps.character-generator.error.ancestry_talent");
+		}
+
+		if (this.formData.classTalents.choice.length > 0
+			&& this.formData.classTalents.selection.length < 1
+		) {
+			errors.push("SHADOWDARK.apps.character-generator.error.class_talent");
+		}
+
+		for (const error of errors) {
+			ui.notifications.error(game.i18n.localize(error));
+		}
+
+		return errors.length === 0;
 	}
 }
