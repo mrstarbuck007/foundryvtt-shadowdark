@@ -6,11 +6,13 @@
 		</label>
 		<span>
 			{{#unless editing}}
-				<a
-					class="fas fa-dice"
-					data-action="cg-click"
-					name="randomize-stats"
-				></a>
+				{{#unless statsRolled}}
+					<a
+						class="fas fa-dice"
+						data-action="cg-click"
+						name="randomize-stats"
+					></a>
+				{{/unless}}
 			{{/unless}}
 		</span>
 	</div>
@@ -26,7 +28,7 @@
 						<select
 							id="stat"
 							name="actor.system.abilities.{{key}}.value"
-							{{disabled ../editing}}
+							disabled
 						>
 							{{#select value.value}}
 								{{#each ../statRange}}

@@ -42,6 +42,7 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 			gearSelected: [],
 			level0: true,
 			level0Class: {},
+			statsRolled: false,
 			patron: {
 				formattedDescription: "",
 				name: "",
@@ -941,7 +942,9 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		if (randomizationTasks["randomize-gold"]) await this._randomizeGold();
 		if (randomizationTasks["randomize-name"]) await this._randomizeName();
 		if (randomizationTasks["randomize-secret"]) await this._randomizeSecret();
-		if (randomizationTasks["randomize-stats"]) await this._randomizeStats();
+		if (randomizationTasks["randomize-stats"] && !this.formData.statsRolled) {
+			await this._randomizeStats();
+		}
 
 		shadowdark.utils.diceSound();
 
@@ -1029,6 +1032,11 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 			this.formData.actor.system.abilities[key].value = await this._roll("3d6");
 		}
 		this._calculateModifiers();
+
+		// Only allow a reroll if no ability came up 14 or higher
+		this.formData.statsRolled = CONFIG.SHADOWDARK.ABILITY_KEYS.some(
+			key => this.formData.actor.system.abilities[key].value >= 14
+		);
 	}
 
 
