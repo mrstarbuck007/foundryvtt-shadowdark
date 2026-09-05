@@ -15,7 +15,7 @@
 			"gp": 0,
 			"sp": 0
 		},
-		"description": "<p><em>A towering, brass platform mounted with countless cogs and gears speckled in blue- green rust.</em></p><p><strong>Benefit.</strong> A handle turns The Kytherian Mechanism's mighty wheels, but it doesn't function until its seven missing @UUID[Compendium.shadowdark.magic-items.Item.0c0G5Dnzq9Il8zZY]{Kytherian Cogs} are replaced.</p><p>Once functional, activating the mechanism allows the operator to undo one event of their choosing from history. Then, the seven Kytherian Cogs magically scatter to far-flung locations.</p>",
+		"description": "<p><em>A towering, brass platform mounted with countless cogs and gears speckled in blue-green rust.</em></p><p><strong>Benefit.</strong> A handle turns The Kytherian Mechanism's mighty wheels, but it doesn't function until its seven missing @UUID[Compendium.shadowdark.magic-items.Item.0c0G5Dnzq9Il8zZY]{Kytherian Cogs} are replaced.</p><p>Once functional, activating the mechanism allows the operator to undo one event of their choosing from history. Then, the seven Kytherian Cogs magically scatter to far-flung locations.</p>",
 		"equipped": false,
 		"identification": {
 			"description": "",

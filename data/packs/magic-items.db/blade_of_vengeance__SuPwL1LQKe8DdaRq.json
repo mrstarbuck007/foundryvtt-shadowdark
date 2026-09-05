@@ -36,7 +36,7 @@
 			"oneHanded": "d8",
 			"twoHanded": "d10"
 		},
-		"description": "<p><em>A gray blade with a diamond- cut ruby in the pommel. It whistles sharply with each slice.</em></p><p><strong>Bonus.</strong> +2 bastard sword. Cannot be wielded by undead.</p><p><strong>Benefit.</strong> You have advantage on attacks against undead creatures with this sword. You can use the sword to cast @UUID[Compendium.shadowdark.spells.Item.mByUvcHIVEPWscfH]{turn undead}once per day (+4 bonus).</p><p><strong>Personality.</strong> Lawful. Grim, suspicious. Forged as a failsafe against the Witch-Kings if they should fall to darkness, which they did. Demands they be slain.</p>",
+		"description": "<p><em>A gray blade with a diamond-cut ruby in the pommel. It whistles sharply with each slice.</em></p><p><strong>Bonus.</strong> +2 bastard sword. Cannot be wielded by undead.</p><p><strong>Benefit.</strong> You have advantage on attacks against undead creatures with this sword. You can use the sword to cast @UUID[Compendium.shadowdark.spells.Item.mByUvcHIVEPWscfH]{turn undead} once per day (+4 bonus).</p><p><strong>Personality.</strong> Lawful. Grim, suspicious. Forged as a failsafe against the Witch-Kings if they should fall to darkness, which they did. Demands they be slain.</p>",
 		"equipped": false,
 		"isAmmunition": false,
 		"isPhysical": true,

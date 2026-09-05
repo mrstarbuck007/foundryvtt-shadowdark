@@ -34,6 +34,10 @@
 	* Affects 18 spells across the Seer, Witch and Wizard lists; a migration converts any world or module spell still set to Touch
 - Corrected a stray comma in the Seer's Wolfshape
 - Corrected the wizard mishap tables against the core rules text
+- Checked the magic items against the core rules text and corrected where they differed
+	* Brak's Cube of Perfection linked its six stat options to a world compendium rather than the system one, so they resolved for nobody
+	* Potion of Healing now heals from LV 0 rather than LV 1, and the Immovable Rod holds 5,000 lbs again
+	* Wording and spacing fixed on the Jewel of Barbalt, Blade of Vengeance, Immovable Rod, Boots of the Cat, Shortsword of the Thief, Dagger of the Goblin Hero, Staff of Ord and The Kytherian Mechanism
 	* Tier 3-4's Devastation entry had the wrong instruction, and its Radioactive Energies entry was missing a space
 - Checked the Priest and Wizard spells against the current printing of the core rules and corrected where they differed
 	* Cloud Kill is now named Cloudkill, and Telekinesis lifts 1,000 pounds rather than 450kg

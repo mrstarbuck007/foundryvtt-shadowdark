@@ -36,7 +36,7 @@
 			"oneHanded": "d4",
 			"twoHanded": ""
 		},
-		"description": "<p><em>A curved dagger with a half- moon notch at the blade's base.</em></p><p><strong>Bonus.</strong> +1 dagger.</p><p><strong>Benefit.</strong> You can speak Goblin. All goblinoid creatures react to you with a friendly attitude.</p>",
+		"description": "<p><em>A curved dagger with a half-moon notch at the blade's base.</em></p><p><strong>Bonus.</strong> +1 dagger.</p><p><strong>Benefit.</strong> You can speak Goblin. All goblinoid creatures react to you with a friendly attitude.</p>",
 		"equipped": false,
 		"isAmmunition": false,
 		"isPhysical": true,
