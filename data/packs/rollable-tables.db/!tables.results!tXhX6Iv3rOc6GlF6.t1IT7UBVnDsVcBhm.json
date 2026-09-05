@@ -1,7 +1,7 @@
 {
 	"_id": "t1IT7UBVnDsVcBhm",
 	"_key": "!tables.results!tXhX6Iv3rOc6GlF6.t1IT7UBVnDsVcBhm",
-	"description": "<b>Devastation!</b> Roll twice and combine both effects (Ignore if rolled more than once more).",
+	"description": "<b>Devastation!</b> Roll twice and combine both effects (reroll any further 1s)",
 	"drawn": false,
 	"flags": {
 	},

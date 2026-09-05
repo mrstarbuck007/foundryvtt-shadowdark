@@ -33,6 +33,8 @@
 - Spells that were set to a Touch range now use Close, which is what the books print, and Touch has been retired as a spell range
 	* Affects 18 spells across the Seer, Witch and Wizard lists; a migration converts any world or module spell still set to Touch
 - Corrected a stray comma in the Seer's Wolfshape
+- Corrected the wizard mishap tables against the core rules text
+	* Tier 3-4's Devastation entry had the wrong instruction, and its Radioactive Energies entry was missing a space
 - Checked the Priest and Wizard spells against the current printing of the core rules and corrected where they differed
 	* Cloud Kill is now named Cloudkill, and Telekinesis lifts 1,000 pounds rather than 450kg
 	* Turn Undead, Web and Detect Thoughts now read "vs. your spellcasting check", matching every other spell
