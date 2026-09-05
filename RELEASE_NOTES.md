@@ -24,6 +24,10 @@
 - PCs now start with a trinket, rolled from a d100 table on their ancestry
 	* Adds the eight trinket tables from Shadowdark RPG: The Western Reaches and the items they hand out, which take up no gear slots
 	* The character generator rolls one for every character it creates, and it can be removed if it is not wanted
+- Added the character background tables from Shadowdark RPG: The Western Reaches, a d100 roll for where you are from followed by a roll on that location's own table
+	* Adds 96 new backgrounds across eight locations: Desert, Swamp, Island and Ocean, Grassland, Mountain, Forest, Jungle and Civilization
+	* Rolling on Background: Western Reaches picks the location and the background in one go
+	* Where a name is shared with an existing background, each table keeps its own document with the wording that table prints
 - Replaced the Bard with the Western Reaches version of the class
 	* Fascinate now scales with your level and Inspire grants luck tokens each day, and the class talent table matches the book
 	* The Prolific and Presence talents are gone, as the new version does not use them

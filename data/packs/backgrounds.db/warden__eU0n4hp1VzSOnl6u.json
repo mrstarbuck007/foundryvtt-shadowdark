@@ -1,0 +1,20 @@
+{
+	"_id": "eU0n4hp1VzSOnl6u",
+	"_key": "!items!eU0n4hp1VzSOnl6u",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "CBn9M04JC7kMz6jO",
+	"img": "icons/environment/settlement/graveyard-tombstone-night.webp",
+	"name": "Warden",
+	"system": {
+		"description": "<p>You tend to the ancient tombs and burial mounds</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "KJBNGulx0PLBvAVx",
+	"_key": "!tables.results!WttdC6krM61p9bM5.KJBNGulx0PLBvAVx",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.dHIBagEVqHJzeQFW",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/symbols/rune-sigil-green-purple.webp",
+	"name": "Marked",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

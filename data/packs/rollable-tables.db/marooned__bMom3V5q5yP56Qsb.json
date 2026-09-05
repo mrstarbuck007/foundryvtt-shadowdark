@@ -1,0 +1,17 @@
+{
+	"_id": "bMom3V5q5yP56Qsb",
+	"_key": "!tables.results!e8qDtAt8fB3EHBcf.bMom3V5q5yP56Qsb",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.YHFW3WpoDwPG5p41",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/wilderness/island.webp",
+	"name": "Marooned",
+	"range": [
+		6,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

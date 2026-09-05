@@ -1,0 +1,17 @@
+{
+	"_id": "JoSH9aoYdVF3Qzp3",
+	"_key": "!tables.results!WttdC6krM61p9bM5.JoSH9aoYdVF3Qzp3",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.V4XfGCF7qygJia29",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/columned-forum.webp",
+	"name": "Witness",
+	"range": [
+		1,
+		1
+	],
+	"type": "document",
+	"weight": 1
+}

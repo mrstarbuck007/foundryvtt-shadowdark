@@ -1,0 +1,17 @@
+{
+	"_id": "NZq5UsUG0rIWMiRt",
+	"_key": "!tables.results!e8qDtAt8fB3EHBcf.NZq5UsUG0rIWMiRt",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.qiylaipMlVdBLrhC",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/tools/instruments/lute-gold-brown.webp",
+	"name": "Skald",
+	"range": [
+		8,
+		8
+	],
+	"type": "document",
+	"weight": 1
+}

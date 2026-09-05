@@ -1,0 +1,17 @@
+{
+	"_id": "qDHzks9h3VE8VB5H",
+	"_key": "!tables.results!LfqRCvn3ezxIsfDG.qDHzks9h3VE8VB5H",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.rollable-tables.RollTable.DhvG2j23C842Loix",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/wilderness/cave-entrance-mountain.webp",
+	"name": "Background: Mountain",
+	"range": [
+		49,
+		60
+	],
+	"type": "document",
+	"weight": 1
+}

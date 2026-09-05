@@ -1,0 +1,17 @@
+{
+	"_id": "ePwS7qSTZhniJdeS",
+	"_key": "!tables.results!Hd82gNbQPCZjyQtn.ePwS7qSTZhniJdeS",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.CaGxgElsBktEenD5",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/treasure/brooch-crown-gold.webp",
+	"name": "Noble",
+	"range": [
+		9,
+		9
+	],
+	"type": "document",
+	"weight": 1
+}

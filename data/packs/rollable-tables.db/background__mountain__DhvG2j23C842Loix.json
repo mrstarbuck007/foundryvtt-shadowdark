@@ -1,0 +1,27 @@
+{
+	"_id": "DhvG2j23C842Loix",
+	"_key": "!tables!DhvG2j23C842Loix",
+	"description": "",
+	"displayRoll": true,
+	"flags": {
+	},
+	"folder": "dbU918S4CVYyoW7S",
+	"formula": "1d12",
+	"img": "icons/environment/wilderness/cave-entrance-mountain.webp",
+	"name": "Background: Mountain",
+	"replacement": true,
+	"results": [
+		"9WbHxA7lzubB5XmT",
+		"a2iWbIcZ2YeV4NtO",
+		"6r2BcDUtw7Nb4o46",
+		"NEjcsbfEe50Vuspc",
+		"U6JWGassWfjKzfSS",
+		"KCx83j3j75z8UGXx",
+		"nCNLBDqpGu78FEO2",
+		"e6XmcXChErMRiWJy",
+		"svFG516XQeyGbHJY",
+		"jFmStC2B9SyrafQN",
+		"XwGZ9egedbdm8sEW",
+		"UhqaYIzGDLkohKJt"
+	]
+}

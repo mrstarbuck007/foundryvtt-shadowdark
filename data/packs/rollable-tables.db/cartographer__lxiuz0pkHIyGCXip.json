@@ -1,0 +1,17 @@
+{
+	"_id": "lxiuz0pkHIyGCXip",
+	"_key": "!tables.results!WttdC6krM61p9bM5.lxiuz0pkHIyGCXip",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.OuxdYtizyHxyC5jd",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/tools/navigation/map-chart-tan.webp",
+	"name": "Cartographer",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

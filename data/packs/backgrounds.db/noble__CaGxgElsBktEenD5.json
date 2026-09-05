@@ -1,0 +1,20 @@
+{
+	"_id": "CaGxgElsBktEenD5",
+	"_key": "!items!CaGxgElsBktEenD5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "1TJfn8Xp666Q1vGY",
+	"img": "icons/commodities/treasure/brooch-crown-gold.webp",
+	"name": "Noble",
+	"system": {
+		"description": "<p>You are the child of a noble (5:6) or royal (1:6)</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

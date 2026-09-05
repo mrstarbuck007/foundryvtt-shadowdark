@@ -1,0 +1,17 @@
+{
+	"_id": "Xiz85ck6Nqkd4Spp",
+	"_key": "!tables.results!S5IWKePfQjRMaWDW.Xiz85ck6Nqkd4Spp",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.ARlnryV66jMCF2vi",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/castle-tan.webp",
+	"name": "Palaceborn",
+	"range": [
+		10,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

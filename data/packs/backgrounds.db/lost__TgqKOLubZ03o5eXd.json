@@ -1,0 +1,20 @@
+{
+	"_id": "TgqKOLubZ03o5eXd",
+	"_key": "!items!TgqKOLubZ03o5eXd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "1TJfn8Xp666Q1vGY",
+	"img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+	"name": "Lost",
+	"system": {
+		"description": "<p>You've seen The Lost; you possess terrible knowledge</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

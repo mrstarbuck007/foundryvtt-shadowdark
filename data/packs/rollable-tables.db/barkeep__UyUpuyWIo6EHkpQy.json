@@ -1,0 +1,17 @@
+{
+	"_id": "UyUpuyWIo6EHkpQy",
+	"_key": "!tables.results!Hd82gNbQPCZjyQtn.UyUpuyWIo6EHkpQy",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.LoFHooDrNiVmo6wW",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/tavern.webp",
+	"name": "Barkeep",
+	"range": [
+		13,
+		13
+	],
+	"type": "document",
+	"weight": 1
+}

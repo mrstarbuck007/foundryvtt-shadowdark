@@ -1,0 +1,17 @@
+{
+	"_id": "JrbexmdN381Rb8lF",
+	"_key": "!tables.results!S5IWKePfQjRMaWDW.JrbexmdN381Rb8lF",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.Glvs9QqbOLdKxmXv",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/equipment/head/crown-gold-blue.webp",
+	"name": "Prince",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

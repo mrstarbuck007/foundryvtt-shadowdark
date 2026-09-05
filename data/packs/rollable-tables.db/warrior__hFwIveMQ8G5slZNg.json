@@ -1,0 +1,17 @@
+{
+	"_id": "hFwIveMQ8G5slZNg",
+	"_key": "!tables.results!S5IWKePfQjRMaWDW.hFwIveMQ8G5slZNg",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.zcZeb6yMXgC1sDN7",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/hand-grip-sword-white-brown.webp",
+	"name": "Warrior",
+	"range": [
+		8,
+		8
+	],
+	"type": "document",
+	"weight": 1
+}

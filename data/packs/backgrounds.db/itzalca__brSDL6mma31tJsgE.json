@@ -1,0 +1,20 @@
+{
+	"_id": "brSDL6mma31tJsgE",
+	"_key": "!items!brSDL6mma31tJsgE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "pcPaWE9twNle4cqV",
+	"img": "icons/environment/settlement/pyramid.webp",
+	"name": "Itzalca",
+	"system": {
+		"description": "<p>A human tribe raised you to know their ways</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "3oGaKqWOZ14Bbqq0",
+	"_key": "!items!3oGaKqWOZ14Bbqq0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "1TJfn8Xp666Q1vGY",
+	"img": "icons/magic/symbols/mask-metal-silver-white.webp",
+	"name": "Meridian",
+	"system": {
+		"description": "<p>You're from the City of Masks and know it well</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

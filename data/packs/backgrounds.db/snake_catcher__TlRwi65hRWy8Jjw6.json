@@ -1,0 +1,20 @@
+{
+	"_id": "TlRwi65hRWy8Jjw6",
+	"_key": "!items!TlRwi65hRWy8Jjw6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "KqRk8BcdAj1gAtFZ",
+	"img": "icons/creatures/reptiles/snake-poised-white.webp",
+	"name": "Snake Catcher",
+	"system": {
+		"description": "<p>You know how to trick and charm snakes</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

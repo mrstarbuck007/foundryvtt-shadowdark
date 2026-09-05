@@ -1,0 +1,20 @@
+{
+	"_id": "CNMciujcrNHEU3Iz",
+	"_key": "!items!CNMciujcrNHEU3Iz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "pcPaWE9twNle4cqV",
+	"img": "icons/environment/settlement/hut.webp",
+	"name": "Isolated",
+	"system": {
+		"description": "<p>You're the first to ever leave your remote village</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

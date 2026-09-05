@@ -1,0 +1,17 @@
+{
+	"_id": "chtmwh9Y4OlwznJy",
+	"_key": "!tables.results!WttdC6krM61p9bM5.chtmwh9Y4OlwznJy",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.CNMciujcrNHEU3Iz",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/hut.webp",
+	"name": "Isolated",
+	"range": [
+		10,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

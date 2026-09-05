@@ -1,0 +1,17 @@
+{
+	"_id": "BGQhht6y2NSVotyH",
+	"_key": "!tables.results!g03pyUKBn5X9j6Sx.BGQhht6y2NSVotyH",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.hSWNGC396GEOFAIk",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/reptiles/lizard-iguana-green.webp",
+	"name": "Scrag Trainer",
+	"range": [
+		7,
+		7
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "KCx83j3j75z8UGXx",
+	"_key": "!tables.results!DhvG2j23C842Loix.KCx83j3j75z8UGXx",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.S8gUGD6OuxXjfGx5",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/water/ice-crystal-white.webp",
+	"name": "Rimeborn",
+	"range": [
+		6,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

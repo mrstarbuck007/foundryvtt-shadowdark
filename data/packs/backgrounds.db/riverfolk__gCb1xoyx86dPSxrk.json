@@ -1,0 +1,20 @@
+{
+	"_id": "gCb1xoyx86dPSxrk",
+	"_key": "!items!gCb1xoyx86dPSxrk",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "pcPaWE9twNle4cqV",
+	"img": "icons/environment/wilderness/terrain-river-road-gray.webp",
+	"name": "Riverfolk",
+	"system": {
+		"description": "<p>You are good with canoes and river navigation</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

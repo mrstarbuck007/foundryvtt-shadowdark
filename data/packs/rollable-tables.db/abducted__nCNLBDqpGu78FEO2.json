@@ -1,0 +1,17 @@
+{
+	"_id": "nCNLBDqpGu78FEO2",
+	"_key": "!tables.results!DhvG2j23C842Loix.nCNLBDqpGu78FEO2",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.us1ehJ9vo06psOZa",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/light/beam-rays-blue-large.webp",
+	"name": "Abducted",
+	"range": [
+		7,
+		7
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "9ySpXg7d1lEoXudm",
+	"_key": "!tables.results!g03pyUKBn5X9j6Sx.9ySpXg7d1lEoXudm",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.5FTnRIrvNYYLUXtb",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/city-gate.webp",
+	"name": "Alkeshi",
+	"range": [
+		1,
+		1
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "g1kHNR6V4mVIemC4",
+	"_key": "!items!g1kHNR6V4mVIemC4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "4dTwi4ExN7dNowjq",
+	"img": "icons/creatures/mammals/goat-horned-blue.webp",
+	"name": "Goatherd",
+	"system": {
+		"description": "<p>Domestic animals trust you and follow your lead</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

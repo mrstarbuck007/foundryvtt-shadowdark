@@ -1,0 +1,20 @@
+{
+	"_id": "pE5QRWdX6vrKwcjL",
+	"_key": "!items!pE5QRWdX6vrKwcjL",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vDme4iLsM18S5zWQ",
+	"img": "icons/magic/unholy/silhouette-evil-horned-giant.webp",
+	"name": "Demonic",
+	"system": {
+		"description": "<p>You were found beneath a cursed Marrow tree</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

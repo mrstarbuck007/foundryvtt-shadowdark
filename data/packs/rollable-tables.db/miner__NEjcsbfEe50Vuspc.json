@@ -1,0 +1,17 @@
+{
+	"_id": "NEjcsbfEe50Vuspc",
+	"_key": "!tables.results!DhvG2j23C842Loix.NEjcsbfEe50Vuspc",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.k805D8UP68axXBqC",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/tools/hand/mining-pick-worn.webp",
+	"name": "Miner",
+	"range": [
+		4,
+		4
+	],
+	"type": "document",
+	"weight": 1
+}

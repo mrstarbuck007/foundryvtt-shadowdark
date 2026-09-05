@@ -1,0 +1,17 @@
+{
+	"_id": "FziItvysK3CDRhwP",
+	"_key": "!tables.results!Hd82gNbQPCZjyQtn.FziItvysK3CDRhwP",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.TgqKOLubZ03o5eXd",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+	"name": "Lost",
+	"range": [
+		16,
+		16
+	],
+	"type": "document",
+	"weight": 1
+}

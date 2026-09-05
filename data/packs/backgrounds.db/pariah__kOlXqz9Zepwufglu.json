@@ -1,0 +1,20 @@
+{
+	"_id": "kOlXqz9Zepwufglu",
+	"_key": "!items!kOlXqz9Zepwufglu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "CBn9M04JC7kMz6jO",
+	"img": "icons/skills/social/wave-halt-stop.webp",
+	"name": "Pariah",
+	"system": {
+		"description": "<p>Your family cast you out to make an example of you</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

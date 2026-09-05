@@ -1,0 +1,17 @@
+{
+	"_id": "pkNuFE4kAFFEbFBi",
+	"_key": "!tables.results!hIJuYLPTpugyytNb.pkNuFE4kAFFEbFBi",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.I96XLIy1L6cDmQ1i",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Orphan",
+	"range": [
+		3,
+		3
+	],
+	"type": "document",
+	"weight": 1
+}

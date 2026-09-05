@@ -1,0 +1,20 @@
+{
+	"_id": "ct2H5wGiz87EWUDA",
+	"_key": "!items!ct2H5wGiz87EWUDA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "1TJfn8Xp666Q1vGY",
+	"img": "icons/environment/people/cleric-grey.webp",
+	"name": "Acolyte",
+	"system": {
+		"description": "<p>You're a low-ranking member of a church or cult</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

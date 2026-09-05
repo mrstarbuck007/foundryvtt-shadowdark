@@ -1,0 +1,20 @@
+{
+	"_id": "Glvs9QqbOLdKxmXv",
+	"_key": "!items!Glvs9QqbOLdKxmXv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "CBn9M04JC7kMz6jO",
+	"img": "icons/equipment/head/crown-gold-blue.webp",
+	"name": "Prince",
+	"system": {
+		"description": "<p>You are the leader of a small clan of Kyzian nomads</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

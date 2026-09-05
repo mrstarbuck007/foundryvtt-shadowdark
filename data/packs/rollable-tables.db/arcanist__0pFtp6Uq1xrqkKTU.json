@@ -1,0 +1,17 @@
+{
+	"_id": "0pFtp6Uq1xrqkKTU",
+	"_key": "!tables.results!g03pyUKBn5X9j6Sx.0pFtp6Uq1xrqkKTU",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.bf6YZ17I8bh4wIXM",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/sundries/books/book-open-turquoise.webp",
+	"name": "Arcanist",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

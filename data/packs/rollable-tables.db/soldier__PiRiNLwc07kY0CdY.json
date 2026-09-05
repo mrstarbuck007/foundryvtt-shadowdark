@@ -1,0 +1,17 @@
+{
+	"_id": "PiRiNLwc07kY0CdY",
+	"_key": "!tables.results!Hd82gNbQPCZjyQtn.PiRiNLwc07kY0CdY",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.1vAO7A2KhGbKZ9dS",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/people/infantry-armored.webp",
+	"name": "Soldier",
+	"range": [
+		7,
+		8
+	],
+	"type": "document",
+	"weight": 1
+}

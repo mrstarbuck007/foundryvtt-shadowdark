@@ -1,0 +1,27 @@
+{
+	"_id": "Hd82gNbQPCZjyQtn",
+	"_key": "!tables!Hd82gNbQPCZjyQtn",
+	"description": "",
+	"displayRoll": true,
+	"flags": {
+	},
+	"folder": "dbU918S4CVYyoW7S",
+	"formula": "1d16",
+	"img": "icons/environment/settlement/city-night-spire.webp",
+	"name": "Background: Civilization",
+	"replacement": true,
+	"results": [
+		"BHeNmuBpWnhZoBSp",
+		"ProSWKBxcJr1GqYB",
+		"EX4l31nwOHvqUXHf",
+		"PiRiNLwc07kY0CdY",
+		"ePwS7qSTZhniJdeS",
+		"57JRxHaJL0Zb9rsF",
+		"TFVTZNTkQs2mN1gs",
+		"jNNf9W3KBJ8wRMXZ",
+		"UyUpuyWIo6EHkpQy",
+		"2SXq9tbrGCZoL68c",
+		"Hi54aCbs9U0fLKXO",
+		"FziItvysK3CDRhwP"
+	]
+}

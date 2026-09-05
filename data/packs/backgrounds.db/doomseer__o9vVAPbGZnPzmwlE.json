@@ -1,0 +1,20 @@
+{
+	"_id": "o9vVAPbGZnPzmwlE",
+	"_key": "!items!o9vVAPbGZnPzmwlE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "pcPaWE9twNle4cqV",
+	"img": "icons/magic/perception/orb-crystal-ball-scrying-blue.webp",
+	"name": "Doomseer",
+	"system": {
+		"description": "<p>Brief, apocalyptic visions haunt your dreams</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

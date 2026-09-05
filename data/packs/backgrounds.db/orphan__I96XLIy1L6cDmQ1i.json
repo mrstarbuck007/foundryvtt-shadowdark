@@ -1,0 +1,20 @@
+{
+	"_id": "I96XLIy1L6cDmQ1i",
+	"_key": "!items!I96XLIy1L6cDmQ1i",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vDme4iLsM18S5zWQ",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Orphan",
+	"system": {
+		"description": "<p>You wandered into town as a ragged, lost child</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "3QPavJLoThizQFLS",
+	"_key": "!tables.results!e8qDtAt8fB3EHBcf.3QPavJLoThizQFLS",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.4xQeJHqqeOEGGXl3",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/tools/fishing/net-simple-brown.webp",
+	"name": "Fisher",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

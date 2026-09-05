@@ -1,0 +1,20 @@
+{
+	"_id": "Q5Oq7V4dWNq0gWYz",
+	"_key": "!items!Q5Oq7V4dWNq0gWYz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "pcPaWE9twNle4cqV",
+	"img": "icons/commodities/currency/coin-embossed-star-gold.webp",
+	"name": "Indebted",
+	"system": {
+		"description": "<p>You are trying to outrun an impossible debt</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

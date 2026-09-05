@@ -1,0 +1,17 @@
+{
+	"_id": "BHeNmuBpWnhZoBSp",
+	"_key": "!tables.results!Hd82gNbQPCZjyQtn.BHeNmuBpWnhZoBSp",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.3oGaKqWOZ14Bbqq0",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/symbols/mask-metal-silver-white.webp",
+	"name": "Meridian",
+	"range": [
+		1,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

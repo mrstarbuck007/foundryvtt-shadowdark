@@ -1,0 +1,20 @@
+{
+	"_id": "d9XrDkOiuo64p6Nm",
+	"_key": "!items!d9XrDkOiuo64p6Nm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "1TJfn8Xp666Q1vGY",
+	"img": "icons/environment/settlement/city-night.webp",
+	"name": "Beggar",
+	"system": {
+		"description": "<p>You are adept at surviving in the urban streets</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

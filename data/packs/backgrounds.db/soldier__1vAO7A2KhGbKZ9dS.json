@@ -1,0 +1,20 @@
+{
+	"_id": "1vAO7A2KhGbKZ9dS",
+	"_key": "!items!1vAO7A2KhGbKZ9dS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "1TJfn8Xp666Q1vGY",
+	"img": "icons/environment/people/infantry-armored.webp",
+	"name": "Soldier",
+	"system": {
+		"description": "<p>You served in an army; other soldiers respect you</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

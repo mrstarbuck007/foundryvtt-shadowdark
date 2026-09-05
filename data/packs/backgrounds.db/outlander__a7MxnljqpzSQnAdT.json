@@ -1,0 +1,20 @@
+{
+	"_id": "a7MxnljqpzSQnAdT",
+	"_key": "!items!a7MxnljqpzSQnAdT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DCfnFXxHSDA3ECWB",
+	"img": "icons/environment/wilderness/camp-improvised.webp",
+	"name": "Outlander",
+	"system": {
+		"description": "<p>You came with a caravan from a distant land</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

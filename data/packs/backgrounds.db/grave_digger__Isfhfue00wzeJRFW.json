@@ -1,0 +1,20 @@
+{
+	"_id": "Isfhfue00wzeJRFW",
+	"_key": "!items!Isfhfue00wzeJRFW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vDme4iLsM18S5zWQ",
+	"img": "icons/environment/settlement/graveyard.webp",
+	"name": "Grave Digger",
+	"system": {
+		"description": "<p>You know more about the dead than most</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

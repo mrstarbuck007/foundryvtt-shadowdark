@@ -1,0 +1,17 @@
+{
+	"_id": "n3pL2lYuEc2zWPo9",
+	"_key": "!tables.results!WttdC6krM61p9bM5.n3pL2lYuEc2zWPo9",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.Q5Oq7V4dWNq0gWYz",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/currency/coin-embossed-star-gold.webp",
+	"name": "Indebted",
+	"range": [
+		3,
+		3
+	],
+	"type": "document",
+	"weight": 1
+}

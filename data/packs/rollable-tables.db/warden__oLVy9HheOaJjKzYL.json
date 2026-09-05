@@ -1,0 +1,17 @@
+{
+	"_id": "oLVy9HheOaJjKzYL",
+	"_key": "!tables.results!S5IWKePfQjRMaWDW.oLVy9HheOaJjKzYL",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.eU0n4hp1VzSOnl6u",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/graveyard-tombstone-night.webp",
+	"name": "Warden",
+	"range": [
+		3,
+		3
+	],
+	"type": "document",
+	"weight": 1
+}

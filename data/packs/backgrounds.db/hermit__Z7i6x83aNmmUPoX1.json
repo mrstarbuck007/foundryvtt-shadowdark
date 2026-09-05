@@ -1,0 +1,20 @@
+{
+	"_id": "Z7i6x83aNmmUPoX1",
+	"_key": "!items!Z7i6x83aNmmUPoX1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "KqRk8BcdAj1gAtFZ",
+	"img": "icons/environment/wilderness/cave-entrance-rocky.webp",
+	"name": "Hermit",
+	"system": {
+		"description": "<p>Loners respect you and civilized folk fear you</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

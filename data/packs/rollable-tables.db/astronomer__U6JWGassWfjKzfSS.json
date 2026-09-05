@@ -1,0 +1,17 @@
+{
+	"_id": "U6JWGassWfjKzfSS",
+	"_key": "!tables.results!DhvG2j23C842Loix.U6JWGassWfjKzfSS",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.dqvxtYx15IueyCMg",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/trades/academics-astronomy-navigation-blue.webp",
+	"name": "Astronomer",
+	"range": [
+		5,
+		5
+	],
+	"type": "document",
+	"weight": 1
+}

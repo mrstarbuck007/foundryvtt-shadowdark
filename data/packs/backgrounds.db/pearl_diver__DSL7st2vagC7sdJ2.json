@@ -1,0 +1,20 @@
+{
+	"_id": "DSL7st2vagC7sdJ2",
+	"_key": "!items!DSL7st2vagC7sdJ2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "h9Cz4Z75ixX1v4gO",
+	"img": "icons/commodities/gems/pearl-white-oval.webp",
+	"name": "Pearl Diver",
+	"system": {
+		"description": "<p>You can swim and dive like the merfolk of lore</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

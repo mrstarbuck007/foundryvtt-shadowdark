@@ -1,0 +1,20 @@
+{
+	"_id": "RuzLpaxJzyFByn1S",
+	"_key": "!items!RuzLpaxJzyFByn1S",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "1TJfn8Xp666Q1vGY",
+	"img": "icons/magic/life/ankh-gold-blue.webp",
+	"name": "Revived",
+	"system": {
+		"description": "<p>Someone brought your spirit back from death</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

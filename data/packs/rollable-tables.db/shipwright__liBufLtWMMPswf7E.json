@@ -1,0 +1,17 @@
+{
+	"_id": "liBufLtWMMPswf7E",
+	"_key": "!tables.results!e8qDtAt8fB3EHBcf.liBufLtWMMPswf7E",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.hMxP7p49xHcSkV7W",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/tools/hand/hammer-and-nail.webp",
+	"name": "Shipwright",
+	"range": [
+		3,
+		3
+	],
+	"type": "document",
+	"weight": 1
+}

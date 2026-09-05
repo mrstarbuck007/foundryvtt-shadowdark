@@ -1,0 +1,17 @@
+{
+	"_id": "ruu8iYSuxAQ2PW4B",
+	"_key": "!tables.results!SJE347sub1er27J5.ruu8iYSuxAQ2PW4B",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.AbyTZAVRcKSx2LEv",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
+	"name": "Spirited Away",
+	"range": [
+		9,
+		9
+	],
+	"type": "document",
+	"weight": 1
+}

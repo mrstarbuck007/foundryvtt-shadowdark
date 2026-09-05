@@ -1,0 +1,17 @@
+{
+	"_id": "txsGnzrfeFypQlM4",
+	"_key": "!tables.results!WttdC6krM61p9bM5.txsGnzrfeFypQlM4",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.gCb1xoyx86dPSxrk",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/wilderness/terrain-river-road-gray.webp",
+	"name": "Riverfolk",
+	"range": [
+		4,
+		4
+	],
+	"type": "document",
+	"weight": 1
+}

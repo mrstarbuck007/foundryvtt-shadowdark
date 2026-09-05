@@ -1,0 +1,17 @@
+{
+	"_id": "cAJ1TZBiYTNAX2ES",
+	"_key": "!tables.results!hIJuYLPTpugyytNb.cAJ1TZBiYTNAX2ES",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.RCykLn0hiSv0yEAG",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
+	"name": "Fugitive",
+	"range": [
+		4,
+		4
+	],
+	"type": "document",
+	"weight": 1
+}

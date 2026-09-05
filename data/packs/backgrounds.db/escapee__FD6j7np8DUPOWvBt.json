@@ -1,0 +1,20 @@
+{
+	"_id": "FD6j7np8DUPOWvBt",
+	"_key": "!items!FD6j7np8DUPOWvBt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DCfnFXxHSDA3ECWB",
+	"img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+	"name": "Escapee",
+	"system": {
+		"description": "<p>You escaped a cult dedicated to the demon Molek</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "pSTLwIZPhDNA8pcY",
+	"_key": "!items!pSTLwIZPhDNA8pcY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "pcPaWE9twNle4cqV",
+	"img": "icons/containers/chest/chest-oak-steel-brown.webp",
+	"name": "Treasure Hunter",
+	"system": {
+		"description": "<p>You've followed a rumor for many years</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

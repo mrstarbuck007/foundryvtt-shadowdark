@@ -1,0 +1,20 @@
+{
+	"_id": "x76qtGOAlENrVv1L",
+	"_key": "!items!x76qtGOAlENrVv1L",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DCfnFXxHSDA3ECWB",
+	"img": "icons/equipment/head/hood-chain-worn.webp",
+	"name": "Bandit",
+	"system": {
+		"description": "<p>You have connections with your old bandit crew</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

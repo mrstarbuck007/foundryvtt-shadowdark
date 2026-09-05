@@ -1,0 +1,17 @@
+{
+	"_id": "g3w9XeA0bfwOjz0N",
+	"_key": "!tables.results!SJE347sub1er27J5.g3w9XeA0bfwOjz0N",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.s52ccVilUkbkOa7k",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/perception/third-eye-blue-red.webp",
+	"name": "Mystic",
+	"range": [
+		8,
+		8
+	],
+	"type": "document",
+	"weight": 1
+}

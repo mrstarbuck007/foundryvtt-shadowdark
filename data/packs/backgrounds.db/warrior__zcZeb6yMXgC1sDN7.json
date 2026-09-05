@@ -1,0 +1,20 @@
+{
+	"_id": "zcZeb6yMXgC1sDN7",
+	"_key": "!items!zcZeb6yMXgC1sDN7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "CBn9M04JC7kMz6jO",
+	"img": "icons/skills/melee/hand-grip-sword-white-brown.webp",
+	"name": "Warrior",
+	"system": {
+		"description": "<p>You have pledged military service to a Kyzian Prince</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

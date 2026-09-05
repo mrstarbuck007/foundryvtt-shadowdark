@@ -1,0 +1,20 @@
+{
+	"_id": "mYaBH3aUaxjqByF3",
+	"_key": "!items!mYaBH3aUaxjqByF3",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "pcPaWE9twNle4cqV",
+	"img": "icons/environment/settlement/abandoned-pier.webp",
+	"name": "Castaway",
+	"system": {
+		"description": "<p>Your ship and crew sank off the jungle's shore</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

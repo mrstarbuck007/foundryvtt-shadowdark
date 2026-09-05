@@ -1,0 +1,17 @@
+{
+	"_id": "GNickY4bDMVhPN4v",
+	"_key": "!tables.results!e8qDtAt8fB3EHBcf.GNickY4bDMVhPN4v",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.i8EYgCwM6Vw06EoQ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/watchtower-moonlit-blue.webp",
+	"name": "Nord",
+	"range": [
+		1,
+		1
+	],
+	"type": "document",
+	"weight": 1
+}

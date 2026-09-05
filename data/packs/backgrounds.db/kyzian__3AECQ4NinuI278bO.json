@@ -1,0 +1,20 @@
+{
+	"_id": "3AECQ4NinuI278bO",
+	"_key": "!items!3AECQ4NinuI278bO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "CBn9M04JC7kMz6jO",
+	"img": "icons/environment/settlement/tent-flag.webp",
+	"name": "Kyzian",
+	"system": {
+		"description": "<p>You belong to a nomadic Kyzian clan led by a prince</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

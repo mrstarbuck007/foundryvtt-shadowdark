@@ -1,0 +1,17 @@
+{
+	"_id": "xxWf5kT5qKPaKEuj",
+	"_key": "!tables.results!WttdC6krM61p9bM5.xxWf5kT5qKPaKEuj",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.pSTLwIZPhDNA8pcY",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/containers/chest/chest-oak-steel-brown.webp",
+	"name": "Treasure Hunter",
+	"range": [
+		8,
+		8
+	],
+	"type": "document",
+	"weight": 1
+}

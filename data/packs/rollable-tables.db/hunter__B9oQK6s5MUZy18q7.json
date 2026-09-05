@@ -1,0 +1,17 @@
+{
+	"_id": "B9oQK6s5MUZy18q7",
+	"_key": "!tables.results!hIJuYLPTpugyytNb.B9oQK6s5MUZy18q7",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.corhN3zqpQiecbDa",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/weapons/bows/longbow-leather-green.webp",
+	"name": "Hunter",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

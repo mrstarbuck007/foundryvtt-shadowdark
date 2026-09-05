@@ -1,0 +1,17 @@
+{
+	"_id": "jkoO4xcpiPZxGxdl",
+	"_key": "!tables.results!hIJuYLPTpugyytNb.jkoO4xcpiPZxGxdl",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.vlBXsyS2rcLP1e09",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/house-woods.webp",
+	"name": "Lydonian",
+	"range": [
+		1,
+		1
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "a2iWbIcZ2YeV4NtO",
+	"_key": "!tables.results!DhvG2j23C842Loix.a2iWbIcZ2YeV4NtO",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.Fek4EfVzjYNEjKz9",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/wilderness/cave-entrance.webp",
+	"name": "Deep Dweller",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

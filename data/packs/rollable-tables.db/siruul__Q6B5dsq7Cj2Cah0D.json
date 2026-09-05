@@ -1,0 +1,17 @@
+{
+	"_id": "Q6B5dsq7Cj2Cah0D",
+	"_key": "!tables.results!g03pyUKBn5X9j6Sx.Q6B5dsq7Cj2Cah0D",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.uEt9LWik9aLhGnHN",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/wilderness/cave-entrance.webp",
+	"name": "Siruul",
+	"range": [
+		3,
+		3
+	],
+	"type": "document",
+	"weight": 1
+}

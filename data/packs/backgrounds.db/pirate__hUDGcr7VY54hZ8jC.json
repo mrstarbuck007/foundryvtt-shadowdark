@@ -1,0 +1,20 @@
+{
+	"_id": "hUDGcr7VY54hZ8jC",
+	"_key": "!items!hUDGcr7VY54hZ8jC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "h9Cz4Z75ixX1v4gO",
+	"img": "icons/weapons/swords/sword-guard-worn.webp",
+	"name": "Pirate",
+	"system": {
+		"description": "<p>You have a criminal past and friends in low places</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

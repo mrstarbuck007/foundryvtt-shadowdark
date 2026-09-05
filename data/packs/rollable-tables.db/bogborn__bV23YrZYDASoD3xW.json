@@ -1,0 +1,17 @@
+{
+	"_id": "bV23YrZYDASoD3xW",
+	"_key": "!tables.results!SJE347sub1er27J5.bV23YrZYDASoD3xW",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.J0qWLZhbYxND4Oi2",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/nature/root-vine-barrier-wall-brown.webp",
+	"name": "Bogborn",
+	"range": [
+		6,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "corhN3zqpQiecbDa",
+	"_key": "!items!corhN3zqpQiecbDa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vDme4iLsM18S5zWQ",
+	"img": "icons/weapons/bows/longbow-leather-green.webp",
+	"name": "Hunter",
+	"system": {
+		"description": "<p>You're an expert at hunting game in the woods</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

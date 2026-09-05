@@ -1,0 +1,17 @@
+{
+	"_id": "e6XmcXChErMRiWJy",
+	"_key": "!tables.results!DhvG2j23C842Loix.e6XmcXChErMRiWJy",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.ilgQRKieindIPORe",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/temple-night.webp",
+	"name": "Monk",
+	"range": [
+		8,
+		8
+	],
+	"type": "document",
+	"weight": 1
+}

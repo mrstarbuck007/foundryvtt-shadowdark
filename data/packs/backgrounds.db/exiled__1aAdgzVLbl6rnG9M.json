@@ -1,0 +1,20 @@
+{
+	"_id": "1aAdgzVLbl6rnG9M",
+	"_key": "!items!1aAdgzVLbl6rnG9M",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "1TJfn8Xp666Q1vGY",
+	"img": "icons/environment/settlement/city-gate.webp",
+	"name": "Exiled",
+	"system": {
+		"description": "<p>You're exiled from your homeland, never to return</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

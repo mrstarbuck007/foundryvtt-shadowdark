@@ -1,0 +1,20 @@
+{
+	"_id": "dqvxtYx15IueyCMg",
+	"_key": "!items!dqvxtYx15IueyCMg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "4dTwi4ExN7dNowjq",
+	"img": "icons/skills/trades/academics-astronomy-navigation-blue.webp",
+	"name": "Astronomer",
+	"system": {
+		"description": "<p>You know the stars and their complex patterns</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

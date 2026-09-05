@@ -1,0 +1,17 @@
+{
+	"_id": "UW5V3kuY4HfccoNx",
+	"_key": "!tables.results!WttdC6krM61p9bM5.UW5V3kuY4HfccoNx",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.DdRbkA6jmeO8JhvR",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/sundries/books/book-embossed-bound-brown.webp",
+	"name": "Academic",
+	"range": [
+		7,
+		7
+	],
+	"type": "document",
+	"weight": 1
+}

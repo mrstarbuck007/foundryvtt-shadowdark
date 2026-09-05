@@ -1,0 +1,17 @@
+{
+	"_id": "jFmStC2B9SyrafQN",
+	"_key": "!tables.results!DhvG2j23C842Loix.jFmStC2B9SyrafQN",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.1AENALCtchFJcpGl",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/perception/silhouette-stealth-shadow.webp",
+	"name": "Ras-Godai",
+	"range": [
+		10,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

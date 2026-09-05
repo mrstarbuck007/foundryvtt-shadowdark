@@ -1,0 +1,17 @@
+{
+	"_id": "UhqaYIzGDLkohKJt",
+	"_key": "!tables.results!DhvG2j23C842Loix.UhqaYIzGDLkohKJt",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.16EJRJzuk8nC4CRz",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/magical/humanoid-silhouette-green.webp",
+	"name": "Goblinborn",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

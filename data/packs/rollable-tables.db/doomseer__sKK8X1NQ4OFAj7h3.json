@@ -1,0 +1,17 @@
+{
+	"_id": "sKK8X1NQ4OFAj7h3",
+	"_key": "!tables.results!WttdC6krM61p9bM5.sKK8X1NQ4OFAj7h3",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.o9vVAPbGZnPzmwlE",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/perception/orb-crystal-ball-scrying-blue.webp",
+	"name": "Doomseer",
+	"range": [
+		5,
+		5
+	],
+	"type": "document",
+	"weight": 1
+}

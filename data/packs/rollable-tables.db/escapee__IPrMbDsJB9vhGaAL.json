@@ -1,0 +1,17 @@
+{
+	"_id": "IPrMbDsJB9vhGaAL",
+	"_key": "!tables.results!g03pyUKBn5X9j6Sx.IPrMbDsJB9vhGaAL",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.FD6j7np8DUPOWvBt",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+	"name": "Escapee",
+	"range": [
+		5,
+		5
+	],
+	"type": "document",
+	"weight": 1
+}

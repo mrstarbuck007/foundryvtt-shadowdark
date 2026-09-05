@@ -1,0 +1,17 @@
+{
+	"_id": "ProSWKBxcJr1GqYB",
+	"_key": "!tables.results!Hd82gNbQPCZjyQtn.ProSWKBxcJr1GqYB",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.i7NA9IGqymxCVq6i",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/house-farmland.webp",
+	"name": "Peasant",
+	"range": [
+		3,
+		4
+	],
+	"type": "document",
+	"weight": 1
+}

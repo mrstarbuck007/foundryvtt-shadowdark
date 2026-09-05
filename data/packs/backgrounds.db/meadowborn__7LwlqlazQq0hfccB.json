@@ -1,0 +1,20 @@
+{
+	"_id": "7LwlqlazQq0hfccB",
+	"_key": "!items!7LwlqlazQq0hfccB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "CBn9M04JC7kMz6jO",
+	"img": "icons/magic/nature/leaf-flower-wreath-glow-green-blue.webp",
+	"name": "Meadowborn",
+	"system": {
+		"description": "<p>Halflings treat you as a cousin or good friend</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

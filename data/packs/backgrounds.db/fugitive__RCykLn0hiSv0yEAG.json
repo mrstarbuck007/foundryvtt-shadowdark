@@ -1,0 +1,20 @@
+{
+	"_id": "RCykLn0hiSv0yEAG",
+	"_key": "!items!RCykLn0hiSv0yEAG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vDme4iLsM18S5zWQ",
+	"img": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
+	"name": "Fugitive",
+	"system": {
+		"description": "<p>You're hiding in the woods from the authorities</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

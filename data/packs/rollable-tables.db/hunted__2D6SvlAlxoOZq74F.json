@@ -1,0 +1,17 @@
+{
+	"_id": "2D6SvlAlxoOZq74F",
+	"_key": "!tables.results!g03pyUKBn5X9j6Sx.2D6SvlAlxoOZq74F",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.gdw9R59LAJmFRIfb",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/targeting/crosshair-bars-yellow.webp",
+	"name": "Hunted",
+	"range": [
+		11,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

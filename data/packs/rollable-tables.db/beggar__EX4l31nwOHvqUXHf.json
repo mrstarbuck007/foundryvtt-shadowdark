@@ -1,0 +1,17 @@
+{
+	"_id": "EX4l31nwOHvqUXHf",
+	"_key": "!tables.results!Hd82gNbQPCZjyQtn.EX4l31nwOHvqUXHf",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.d9XrDkOiuo64p6Nm",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/city-night.webp",
+	"name": "Beggar",
+	"range": [
+		5,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

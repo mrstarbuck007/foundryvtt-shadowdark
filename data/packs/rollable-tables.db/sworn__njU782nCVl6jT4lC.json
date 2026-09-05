@@ -1,0 +1,17 @@
+{
+	"_id": "njU782nCVl6jT4lC",
+	"_key": "!tables.results!SJE347sub1er27J5.njU782nCVl6jT4lC",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.z3QJ2Of68MRopRdb",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+	"name": "Sworn",
+	"range": [
+		11,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

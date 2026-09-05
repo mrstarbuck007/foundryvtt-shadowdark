@@ -1,0 +1,20 @@
+{
+	"_id": "OuxdYtizyHxyC5jd",
+	"_key": "!items!OuxdYtizyHxyC5jd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "pcPaWE9twNle4cqV",
+	"img": "icons/tools/navigation/map-chart-tan.webp",
+	"name": "Cartographer",
+	"system": {
+		"description": "<p>You are skilled at creating and selling maps</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

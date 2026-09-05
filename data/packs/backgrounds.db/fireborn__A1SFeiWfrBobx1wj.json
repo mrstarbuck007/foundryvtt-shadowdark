@@ -1,0 +1,20 @@
+{
+	"_id": "A1SFeiWfrBobx1wj",
+	"_key": "!items!A1SFeiWfrBobx1wj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "pcPaWE9twNle4cqV",
+	"img": "icons/environment/wilderness/cave-entrance-vulcano.webp",
+	"name": "Fireborn",
+	"system": {
+		"description": "<p>You can endure volcanic heat better than anyone</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

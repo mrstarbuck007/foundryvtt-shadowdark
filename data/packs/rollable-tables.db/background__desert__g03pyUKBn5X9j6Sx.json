@@ -1,0 +1,27 @@
+{
+	"_id": "g03pyUKBn5X9j6Sx",
+	"_key": "!tables!g03pyUKBn5X9j6Sx",
+	"description": "",
+	"displayRoll": true,
+	"flags": {
+	},
+	"folder": "dbU918S4CVYyoW7S",
+	"formula": "1d12",
+	"img": "icons/environment/wilderness/cave-entrance.webp",
+	"name": "Background: Desert",
+	"replacement": true,
+	"results": [
+		"9ySpXg7d1lEoXudm",
+		"6I0NXFGu6wnTge6B",
+		"Q6B5dsq7Cj2Cah0D",
+		"yosBuQw7WeA6EtOt",
+		"IPrMbDsJB9vhGaAL",
+		"Qh16BcyFxLMSWFLL",
+		"BGQhht6y2NSVotyH",
+		"CekVAmcJhSM6qfd7",
+		"LJZ5XAEix0DLYOID",
+		"7XMswRkS8onnXQDF",
+		"2D6SvlAlxoOZq74F",
+		"0pFtp6Uq1xrqkKTU"
+	]
+}

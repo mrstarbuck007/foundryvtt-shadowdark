@@ -1,0 +1,20 @@
+{
+	"_id": "lWdvJOKSAIsFNlJI",
+	"_key": "!items!lWdvJOKSAIsFNlJI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "h9Cz4Z75ixX1v4gO",
+	"img": "icons/commodities/currency/coins-assorted-mix-copper-silver-gold.webp",
+	"name": "Trader",
+	"system": {
+		"description": "<p>You know your way around every port city and town</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

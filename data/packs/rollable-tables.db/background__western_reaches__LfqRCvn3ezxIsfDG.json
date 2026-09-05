@@ -1,0 +1,23 @@
+{
+	"_id": "LfqRCvn3ezxIsfDG",
+	"_key": "!tables!LfqRCvn3ezxIsfDG",
+	"description": "<p>Roll to find the sort of place you come from, then roll again on that location's table for your background.</p><p>Work with the GM to determine if your background provides you advantages in a given situation.</p>",
+	"displayRoll": true,
+	"flags": {
+	},
+	"folder": "dbU918S4CVYyoW7S",
+	"formula": "1d100",
+	"img": "icons/tools/navigation/map-marked-black.webp",
+	"name": "Background: Western Reaches",
+	"replacement": true,
+	"results": [
+		"HVnb7zjmJe4alGvp",
+		"vhhBwFBUQMlCoyTn",
+		"zzu8TmsAQSxgcdoA",
+		"4AWOhECJLWdYZqfX",
+		"qDHzks9h3VE8VB5H",
+		"kbuwEmWJd9K3v76Q",
+		"rURcmE5jyJge2Cgp",
+		"j3WPjWxoSyfgnb5v"
+	]
+}

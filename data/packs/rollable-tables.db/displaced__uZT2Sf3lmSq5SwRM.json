@@ -1,0 +1,17 @@
+{
+	"_id": "uZT2Sf3lmSq5SwRM",
+	"_key": "!tables.results!e8qDtAt8fB3EHBcf.uZT2Sf3lmSq5SwRM",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.gaEvzRRcl7XU1g7a",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/fire/flame-burning-building.webp",
+	"name": "Displaced",
+	"range": [
+		7,
+		7
+	],
+	"type": "document",
+	"weight": 1
+}

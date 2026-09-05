@@ -1,0 +1,17 @@
+{
+	"_id": "6Gplq1PbDBWdDjsa",
+	"_key": "!tables.results!SJE347sub1er27J5.6Gplq1PbDBWdDjsa",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.uqmSP6CeU5EtjU06",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/magical/humanoid-giant-forest-blue.webp",
+	"name": "Stilt Orcs",
+	"range": [
+		1,
+		1
+	],
+	"type": "document",
+	"weight": 1
+}

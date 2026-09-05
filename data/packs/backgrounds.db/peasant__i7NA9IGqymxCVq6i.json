@@ -1,0 +1,20 @@
+{
+	"_id": "i7NA9IGqymxCVq6i",
+	"_key": "!items!i7NA9IGqymxCVq6i",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "1TJfn8Xp666Q1vGY",
+	"img": "icons/environment/settlement/house-farmland.webp",
+	"name": "Peasant",
+	"system": {
+		"description": "<p>You scrape out a living under a lord's protection</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

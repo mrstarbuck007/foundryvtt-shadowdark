@@ -1,0 +1,20 @@
+{
+	"_id": "qiylaipMlVdBLrhC",
+	"_key": "!items!qiylaipMlVdBLrhC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "h9Cz4Z75ixX1v4gO",
+	"img": "icons/tools/instruments/lute-gold-brown.webp",
+	"name": "Skald",
+	"system": {
+		"description": "<p>You've been trained to sing the legends of the nords</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

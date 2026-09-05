@@ -1,0 +1,20 @@
+{
+	"_id": "z3QJ2Of68MRopRdb",
+	"_key": "!items!z3QJ2Of68MRopRdb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "KqRk8BcdAj1gAtFZ",
+	"img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+	"name": "Sworn",
+	"system": {
+		"description": "<p>You made a risky bargain with a swamp demon</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

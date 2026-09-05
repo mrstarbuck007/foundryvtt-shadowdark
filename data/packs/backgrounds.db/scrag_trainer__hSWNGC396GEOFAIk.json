@@ -1,0 +1,20 @@
+{
+	"_id": "hSWNGC396GEOFAIk",
+	"_key": "!items!hSWNGC396GEOFAIk",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DCfnFXxHSDA3ECWB",
+	"img": "icons/creatures/reptiles/lizard-iguana-green.webp",
+	"name": "Scrag Trainer",
+	"system": {
+		"description": "<p>You can ride scrag and teach them tricks</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

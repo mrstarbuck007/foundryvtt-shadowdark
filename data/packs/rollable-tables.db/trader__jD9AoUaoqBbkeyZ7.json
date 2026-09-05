@@ -1,0 +1,17 @@
+{
+	"_id": "jD9AoUaoqBbkeyZ7",
+	"_key": "!tables.results!e8qDtAt8fB3EHBcf.jD9AoUaoqBbkeyZ7",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.lWdvJOKSAIsFNlJI",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/currency/coins-assorted-mix-copper-silver-gold.webp",
+	"name": "Trader",
+	"range": [
+		10,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

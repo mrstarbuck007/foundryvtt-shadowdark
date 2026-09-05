@@ -1,0 +1,20 @@
+{
+	"_id": "g32XnCYJCInlPWqZ",
+	"_key": "!items!g32XnCYJCInlPWqZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "KqRk8BcdAj1gAtFZ",
+	"img": "icons/magic/unholy/hand-marked-pink.webp",
+	"name": "Chosen",
+	"system": {
+		"description": "<p>An eldritch force calls to you in the dark of the night</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

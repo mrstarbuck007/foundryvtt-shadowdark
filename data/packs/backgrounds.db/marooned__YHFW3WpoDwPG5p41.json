@@ -1,0 +1,20 @@
+{
+	"_id": "YHFW3WpoDwPG5p41",
+	"_key": "!items!YHFW3WpoDwPG5p41",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "h9Cz4Z75ixX1v4gO",
+	"img": "icons/environment/wilderness/island.webp",
+	"name": "Marooned",
+	"system": {
+		"description": "<p>You were left for dead but somehow survived</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

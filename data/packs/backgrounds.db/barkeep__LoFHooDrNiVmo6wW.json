@@ -1,0 +1,20 @@
+{
+	"_id": "LoFHooDrNiVmo6wW",
+	"_key": "!items!LoFHooDrNiVmo6wW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "1TJfn8Xp666Q1vGY",
+	"img": "icons/environment/settlement/tavern.webp",
+	"name": "Barkeep",
+	"system": {
+		"description": "<p>You're talented at gossip and hospitality</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "bf6YZ17I8bh4wIXM",
+	"_key": "!items!bf6YZ17I8bh4wIXM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DCfnFXxHSDA3ECWB",
+	"img": "icons/sundries/books/book-open-turquoise.webp",
+	"name": "Arcanist",
+	"system": {
+		"description": "<p>You know how to find Gehemna, the fabled library</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

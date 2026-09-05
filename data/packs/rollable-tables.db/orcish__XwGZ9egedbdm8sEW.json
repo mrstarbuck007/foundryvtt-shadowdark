@@ -1,0 +1,17 @@
+{
+	"_id": "XwGZ9egedbdm8sEW",
+	"_key": "!tables.results!DhvG2j23C842Loix.XwGZ9egedbdm8sEW",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.Le1Umz6co45CyWaV",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/magical/humanoid-giant-forest-blue.webp",
+	"name": "Orcish",
+	"range": [
+		11,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

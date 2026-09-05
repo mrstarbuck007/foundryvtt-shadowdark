@@ -1,0 +1,17 @@
+{
+	"_id": "wtKu4ox5QzyGmktv",
+	"_key": "!tables.results!SJE347sub1er27J5.wtKu4ox5QzyGmktv",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.q6rUq5cchN1XRCmj",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/death/grave-tombstone-glow-teal.webp",
+	"name": "Death-Touched",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

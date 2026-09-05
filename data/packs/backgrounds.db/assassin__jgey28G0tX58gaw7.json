@@ -1,0 +1,20 @@
+{
+	"_id": "jgey28G0tX58gaw7",
+	"_key": "!items!jgey28G0tX58gaw7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DCfnFXxHSDA3ECWB",
+	"img": "icons/skills/melee/strike-dagger-skull-white.webp",
+	"name": "Assassin",
+	"system": {
+		"description": "<p>You were a killer for hire before leaving it behind</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

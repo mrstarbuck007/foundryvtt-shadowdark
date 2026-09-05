@@ -1,0 +1,17 @@
+{
+	"_id": "oDjuk9F0HsjGKk2V",
+	"_key": "!tables.results!SJE347sub1er27J5.oDjuk9F0HsjGKk2V",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.g32XnCYJCInlPWqZ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/unholy/hand-marked-pink.webp",
+	"name": "Chosen",
+	"range": [
+		7,
+		7
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "XQ1VdwhljeyrueYw",
+	"_key": "!tables.results!hIJuYLPTpugyytNb.XQ1VdwhljeyrueYw",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.Isfhfue00wzeJRFW",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/graveyard.webp",
+	"name": "Grave Digger",
+	"range": [
+		7,
+		7
+	],
+	"type": "document",
+	"weight": 1
+}

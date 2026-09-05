@@ -1,0 +1,17 @@
+{
+	"_id": "J4s09WnuLuTTOIHu",
+	"_key": "!tables.results!S5IWKePfQjRMaWDW.J4s09WnuLuTTOIHu",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.3AECQ4NinuI278bO",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/tent-flag.webp",
+	"name": "Kyzian",
+	"range": [
+		1,
+		1
+	],
+	"type": "document",
+	"weight": 1
+}

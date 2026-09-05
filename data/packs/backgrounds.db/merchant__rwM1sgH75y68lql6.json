@@ -1,0 +1,20 @@
+{
+	"_id": "rwM1sgH75y68lql6",
+	"_key": "!items!rwM1sgH75y68lql6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DCfnFXxHSDA3ECWB",
+	"img": "icons/commodities/currency/coins-assorted-mix-copper-silver-gold.webp",
+	"name": "Merchant",
+	"system": {
+		"description": "<p>You are a skilled haggler and always get a deal</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

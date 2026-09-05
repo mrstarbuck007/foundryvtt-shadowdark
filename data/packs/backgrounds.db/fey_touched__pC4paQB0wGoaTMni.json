@@ -1,0 +1,20 @@
+{
+	"_id": "pC4paQB0wGoaTMni",
+	"_key": "!items!pC4paQB0wGoaTMni",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vDme4iLsM18S5zWQ",
+	"img": "icons/creatures/magical/fae-fairy-winged-glowing-green.webp",
+	"name": "Fey Touched",
+	"system": {
+		"description": "<p>A fey being has watched over you from birth</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "uEt9LWik9aLhGnHN",
+	"_key": "!items!uEt9LWik9aLhGnHN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DCfnFXxHSDA3ECWB",
+	"img": "icons/environment/wilderness/cave-entrance.webp",
+	"name": "Siruul",
+	"system": {
+		"description": "<p>The desert elves raised you and taught you survival</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

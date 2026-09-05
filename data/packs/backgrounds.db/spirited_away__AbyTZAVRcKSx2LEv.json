@@ -1,0 +1,20 @@
+{
+	"_id": "AbyTZAVRcKSx2LEv",
+	"_key": "!items!AbyTZAVRcKSx2LEv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "KqRk8BcdAj1gAtFZ",
+	"img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
+	"name": "Spirited Away",
+	"system": {
+		"description": "<p>A hag kidnapped you and raised you for years</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

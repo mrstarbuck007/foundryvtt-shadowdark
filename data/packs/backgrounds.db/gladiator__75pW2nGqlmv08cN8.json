@@ -1,0 +1,20 @@
+{
+	"_id": "75pW2nGqlmv08cN8",
+	"_key": "!items!75pW2nGqlmv08cN8",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DCfnFXxHSDA3ECWB",
+	"img": "icons/skills/melee/sword-shield-stylized-white.webp",
+	"name": "Gladiator",
+	"system": {
+		"description": "<p>You survived the arena and have a few local fans</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

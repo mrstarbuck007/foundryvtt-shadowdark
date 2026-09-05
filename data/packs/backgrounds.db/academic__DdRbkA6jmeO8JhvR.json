@@ -1,0 +1,20 @@
+{
+	"_id": "DdRbkA6jmeO8JhvR",
+	"_key": "!items!DdRbkA6jmeO8JhvR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "pcPaWE9twNle4cqV",
+	"img": "icons/sundries/books/book-embossed-bound-brown.webp",
+	"name": "Academic",
+	"system": {
+		"description": "<p>You study ancient ruins and lost civilizations</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

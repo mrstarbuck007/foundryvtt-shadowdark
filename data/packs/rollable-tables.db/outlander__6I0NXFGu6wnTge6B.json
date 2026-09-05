@@ -1,0 +1,17 @@
+{
+	"_id": "6I0NXFGu6wnTge6B",
+	"_key": "!tables.results!g03pyUKBn5X9j6Sx.6I0NXFGu6wnTge6B",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.a7MxnljqpzSQnAdT",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/wilderness/camp-improvised.webp",
+	"name": "Outlander",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

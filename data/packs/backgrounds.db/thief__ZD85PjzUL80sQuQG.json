@@ -1,0 +1,20 @@
+{
+	"_id": "ZD85PjzUL80sQuQG",
+	"_key": "!items!ZD85PjzUL80sQuQG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "1TJfn8Xp666Q1vGY",
+	"img": "icons/tools/hand/lockpicks-steel-grey.webp",
+	"name": "Thief",
+	"system": {
+		"description": "<p>You have connections to a local Thieves' Guild</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

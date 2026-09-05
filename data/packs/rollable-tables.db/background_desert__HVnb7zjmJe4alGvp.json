@@ -1,0 +1,17 @@
+{
+	"_id": "HVnb7zjmJe4alGvp",
+	"_key": "!tables.results!LfqRCvn3ezxIsfDG.HVnb7zjmJe4alGvp",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.rollable-tables.RollTable.g03pyUKBn5X9j6Sx",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/wilderness/cave-entrance.webp",
+	"name": "Background: Desert",
+	"range": [
+		1,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

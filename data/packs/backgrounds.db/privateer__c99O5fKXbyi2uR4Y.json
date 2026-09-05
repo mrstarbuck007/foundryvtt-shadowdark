@@ -1,0 +1,20 @@
+{
+	"_id": "c99O5fKXbyi2uR4Y",
+	"_key": "!items!c99O5fKXbyi2uR4Y",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "h9Cz4Z75ixX1v4gO",
+	"img": "icons/environment/settlement/ship.webp",
+	"name": "Privateer",
+	"system": {
+		"description": "<p>You work for a lord to catch and punish pirates</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

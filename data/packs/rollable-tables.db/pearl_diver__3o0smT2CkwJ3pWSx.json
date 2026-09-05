@@ -1,0 +1,17 @@
+{
+	"_id": "3o0smT2CkwJ3pWSx",
+	"_key": "!tables.results!e8qDtAt8fB3EHBcf.3o0smT2CkwJ3pWSx",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.DSL7st2vagC7sdJ2",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/gems/pearl-white-oval.webp",
+	"name": "Pearl Diver",
+	"range": [
+		5,
+		5
+	],
+	"type": "document",
+	"weight": 1
+}

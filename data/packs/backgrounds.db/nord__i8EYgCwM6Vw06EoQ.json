@@ -1,0 +1,20 @@
+{
+	"_id": "i8EYgCwM6Vw06EoQ",
+	"_key": "!items!i8EYgCwM6Vw06EoQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "h9Cz4Z75ixX1v4gO",
+	"img": "icons/environment/settlement/watchtower-moonlit-blue.webp",
+	"name": "Nord",
+	"system": {
+		"description": "<p>A warrior clan from the Isles of Andrik raised you</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

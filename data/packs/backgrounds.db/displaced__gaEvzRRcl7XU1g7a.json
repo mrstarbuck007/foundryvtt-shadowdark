@@ -1,0 +1,20 @@
+{
+	"_id": "gaEvzRRcl7XU1g7a",
+	"_key": "!items!gaEvzRRcl7XU1g7a",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "h9Cz4Z75ixX1v4gO",
+	"img": "icons/magic/fire/flame-burning-building.webp",
+	"name": "Displaced",
+	"system": {
+		"description": "<p>Your home was destroyed and you seek revenge</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "s52ccVilUkbkOa7k",
+	"_key": "!items!s52ccVilUkbkOa7k",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "KqRk8BcdAj1gAtFZ",
+	"img": "icons/magic/perception/third-eye-blue-red.webp",
+	"name": "Mystic",
+	"system": {
+		"description": "<p>You see portents in the moonlit waters of the bog</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "us1ehJ9vo06psOZa",
+	"_key": "!items!us1ehJ9vo06psOZa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "4dTwi4ExN7dNowjq",
+	"img": "icons/magic/light/beam-rays-blue-large.webp",
+	"name": "Abducted",
+	"system": {
+		"description": "<p>You awoke with no memory on a mountain peak</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

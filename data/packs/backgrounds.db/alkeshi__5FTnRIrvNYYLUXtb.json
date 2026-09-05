@@ -1,0 +1,20 @@
+{
+	"_id": "5FTnRIrvNYYLUXtb",
+	"_key": "!items!5FTnRIrvNYYLUXtb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DCfnFXxHSDA3ECWB",
+	"img": "icons/environment/settlement/city-gate.webp",
+	"name": "Alkeshi",
+	"system": {
+		"description": "<p>You have helpful contacts in the City-State of Alkesh</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

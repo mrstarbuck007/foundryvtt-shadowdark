@@ -1,0 +1,17 @@
+{
+	"_id": "tbiujWcYNCpPDQUT",
+	"_key": "!tables.results!hIJuYLPTpugyytNb.tbiujWcYNCpPDQUT",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.CILtCOHvuyo9et1R",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/church.webp",
+	"name": "Penitent",
+	"range": [
+		10,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

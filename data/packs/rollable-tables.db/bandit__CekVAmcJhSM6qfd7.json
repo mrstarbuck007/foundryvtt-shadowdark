@@ -1,0 +1,17 @@
+{
+	"_id": "CekVAmcJhSM6qfd7",
+	"_key": "!tables.results!g03pyUKBn5X9j6Sx.CekVAmcJhSM6qfd7",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.x76qtGOAlENrVv1L",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/equipment/head/hood-chain-worn.webp",
+	"name": "Bandit",
+	"range": [
+		8,
+		8
+	],
+	"type": "document",
+	"weight": 1
+}

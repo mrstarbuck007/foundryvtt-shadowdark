@@ -1,0 +1,20 @@
+{
+	"_id": "UYhqBbl7bWCoAJ7W",
+	"_key": "!items!UYhqBbl7bWCoAJ7W",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vDme4iLsM18S5zWQ",
+	"img": "icons/magic/nature/moon-crescent.webp",
+	"name": "Witchborn",
+	"system": {
+		"description": "<p>You inherited a strong talent for the occult</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

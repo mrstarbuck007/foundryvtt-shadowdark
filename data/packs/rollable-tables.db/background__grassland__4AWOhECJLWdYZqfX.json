@@ -1,0 +1,17 @@
+{
+	"_id": "4AWOhECJLWdYZqfX",
+	"_key": "!tables.results!LfqRCvn3ezxIsfDG.4AWOhECJLWdYZqfX",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.rollable-tables.RollTable.S5IWKePfQjRMaWDW",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/nature/leaf-glow-triple-green.webp",
+	"name": "Background: Grassland",
+	"range": [
+		37,
+		48
+	],
+	"type": "document",
+	"weight": 1
+}

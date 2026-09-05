@@ -1,0 +1,20 @@
+{
+	"_id": "vlBXsyS2rcLP1e09",
+	"_key": "!items!vlBXsyS2rcLP1e09",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vDme4iLsM18S5zWQ",
+	"img": "icons/environment/settlement/house-woods.webp",
+	"name": "Lydonian",
+	"system": {
+		"description": "<p>You grew up in Lydonia and have contacts there</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

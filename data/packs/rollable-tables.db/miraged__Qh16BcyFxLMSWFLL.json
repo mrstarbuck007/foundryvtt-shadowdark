@@ -1,0 +1,17 @@
+{
+	"_id": "Qh16BcyFxLMSWFLL",
+	"_key": "!tables.results!g03pyUKBn5X9j6Sx.Qh16BcyFxLMSWFLL",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.i7fgNTyzAsEKsfm9",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/air/wind-stream-purple.webp",
+	"name": "Miraged",
+	"range": [
+		6,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

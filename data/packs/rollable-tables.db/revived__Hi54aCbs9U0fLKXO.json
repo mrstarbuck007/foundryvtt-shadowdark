@@ -1,0 +1,17 @@
+{
+	"_id": "Hi54aCbs9U0fLKXO",
+	"_key": "!tables.results!Hd82gNbQPCZjyQtn.Hi54aCbs9U0fLKXO",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.RuzLpaxJzyFByn1S",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/life/ankh-gold-blue.webp",
+	"name": "Revived",
+	"range": [
+		15,
+		15
+	],
+	"type": "document",
+	"weight": 1
+}

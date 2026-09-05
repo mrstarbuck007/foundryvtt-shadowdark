@@ -1,0 +1,20 @@
+{
+	"_id": "vLA2bzgLn3GtPSXm",
+	"_key": "!items!vLA2bzgLn3GtPSXm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vDme4iLsM18S5zWQ",
+	"img": "icons/magic/nature/leaf-elm-sparkle-glow-green.webp",
+	"name": "Elfborn",
+	"system": {
+		"description": "<p>Elves raised you to know art, beauty, and magic</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

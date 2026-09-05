@@ -1,0 +1,20 @@
+{
+	"_id": "i5KyFTrzxJ0DuHT7",
+	"_key": "!items!i5KyFTrzxJ0DuHT7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vDme4iLsM18S5zWQ",
+	"img": "icons/consumables/plants/dried-herb-bundle-brown.webp",
+	"name": "Herbalist",
+	"system": {
+		"description": "<p>You know the forest's remedies and poisons</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

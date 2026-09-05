@@ -1,0 +1,17 @@
+{
+	"_id": "2SXq9tbrGCZoL68c",
+	"_key": "!tables.results!Hd82gNbQPCZjyQtn.2SXq9tbrGCZoL68c",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.1aAdgzVLbl6rnG9M",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/city-gate.webp",
+	"name": "Exiled",
+	"range": [
+		14,
+		14
+	],
+	"type": "document",
+	"weight": 1
+}

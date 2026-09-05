@@ -1,0 +1,17 @@
+{
+	"_id": "pXJZBxJra7EXnJ3d",
+	"_key": "!tables.results!SJE347sub1er27J5.pXJZBxJra7EXnJ3d",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.Z7i6x83aNmmUPoX1",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/wilderness/cave-entrance-rocky.webp",
+	"name": "Hermit",
+	"range": [
+		10,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

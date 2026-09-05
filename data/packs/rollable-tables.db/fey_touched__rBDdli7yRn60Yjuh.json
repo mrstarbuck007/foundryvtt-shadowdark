@@ -1,0 +1,17 @@
+{
+	"_id": "rBDdli7yRn60Yjuh",
+	"_key": "!tables.results!hIJuYLPTpugyytNb.rBDdli7yRn60Yjuh",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.pC4paQB0wGoaTMni",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/magical/fae-fairy-winged-glowing-green.webp",
+	"name": "Fey Touched",
+	"range": [
+		11,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

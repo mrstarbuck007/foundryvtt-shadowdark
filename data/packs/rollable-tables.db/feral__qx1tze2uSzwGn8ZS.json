@@ -1,0 +1,17 @@
+{
+	"_id": "qx1tze2uSzwGn8ZS",
+	"_key": "!tables.results!SJE347sub1er27J5.qx1tze2uSzwGn8ZS",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.QO14E47Oj6IYaLUN",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/abilities/mouth-teeth-sharp.webp",
+	"name": "Feral",
+	"range": [
+		5,
+		5
+	],
+	"type": "document",
+	"weight": 1
+}

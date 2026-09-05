@@ -1,0 +1,17 @@
+{
+	"_id": "Pnl7M43yOruPQDWJ",
+	"_key": "!tables.results!hIJuYLPTpugyytNb.Pnl7M43yOruPQDWJ",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.i5KyFTrzxJ0DuHT7",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/consumables/plants/dried-herb-bundle-brown.webp",
+	"name": "Herbalist",
+	"range": [
+		6,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

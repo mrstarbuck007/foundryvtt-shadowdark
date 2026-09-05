@@ -1,0 +1,20 @@
+{
+	"_id": "NtVVp6AZzPwpAhgD",
+	"_key": "!items!NtVVp6AZzPwpAhgD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "1TJfn8Xp666Q1vGY",
+	"img": "icons/sundries/books/book-embossed-blue.webp",
+	"name": "Apprentice",
+	"system": {
+		"description": "<p>You were a wizard apprentice at Gedgarrin</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

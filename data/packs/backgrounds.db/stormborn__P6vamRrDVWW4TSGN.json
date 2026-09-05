@@ -1,0 +1,20 @@
+{
+	"_id": "P6vamRrDVWW4TSGN",
+	"_key": "!items!P6vamRrDVWW4TSGN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "CBn9M04JC7kMz6jO",
+	"img": "icons/magic/lightning/bolt-cloud-sky-white.webp",
+	"name": "Stormborn",
+	"system": {
+		"description": "<p>A spirit of wind and thunder watches over you</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

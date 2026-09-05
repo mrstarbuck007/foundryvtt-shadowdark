@@ -1,0 +1,20 @@
+{
+	"_id": "vU19ZCbProd3Unf0",
+	"_key": "!items!vU19ZCbProd3Unf0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "KqRk8BcdAj1gAtFZ",
+	"img": "icons/magic/death/hand-withered-gray.webp",
+	"name": "Haunted",
+	"system": {
+		"description": "<p>A restless spirit follows you; it wants something</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

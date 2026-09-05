@@ -1,0 +1,20 @@
+{
+	"_id": "rzyzBGOR7iSI0Civ",
+	"_key": "!items!rzyzBGOR7iSI0Civ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "CBn9M04JC7kMz6jO",
+	"img": "icons/creatures/birds/raptor-hawk-flying.webp",
+	"name": "Hawk Trainer",
+	"system": {
+		"description": "<p>Birds of prey view you as a kindred spirit</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

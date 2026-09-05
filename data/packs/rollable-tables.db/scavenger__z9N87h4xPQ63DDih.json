@@ -1,0 +1,17 @@
+{
+	"_id": "z9N87h4xPQ63DDih",
+	"_key": "!tables.results!S5IWKePfQjRMaWDW.z9N87h4xPQ63DDih",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.WWSeVlm3pEBIBhDj",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/social/theft-pickpocket-bribery-brown.webp",
+	"name": "Scavenger",
+	"range": [
+		4,
+		4
+	],
+	"type": "document",
+	"weight": 1
+}

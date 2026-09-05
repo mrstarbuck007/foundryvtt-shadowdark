@@ -1,0 +1,17 @@
+{
+	"_id": "57JRxHaJL0Zb9rsF",
+	"_key": "!tables.results!Hd82gNbQPCZjyQtn.57JRxHaJL0Zb9rsF",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.NtVVp6AZzPwpAhgD",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/sundries/books/book-embossed-blue.webp",
+	"name": "Apprentice",
+	"range": [
+		10,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

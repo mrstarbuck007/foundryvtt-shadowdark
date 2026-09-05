@@ -1,0 +1,17 @@
+{
+	"_id": "LJZ5XAEix0DLYOID",
+	"_key": "!tables.results!g03pyUKBn5X9j6Sx.LJZ5XAEix0DLYOID",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.75pW2nGqlmv08cN8",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/melee/sword-shield-stylized-white.webp",
+	"name": "Gladiator",
+	"range": [
+		9,
+		9
+	],
+	"type": "document",
+	"weight": 1
+}

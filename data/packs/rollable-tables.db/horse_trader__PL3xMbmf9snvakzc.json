@@ -1,0 +1,17 @@
+{
+	"_id": "PL3xMbmf9snvakzc",
+	"_key": "!tables.results!S5IWKePfQjRMaWDW.PL3xMbmf9snvakzc",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.3Z6dghApCHauASla",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/stables-horses.webp",
+	"name": "Horse Trader",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

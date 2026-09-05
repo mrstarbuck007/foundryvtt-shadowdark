@@ -1,0 +1,17 @@
+{
+	"_id": "NBJ1qlSbeI8PazZf",
+	"_key": "!tables.results!S5IWKePfQjRMaWDW.NBJ1qlSbeI8PazZf",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.kOlXqz9Zepwufglu",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/skills/social/wave-halt-stop.webp",
+	"name": "Pariah",
+	"range": [
+		6,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

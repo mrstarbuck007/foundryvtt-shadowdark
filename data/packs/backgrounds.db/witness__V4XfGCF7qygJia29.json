@@ -1,0 +1,20 @@
+{
+	"_id": "V4XfGCF7qygJia29",
+	"_key": "!items!V4XfGCF7qygJia29",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "pcPaWE9twNle4cqV",
+	"img": "icons/environment/settlement/columned-forum.webp",
+	"name": "Witness",
+	"system": {
+		"description": "<p>You've seen a lost city deep within the jungle</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

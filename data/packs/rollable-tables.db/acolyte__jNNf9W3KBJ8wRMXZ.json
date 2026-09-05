@@ -1,0 +1,17 @@
+{
+	"_id": "jNNf9W3KBJ8wRMXZ",
+	"_key": "!tables.results!Hd82gNbQPCZjyQtn.jNNf9W3KBJ8wRMXZ",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.ct2H5wGiz87EWUDA",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/people/cleric-grey.webp",
+	"name": "Acolyte",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

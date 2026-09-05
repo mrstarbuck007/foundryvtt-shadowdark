@@ -1,0 +1,20 @@
+{
+	"_id": "EXO8a2RzHY5NIdt7",
+	"_key": "!items!EXO8a2RzHY5NIdt7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "4dTwi4ExN7dNowjq",
+	"img": "icons/environment/settlement/blacksmith.webp",
+	"name": "Blacksmith",
+	"system": {
+		"description": "<p>You are skilled in the peerless dwarvish craft</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

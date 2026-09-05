@@ -1,0 +1,20 @@
+{
+	"_id": "B3SYQ6ayUPRUfQFp",
+	"_key": "!items!B3SYQ6ayUPRUfQFp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vDme4iLsM18S5zWQ",
+	"img": "icons/environment/wilderness/tree-ash.webp",
+	"name": "Drawn",
+	"system": {
+		"description": "<p>Something in the deep woods calls to you at night</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

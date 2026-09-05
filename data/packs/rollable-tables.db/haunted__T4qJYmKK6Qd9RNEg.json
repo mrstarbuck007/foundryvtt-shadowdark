@@ -1,0 +1,17 @@
+{
+	"_id": "T4qJYmKK6Qd9RNEg",
+	"_key": "!tables.results!SJE347sub1er27J5.T4qJYmKK6Qd9RNEg",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.vU19ZCbProd3Unf0",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/death/hand-withered-gray.webp",
+	"name": "Haunted",
+	"range": [
+		4,
+		4
+	],
+	"type": "document",
+	"weight": 1
+}

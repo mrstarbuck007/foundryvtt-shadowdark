@@ -1,0 +1,17 @@
+{
+	"_id": "WlIImo8FHjN84UUL",
+	"_key": "!tables.results!SJE347sub1er27J5.WlIImo8FHjN84UUL",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.ehZ2QFSajWmFL9BO",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/magical/spirit-undead-ghost-blue.webp",
+	"name": "Ghostly",
+	"range": [
+		3,
+		3
+	],
+	"type": "document",
+	"weight": 1
+}

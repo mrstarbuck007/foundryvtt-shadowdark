@@ -1,0 +1,17 @@
+{
+	"_id": "pUTSRPaqni2D9bBk",
+	"_key": "!tables.results!e8qDtAt8fB3EHBcf.pUTSRPaqni2D9bBk",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.c99O5fKXbyi2uR4Y",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/ship.webp",
+	"name": "Privateer",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

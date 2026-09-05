@@ -1,0 +1,17 @@
+{
+	"_id": "B85OoQaIINTAlQdF",
+	"_key": "!tables.results!hIJuYLPTpugyytNb.B85OoQaIINTAlQdF",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.B3SYQ6ayUPRUfQFp",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/wilderness/tree-ash.webp",
+	"name": "Drawn",
+	"range": [
+		12,
+		12
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "eOJsOpyujzjb9MeJ",
+	"_key": "!tables.results!hIJuYLPTpugyytNb.eOJsOpyujzjb9MeJ",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.UYhqBbl7bWCoAJ7W",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/nature/moon-crescent.webp",
+	"name": "Witchborn",
+	"range": [
+		5,
+		5
+	],
+	"type": "document",
+	"weight": 1
+}

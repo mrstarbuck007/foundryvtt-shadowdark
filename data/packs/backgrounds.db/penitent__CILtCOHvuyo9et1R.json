@@ -1,0 +1,20 @@
+{
+	"_id": "CILtCOHvuyo9et1R",
+	"_key": "!items!CILtCOHvuyo9et1R",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "vDme4iLsM18S5zWQ",
+	"img": "icons/environment/settlement/church.webp",
+	"name": "Penitent",
+	"system": {
+		"description": "<p>You came to the forest to find forgiveness</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "W0YqAOgP72EKwGyr",
+	"_key": "!tables.results!WttdC6krM61p9bM5.W0YqAOgP72EKwGyr",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.brSDL6mma31tJsgE",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/pyramid.webp",
+	"name": "Itzalca",
+	"range": [
+		6,
+		6
+	],
+	"type": "document",
+	"weight": 1
+}

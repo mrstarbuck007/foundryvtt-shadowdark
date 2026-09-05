@@ -1,0 +1,17 @@
+{
+	"_id": "pcUmxcKnz2wjse1s",
+	"_key": "!tables.results!e8qDtAt8fB3EHBcf.pcUmxcKnz2wjse1s",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.ccdprzW58aPIL6q0",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/tools/nautical/anchor.webp",
+	"name": "Sailor",
+	"range": [
+		11,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

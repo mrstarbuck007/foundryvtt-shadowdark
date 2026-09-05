@@ -1,0 +1,20 @@
+{
+	"_id": "k805D8UP68axXBqC",
+	"_key": "!items!k805D8UP68axXBqC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "4dTwi4ExN7dNowjq",
+	"img": "icons/tools/hand/mining-pick-worn.webp",
+	"name": "Miner",
+	"system": {
+		"description": "<p>You have an instinct for the stone's many dangers</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

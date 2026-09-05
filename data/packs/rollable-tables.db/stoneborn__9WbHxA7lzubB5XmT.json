@@ -1,0 +1,17 @@
+{
+	"_id": "9WbHxA7lzubB5XmT",
+	"_key": "!tables.results!DhvG2j23C842Loix.9WbHxA7lzubB5XmT",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.7s2bAJGFa0S7bP4W",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/wilderness/cave-entrance-dwarven-hill.webp",
+	"name": "Stoneborn",
+	"range": [
+		1,
+		1
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "6Q9nfhSJlGpmc6oc",
+	"_key": "!tables.results!S5IWKePfQjRMaWDW.6Q9nfhSJlGpmc6oc",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.rzyzBGOR7iSI0Civ",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/birds/raptor-hawk-flying.webp",
+	"name": "Hawk Trainer",
+	"range": [
+		7,
+		7
+	],
+	"type": "document",
+	"weight": 1
+}

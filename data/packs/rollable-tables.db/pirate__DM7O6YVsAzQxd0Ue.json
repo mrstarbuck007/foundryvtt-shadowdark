@@ -1,0 +1,17 @@
+{
+	"_id": "DM7O6YVsAzQxd0Ue",
+	"_key": "!tables.results!e8qDtAt8fB3EHBcf.DM7O6YVsAzQxd0Ue",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.hUDGcr7VY54hZ8jC",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/weapons/swords/sword-guard-worn.webp",
+	"name": "Pirate",
+	"range": [
+		4,
+		4
+	],
+	"type": "document",
+	"weight": 1
+}

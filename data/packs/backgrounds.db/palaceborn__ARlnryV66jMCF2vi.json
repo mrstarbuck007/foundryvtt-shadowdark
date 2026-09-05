@@ -1,0 +1,20 @@
+{
+	"_id": "ARlnryV66jMCF2vi",
+	"_key": "!items!ARlnryV66jMCF2vi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "CBn9M04JC7kMz6jO",
+	"img": "icons/environment/settlement/castle-tan.webp",
+	"name": "Palaceborn",
+	"system": {
+		"description": "<p>You are a minor noble from the Ivory Palace</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

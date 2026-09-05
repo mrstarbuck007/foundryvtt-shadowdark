@@ -1,0 +1,17 @@
+{
+	"_id": "39WTsWliOxwvO2Eu",
+	"_key": "!tables.results!hIJuYLPTpugyytNb.39WTsWliOxwvO2Eu",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.pE5QRWdX6vrKwcjL",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/unholy/silhouette-evil-horned-giant.webp",
+	"name": "Demonic",
+	"range": [
+		8,
+		8
+	],
+	"type": "document",
+	"weight": 1
+}

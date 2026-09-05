@@ -1,0 +1,20 @@
+{
+	"_id": "q6rUq5cchN1XRCmj",
+	"_key": "!items!q6rUq5cchN1XRCmj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "KqRk8BcdAj1gAtFZ",
+	"img": "icons/magic/death/grave-tombstone-glow-teal.webp",
+	"name": "Death-Touched",
+	"system": {
+		"description": "<p>You are often mistaken for being undead</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

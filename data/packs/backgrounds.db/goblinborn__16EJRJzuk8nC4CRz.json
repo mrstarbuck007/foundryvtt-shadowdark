@@ -1,0 +1,20 @@
+{
+	"_id": "16EJRJzuk8nC4CRz",
+	"_key": "!items!16EJRJzuk8nC4CRz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "4dTwi4ExN7dNowjq",
+	"img": "icons/creatures/magical/humanoid-silhouette-green.webp",
+	"name": "Goblinborn",
+	"system": {
+		"description": "<p>A tribe of goblins reared you as one of their own</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

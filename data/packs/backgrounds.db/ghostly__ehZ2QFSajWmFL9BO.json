@@ -1,0 +1,20 @@
+{
+	"_id": "ehZ2QFSajWmFL9BO",
+	"_key": "!items!ehZ2QFSajWmFL9BO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "KqRk8BcdAj1gAtFZ",
+	"img": "icons/creatures/magical/spirit-undead-ghost-blue.webp",
+	"name": "Ghostly",
+	"system": {
+		"description": "<p>Swamp halflings raised you to move about unseen</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

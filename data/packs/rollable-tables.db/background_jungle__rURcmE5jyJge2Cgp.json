@@ -1,0 +1,17 @@
+{
+	"_id": "rURcmE5jyJge2Cgp",
+	"_key": "!tables.results!LfqRCvn3ezxIsfDG.rURcmE5jyJge2Cgp",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.rollable-tables.RollTable.WttdC6krM61p9bM5",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/nature/plant-bamboo-green.webp",
+	"name": "Background: Jungle",
+	"range": [
+		73,
+		84
+	],
+	"type": "document",
+	"weight": 1
+}

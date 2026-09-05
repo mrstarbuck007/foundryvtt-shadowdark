@@ -1,0 +1,20 @@
+{
+	"_id": "uqmSP6CeU5EtjU06",
+	"_key": "!items!uqmSP6CeU5EtjU06",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "KqRk8BcdAj1gAtFZ",
+	"img": "icons/creatures/magical/humanoid-giant-forest-blue.webp",
+	"name": "Stilt Orcs",
+	"system": {
+		"description": "<p>Reclusive orcs raised you to thrive in the swamps</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

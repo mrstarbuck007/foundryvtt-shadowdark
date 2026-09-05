@@ -1,0 +1,17 @@
+{
+	"_id": "6r2BcDUtw7Nb4o46",
+	"_key": "!tables.results!DhvG2j23C842Loix.6r2BcDUtw7Nb4o46",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.EXO8a2RzHY5NIdt7",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/settlement/blacksmith.webp",
+	"name": "Blacksmith",
+	"range": [
+		3,
+		3
+	],
+	"type": "document",
+	"weight": 1
+}

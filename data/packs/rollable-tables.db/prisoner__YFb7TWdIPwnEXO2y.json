@@ -1,0 +1,17 @@
+{
+	"_id": "YFb7TWdIPwnEXO2y",
+	"_key": "!tables.results!e8qDtAt8fB3EHBcf.YFb7TWdIPwnEXO2y",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.OOnIhU2IVjzS5nQa",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/control/debuff-chains-shackle-movement-red.webp",
+	"name": "Prisoner",
+	"range": [
+		9,
+		9
+	],
+	"type": "document",
+	"weight": 1
+}

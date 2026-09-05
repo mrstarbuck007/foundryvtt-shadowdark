@@ -1,0 +1,20 @@
+{
+	"_id": "gdw9R59LAJmFRIfb",
+	"_key": "!items!gdw9R59LAJmFRIfb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DCfnFXxHSDA3ECWB",
+	"img": "icons/skills/targeting/crosshair-bars-yellow.webp",
+	"name": "Hunted",
+	"system": {
+		"description": "<p>The Ras-Godai assassins have a contract to kill you</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

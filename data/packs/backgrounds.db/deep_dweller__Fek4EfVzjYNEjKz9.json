@@ -1,0 +1,20 @@
+{
+	"_id": "Fek4EfVzjYNEjKz9",
+	"_key": "!items!Fek4EfVzjYNEjKz9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "4dTwi4ExN7dNowjq",
+	"img": "icons/environment/wilderness/cave-entrance.webp",
+	"name": "Deep Dweller",
+	"system": {
+		"description": "<p>You know the ways of deep and silent places</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

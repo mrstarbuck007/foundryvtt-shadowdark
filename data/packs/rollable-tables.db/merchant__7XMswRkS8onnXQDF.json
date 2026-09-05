@@ -1,0 +1,17 @@
+{
+	"_id": "7XMswRkS8onnXQDF",
+	"_key": "!tables.results!g03pyUKBn5X9j6Sx.7XMswRkS8onnXQDF",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.rwM1sgH75y68lql6",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/commodities/currency/coins-assorted-mix-copper-silver-gold.webp",
+	"name": "Merchant",
+	"range": [
+		10,
+		10
+	],
+	"type": "document",
+	"weight": 1
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "i7fgNTyzAsEKsfm9",
+	"_key": "!items!i7fgNTyzAsEKsfm9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "DCfnFXxHSDA3ECWB",
+	"img": "icons/magic/air/wind-stream-purple.webp",
+	"name": "Miraged",
+	"system": {
+		"description": "<p>You got lost in the desert and forgot who you are</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

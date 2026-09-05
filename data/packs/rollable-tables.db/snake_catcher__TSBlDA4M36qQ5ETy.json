@@ -1,0 +1,17 @@
+{
+	"_id": "TSBlDA4M36qQ5ETy",
+	"_key": "!tables.results!SJE347sub1er27J5.TSBlDA4M36qQ5ETy",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.TlRwi65hRWy8Jjw6",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/creatures/reptiles/snake-poised-white.webp",
+	"name": "Snake Catcher",
+	"range": [
+		2,
+		2
+	],
+	"type": "document",
+	"weight": 1
+}

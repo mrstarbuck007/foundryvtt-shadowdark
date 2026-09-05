@@ -1,0 +1,20 @@
+{
+	"_id": "J0qWLZhbYxND4Oi2",
+	"_key": "!items!J0qWLZhbYxND4Oi2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "KqRk8BcdAj1gAtFZ",
+	"img": "icons/magic/nature/root-vine-barrier-wall-brown.webp",
+	"name": "Bogborn",
+	"system": {
+		"description": "<p>You can easily spot the bog's hidden dangers</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

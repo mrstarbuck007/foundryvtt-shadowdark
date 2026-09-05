@@ -1,0 +1,17 @@
+{
+	"_id": "V8nXAaggrTcln2B5",
+	"_key": "!tables.results!hIJuYLPTpugyytNb.V8nXAaggrTcln2B5",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.vLA2bzgLn3GtPSXm",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/magic/nature/leaf-elm-sparkle-glow-green.webp",
+	"name": "Elfborn",
+	"range": [
+		9,
+		9
+	],
+	"type": "document",
+	"weight": 1
+}

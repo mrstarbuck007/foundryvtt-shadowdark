@@ -1,0 +1,17 @@
+{
+	"_id": "MHksBX86gXtj9m2e",
+	"_key": "!tables.results!WttdC6krM61p9bM5.MHksBX86gXtj9m2e",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.A1SFeiWfrBobx1wj",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/environment/wilderness/cave-entrance-vulcano.webp",
+	"name": "Fireborn",
+	"range": [
+		11,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

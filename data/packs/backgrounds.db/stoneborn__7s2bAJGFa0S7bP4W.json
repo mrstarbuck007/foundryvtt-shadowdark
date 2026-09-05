@@ -1,0 +1,20 @@
+{
+	"_id": "7s2bAJGFa0S7bP4W",
+	"_key": "!items!7s2bAJGFa0S7bP4W",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "4dTwi4ExN7dNowjq",
+	"img": "icons/environment/wilderness/cave-entrance-dwarven-hill.webp",
+	"name": "Stoneborn",
+	"system": {
+		"description": "<p>The dwarves of Stonehall raised you proudly</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

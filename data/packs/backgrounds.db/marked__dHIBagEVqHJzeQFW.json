@@ -1,0 +1,20 @@
+{
+	"_id": "dHIBagEVqHJzeQFW",
+	"_key": "!items!dHIBagEVqHJzeQFW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "pcPaWE9twNle4cqV",
+	"img": "icons/magic/symbols/rune-sigil-green-purple.webp",
+	"name": "Marked",
+	"system": {
+		"description": "<p>A powerful being has chosen you for a purpose</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}

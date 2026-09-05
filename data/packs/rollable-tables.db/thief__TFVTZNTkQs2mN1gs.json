@@ -1,0 +1,17 @@
+{
+	"_id": "TFVTZNTkQs2mN1gs",
+	"_key": "!tables.results!Hd82gNbQPCZjyQtn.TFVTZNTkQs2mN1gs",
+	"description": "",
+	"documentUuid": "Compendium.shadowdark.backgrounds.Item.ZD85PjzUL80sQuQG",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/tools/hand/lockpicks-steel-grey.webp",
+	"name": "Thief",
+	"range": [
+		11,
+		11
+	],
+	"type": "document",
+	"weight": 1
+}

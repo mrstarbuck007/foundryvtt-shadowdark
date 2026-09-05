@@ -1,0 +1,20 @@
+{
+	"_id": "3Z6dghApCHauASla",
+	"_key": "!items!3Z6dghApCHauASla",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "CBn9M04JC7kMz6jO",
+	"img": "icons/environment/settlement/stables-horses.webp",
+	"name": "Horse Trader",
+	"system": {
+		"description": "<p>You know all about horses, and they like you</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		}
+	},
+	"type": "Background"
+}
