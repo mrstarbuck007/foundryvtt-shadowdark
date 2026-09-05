@@ -33,6 +33,10 @@
 - Spells that were set to a Touch range now use Close, which is what the books print, and Touch has been retired as a spell range
 	* Affects 18 spells across the Seer, Witch and Wizard lists; a migration converts any world or module spell still set to Touch
 - Corrected a stray comma in the Seer's Wolfshape
+- Checked the Witch spells against the Western Reaches text and corrected where they differed
+	* Shapechanger is now named Shapechange, as the books print it, along with its spell effect
+	* Divination is tier 3 for the Witch, and Dreamwalk has a range of Self
+	* Wording brought into line on Charm Person, Polymorph, Shapechange, Swarm, Enfeeble, Whisper, Divination and Speak with Dead
 - Added the d100 Secrets table from Shadowdark RPG: The Western Reaches
 	* The character generator can roll one, and records it on the new character's Notes tab where it can be reworded or removed
 	* Rolling a fully random character rolls a secret too
