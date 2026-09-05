@@ -14,6 +14,7 @@ export default class LevelUpSD extends foundry.appv1.api.FormApplication {
 		this.data.spells = {};
 		this.data.talentsRolled = false;
 		this.data.talentsChosen = false;
+		this.data.talentRollsMade = 0;
 
 		for (let i = 1; i <= 5; i++) {
 			this.data.spells[i] = {
@@ -158,7 +159,13 @@ export default class LevelUpSD extends foundry.appv1.api.FormApplication {
 
 			}
 		}
-		this.data.talentsRolled = this.data.rolls.talent || this.data.rolls.boon;
+		// Ambitious (Human) grants an extra talent roll at 1st level. Read off the
+		// actor on every render, as the item may not exist yet on the first open.
+		const hasAmbitious = this.data.actor.items.some(x => x.name === "Ambitious");
+		this.data.talentRollsAllowed = this.data.targetLevel === 1 && hasAmbitious ? 2 : 1;
+
+		this.data.talentsRolled =
+			this.data.talentRollsMade > 0 || this.data.rolls.talent || this.data.rolls.boon;
 		this.data.talentsChosen = this.data.talents.length > 0;
 
 		// get HP advantage
@@ -261,22 +268,27 @@ export default class LevelUpSD extends foundry.appv1.api.FormApplication {
 		await this.data.talentTable.draw();
 		ui.sidebar.activateTab("chat");
 
-		// Humans get extra talent at level 1 with the ambitious talent
-		if (this.data.targetLevel === 1) {
-			let ambitious = this.data.actor.items.find(x => x.name === "Ambitious");
-			if (ambitious) {
-				ChatMessage.create({
-					flavor: "Ambitious",
-					content: `${ambitious.system.description}`,
-				});
-				await this.data.talentTable.draw();
-			}
-		}
+		this.data.talentRollsMade += 1;
 
 		if (this.data.targetLevel > 1) {
 			this.data.rolls.boon = true;
 		}
-		this.data.rolls.talent = true;
+
+		// Humans get an extra talent roll at level 1 with the Ambitious talent, so
+		// the button stays until every roll has been made
+		if (this.data.talentRollsMade < this.data.talentRollsAllowed) {
+			const ambitious = this.data.actor.items.find(x => x.name === "Ambitious");
+
+			if (ambitious) {
+				ChatMessage.create({
+					flavor: ambitious.name,
+					content: `${ambitious.system.description}`,
+				});
+			}
+		}
+		else {
+			this.data.rolls.talent = true;
+		}
 
 		this.render();
 	}
@@ -335,7 +347,8 @@ export default class LevelUpSD extends foundry.appv1.api.FormApplication {
 		// Are all selections complete?
 		switch (false) {
 			case (this.data.rolls.hp > 0):
-			case !(this.data.talentGained && this.data.talents.length < 1):
+			case !(this.data.talentGained
+				&& this.data.talents.length < this.data.talentRollsAllowed):
 			case spellsSelected:
 				Dialog.confirm({
 					title: game.i18n.localize("SHADOWDARK.apps.level-up.missing_selections"),
