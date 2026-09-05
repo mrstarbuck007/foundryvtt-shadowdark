@@ -248,13 +248,15 @@
 			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
 			"items": [
 				{
-					"_id": "bHue9K4fSJkmUWNm",
+					"_id": "TF73SZNKq71jCRoN",
 					"_stats": {
-						"compendiumSource": null,
+						"compendiumSource": "Compendium.shadowdark.monster.c3Nvj86e0Layz3NG",
 						"coreVersion": "13.351",
+						"createdTime": 1771351629679,
 						"duplicateSource": null,
 						"exportSource": null,
-						"lastModifiedBy": null,
+						"lastModifiedBy": "AdxDwoNM5IDEjWHR",
+						"modifiedTime": 1771351629679,
 						"systemId": "shadowdark",
 						"systemVersion": "4.0.0"
 					},
@@ -263,40 +265,8 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "icons/svg/item-bag.svg",
-					"name": "Charge",
-					"ownership": {
-						"default": 0
-					},
-					"sort": 0,
-					"system": {
-						"description": "<p>In place of attacks, move up to double near in a straight line and make 1 horn attack. If hit, x2 damage.</p>",
-						"properties": [
-						],
-						"source": {
-							"title": "quickstart"
-						}
-					},
-					"type": "NPC Feature"
-				},
-				{
-					"_id": "ZOlhmdkqfQyyT6R3",
-					"_stats": {
-						"compendiumSource": null,
-						"coreVersion": "13.351",
-						"duplicateSource": null,
-						"exportSource": null,
-						"lastModifiedBy": null,
-						"systemId": "shadowdark",
-						"systemVersion": "4.0.0"
-					},
-					"effects": [
-					],
-					"flags": {
-					},
-					"folder": null,
-					"img": "icons/svg/item-bag.svg",
-					"name": "Bloodlust",
+					"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+					"name": "Bloodlust Greataxe",
 					"ownership": {
 						"default": 0
 					},
@@ -312,33 +282,35 @@
 								"multiplier": 4,
 								"successThreshold": 20
 							},
-							"damageBonus": 0
+							"damageBonus": 1
 						},
 						"damage": {
 							"numDice": 1,
 							"special": "",
-							"value": "1d10+1"
+							"value": "1d10"
 						},
-						"description": "<p>Wielder deals x4 damage on a critical hit.</p>",
+						"description": "",
 						"properties": [
 						],
 						"ranges": [
 							"close"
 						],
 						"source": {
-							"title": "quickstart"
+							"title": ""
 						}
 					},
 					"type": "NPC Attack"
 				},
 				{
-					"_id": "Ag019spAbwwDbhSZ",
+					"_id": "QGx3yhYW0nBzxQ9r",
 					"_stats": {
-						"compendiumSource": null,
+						"compendiumSource": "Compendium.shadowdark.monster.c3Nvj86e0Layz3NG",
 						"coreVersion": "13.351",
+						"createdTime": 1771351629679,
 						"duplicateSource": null,
 						"exportSource": null,
-						"lastModifiedBy": null,
+						"lastModifiedBy": "AdxDwoNM5IDEjWHR",
+						"modifiedTime": 1771351629679,
 						"systemId": "shadowdark",
 						"systemVersion": "4.0.0"
 					},
@@ -347,7 +319,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "icons/svg/item-bag.svg",
+					"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
 					"name": "Horns",
 					"ownership": {
 						"default": 0
@@ -378,10 +350,44 @@
 							"close"
 						],
 						"source": {
-							"title": "quickstart"
+							"title": ""
 						}
 					},
 					"type": "NPC Attack"
+				},
+				{
+					"_id": "5u0gf2g5kNdnufFN",
+					"_stats": {
+						"compendiumSource": "Compendium.shadowdark.monster.c3Nvj86e0Layz3NG",
+						"coreVersion": "13.351",
+						"createdTime": 1771351629679,
+						"duplicateSource": null,
+						"exportSource": null,
+						"lastModifiedBy": "AdxDwoNM5IDEjWHR",
+						"modifiedTime": 1771351629679,
+						"systemId": "shadowdark",
+						"systemVersion": "4.0.0"
+					},
+					"effects": [
+					],
+					"flags": {
+					},
+					"folder": null,
+					"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+					"name": "Charge",
+					"ownership": {
+						"default": 0
+					},
+					"sort": 0,
+					"system": {
+						"description": "<p>In place of attacks, move up to double near in a straight line and make 1 horns attack. If hit, x2 damage.</p>",
+						"properties": [
+						],
+						"source": {
+							"title": ""
+						}
+					},
+					"type": "NPC Feature"
 				}
 			],
 			"name": "The Scarlet Minotaur",
@@ -523,7 +529,7 @@
 				},
 				"move": "near",
 				"moveNote": "",
-				"notes": "<p><em>Ferocious bull-men with hooves and curved horns. They live in mazelike tunnels.</em></p><p><strong>AC</strong> 14 (chainmail), <strong>HP</strong> 34, <strong>ATK</strong> 2 greataxe +6 (1d10) and 1 horns +6 (1d12), <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +2, <strong>Ch</strong> +1, <strong>AL</strong> C, <strong>LV</strong> 7</p><p><strong>Charge.</strong> In place of attacks, move up to double near in a straight line and make 1 horn attack. If hit, x2 damage.</p>",
+				"notes": "<p><i> A ferocious, scarlet-furred bull-man with hooves and curved horns. He stalks the Lost Citadel in an unending fury. </i></p>\n\t\n\t<p><strong>AC</strong> 14 (chainmail), <strong>HP</strong> 34, <strong>ATK</strong> 2 Bloodlust greataxe +7 (1d10 + 1, x4 on critical hit) and 1 horns +6 (1d12), <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +2, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 7</p>\n\t<p><strong> Charge</strong>. In place of attacks, move up to double near in a straight line and make 1 horns attack. If hit, x2 damage.</p>",
 				"spellcasting": {
 					"ability": "",
 					"attacks": 0,
@@ -4957,13 +4963,15 @@
 			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
 			"items": [
 				{
-					"_id": "85Q2R6Yq41pn5iqr",
+					"_id": "btcuaDSwbbLS1Dxj",
 					"_stats": {
-						"compendiumSource": null,
+						"compendiumSource": "Compendium.shadowdark.monster.U9moCUg8DnL6C0Sq",
 						"coreVersion": "13.351",
+						"createdTime": 1771351629679,
 						"duplicateSource": null,
 						"exportSource": null,
-						"lastModifiedBy": null,
+						"lastModifiedBy": "AdxDwoNM5IDEjWHR",
+						"modifiedTime": 1771351629679,
 						"systemId": "shadowdark",
 						"systemVersion": "4.0.0"
 					},
@@ -4972,7 +4980,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "icons/svg/item-bag.svg",
+					"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
 					"name": "Bite",
 					"ownership": {
 						"default": 0
@@ -5003,7 +5011,7 @@
 							"close"
 						],
 						"source": {
-							"title": "quickstart"
+							"title": ""
 						}
 					},
 					"type": "NPC Attack"
@@ -5147,8 +5155,8 @@
 					"xp": 0
 				},
 				"move": "near",
-				"moveNote": "Fly",
-				"notes": "<p><em>A chittering cloud of iridescent, oval-shaped beetles.</em></p><p><strong>AC</strong> 13, <strong>HP</strong> 14, <strong>ATK</strong> 2 bite +3 (1d6), <strong>MV</strong> near (fly), <strong>S</strong> -1, <strong>D</strong> +3, <strong>C</strong> +1, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 3</p>",
+				"moveNote": "fly",
+				"notes": "<p><i> A chittering cloud of iridescent, oval-shaped beetles. </i></p>\n\t\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 14, <strong>ATK</strong> 2 bite +3 (1d6), <strong>MV</strong> near (fly), <strong>S</strong> -1, <strong>D</strong> +3, <strong>C</strong> +1, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 3</p>",
 				"spellcasting": {
 					"ability": "",
 					"attacks": 0,
@@ -5180,13 +5188,15 @@
 			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
 			"items": [
 				{
-					"_id": "fJL9lcfORjpzaBCe",
+					"_id": "FgqhwyyKysgMvrWs",
 					"_stats": {
-						"compendiumSource": null,
+						"compendiumSource": "Compendium.shadowdark.monster.cWzG0yEVgIk8ijk6",
 						"coreVersion": "13.351",
+						"createdTime": 1771351629679,
 						"duplicateSource": null,
 						"exportSource": null,
-						"lastModifiedBy": null,
+						"lastModifiedBy": "AdxDwoNM5IDEjWHR",
+						"modifiedTime": 1771352870899,
 						"systemId": "shadowdark",
 						"systemVersion": "4.0.0"
 					},
@@ -5195,39 +5205,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "icons/svg/item-bag.svg",
-					"name": "Undead",
-					"ownership": {
-						"default": 0
-					},
-					"sort": 0,
-					"system": {
-						"description": "<p>Immune to morale checks.</p>",
-						"properties": [
-						],
-						"source": {
-							"title": "quickstart"
-						}
-					},
-					"type": "NPC Feature"
-				},
-				{
-					"_id": "D2ICcZFerw1x6D7y",
-					"_stats": {
-						"compendiumSource": null,
-						"coreVersion": "13.351",
-						"duplicateSource": null,
-						"exportSource": null,
-						"lastModifiedBy": null,
-						"systemId": "shadowdark",
-						"systemVersion": "4.0.0"
-					},
-					"effects": [
-					],
-					"flags": {
-					},
-					"folder": null,
-					"img": "icons/svg/item-bag.svg",
+					"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
 					"name": "Shortsword",
 					"ownership": {
 						"default": 0
@@ -5258,19 +5236,21 @@
 							"close"
 						],
 						"source": {
-							"title": "quickstart"
+							"title": ""
 						}
 					},
 					"type": "NPC Attack"
 				},
 				{
-					"_id": "9oxZTYPcCbLq6SV9",
+					"_id": "F6sQwk07RUDZOjql",
 					"_stats": {
-						"compendiumSource": null,
+						"compendiumSource": "Compendium.shadowdark.monster.cWzG0yEVgIk8ijk6",
 						"coreVersion": "13.351",
+						"createdTime": 1771351629679,
 						"duplicateSource": null,
 						"exportSource": null,
-						"lastModifiedBy": null,
+						"lastModifiedBy": "AdxDwoNM5IDEjWHR",
+						"modifiedTime": 1771352870899,
 						"systemId": "shadowdark",
 						"systemVersion": "4.0.0"
 					},
@@ -5279,7 +5259,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "icons/svg/item-bag.svg",
+					"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
 					"name": "Shortbow",
 					"ownership": {
 						"default": 0
@@ -5310,10 +5290,44 @@
 							"far"
 						],
 						"source": {
-							"title": "quickstart"
+							"title": ""
 						}
 					},
 					"type": "NPC Attack"
+				},
+				{
+					"_id": "RtKVWN6gLHzS2GLR",
+					"_stats": {
+						"compendiumSource": "Compendium.shadowdark.monster.cWzG0yEVgIk8ijk6",
+						"coreVersion": "13.351",
+						"createdTime": 1771351629679,
+						"duplicateSource": null,
+						"exportSource": null,
+						"lastModifiedBy": "AdxDwoNM5IDEjWHR",
+						"modifiedTime": 1771352870899,
+						"systemId": "shadowdark",
+						"systemVersion": "4.0.0"
+					},
+					"effects": [
+					],
+					"flags": {
+					},
+					"folder": null,
+					"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+					"name": "Undead",
+					"ownership": {
+						"default": 0
+					},
+					"sort": 0,
+					"system": {
+						"description": "<p>Immune to morale checks.</p>",
+						"properties": [
+						],
+						"source": {
+							"title": ""
+						}
+					},
+					"type": "NPC Feature"
 				}
 			],
 			"name": "Skeleton",
@@ -5455,7 +5469,7 @@
 				},
 				"move": "near",
 				"moveNote": "",
-				"notes": "<p><em>A bleach-boned skeleton with red pinpoints of light in its eyes.</em></p><p><strong>AC</strong> 13 (chainmail), <strong>HP</strong> 11, <strong>ATK</strong> 1 shortsword +1 (1d6) or 1 shortbow (far) +0 (1d4), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -1, <strong>AL</strong> C, <strong>LV</strong> 2</p><p><strong>Undead.</strong> Immune to morale checks.</p>",
+				"notes": "<p><i> A bleach-boned skeleton with red pinpoints of light in its eyes. </i></p>\n\t\n\t<p><strong>AC</strong> 13 (chainmail), <strong>HP</strong> 11, <strong>ATK</strong> 1 shortsword +1 (1d6) or 1 shortbow (far) +0 (1d4), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 2</p>\n\t<p><strong> Undead</strong>. Immune to morale checks.</p>",
 				"spellcasting": {
 					"ability": "",
 					"attacks": 0,
@@ -5487,13 +5501,15 @@
 			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
 			"items": [
 				{
-					"_id": "4vlFF9RY0RInh7uU",
+					"_id": "N2evUM7u3KBVIfpP",
 					"_stats": {
-						"compendiumSource": null,
+						"compendiumSource": "Compendium.shadowdark.monster.k8tAgECWIzPIStGU",
 						"coreVersion": "13.351",
+						"createdTime": 1771351629679,
 						"duplicateSource": null,
 						"exportSource": null,
-						"lastModifiedBy": null,
+						"lastModifiedBy": "AdxDwoNM5IDEjWHR",
+						"modifiedTime": 1771352959961,
 						"systemId": "shadowdark",
 						"systemVersion": "4.0.0"
 					},
@@ -5502,7 +5518,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "icons/svg/item-bag.svg",
+					"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
 					"name": "Spear",
 					"ownership": {
 						"default": 0
@@ -5519,14 +5535,14 @@
 								"multiplier": 2,
 								"successThreshold": 20
 							},
-							"damageBonus": 0
+							"damageBonus": 1
 						},
 						"damage": {
 							"numDice": 1,
 							"special": "",
-							"value": "1d6+1"
+							"value": "1d6"
 						},
-						"description": "<p>Close/Near</p>",
+						"description": "",
 						"properties": [
 						],
 						"ranges": [
@@ -5534,19 +5550,21 @@
 							"near"
 						],
 						"source": {
-							"title": "quickstart"
+							"title": ""
 						}
 					},
 					"type": "NPC Attack"
 				},
 				{
-					"_id": "S9otkKlpEjmVLs8M",
+					"_id": "Kf0yKXcmO5FTRyDf",
 					"_stats": {
-						"compendiumSource": null,
+						"compendiumSource": "Compendium.shadowdark.monster.k8tAgECWIzPIStGU",
 						"coreVersion": "13.351",
+						"createdTime": 1771351629679,
 						"duplicateSource": null,
 						"exportSource": null,
-						"lastModifiedBy": null,
+						"lastModifiedBy": "AdxDwoNM5IDEjWHR",
+						"modifiedTime": 1771352959961,
 						"systemId": "shadowdark",
 						"systemVersion": "4.0.0"
 					},
@@ -5555,7 +5573,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "icons/svg/item-bag.svg",
+					"img": "icons/creatures/abilities/dragon-breath-purple.webp",
 					"name": "Brutal",
 					"ownership": {
 						"default": 0
@@ -5566,7 +5584,7 @@
 						"properties": [
 						],
 						"source": {
-							"title": "quickstart"
+							"title": ""
 						}
 					},
 					"type": "NPC Feature"
@@ -5711,7 +5729,7 @@
 				},
 				"move": "near",
 				"moveNote": "",
-				"notes": "<p><em>A cave hominid with scraggly fur and a stone-tipped spear.</em></p><p><strong>AC</strong> 12 (leather), <strong>HP </strong>5, <strong>ATK</strong> 1 spear (close/near) +2 (1d6 + 1), <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -2, <strong>W</strong> +1, <strong>Ch</strong> -1, <strong>AL </strong>C,<strong> LV </strong>1</p><p><strong>Brutal</strong>. +1 damage with melee weapons (included).</p>",
+				"notes": "<p><i> A cave hominid with scraggly fur and a stone-tipped spear. </i></p>\n\t\n\t<p><strong>AC</strong> 12 (leather), <strong>HP</strong> 5, <strong>ATK</strong> 1 spear (close/near) +2 (1d6 + 1), <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -2, <strong>W</strong> +1, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 1</p>\n\t<p><strong> Brutal</strong>. +1 damage with melee weapons (included).</p>",
 				"spellcasting": {
 					"ability": "",
 					"attacks": 0,
@@ -5743,13 +5761,15 @@
 			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
 			"items": [
 				{
-					"_id": "KiuWCB6C6OcmOl0g",
+					"_id": "PUAP423XSiucpSh7",
 					"_stats": {
-						"compendiumSource": null,
+						"compendiumSource": "Compendium.shadowdark.monsters.Actor.qSeHWgP59WltutCz",
 						"coreVersion": "13.351",
+						"createdTime": 1771351629679,
 						"duplicateSource": null,
 						"exportSource": null,
-						"lastModifiedBy": null,
+						"lastModifiedBy": "AdxDwoNM5IDEjWHR",
+						"modifiedTime": 1771351629679,
 						"systemId": "shadowdark",
 						"systemVersion": "4.0.0"
 					},
@@ -5758,7 +5778,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "icons/svg/item-bag.svg",
+					"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
 					"name": "Longsword",
 					"ownership": {
 						"default": 0
@@ -5789,19 +5809,21 @@
 							"close"
 						],
 						"source": {
-							"title": "quickstart"
+							"title": ""
 						}
 					},
 					"type": "NPC Attack"
 				},
 				{
-					"_id": "ViAocDndtudFnp38",
+					"_id": "90HbnXI8rj8tSAqy",
 					"_stats": {
-						"compendiumSource": null,
+						"compendiumSource": "Compendium.shadowdark.monsters.Actor.qSeHWgP59WltutCz",
 						"coreVersion": "13.351",
+						"createdTime": 1771351629679,
 						"duplicateSource": null,
 						"exportSource": null,
-						"lastModifiedBy": null,
+						"lastModifiedBy": "AdxDwoNM5IDEjWHR",
+						"modifiedTime": 1771351629679,
 						"systemId": "shadowdark",
 						"systemVersion": "4.0.0"
 					},
@@ -5810,7 +5832,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "icons/svg/item-bag.svg",
+					"img": "icons/creatures/abilities/dragon-breath-purple.webp",
 					"name": "Statue",
 					"ownership": {
 						"default": 0
@@ -5821,7 +5843,7 @@
 						"properties": [
 						],
 						"source": {
-							"title": "quickstart"
+							"title": "core-rules"
 						}
 					},
 					"type": "NPC Feature"
@@ -5966,7 +5988,7 @@
 				},
 				"move": "near",
 				"moveNote": "",
-				"notes": "<p><em>An old suit of armor magically animated by a vengeful spirit.</em></p><p><strong>AC</strong> 15, <strong>HP</strong> 11, <strong>ATK</strong> 1 longsword +3 (1d8), <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> -1, <strong>C</strong> +2, <strong>I</strong> -1, <strong>W</strong> +1, <strong>Ch</strong> +0, <strong>AL</strong> C, <strong>LV</strong> 2</p><p><strong>Statue</strong>. When standing still, looks exactly like a suit of armor.</p>",
+				"notes": "<p><i> An old suit of armor magically animated by a vengeful spirit. </i></p>\n\t\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 11, <strong>ATK</strong> 1 longsword +3 (1d8), <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> -1, <strong>C</strong> +2, <strong>I</strong> -1, <strong>W</strong> +1, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 2</p><p><strong>Statue</strong>. When standing still, looks exactly like a suit of armor.</p>",
 				"spellcasting": {
 					"ability": "",
 					"attacks": 0,
@@ -5998,13 +6020,15 @@
 			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
 			"items": [
 				{
-					"_id": "RdRiN1ZsfjQf8leu",
+					"_id": "UDnsikLLiwqdn52x",
 					"_stats": {
-						"compendiumSource": null,
+						"compendiumSource": "Compendium.shadowdark.monsters.Actor.QErMaMVIbddgk9MX",
 						"coreVersion": "13.351",
+						"createdTime": 1771351629679,
 						"duplicateSource": null,
 						"exportSource": null,
-						"lastModifiedBy": null,
+						"lastModifiedBy": "AdxDwoNM5IDEjWHR",
+						"modifiedTime": 1771351629679,
 						"systemId": "shadowdark",
 						"systemVersion": "4.0.0"
 					},
@@ -6013,39 +6037,7 @@
 					"flags": {
 					},
 					"folder": null,
-					"img": "icons/svg/item-bag.svg",
-					"name": "Split",
-					"ownership": {
-						"default": 0
-					},
-					"sort": 0,
-					"system": {
-						"description": "<p>If cut or chopped, split into two smaller oozes (divide remaining HP between both). Can split up to four times.</p>",
-						"properties": [
-						],
-						"source": {
-							"title": "quickstart"
-						}
-					},
-					"type": "NPC Feature"
-				},
-				{
-					"_id": "evZXcoBxPaeka6UA",
-					"_stats": {
-						"compendiumSource": null,
-						"coreVersion": "13.351",
-						"duplicateSource": null,
-						"exportSource": null,
-						"lastModifiedBy": null,
-						"systemId": "shadowdark",
-						"systemVersion": "4.0.0"
-					},
-					"effects": [
-					],
-					"flags": {
-					},
-					"folder": null,
-					"img": "icons/svg/item-bag.svg",
+					"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
 					"name": "Tentacle",
 					"ownership": {
 						"default": 0
@@ -6076,10 +6068,44 @@
 							"close"
 						],
 						"source": {
-							"title": "quickstart"
+							"title": ""
 						}
 					},
 					"type": "NPC Attack"
+				},
+				{
+					"_id": "tQALSbY1bERwiD2a",
+					"_stats": {
+						"compendiumSource": "Compendium.shadowdark.monsters.Actor.QErMaMVIbddgk9MX",
+						"coreVersion": "13.351",
+						"createdTime": 1771351629679,
+						"duplicateSource": null,
+						"exportSource": null,
+						"lastModifiedBy": "AdxDwoNM5IDEjWHR",
+						"modifiedTime": 1771351629679,
+						"systemId": "shadowdark",
+						"systemVersion": "4.0.0"
+					},
+					"effects": [
+					],
+					"flags": {
+					},
+					"folder": null,
+					"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+					"name": "Split",
+					"ownership": {
+						"default": 0
+					},
+					"sort": 0,
+					"system": {
+						"description": "<p>If cut or chopped, split into two smaller oozes (divide remaining HP between both). Can split up to four times.</p>",
+						"properties": [
+						],
+						"source": {
+							"title": ""
+						}
+					},
+					"type": "NPC Feature"
 				}
 			],
 			"name": "Ochre Jelly",
@@ -6220,8 +6246,8 @@
 					"xp": 0
 				},
 				"move": "near",
-				"moveNote": "Climb",
-				"notes": "<p><em>An orange puddle of quivering slime.</em></p><p><strong>AC</strong> 9, <strong>HP</strong> 20, <strong>ATK</strong> 2 tentacle +3 (1d6), <strong>MV</strong> near (climb), <strong>S</strong> +2, <strong>D</strong> -1, <strong>C</strong> +2, <strong>I</strong> -4, <strong>W</strong> -3, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 4</p><p><strong>Split.</strong> If cut or chopped, split into two smaller oozes (divide remaining HP between both). Can split up to four times.</p>",
+				"moveNote": "climb",
+				"notes": "<p><i> An orange puddle of quivering slime. </i></p>\n\t\n\t<p><strong>AC</strong> 9, <strong>HP</strong> 20, <strong>ATK</strong> 2 tentacle +3 (1d6), <strong>MV</strong> near (climb), <strong>S</strong> +2, <strong>D</strong> -1, <strong>C</strong> +2, <strong>I</strong> -4, <strong>W</strong> -3, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 4</p>\n\t<p><strong> Split</strong>. If cut or chopped, split into two smaller oozes (divide remaining HP between both). Can split up to four times.</p>",
 				"spellcasting": {
 					"ability": "",
 					"attacks": 0,
@@ -6955,14 +6981,14 @@
 				"broken": false,
 				"cost": {
 					"cp": 0,
-					"gp": 200,
+					"gp": 0,
 					"sp": 0
 				},
 				"damage": {
 					"oneHanded": "d8",
 					"twoHanded": "d10"
 				},
-				"description": "",
+				"description": "<p><em>A double-headed, bronze greataxe crusted with old blood.</em></p><p><strong>Bonus.</strong> +1 greataxe.</p><p><strong>Benefit.</strong> You deal x4 damage on critical hits made with this weapon.</p>",
 				"equipped": false,
 				"isAmmunition": false,
 				"magicItem": true,
@@ -7125,7 +7151,7 @@
 					"gp": 0,
 					"sp": 0
 				},
-				"description": "<p>@UUID[Compendium.shadowdark.spells.q600IZtPTAgkz6vB]{Hold Portal}</p>",
+				"description": "<p><em>A tightly rolled parchment scroll scribed with symbols of locks.</em></p><p><strong>Benefit.</strong> You can cast the @UUID[Compendium.shadowdark.spells.Item.q600IZtPTAgkz6vB]{hold portal} spell with this scroll (DC 11 spellcasting check). The scroll crumbles after an attempt to cast the spell from it, successful or not.</p>",
 				"equipped": false,
 				"isAmmunition": false,
 				"light": {
@@ -7147,7 +7173,7 @@
 					"slots_used": 1
 				},
 				"source": {
-					"title": "quickstart"
+					"title": "core-rules"
 				},
 				"stashed": false,
 				"treasure": false
@@ -7671,7 +7697,7 @@
 					"oneHanded": "",
 					"twoHanded": "d12"
 				},
-				"description": "<p><strong>Benefit</strong>. A creature cannot move the wielder against their will.</p>",
+				"description": "<p><em>A bronze, brightly polished blade as tall as a human.</em></p><p><strong>Bonus.</strong> +1 greatsword.</p><p><strong>Benefit.</strong> You cannot be moved against your will while you wield this sword.</p>",
 				"equipped": false,
 				"isAmmunition": false,
 				"magicItem": true,
@@ -7848,7 +7874,7 @@
 					"slots_used": 1
 				},
 				"source": {
-					"title": "quickstart"
+					"title": "core-rules"
 				},
 				"stashed": false,
 				"treasure": false
@@ -8055,10 +8081,10 @@
 				"broken": false,
 				"cost": {
 					"cp": 0,
-					"gp": 80,
+					"gp": 0,
 					"sp": 0
 				},
-				"description": "<p>Contained in a bronze tube adorned with jade dragons.</p><p>@UUID[Compendium.shadowdark.spells.ItN82uLU3PhJFLNm]{Burning Hands}</p>",
+				"description": "<p><em>A copper leaf scroll that is always warm to the touch.</em></p><p><strong>Benefit.</strong> You can cast the @UUID[Compendium.shadowdark.spells.Item.ItN82uLU3PhJFLNm]{burning hands} spell with this scroll (DC 11 spellcasting check). The scroll crumbles after an attempt to cast the spell from it, successful or not.</p>",
 				"equipped": false,
 				"isAmmunition": false,
 				"light": {
@@ -8080,10 +8106,10 @@
 					"slots_used": 1
 				},
 				"source": {
-					"title": "quickstart"
+					"title": "core-rules"
 				},
 				"stashed": false,
-				"treasure": true
+				"treasure": false
 			},
 			"type": "Basic"
 		},
@@ -8381,7 +8407,7 @@
 			"sort": 100000,
 			"system": {
 				"ammoClass": "",
-				"baseWeapon": "",
+				"baseWeapon": "spear",
 				"broken": false,
 				"cost": {
 					"cp": 0,
@@ -8392,7 +8418,7 @@
 					"oneHanded": "d6",
 					"twoHanded": ""
 				},
-				"description": "<p><strong>Benefit</strong>. The wielder cannot be surprised.</p>",
+				"description": "<p><em>A golden, broad-bladed spear with crimson tassels.</em></p><p><strong>Bonus.</strong> +1 spear.</p><p><strong>Benefit.</strong> You can't be surprised (you always roll for initiative in surprise rounds and are not treated as unaware).</p>",
 				"equipped": false,
 				"isAmmunition": false,
 				"magicItem": true,
@@ -8513,10 +8539,10 @@
 					"gp": 0,
 					"sp": 0
 				},
-				"description": "<p><em>Grey, doeskin boots as thin and soft as slippers.</em></p><p><strong>Benefit</strong>. You can jump up to a near distance from a standstill. Your checks to move silently are always easy (DC 9).</p>",
+				"description": "<p><em>Gray, doeskin boots as thin and soft as slippers.</em></p><p><strong>Benefit</strong>. You can jump up to a near distance from a standstill. Your checks to move silently are always easy (DC 9).</p>",
 				"equipped": false,
 				"isAmmunition": false,
-				"magicItem": false,
+				"magicItem": true,
 				"properties": [
 				],
 				"quantity": 1,
@@ -8526,7 +8552,7 @@
 					"slots_used": 1
 				},
 				"source": {
-					"title": "quickstart"
+					"title": "core-rules"
 				},
 				"stashed": false
 			},
@@ -8557,38 +8583,40 @@
 			},
 			"sort": 200000,
 			"system": {
-				"ammoClass": "",
-				"baseWeapon": "",
 				"broken": false,
 				"cost": {
 					"cp": 0,
 					"gp": 0,
 					"sp": 0
 				},
-				"damage": {
-					"oneHanded": "",
-					"twoHanded": ""
-				},
-				"description": "<p>@UUID[Compendium.shadowdark.spells.ItoZZ0nli29N5d7G]{Blind/Deafen}</p><p>DC 12</p>",
+				"description": "<p><em>A bone wand carved with various animals' eyes and ears.</em></p><p><strong>Benefit.</strong> You can cast the @UUID[Compendium.shadowdark.spells.Item.ItoZZ0nli29N5d7G]{blind/deafen} spell with this wand (DC 12 spellcasting check). On a failure, you can't use this wand again until you successfully rest.</p><p>On a critical failure, the wand breaks permanently and you must roll a mishap if you are subject to them.</p>",
 				"equipped": false,
 				"isAmmunition": false,
+				"light": {
+					"active": false,
+					"hasBeenUsed": false,
+					"isSource": false,
+					"longevityMins": 60,
+					"remainingSecs": 3600,
+					"template": "torch"
+				},
 				"magicItem": true,
 				"properties": [
 				],
 				"quantity": 1,
-				"range": "close",
+				"scroll": false,
 				"slots": {
 					"free_carry": 0,
 					"per_slot": 1,
 					"slots_used": 1
 				},
 				"source": {
-					"title": "quickstart"
+					"title": "core-rules"
 				},
 				"stashed": false,
-				"type": "melee"
+				"treasure": false
 			},
-			"type": "Weapon"
+			"type": "Basic"
 		},
 		{
 			"_id": "cFi2Wtbwz3qkiJMx",
@@ -8762,7 +8790,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p><strong>Danger Level</strong>. Risky. Check for an encounter every <strong>2</strong> crawling rounds or after the PCs make loud noises (1d6, 1 = encounter).</p><p><strong>Light</strong>. Total darkness unless noted. All denizens are dark-adapted.</p><p><strong>Doors</strong>. Stone. 1:6 chance of being stuck shut. Unlocked unless noted.</p><p><strong>NPCs</strong>. See @UUID[.ji9paT4DbaYTmMPm]{pg. 64} for beastmen and ettercap NPC generators.</p><p><strong>The Scarlet Minotaur</strong>. Each time you roll on the Random Encounters table after the first, apply a <strong>cumulative -2</strong> to the result (treat results below 1 as 1). Reset this count each time an encounter with the Scarlet Minotaur occurs.</p><p>@UUID[Macro.uQOjVmE0co1U8yws]{The Lost Citadel: Random Encounter Check}</p><table style=\"width:100%\"><caption>Rumors</caption><tbody><tr><td style=\"text-align:center\"><p>d8</p></td><td><p>Details</p></td></tr><tr><td style=\"text-align:center\"><p>1</p></td><td><p>The <strong>@UUID[Actor.XPNU79kJyse04pL3]{Scarlet Minotaur}</strong> (Area 18) stalks into sight, bellowing challenges and pawing the stone</p></td></tr><tr><td style=\"text-align:center\"><p>2</p></td><td><p><strong>[[/r 1d4]] @UUID[Compendium.shadowdark.monsters.Actor.fcgq7uwsJEMMdRNx]{ettercaps}</strong> and <strong>[[/r 1d8]]</strong> <strong>@UUID[Compendium.shadowdark.monsters.Actor.k8tAgECWIzPIStGU]{beastmen}</strong> clash in a bloody melee</p></td></tr><tr><td style=\"text-align:center\"><p>3</p></td><td><p>A dry gust of wind extinguishes all torches and lamps</p></td></tr><tr><td style=\"text-align:center\"><p>4</p></td><td><p><strong>[[/r 1d6]]</strong> <strong>@UUID[Compendium.shadowdark.monsters.Actor.fcgq7uwsJEMMdRNx]{ettercaps}</strong> creep along, searching for gold and gems</p></td></tr><tr><td style=\"text-align:center\"><p>5</p></td><td><p>The <strong>@UUID[Compendium.shadowdark.monsters.Actor.cWzG0yEVgIk8ijk6]{skeletons}</strong> of <strong>[[/r 1d6]]</strong> dead adventurers or warrior-mages stagger into sight</p></td></tr><tr><td style=\"text-align:center\"><p>6</p></td><td><p><strong>[[/r 2d4]]</strong> <strong>@UUID[Compendium.shadowdark.monsters.Actor.k8tAgECWIzPIStGU]{beastmen}</strong> argue in hushed whispers over who gets to eat the centipedes they just trapped in a bag</p></td></tr><tr><td style=\"text-align:center\"><p>7</p></td><td><p><strong>[[/r 1d4]]</strong> <strong>@UUID[Compendium.shadowdark.monsters.Actor.0JAEN5FsKjaXXZaA]{darkmantles}</strong> swoop out, bobbing and spinning in a territorial warning dance</p></td></tr><tr><td style=\"text-align:center\"><p>8</p></td><td><p>A <strong>@UUID[Compendium.shadowdark.monsters.Actor.j7sQ6Km2jSx5twCC]{cave creeper}</strong> rushes along the ceiling toward light</p></td></tr></tbody></table>",
+						"content": "<p><strong>Danger Level</strong>. Risky. Check for an encounter every <strong>2</strong> crawling rounds or after the PCs make loud noises (1d6, 1 = encounter).</p><p><strong>Light</strong>. Total darkness unless noted. All denizens are dark-adapted.</p><p><strong>Doors</strong>. Stone. 1:6 chance of being stuck shut. Unlocked unless noted.</p><p><strong>NPCs</strong>. See @UUID[.ji9paT4DbaYTmMPm]{NPCs} for beastmen and ettercap NPC generators.</p><p><strong>The Scarlet Minotaur</strong>. Each time you roll on the Random Encounters table after the first, apply a <strong>cumulative -2</strong> to the result (treat results below 1 as 1). Reset this count each time an encounter with the Scarlet Minotaur occurs.</p><p>@UUID[Macro.uQOjVmE0co1U8yws]{The Lost Citadel: Random Encounter Check}</p><table style=\"width:100%\"><caption>Random Encounters</caption><tbody><tr><td style=\"text-align:center\"><p>d8</p></td><td><p>Details</p></td></tr><tr><td style=\"text-align:center\"><p>1</p></td><td><p>The <strong>@UUID[Actor.XPNU79kJyse04pL3]{Scarlet Minotaur}</strong> (Area 18) stalks into sight, bellowing challenges and pawing the stone</p></td></tr><tr><td style=\"text-align:center\"><p>2</p></td><td><p><strong>[[/r 1d4]] @UUID[Compendium.shadowdark.monsters.Actor.fcgq7uwsJEMMdRNx]{ettercaps}</strong> and <strong>[[/r 1d8]]</strong> <strong>@UUID[Compendium.shadowdark.monsters.Actor.k8tAgECWIzPIStGU]{beastmen}</strong> clash in a bloody melee</p></td></tr><tr><td style=\"text-align:center\"><p>3</p></td><td><p>A dry gust of wind extinguishes all torches and lamps</p></td></tr><tr><td style=\"text-align:center\"><p>4</p></td><td><p><strong>[[/r 1d6]]</strong> <strong>@UUID[Compendium.shadowdark.monsters.Actor.fcgq7uwsJEMMdRNx]{ettercaps}</strong> creep along, searching for gold and gems</p></td></tr><tr><td style=\"text-align:center\"><p>5</p></td><td><p>The <strong>@UUID[Compendium.shadowdark.monsters.Actor.cWzG0yEVgIk8ijk6]{skeletons}</strong> of <strong>[[/r 1d6]]</strong> dead adventurers or warrior-mages stagger into sight</p></td></tr><tr><td style=\"text-align:center\"><p>6</p></td><td><p><strong>[[/r 2d4]]</strong> <strong>@UUID[Compendium.shadowdark.monsters.Actor.k8tAgECWIzPIStGU]{beastmen}</strong> argue in hushed whispers over who gets to eat the centipedes they just trapped in a bag</p></td></tr><tr><td style=\"text-align:center\"><p>7</p></td><td><p><strong>[[/r 1d4]]</strong> <strong>@UUID[Compendium.shadowdark.monsters.Actor.0JAEN5FsKjaXXZaA]{darkmantles}</strong> swoop out, bobbing and spinning in a territorial warning dance</p></td></tr><tr><td style=\"text-align:center\"><p>8</p></td><td><p>A <strong>@UUID[Compendium.shadowdark.monsters.Actor.j7sQ6Km2jSx5twCC]{cave creeper}</strong> rushes along the ceiling toward light</p></td></tr></tbody></table>",
 						"format": 1,
 						"markdown": ""
 					},
@@ -8803,7 +8831,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p><strong>Walls</strong>: Floor-to-ceiling murals painted in vibrant jewel tones. <strong>Red Pillars</strong>: Tapered, banded in black marble at top and bottom.</p><ul><li><p><strong>Murals</strong>. People in white robes kneeling in a room of red pillars before a colossal, onyx bull with horns lowered.</p><ul><li><p><strong>Hidden Niche</strong>. Behind bull statue. @UUID[Item.r893z0hIf4LSdPs3]{Silver-Inlaid Bull Horn} (30 gp).</p></li></ul></li><li><p><strong>Ettercap NPC. Eska</strong> (weaselly, disloyal). Just hid a stolen pearl in Area 2. Hides on the northeast corner of ceiling. Screeches an alarm and flees toward Area 4 if attacked.</p><ul><li><p><strong>Escapes</strong>. Three ettercaps from Area 4 set an <strong>ambush</strong> in Area 2.</p></li></ul></li></ul>",
+						"content": "<p><strong>Walls</strong>: Floor-to-ceiling murals painted in vibrant jewel tones. <strong>Red Pillars</strong>: Tapered, banded in black marble at top and bottom.</p><ul><li><p><strong>Murals</strong>. People in white robes kneeling in a room of red pillars before a colossal, onyx bull with horns lowered.</p><ul><li><p><strong>Hidden Niche</strong>. Behind onyx bull mural. @UUID[Item.r893z0hIf4LSdPs3]{Silver-Inlaid Bull Horn} (30 gp).</p></li></ul></li><li><p><strong>Ettercap NPC. Eska</strong> (weaselly, disloyal). Just hid a stolen pearl in Area 2. Hides on the northeast corner of ceiling. Screeches an alarm and flees toward Area 4 if attacked.</p><ul><li><p><strong>Escapes</strong>. Three ettercaps from Area 4 set an <strong>ambush</strong> in Area 2.</p></li></ul></li></ul>",
 						"format": 1,
 						"markdown": ""
 					},
@@ -8922,7 +8950,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p><strong>Creatures</strong>: Group of purple-furred, potbellied humanoids with spindly legs. Snarling at each other about a missing pearl. <strong>Cave</strong>: Cramped, tufts of spiderweb everywhere. <strong>Floor</strong>: Neat piles of gold and lustrous objects. <strong>Ceiling</strong>: Low (10'), three narrow shafts (1').</p><ul><li><p><strong>@UUID[Compendium.shadowdark.monsters.fcgq7uwsJEMMdRNx]{Ettercaps.}</strong> Five. Three go to Area 2 if <strong>@UUID[Actor.QvVJAySJZMTMnEZp]{Eska}</strong> (Area 1) raises an alarm. Might parlay, but are fatally treasure-crazed. Squeeze through ceiling shafts with scoops of each other's loot if outclassed.</p><ul><li><p><strong>NPCs</strong>. <strong>@UUID[Actor.1WXEDbF6gSa4fQUQ]{Skir}</strong> (animated, loud), <strong>@UUID[Actor.rok3i6Gy0RjoBgrq]{Yisha}</strong> (tiny, sinister), <strong>@UUID[Actor.82lFpkXeVpKnPWCQ]{Grisk}</strong> (old, irritable), <strong>@UUID[Actor.eVuNGaceV93M5whd]{Uliss}</strong> (lumbering, dull), <strong>@UUID[Actor.rh1ZgUTuHcwhlt4F]{Chee}</strong> (silver fur, elegant).</p></li></ul></li><li><p><strong>Treasure</strong>. 12 evenly-valued piles (some belong to wanderers). <strong>Eska</strong> (Area 1) stole a pearl from <strong>Grisk's</strong> share and hid it in Area 2.</p><p><strong>Details</strong>.</p><ul><li><p>200 gp,</p></li><li><p>2 x @UUID[Item.WKk0GVD1KHrI6fav]{pearls} (40 gp each)</p></li><li><p>@UUID[Item.TggK5foyVW9RXoHw]{alabaster statuette of a bull} (20 gp),</p></li><li><p>2 x @UUID[Item.BjWjRaMBbsv50AjU]{silver incense bowl}s (15 gp each),</p></li><li><p>@UUID[Item.U3dML6TSDUKJXBUh]{jade snake bracelet} (20 gp),</p></li><li><p>@UUID[Item.iW6GTpg33QYMca8k]{necklace of thick gold links} (30 gp).</p></li></ul></li></ul>",
+						"content": "<p><strong>Creatures</strong>: Group of purple-furred, potbellied humanoids with spindly legs. Snarling at each other about a missing pearl. <strong>Cave</strong>: Cramped, tufts of spiderweb everywhere. <strong>Floor</strong>: Neat piles of gold and lustrous objects. <strong>Ceiling</strong>: Low (10'), three narrow shafts (1').</p><ul><li><p><strong>@UUID[Compendium.shadowdark.monsters.fcgq7uwsJEMMdRNx]{Ettercaps.}</strong> Five. Three go to Area 2 if <strong>@UUID[Actor.QvVJAySJZMTMnEZp]{Eska}</strong> (Area 1) raises an alarm. Might parlay, but are fatally treasure-crazed. Squeeze through ceiling shafts with scoops of each other's loot if outclassed.</p><ul><li><p><strong>NPCs</strong>. <strong>@UUID[Actor.1WXEDbF6gSa4fQUQ]{Skir}</strong> (animated, loud), <strong>@UUID[Actor.rok3i6Gy0RjoBgrq]{Yisha}</strong> (tiny, sinister), <strong>@UUID[Actor.82lFpkXeVpKnPWCQ]{Grisk}</strong> (old, irritable), <strong>@UUID[Actor.eVuNGaceV93M5whd]{Uliss}</strong> (lumbering, dull), <strong>@UUID[Actor.rh1ZgUTuHcwhlt4F]{Chee}</strong> (silver fur, elegant).</p></li></ul></li><li><p><strong>Treasure</strong>. 12 evenly-valued piles (some belong to wanderers). <strong>Eska</strong> (Area 1) stole a pearl from <strong>Grisk's</strong> share and hid it in Area 2.</p><p><strong>Details</strong>.</p><ul><li><p>200 gp,</p></li><li><p>2 @UUID[Item.WKk0GVD1KHrI6fav]{pearls} (40 gp each),</p></li><li><p>@UUID[Item.TggK5foyVW9RXoHw]{alabaster statuette of a bull} (20 gp),</p></li><li><p>2 @UUID[Item.BjWjRaMBbsv50AjU]{silver incense bowl}s (15 gp each),</p></li><li><p>@UUID[Item.U3dML6TSDUKJXBUh]{jade snake bracelet} (20 gp),</p></li><li><p>@UUID[Item.iW6GTpg33QYMca8k]{necklace of thick gold links} (30 gp).</p></li></ul></li></ul>",
 						"format": 1,
 						"markdown": ""
 					},
@@ -9039,7 +9067,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p><strong>Bull Statue</strong>: Towering (10'), bronze. Horns lowered for a charge. <strong>Hall</strong>: 15' high. Pairs of deep holes punched into wall opposite statue.</p><ul><li><p><strong>Statue</strong>. Motion-activated. 3:6 chance/round it animates and charges to end of hall (ignores Scarlet Minotaur). [[request 15 dex]] or [[/r 2d6]] damage and knocked flat. Trots back to position and resets.</p><ul><li><p><strong>@UUID[Item.ToSK7skdC9OPzmwZ]{Emerald.}</strong> (120 gp), embedded in statue's forehead. Shattering (AC 20, 1 HP) deactivates statue but reduces gem's value to 20 gp (@UUID[Item.hiVLFYBR666Zm29e]{Emerald (Shattered)}).</p></li></ul></li></ul>",
+						"content": "<p><strong>Bull Statue</strong>: Towering (10'), bronze. Horns lowered for a charge. <strong>Hall</strong>: 15' high. Pairs of deep holes punched into wall opposite statue.</p><ul><li><p><strong>Statue</strong>. Motion-activated. 3:6 chance/round it animates and charges to end of hall (ignores Scarlet Minotaur). [[request 15 dex]] or [[/r 2d6]] damage and knocked flat. Trots back to position and resets.</p><ul><li><p><strong>@UUID[Item.ToSK7skdC9OPzmwZ]{Emerald.}</strong> 120 gp, embedded in statue's forehead. Shattering (AC 20, 1 HP) deactivates statue but reduces gem's value to 20 gp (@UUID[Item.hiVLFYBR666Zm29e]{Emerald (Shattered)}).</p></li></ul></li></ul>",
 						"format": 1,
 						"markdown": ""
 					},
@@ -9078,7 +9106,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p><strong>Alcoves</strong>: Square, black plinths each hold a simple terracotta bowl.</p><ul><li><p><strong>Bowls</strong>. Six. Stamped with a seal that shows a warrior kneeling in a black rain, arms and mouth open to the sky.</p><ul><li><p><strong>Blood</strong>. Filling a bowl with fresh blood charges the blood with healing magic ([[/r 1d4]] HP, must drink). Once used, bowl crumbles.</p></li></ul></li></ul>",
+						"content": "<p><strong>Alcoves</strong>: Square, black plinths each hold a simple terracotta bowl.</p><ul><li><p><strong>Blood Bowls</strong>. Six. Stamped with a seal that shows a warrior kneeling in a black rain, arms and mouth open to the sky.</p><ul><li><p><strong>Use</strong>. Filling a bowl with fresh blood charges the blood with healing magic ([[/r 1d4]] HP, must drink). Once used, bowl crumbles.</p></li></ul></li></ul>",
 						"format": 1,
 						"markdown": ""
 					},
@@ -9156,7 +9184,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<ul><li><p><strong>Bull Statue</strong>. As Area 7. Skeleton stuck on horns covers emerald.</p><ul><li><p><strong>@UUID[Item.ToSK7skdC9OPzmwZ]{Emerald.}</strong> (120 gp), embedded in statue's forehead. Shattering (AC 20, 1 HP) deactivates statue but reduces gem's value to 20 gp (@UUID[Item.hiVLFYBR666Zm29e]{Emerald (Shattered)}).</p></li></ul></li></ul>",
+						"content": "<ul><li><p><strong>Bull Statue</strong>. As Area 7. Skeleton stuck on horns covers emerald.</p><ul><li><p><strong>@UUID[Item.6NfZTinsbZBY5FVN]{Emerald.}</strong> (120 gp), embedded in statue's forehead. Shattering (AC 20, 1 HP) deactivates statue but reduces gem's value to 20 gp (@UUID[Item.Xc1NkStj6yilbnSa]{Emerald (Shattered)}).</p></li></ul></li></ul>",
 						"format": 1,
 						"markdown": ""
 					},
@@ -9312,7 +9340,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p><strong>Hall</strong>: Silent and narrow. Stale, dead air. <strong>Smell</strong>: Urine and body odor, eye-watering. <strong>Floor</strong>: Scattered with rat bones and centipede husks.</p><ul><li><p><strong>@UUID[Compendium.shadowdark.monsters.k8tAgECWIzPIStGU]{Beastmen}</strong>. Three. Ragged, grey fur. Each stands by one of the doors, listening. They regroup in Area 14 if PCs enter. If PCs are noisy, adjust their attitude one step toward <strong>hostile</strong>.</p><ul><li><p><strong>NPCs</strong>. <strong>@UUID[Actor.mdRstp355OUOyY7r]{Haruut} </strong>(stocky, mistrustful), <strong>@UUID[Actor.VIiW9qercPbgheGh]{Grall}</strong> (young, timid), <strong>@UUID[Actor.PZ6Pt3fz7LRaEWqU]{Chops}</strong> (long jowls, blustery). They speak in harsh whispers and cringe at loud sounds.</p></li></ul></li><li><p><strong>Secret Doors</strong>. All visible from this side.</p></li></ul>",
+						"content": "<p><strong>Hall</strong>: Silent and narrow. Stale, dead air. <strong>Smell</strong>: Urine and body odor, eye-watering. <strong>Floor</strong>: Scattered with rat bones and centipede husks.</p><ul><li><p><strong>@UUID[Compendium.shadowdark.monsters.k8tAgECWIzPIStGU]{Beastmen}</strong>. Three. Ragged, gray fur. Each stands by one of the doors, listening. They regroup in Area 14 if PCs enter. If PCs are noisy, adjust their attitude one step toward <strong>hostile</strong>.</p><ul><li><p><strong>NPCs</strong>. <strong>@UUID[Actor.mdRstp355OUOyY7r]{Haruut} </strong>(stocky, mistrustful), <strong>@UUID[Actor.VIiW9qercPbgheGh]{Grall}</strong> (young, timid), <strong>@UUID[Actor.PZ6Pt3fz7LRaEWqU]{Chops}</strong> (long jowls, blustery). They speak in harsh whispers and cringe at loud sounds.</p></li></ul></li><li><p><strong>Secret Doors</strong>. All visible from this side.</p></li></ul>",
 						"format": 1,
 						"markdown": ""
 					},
@@ -9351,7 +9379,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p><strong>Terracotta</strong> <strong>Jars</strong>: Clustered in corners. Fat and rounded, various heights. <strong>Air</strong>: Sulfuric scent. <strong>Sound</strong>: Occasional faint squeak and hiss. <strong>South Door</strong>: White, jagged lines gouged into the stone.</p><ul><li><p><strong>Jars</strong>. 20 jars sealed with cork and wax. Stamped with images of people carving wheat with scythes. Sticky, black mush inside.</p><ul><li><p><strong>Explosive</strong>. Shaking/striking jar causes it to shatter from sulfuric gas buildup. [[request 12 dex]] or 1d4 damage. Possible chain reaction.</p></li><li><p><strong>Treasure</strong>. Cumulative 1:20 chance of finding an <strong>@UUID[Item.R9rWEWg4biAMlj0U]{ivory egg}</strong> shot with grey veins inside one (40 gp). It's actually a cockatrice egg.</p></li></ul></li><li><p><strong>South Door</strong>. Carving in Common: \"R.I.P. Orwyn the Younger.\"</p></li></ul>",
+						"content": "<p><strong>Terracotta</strong> <strong>Jars</strong>: Clustered in corners. Fat and rounded, various heights. <strong>Air</strong>: Sulfuric scent. <strong>Sound</strong>: Occasional faint squeak and hiss. <strong>South Door</strong>: White, jagged lines gouged into the stone.</p><ul><li><p><strong>Jars</strong>. 20 jars sealed with cork and wax. Stamped with images of people carving wheat with scythes. Sticky, black mush inside.</p><ul><li><p><strong>Explosive</strong>. Shaking/striking jar causes it to shatter from sulfuric gas buildup. [[request 12 dex]] or 1d4 damage. Possible chain reaction.</p></li><li><p><strong>Treasure</strong>. Cumulative 1:20 chance of finding an <strong>@UUID[Item.R9rWEWg4biAMlj0U]{ivory egg}</strong> shot with gray veins inside one (40 gp). It's actually a cockatrice egg.</p></li></ul></li><li><p><strong>South Door</strong>. Carving in Common: \"R.I.P. Orwyn the Younger.\"</p></li></ul>",
 						"format": 1,
 						"markdown": ""
 					},
@@ -9390,7 +9418,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p><strong>Halls</strong>: A weighty, stone bowl in each. Chest-high. <strong>Murals</strong>: Rows of peasants pour jars of gold coins and wheat into massive, grey bowls. Imperious, red-armored warriors with bronze spears supervise.</p><ul><li><p><strong>Stone Bowls</strong>. Smooth and worn. Placing food or gold inside grants a Luck Token (once per character).</p></li><li><p><strong>Human NPC</strong>. <strong>Giuseppe Baldini</strong>, N herbalist (crotchety, middle- aged, poor). Wants treasure. Hides behind southeast bowl.</p></li></ul>",
+						"content": "<p><strong>Halls</strong>: A weighty, stone bowl in each. Chest-high. <strong>Murals</strong>: Rows of peasants pour jars of gold coins and wheat into massive, gray bowls. Imperious, red-armored warriors with bronze spears supervise.</p><ul><li><p><strong>Stone Bowls</strong>. Smooth and worn. Placing food or gold inside grants a Luck Token (once per character).</p></li><li><p><strong>Human NPC</strong>. <strong>Giuseppe Baldini</strong>, N herbalist (crotchety, middle- aged, poor). Wants treasure. Hides behind southeast bowl.</p></li></ul>",
 						"format": 1,
 						"markdown": ""
 					},
@@ -9468,7 +9496,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p><strong>Bull Statue</strong>: 20' tall, black onyx, rippling muscle. Horns lowered and dotted with white objects. <strong>Courtyard</strong>: Sandy flagstones, sun- scorched. Heaps of bleached bones. <strong>Red Pillars</strong>: Free-standing, some shattered and crumbling. Cast cool, dark shadows.</p><ul><li><p><strong>@UUID[Actor.XPNU79kJyse04pL3]{The Scarlet Minotaur}</strong>. 3:6 chance of being present. If not, cumulative 1:6 chance per round it returns. <strong>@UUID[Compendium.shadowdark.monsters.c3Nvj86e0Layz3NG]{Minotaur}</strong>: 9' tall, wine- red fur. Charges at shadows, headbutts pillars, snorts and bellows. Two-headed, bronze <em>+1 greataxe</em> called <em>@UUID[Item.gtfx2i7YimBMi2bo]{Bloodlust}</em>; wielder deals x4 damage on a critical hit.</p></li><li><p><strong>Bull Statue.</strong> 30 humanoid skulls in various states of rot punched onto horns like necklace beads. Some have traces of grey fur.</p><ul><li><p><strong>Ritual Sacrifice</strong>. Punching a freshly beheaded humanoid skull onto a horn grants +1 point of Strength. <strong>Each additional time</strong>: cumulative 1:4 chance of transforming into a beastman.</p></li></ul></li><li><p><strong>Bones</strong>. Trampled and crushed. No skulls. Piles of dented armor and broken weapons, both steel and bronze.</p></li><li><p><strong>Treasure</strong>. Each round spent sifting reveals one of the following:</p></li></ul><ol><li><p>@UUID[Item.yv6v0HqiSsnAGOHC]{Scarred mithral shield} carved with prowling tiger (40 gp)</p></li><li><p>Bag of <strong>60 gp</strong> stamped with long-dead emperor</p></li><li><p><em>@UUID[Item.qQfrScSGMEBGHCFZ]{Scroll of Burning Hands}</em> in bronze tube adorned with jade dragons (80 gp)</p></li><li><p>@UUID[Item.0HvhZP8EOXqyT3p2]{Silvered longsword} with half-moon pommel (30 gp).</p></li></ol>",
+						"content": "<p><strong>Bull Statue</strong>: 20' tall, black onyx, rippling muscle. Horns lowered and dotted with white objects. <strong>Courtyard</strong>: Sandy flagstones, sun- scorched. Heaps of bleached bones. <strong>Red Pillars</strong>: Free-standing, some shattered and crumbling. Cast cool, dark shadows.</p><ul><li><p><strong>@UUID[Actor.XPNU79kJyse04pL3]{The Scarlet Minotaur}</strong>. 3:6 chance of being present. If not, cumulative 1:6 chance per round it returns. <strong>@UUID[Compendium.shadowdark.monsters.c3Nvj86e0Layz3NG]{Minotaur}</strong>: 9' tall, wine- red fur. Charges at shadows, headbutts pillars, snorts and bellows. Two-headed, bronze <em>+1 greataxe</em> called <em>@UUID[Item.gtfx2i7YimBMi2bo]{Bloodlust}</em>; wielder deals x4 damage on a critical hit.</p></li><li><p><strong>Bull Statue.</strong> 30 humanoid skulls in various states of rot punched onto horns like necklace beads. Some have traces of gray fur.</p><ul><li><p><strong>Ritual Sacrifice</strong>. Punching a freshly beheaded humanoid skull onto a horn grants +1 point of Strength. <strong>Each additional time</strong>: cumulative 1:4 chance of transforming into a beastman.</p></li></ul></li><li><p><strong>Bones</strong>. Trampled and crushed. No skulls. Piles of dented armor and broken weapons, both steel and bronze.</p></li><li><p><strong>Treasure</strong>. Each round spent sifting reveals one of the following:</p></li></ul><ol><li><p>@UUID[Item.yv6v0HqiSsnAGOHC]{Scarred mithral shield} carved with prowling tiger (40 gp)</p></li><li><p>Bag of <strong>60 gp</strong> stamped with long-dead emperor</p></li><li><p><em>@UUID[Item.qQfrScSGMEBGHCFZ]{Scroll of Burning Hands}</em> in bronze tube adorned with jade dragons (80 gp)</p></li><li><p>@UUID[Item.0HvhZP8EOXqyT3p2]{Silvered longsword} with half-moon pommel (30 gp).</p></li></ol>",
 						"format": 1,
 						"markdown": ""
 					},
@@ -9663,7 +9691,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p>Creatures: 15 hunched, grey-furred humanoids chewing on centipedes and speaking in harsh whispers. One lounges on a mat of rat pelts, picking his teeth. <strong>Room</strong>: Grimy, cramped, scattered with rodent bones. <strong>Smell</strong>: Unwashed bodies, urine.</p><ul><li><p><strong>@UUID[Compendium.shadowdark.monsters.k8tAgECWIzPIStGU]{Beastmen}</strong>. Hostile toward noise-makers. Superstitious about the (non-existent) dragons that wait outside the citadel to eat them.</p><ul><li><p><strong>NPCs</strong>. <strong>@UUID[Actor.bERcM50HvKw0ZY6o]{Rogath}</strong> (hulking, lazy, feared leader). <strong>Minions</strong>: <strong>@UUID[Actor.CDxRc2pIwG7SK73E]{Grenton}</strong> (wiry, mistrustful), <strong>@UUID[Actor.L91uEF4duAo8T5Eq]{Hargol}</strong> (eyes point in different directions, agrees to everything), <strong>@UUID[Actor.4Ou1RViS2GnqvRh9]{Beetle}</strong> (scuttles, elaborate plan-maker).</p></li><li><p><strong>Alliance</strong>. Rogath wants Scarlet Minotaur dead so he can be king of the citadel. Cheerfully sends his hated brother, <strong>@UUID[Actor.XbO8sDu1ToDVVoh9]{Brell}</strong> (Area 19), and his non-minions into danger to help this effort.</p></li></ul></li><li><p><strong>Secret Doors</strong>. All visible from this side. A beastman guards each.</p></li></ul>",
+						"content": "<p>Creatures: 15 hunched, gray-furred humanoids chewing on centipedes and speaking in harsh whispers. One lounges on a mat of rat pelts, picking his teeth. <strong>Room</strong>: Grimy, cramped, scattered with rodent bones. <strong>Smell</strong>: Unwashed bodies, urine.</p><ul><li><p><strong>@UUID[Compendium.shadowdark.monsters.k8tAgECWIzPIStGU]{Beastmen}</strong>. Hostile toward noise-makers. Superstitious about the (non-existent) dragons that wait outside the citadel to eat them.</p><ul><li><p><strong>NPCs</strong>. <strong>@UUID[Actor.bERcM50HvKw0ZY6o]{Rogath}</strong> (hulking, lazy, feared leader). <strong>Minions</strong>: <strong>@UUID[Actor.CDxRc2pIwG7SK73E]{Grenton}</strong> (wiry, mistrustful), <strong>@UUID[Actor.L91uEF4duAo8T5Eq]{Hargol}</strong> (eyes point in different directions, agrees to everything), <strong>@UUID[Actor.4Ou1RViS2GnqvRh9]{Beetle}</strong> (scuttles, elaborate plan-maker).</p></li><li><p><strong>Alliance</strong>. Rogath wants Scarlet Minotaur dead so he can be king of the citadel. Cheerfully sends his hated brother, <strong>@UUID[Actor.XbO8sDu1ToDVVoh9]{Brell}</strong> (Area 19), and his non-minions into danger to help this effort.</p></li></ul></li><li><p><strong>Secret Doors</strong>. All visible from this side. A beastman guards each.</p></li></ul>",
 						"format": 1,
 						"markdown": ""
 					},
@@ -9741,7 +9769,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p><strong>Armor Stands</strong>: Five suits of red-dyed leather reinforced with bronze studs. <strong>Weapon Rack</strong>: Bronze weapons covered in a rime of dust. <strong>Walls</strong>: Countless chips and nicks.</p><ul><li><p><strong>Armor</strong>. Touching armor or taking a weapon off rack causes three suits to spring to life (@UUID[Compendium.shadowdark.monsters.qSeHWgP59WltutCz]{animated armor}) and attack for [[/r 1d4]] rounds.</p></li><li><p><strong>Weapon Rack</strong>. Five @UUID[Compendium.shadowdark.gear.KQTWQwznjK80gVEU]{shortswords}, @UUID[Compendium.shadowdark.gear.ZPUhNMmwXXrtbCXi]{longswords}, @UUID[Compendium.shadowdark.gear.UWp4WkkiaBMSXYPE]{shields}, and @UUID[Compendium.shadowdark.gear.brIFMH0sOVmqX02N]{spears}.</p></li></ul>",
+						"content": "<p><strong>Armor Stands</strong>: Five suits of red-dyed leather reinforced with bronze studs. <strong>Weapon Rack</strong>: Bronze weapons covered in a rime of dust. <strong>Walls</strong>: Countless chips and nicks.</p><ul><li><p><strong>Armor</strong>. Touching armor or taking a weapon off rack causes three suits to spring to life (@UUID[Compendium.shadowdark.monsters.qSeHWgP59WltutCz]{animated armor}) and attack for [[/r 1d4]] rounds.</p></li><li><p><strong>Weapon Rack</strong>. Five @UUID[Compendium.shadowdark.gear.KQTWQwznjK80gVEU]{short swords}, @UUID[Compendium.shadowdark.gear.ZPUhNMmwXXrtbCXi]{longswords}, @UUID[Compendium.shadowdark.gear.UWp4WkkiaBMSXYPE]{shields}, and @UUID[Compendium.shadowdark.gear.brIFMH0sOVmqX02N]{spears}.</p></li></ul>",
 						"format": 1,
 						"markdown": ""
 					},
@@ -9858,7 +9886,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<h2>Room Key</h2><p>The keyworded <strong>descriptions</strong> at the start of each location are safe to share with the players. The <strong>bulleted details</strong> beneath are for the GM.</p><h2>Background</h2><p>Long ago, a mighty enclave of warriors lived inside the Lost Citadel. They worshipped bulls in ever-bloodier, cultish rituals that culminated in their leader, Minoros, transforming into the <strong>Scarlet Minotaur</strong>. This immortal avatar of rage slaughtered the warriors in a single night of mayhem. However, some of their servants escaped through the unseen halls used by the lowly. These <strong>beastmen</strong> hid in the fallen citadel, trapped by superstitious fear of the outside.</p><h2>Factions</h2><p><strong>Beastmen</strong>. These grey-furred, feral beings have evaded the Scarlet Minotaur for generations. They dwell in Area 23, believing dragons wait outside to devour anyone who leaves the citadel. Endless fear has made them vicious and craven. Their leader, Rogath, rules by the might of his claws.</p><p><strong>Ettercaps</strong>. Recently, a group of ettercaps crept into Area 4 from the caves below the citadel. They slink through the minotaur-haunted halls, tempted by forgotten gems and gold. They plan to depart \"as soon as we have enough loot,\" a moment which never seems to arrive. They are leaderless and unanimously greedy.</p><p><strong>The Scarlet Minotaur</strong>. Towering, blood-red, snorting and frothing. It plows through the labyrinthine halls of the Lost Citadel looking for creatures to slay. The minotaur returns to Area 18 between patrols.</p><p>@UUID[RollTable.iFdrtN3kJk5yth9S]{The Lost Citadel: Rumors}</p><table style=\"width:100%\"><caption>Rumors</caption><tbody><tr style=\"font-weight:normal\"><td style=\"font-weight:bold;text-align:center\"><p><strong>1</strong></p></td><td><p>Ancient kings who dwelt in the citadel possessed magical weapons that were feared far and wide.</p></td></tr><tr><td style=\"font-weight:bold;text-align:center\"><p><strong>2</strong></p></td><td><p>A savage minotaur drenched in blood stalks the citadel's halls.</p></td></tr><tr><td style=\"font-weight:bold;text-align:center\"><p><strong>3</strong></p></td><td><p>Piles of gems and gold lie about as if totally forgotten.</p></td></tr><tr><td style=\"font-weight:bold;text-align:center\"><p><strong>4</strong></p></td><td><p>Beware when touching the body of a dead citadel dweller.</p></td></tr><tr><td style=\"font-weight:bold;text-align:center\"><p><strong>5</strong></p></td><td><p>Opportunistic, grey-furred beastmen haunt the shadows.</p></td></tr><tr><td style=\"font-weight:bold;text-align:center\"><p><strong>6</strong></p></td><td><p>The citadel is rife with secret rooms and passageways.</p></td></tr></tbody></table><h2>The Lost Citadel Environs &amp; Entrances</h2><p><strong>The Citadel</strong>. Cicadas buzz in the arid scrubland around the citadel. Thick, sandy blocks and coral-red columns hold up its tiered rooftops (30'-40' high, flat). The enclosed interior is a cool, dark maze of vaulted chambers and halls that funnel into a central courtyard.</p><ul><li><p><strong>Southeast Doors.</strong> To Area 1. Carved with bucking bulls, mid-leap.</p></li><li><p><strong>Northeast Hall.</strong> Shattered door lies before stairwell to Area 10.</p></li><li><p><strong>Southwest Hall.</strong> Open tunnel, leads into the labyrinth, Area 22.</p></li><li><p><strong>Courtyard.</strong> Area 18, open-air. Rooftop climbers can reach it.</p></li></ul><h2>Order of Battle</h2><p><strong>Beastmen</strong>. Retreat toward Area 14 or Area 23, avoiding Area 18. Know location of all secret doors. Lead enemies into bull statue traps. Will not leave hiding to help others. Terrified of making noise.</p><p><strong>Ettercaps</strong>. Creep along the ceiling, avoiding bull statues. Unaware of secret doors. Retreat toward Area 4 and gang up to assist allies. Distracted by treasure. Reluctant to enter Area 18.</p><p><strong>The Scarlet Minotaur</strong>. Pursues its quarry and never retreats. Unaware of secret doors. Forgets about unseen foes in 1d6 rounds. Returns to Area 18 at least once an hour.</p>",
+						"content": "<h2>Room Key</h2><p>The keyworded <strong>descriptions</strong> at the start of each location are safe to share with the players. The <strong>bulleted details</strong> beneath are for the GM.</p><h2>Background</h2><p>Long ago, a mighty enclave of warriors lived inside the Lost Citadel. They worshipped bulls in ever-bloodier, cultish rituals that culminated in their leader, Minoros, transforming into the <strong>Scarlet Minotaur</strong>. This immortal avatar of rage slaughtered the warriors in a single night of mayhem. However, some of their servants escaped through the unseen halls used by the lowly. These <strong>beastmen</strong> hid in the fallen citadel, trapped by superstitious fear of the outside.</p><h2>Factions</h2><p><strong>Beastmen</strong>. These gray-furred, feral beings have evaded the Scarlet Minotaur for generations. They dwell in Area 23, believing dragons wait outside to devour anyone who leaves the citadel. Endless fear has made them vicious and craven. Their leader, Rogath, rules by the might of his claws.</p><p><strong>Ettercaps</strong>. Recently, a group of ettercaps crept into Area 4 from the caves below the citadel. They slink through the minotaur-haunted halls, tempted by forgotten gems and gold. They plan to depart \"as soon as we have enough loot,\" a moment which never seems to arrive. They are leaderless and unanimously greedy.</p><p><strong>The Scarlet Minotaur</strong>. Towering, blood-red, snorting and frothing. It plows through the labyrinthine halls of the Lost Citadel looking for creatures to slay. The minotaur returns to Area 18 between patrols.</p><p>@UUID[RollTable.iFdrtN3kJk5yth9S]{The Lost Citadel: Rumors}</p><table style=\"width:100%\"><caption>Rumors</caption><tbody><tr style=\"font-weight:normal\"><td style=\"font-weight:bold;text-align:center\"><p><strong>1</strong></p></td><td><p>Ancient kings who dwelt in the citadel possessed magical weapons that were feared far and wide.</p></td></tr><tr><td style=\"font-weight:bold;text-align:center\"><p><strong>2</strong></p></td><td><p>A savage minotaur drenched in blood stalks the citadel's halls.</p></td></tr><tr><td style=\"font-weight:bold;text-align:center\"><p><strong>3</strong></p></td><td><p>Piles of gems and gold lie about as if totally forgotten.</p></td></tr><tr><td style=\"font-weight:bold;text-align:center\"><p><strong>4</strong></p></td><td><p>Beware when touching the body of a dead citadel dweller.</p></td></tr><tr><td style=\"font-weight:bold;text-align:center\"><p><strong>5</strong></p></td><td><p>Opportunistic, gray-furred beastmen haunt the shadows.</p></td></tr><tr><td style=\"font-weight:bold;text-align:center\"><p><strong>6</strong></p></td><td><p>The citadel is rife with secret rooms and passageways.</p></td></tr></tbody></table><h2>The Lost Citadel Environs &amp; Entrances</h2><p><strong>The Citadel</strong>. Cicadas buzz in the arid scrubland around the citadel. Thick, sandy blocks and coral-red columns hold up its tiered rooftops (30'-40' high, flat). The enclosed interior is a cool, dark maze of vaulted chambers and halls that funnel into a central courtyard.</p><ul><li><p><strong>Southeast Doors.</strong> To Area 1. Carved with bucking bulls, mid-leap.</p></li><li><p><strong>Northeast Hall.</strong> Shattered door lies before stairwell to Area 10.</p></li><li><p><strong>Southwest Hall.</strong> Open tunnel, leads into the labyrinth, Area 22.</p></li><li><p><strong>Courtyard.</strong> Area 18, open-air. Rooftop climbers can reach it.</p></li></ul><h2>Order of Battle</h2><p><strong>Beastmen</strong>. Retreat toward Area 14 or Area 23, avoiding Area 18. Know location of all secret doors. Lead enemies into bull statue traps. Will not leave hiding to help others. Terrified of making noise.</p><p><strong>Ettercaps</strong>. Creep along the ceiling, avoiding bull statues. Unaware of secret doors. Retreat toward Area 4 and gang up to assist allies. Distracted by treasure. Reluctant to enter Area 18.</p><p><strong>The Scarlet Minotaur</strong>. Pursues its quarry and never retreats. Unaware of secret doors. Forgets about unseen foes in 1d6 rounds. Returns to Area 18 at least once an hour.</p>",
 						"format": 1
 					},
 					"title": {

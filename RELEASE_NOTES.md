@@ -37,6 +37,10 @@
 - Checked the magic items against the core rules text and corrected where they differed
 - Checked the monsters against the core rules text and corrected where they differed
 - Added the Scarlet Minotaur to the monsters compendium, the one monster from The Lost Citadel of the Scarlet Minotaur that was not already there
+- Brought The Lost Citadel of the Scarlet Minotaur into line with the V1-1 printing and with the system's own content
+	* The d8 table on the Areas page was captioned Rumors; it is the Random Encounters table
+	* Areas 7 and 10 pointed at the same emerald, so the gem in Area 10 could not be looted separately
+	* The monsters and magic items the adventure shares with the compendiums now carry the same text and stats, including the Scarlet Minotaur, whose stat block described an ordinary minotaur
 - Removed 134 leftover monster attacks and features that no monster used
 	* The Brachiosaurus is level 12 again rather than level 1
 	* The Gibbering Mouther, Bone Naga and Obe-ixx regain the movement they were missing, and Animated Armor its Statue ability
