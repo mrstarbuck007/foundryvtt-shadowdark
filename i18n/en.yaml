@@ -53,6 +53,7 @@ SHADOWDARK.apps.character-generator.create_character: Create Character
 SHADOWDARK.apps.character-generator.error.ancestry_talent: An Ancestry talent must be chosen
 SHADOWDARK.apps.character-generator.error.class_talent: A Class talent must be chosen
 SHADOWDARK.apps.character-generator.error.create: Failed to create player character {error}
+SHADOWDARK.apps.character-generator.error.languages: All language choices must be made
 SHADOWDARK.apps.character-generator.error.name: Character name cannot be blank
 SHADOWDARK.apps.character-generator.error.no_ancestry_for_name: Unable to roll a random name without a selected Ancestry
 SHADOWDARK.apps.character-generator.error.patron: A Patron must be chosen

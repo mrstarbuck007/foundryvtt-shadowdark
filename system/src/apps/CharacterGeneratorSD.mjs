@@ -711,7 +711,7 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		this.formData.classDesc = classObj?.system?.description
 			? await this._formatDescription(classObj.system.description)
 			: "";
-		await this._loadLanguages();
+		await this._loadLanguages(randomize);
 
 		// load patron data
 		this.patron = null;
@@ -733,7 +733,7 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 	}
 
 
-	async _loadLanguages() {
+	async _loadLanguages(randomize) {
 		let langData = {
 			fixed: [],
 			togglable: false,
@@ -787,22 +787,16 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		this.formData.langData = langData;
 		this._updateLangData();
 
-		// randomly select languages and if there are options to edit
-		if (this.formData.langData.class.select > 0) {
+		// Flag the choices so they can be edited, and only fill them in when the
+		// character is being rolled up, so the player picks their own otherwise
+		for (const key of ["class", "ancestry", "common", "rare"]) {
+			if (this.formData.langData[key].select < 1) continue;
+
 			this.formData.langData.togglable = true;
-			this._setRandomLanguage("class", this.formData.langData.class.select);
-		}
-		if (this.formData.langData.ancestry.select > 0) {
-			this.formData.langData.togglable = true;
-			this._setRandomLanguage("ancestry", this.formData.langData.ancestry.select);
-		}
-		if (this.formData.langData.common.select > 0) {
-			this.formData.langData.togglable = true;
-			this._setRandomLanguage("common", this.formData.langData.common.select);
-		}
-		if (this.formData.langData.rare.select > 0) {
-			this.formData.langData.togglable = true;
-			this._setRandomLanguage("rare", this.formData.langData.rare.select);
+
+			if (randomize) {
+				this._setRandomLanguage(key, this.formData.langData[key].select);
+			}
 		}
 	}
 
@@ -1252,6 +1246,16 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 			&& this.formData.classTalents.selection.length < 1
 		) {
 			errors.push("SHADOWDARK.apps.character-generator.error.class_talent");
+		}
+
+		const langData = this.formData.langData ?? {};
+		const languagesMissing = ["ancestry", "class", "common", "rare"].some(
+			key => langData[key]?.select > 0
+				&& langData[key].selected.length < langData[key].select
+		);
+
+		if (languagesMissing) {
+			errors.push("SHADOWDARK.apps.character-generator.error.languages");
 		}
 
 		for (const error of errors) {
