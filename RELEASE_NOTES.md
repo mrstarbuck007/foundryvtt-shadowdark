@@ -28,6 +28,7 @@
 	* Adds 96 new backgrounds across eight locations: Desert, Swamp, Island and Ocean, Grassland, Mountain, Forest, Jungle and Civilization
 	* Rolling on Background: Western Reaches picks the location and the background in one go
 	* Where a name is shared with an existing background, each table keeps its own document with the wording that table prints
+	* The character generator rolls on this table instead of picking evenly from every background it can see, falling back to the old behaviour if the table offers a background from a source that has been switched off
 - Replaced the Bard with the Western Reaches version of the class
 	* Fascinate now scales with your level and Inspire grants luck tokens each day, and the class talent table matches the book
 	* The Prolific and Presence talents are gone, as the new version does not use them

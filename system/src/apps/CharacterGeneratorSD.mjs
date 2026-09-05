@@ -1,5 +1,7 @@
 export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplication {
 
+	BACKGROUND_TABLE_UUID = "Compendium.shadowdark.rollable-tables.RollTable.LfqRCvn3ezxIsfDG";
+
 	LEVEL_ZERO_GEAR_TABLE_UUID = "Compendium.shadowdark.rollable-tables.RollTable.WKVfMaGkoXe3DGub";
 
 	/**
@@ -796,7 +798,31 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 	}
 
 
-	_randomizeBackground() {
+	async _randomizeBackground() {
+		// The background table rolls for the sort of place the character comes
+		// from and then draws from that location's own table, so a recursive
+		// draw resolves both steps and returns the background itself
+		const table = await fromUuid(this.BACKGROUND_TABLE_UUID);
+
+		if (table) {
+			try {
+				const draw = await table.draw({displayChat: false});
+				const uuid = draw.results[0]?.documentUuid;
+
+				// The table can offer a background from a source the user has
+				// switched off, in which case fall back to an unweighted pick
+				const available = [...this.formData.backgrounds].some(b => b.uuid === uuid);
+
+				if (available) {
+					this.formData.actor.system.background = uuid;
+					return;
+				}
+			}
+			catch(error) {
+				shadowdark.error(error);
+			}
+		}
+
 		let tempInt = this._getRandom(this.formData.backgrounds.size);
 		this.formData.actor.system.background = [...this.formData.backgrounds][tempInt].uuid;
 	}
@@ -849,7 +875,7 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 
 		if (randomizationTasks["randomize-alignment"]) await this._randomizeAlignment();
 		if (randomizationTasks["randomize-ancestry"]) await this._randomizeAncestry();
-		if (randomizationTasks["randomize-background"]) this._randomizeBackground();
+		if (randomizationTasks["randomize-background"]) await this._randomizeBackground();
 		if (randomizationTasks["randomize-class"]) await this._randomizeClass();
 		if (randomizationTasks["randomize-deity"]) this._randomizeDeity();
 		if (randomizationTasks["randomize-gear"]) await this._randomizeGear();
