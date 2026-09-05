@@ -35,6 +35,9 @@
 - Corrected a stray comma in the Seer's Wolfshape
 - Corrected the wizard mishap tables against the core rules text
 - Checked the magic items against the core rules text and corrected where they differed
+- Checked the monsters against the core rules text and corrected where they differed
+	* The Brachiosaurus is level 12 again rather than level 1
+	* The Gibbering Mouther, Bone Naga and Obe-ixx regain the movement they were missing, and Animated Armor its Statue ability
 - Filled in the magic items from The Lost Citadel of the Scarlet Minotaur
 	* Adds the Blood Bowl, which was missing, and gives Asterion, Bloodlust and Vigilant their full descriptions; Bloodlust had none at all
 	* The Wand of Blind/Deafen and the two scrolls now carry the book's text instead of a bare spell link, and the wand is a Basic item like the other wands
