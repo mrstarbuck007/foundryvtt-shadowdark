@@ -22,7 +22,7 @@
 		"lost": false,
 		"properties": [
 		],
-		"range": "touch",
+		"range": "close",
 		"source": {
 			"title": "core-rules"
 		},

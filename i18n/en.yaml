@@ -682,8 +682,6 @@ SHADOWDARK.range.samePlane_short: SP
 SHADOWDARK.range.samePlane: On the same plane
 SHADOWDARK.range.self_short: S
 SHADOWDARK.range.self: Self
-SHADOWDARK.range.touch_short: T
-SHADOWDARK.range.touch: Touch
 SHADOWDARK.range.unlimited_short: U
 SHADOWDARK.range.unlimited: Unlimited
 SHADOWDARK.roll.advantage_title: "{title} with Advantage"

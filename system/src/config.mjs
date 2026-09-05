@@ -532,7 +532,6 @@ SHADOWDARK.DURATION_UNITS = {
 
 SHADOWDARK.SPELL_RANGES = {
 	self: "SHADOWDARK.range.self",
-	touch: "SHADOWDARK.range.touch",
 	close: "SHADOWDARK.range.close",
 	near: "SHADOWDARK.range.near",
 	doubleNear: "SHADOWDARK.range.double_near",

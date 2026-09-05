@@ -30,6 +30,9 @@
 	* Where a name is shared with an existing background, each table keeps its own document with the wording that table prints
 	* The character generator rolls on this table instead of picking evenly from every background it can see, falling back to the old behaviour if the table offers a background from a source that has been switched off
 	* The generator's background list is now grouped by location, and the Core, Nord and Diabolical backgrounds the new table supersedes are no longer offered, though a character that already has one keeps it
+- Spells that were set to a Touch range now use Close, which is what the books print, and Touch has been retired as a spell range
+	* Affects 18 spells across the Seer, Witch and Wizard lists; a migration converts any world or module spell still set to Touch
+- Corrected a stray comma in the Seer's Wolfshape
 - Added the d100 Secrets table from Shadowdark RPG: The Western Reaches
 	* The character generator can roll one, and records it on the new character's Notes tab where it can be reworded or removed
 	* Rolling a fully random character rolls a secret too
