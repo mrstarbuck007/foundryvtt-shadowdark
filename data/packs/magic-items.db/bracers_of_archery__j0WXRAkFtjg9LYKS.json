@@ -17,7 +17,6 @@
 		},
 		"baseArmor": "",
 		"bonuses": {
-			"rangedDamageBonus": "1"
 		},
 		"broken": false,
 		"canBeEquipped": true,

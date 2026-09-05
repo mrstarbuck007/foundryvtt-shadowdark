@@ -19,7 +19,6 @@
 		},
 		"baseArmor": "plate-mail",
 		"bonuses": {
-			"meleeAttackBonus": "1"
 		},
 		"broken": false,
 		"canBeEquipped": true,

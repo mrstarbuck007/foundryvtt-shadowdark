@@ -15,7 +15,6 @@
 		"ammoClass": "",
 		"baseWeapon": "bastard-sword",
 		"bonuses": {
-			"attackBonus": "1",
 			"critical": {
 				"failureThreshold": 1,
 				"multiplier": 2,

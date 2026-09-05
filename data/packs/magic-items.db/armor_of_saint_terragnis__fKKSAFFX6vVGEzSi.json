@@ -16,7 +16,6 @@
 		},
 		"baseArmor": "plate-mail",
 		"bonuses": {
-			"acBonus": "3"
 		},
 		"broken": false,
 		"canBeEquipped": true,
