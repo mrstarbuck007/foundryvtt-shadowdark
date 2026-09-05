@@ -183,6 +183,11 @@ export default class ItemSheetSD extends foundry.appv1.sheets.ItemSheet {
 				classTalentTable.name.replace(/^Class\s+Talents:\s/, "");
 		}
 
+		context.deities = {};
+		for (const deity of await shadowdark.compendiums.deities()) {
+			context.deities[deity.uuid] = deity.name;
+		}
+
 		const [fixedLanguages, availableFixedLanguages] =
 		await shadowdark.utils.getDedupedSelectedItems(
 			await shadowdark.compendiums.languages(),

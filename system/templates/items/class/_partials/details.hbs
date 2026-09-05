@@ -63,6 +63,18 @@
 </div>
 
 <div>
+	<h3>{{localize "SHADOWDARK.sheet.player.deity.label"}}</h3>
+	<select name="system.deity">
+		<option value="">&mdash;</option>
+		{{selectOptions
+			deities
+			selected=system.deity
+			localize=false
+		}}
+	</select>
+</div>
+
+<div>
 	<h3>
 		{{localize 'SHADOWDARK.sheet.actor.alignment'}}
 	</h3>

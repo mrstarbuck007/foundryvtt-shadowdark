@@ -24,6 +24,7 @@
 		],
 		"classTalentTable": "Compendium.shadowdark.rollable-tables.RollTable.I5lliD0EO0f480u0",
 		"description": "<p>Green-clad knights of the deep wood with armor of antler and bone. Protectors of Gede's realm from the unnatural, the demonic, and the destructive.</p>",
+		"deity": "Compendium.shadowdark.patrons-and-deities.Item.FhDBOHUircue27aV",
 		"hitPoints": "1d6",
 		"languages": {
 			"common": 0,

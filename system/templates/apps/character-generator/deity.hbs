@@ -9,11 +9,13 @@
 		</label>
 		<span>
 			{{#unless editing}}
-				<a
-					class="fas fa-dice"
-					data-action='cg-click'
-					name="randomize-deity"
-				></a>
+				{{#unless deityFixed}}
+					<a
+						class="fas fa-dice"
+						data-action='cg-click'
+						name="randomize-deity"
+					></a>
+				{{/unless}}
 			{{/unless}}
 		</span>
 	</div>
@@ -22,7 +24,7 @@
 		<select
 			name="actor.system.deity"
 			title="{{tooltips.deity}}"
-			{{disabled editing}}
+			{{disabled (or editing deityFixed)}}
 		>
 			<option value=""></option>
 			{{#each deities as |value key|}}

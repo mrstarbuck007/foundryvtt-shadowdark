@@ -304,6 +304,9 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		// selected one tracks the form
 		this.formData.backgroundGroups = this._groupBackgrounds();
 
+		// A class may serve a single deity, leaving the character no say in it
+		this.formData.deityFixed = !!this.class?.system?.deity;
+
 		// Describe each picker's current selection, so hovering a closed picker
 		// says the same thing its option does in the open menu
 		this.formData.tooltips = {
@@ -759,6 +762,12 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		if (this.class?.system?.alignment) {
 			this.formData.actor.system.alignment = this.class.system.alignment;
 		}
+
+		// A class that serves a single deity, such as the Green Knight, settles
+		// the choice for the character
+		if (this.class?.system?.deity) {
+			this.formData.actor.system.deity = this.class.system.deity;
+		}
 	}
 
 
@@ -918,6 +927,8 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 
 
 	_randomizeDeity() {
+		if (this.class?.system?.deity) return;
+
 		let tempInt = this._getRandom(this.formData.deities.size);
 		this.formData.actor.system.deity = [...this.formData.deities][tempInt].uuid;
 	}
