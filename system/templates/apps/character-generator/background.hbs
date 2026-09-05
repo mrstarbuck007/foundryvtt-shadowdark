@@ -24,16 +24,30 @@
 			{{disabled editing}}
 		>
 			<option value=""></option>
-			{{#each backgrounds as |value key|}}
-				<option
-					title="{{remove-p-tag value.system.description}}"
-					value="{{value.uuid}}"
-					{{#ifEq ../actor.system.background value.uuid}}
-						selected
-					{{/ifEq}}
-				>
-					{{value.name}}
-				</option>
+			{{#each backgroundGroups as |group|}}
+				{{#if group.name}}
+					<optgroup label="{{group.name}}">
+						{{#each group.backgrounds as |value|}}
+							<option
+								title="{{value.description}}"
+								value="{{value.uuid}}"
+								{{#if value.selected}}selected{{/if}}
+							>
+								{{value.name}}
+							</option>
+						{{/each}}
+					</optgroup>
+				{{else}}
+					{{#each group.backgrounds as |value|}}
+						<option
+							title="{{value.description}}"
+							value="{{value.uuid}}"
+							{{#if value.selected}}selected{{/if}}
+						>
+							{{value.name}}
+						</option>
+					{{/each}}
+				{{/if}}
 			{{/each}}
 		</select>
 	</div>

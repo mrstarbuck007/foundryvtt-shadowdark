@@ -2,6 +2,11 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 
 	BACKGROUND_TABLE_UUID = "Compendium.shadowdark.rollable-tables.RollTable.LfqRCvn3ezxIsfDG";
 
+	// Background folders the picker leaves out, superseded by the Western
+	// Reaches location tables. The documents stay in the pack, so the core
+	// Background table still resolves and existing characters keep theirs.
+	HIDDEN_BACKGROUND_FOLDERS = ["Core", "Diabolical", "Nord"];
+
 	LEVEL_ZERO_GEAR_TABLE_UUID = "Compendium.shadowdark.rollable-tables.RollTable.WKVfMaGkoXe3DGub";
 
 	/**
@@ -291,6 +296,10 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 			loadingDialog.close({force: true});
 		}
 
+		// Group the backgrounds for the picker; done on every render so the
+		// selected one tracks the form
+		this.formData.backgroundGroups = this._groupBackgrounds();
+
 		// format talents
 		return this.formData;
 	}
@@ -496,6 +505,42 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		}
 
 		return randomizationTasks;
+	}
+
+
+	/**
+	 * Groups the available backgrounds by the compendium folder holding them, so
+	 * the picker can tell apart the many that share a name across location
+	 * tables. Folders in HIDDEN_BACKGROUND_FOLDERS are left out, and backgrounds
+	 * in no folder are listed first, ungrouped.
+	 * @returns {{name: string, backgrounds: object[]}[]}
+	 */
+	_groupBackgrounds() {
+		const groups = new Map();
+
+		for (const background of this.formData.backgrounds) {
+			const {collection} = foundry.utils.parseUuid(background.uuid);
+			const folderName = collection?.folders?.get(background.folder)?.name ?? "";
+
+			const selected = background.uuid === this.formData.actor.system.background;
+
+			// A hidden folder still shows the background a character already
+			// has, so editing one cannot silently drop it
+			if (!selected && this.HIDDEN_BACKGROUND_FOLDERS.includes(folderName)) continue;
+
+			if (!groups.has(folderName)) groups.set(folderName, []);
+
+			groups.get(folderName).push({
+				description: this._removeParagraphs(background.system?.description ?? ""),
+				name: background.name,
+				selected,
+				uuid: background.uuid,
+			});
+		}
+
+		return [...groups.entries()]
+			.sort(([a], [b]) => a === "" ? -1 : b === "" ? 1 : a.localeCompare(b))
+			.map(([name, backgrounds]) => ({backgrounds, name}));
 	}
 
 

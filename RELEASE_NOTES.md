@@ -29,6 +29,7 @@
 	* Rolling on Background: Western Reaches picks the location and the background in one go
 	* Where a name is shared with an existing background, each table keeps its own document with the wording that table prints
 	* The character generator rolls on this table instead of picking evenly from every background it can see, falling back to the old behaviour if the table offers a background from a source that has been switched off
+	* The generator's background list is now grouped by location, and the Core, Nord and Diabolical backgrounds the new table supersedes are no longer offered, though a character that already has one keeps it
 - Replaced the Bard with the Western Reaches version of the class
 	* Fascinate now scales with your level and Inspire grants luck tokens each day, and the class talent table matches the book
 	* The Prolific and Presence talents are gone, as the new version does not use them
