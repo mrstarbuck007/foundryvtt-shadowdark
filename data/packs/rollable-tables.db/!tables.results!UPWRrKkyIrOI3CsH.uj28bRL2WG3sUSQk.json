@@ -1,0 +1,16 @@
+{
+	"_id": "uj28bRL2WG3sUSQk",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.uj28bRL2WG3sUSQk",
+	"description": "You've lost everything to gambling more than once.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		37,
+		37
+	],
+	"type": "text",
+	"weight": 1
+}

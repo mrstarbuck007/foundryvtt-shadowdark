@@ -1,0 +1,16 @@
+{
+	"_id": "PkyP85m9XPFiCIsz",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.PkyP85m9XPFiCIsz",
+	"description": "You have a sentient, friendly parasite attached to your back.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		62,
+		62
+	],
+	"type": "text",
+	"weight": 1
+}

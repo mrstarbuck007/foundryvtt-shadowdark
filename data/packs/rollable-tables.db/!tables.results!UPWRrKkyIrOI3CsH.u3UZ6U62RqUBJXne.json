@@ -1,0 +1,16 @@
+{
+	"_id": "u3UZ6U62RqUBJXne",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.u3UZ6U62RqUBJXne",
+	"description": "Your family had to live under a false name for their safety.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		28,
+		28
+	],
+	"type": "text",
+	"weight": 1
+}

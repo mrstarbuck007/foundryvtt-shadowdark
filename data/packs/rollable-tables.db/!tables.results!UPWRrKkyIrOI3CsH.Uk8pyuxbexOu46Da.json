@@ -1,0 +1,16 @@
+{
+	"_id": "Uk8pyuxbexOu46Da",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.Uk8pyuxbexOu46Da",
+	"description": "You have a full second row of teeth that are a bit sharp.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		36,
+		36
+	],
+	"type": "text",
+	"weight": 1
+}

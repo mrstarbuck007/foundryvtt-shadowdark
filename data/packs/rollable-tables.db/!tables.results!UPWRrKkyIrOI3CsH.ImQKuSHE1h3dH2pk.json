@@ -1,0 +1,16 @@
+{
+	"_id": "ImQKuSHE1h3dH2pk",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.ImQKuSHE1h3dH2pk",
+	"description": "You ran away that day and never looked back. Clean slate.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		6,
+		6
+	],
+	"type": "text",
+	"weight": 1
+}

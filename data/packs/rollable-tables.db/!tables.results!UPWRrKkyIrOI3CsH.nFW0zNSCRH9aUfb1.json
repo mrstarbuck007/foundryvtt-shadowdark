@@ -1,0 +1,16 @@
+{
+	"_id": "nFW0zNSCRH9aUfb1",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.nFW0zNSCRH9aUfb1",
+	"description": "You owe a fey creature a debt, but you've avoided it so far.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		33,
+		33
+	],
+	"type": "text",
+	"weight": 1
+}

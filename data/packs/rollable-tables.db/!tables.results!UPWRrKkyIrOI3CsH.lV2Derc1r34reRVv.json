@@ -1,0 +1,16 @@
+{
+	"_id": "lV2Derc1r34reRVv",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.lV2Derc1r34reRVv",
+	"description": "You lost your family's fortune on a bad business deal.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		52,
+		52
+	],
+	"type": "text",
+	"weight": 1
+}

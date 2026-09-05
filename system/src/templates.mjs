@@ -79,6 +79,7 @@ export default function() {
 		"systems/shadowdark/templates/apps/character-generator/gold.hbs",
 		"systems/shadowdark/templates/apps/character-generator/hit-points.hbs",
 		"systems/shadowdark/templates/apps/character-generator/name.hbs",
+		"systems/shadowdark/templates/apps/character-generator/secret.hbs",
 		"systems/shadowdark/templates/apps/character-generator/stats.hbs",
 		"systems/shadowdark/templates/apps/character-generator/type.hbs",
 		"systems/shadowdark/templates/apps/level-up/hp.hbs",

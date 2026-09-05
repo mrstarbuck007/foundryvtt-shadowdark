@@ -1,0 +1,16 @@
+{
+	"_id": "4KuBGgeUHb8qb9By",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.4KuBGgeUHb8qb9By",
+	"description": "You kidnapped someone once but felt bad and let them go.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		99,
+		99
+	],
+	"type": "text",
+	"weight": 1
+}

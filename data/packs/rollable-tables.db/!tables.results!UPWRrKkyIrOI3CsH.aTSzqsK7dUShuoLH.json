@@ -1,0 +1,16 @@
+{
+	"_id": "aTSzqsK7dUShuoLH",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.aTSzqsK7dUShuoLH",
+	"description": "You apprenticed to an apothecary who died mysteriously.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		64,
+		64
+	],
+	"type": "text",
+	"weight": 1
+}

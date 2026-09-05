@@ -1,0 +1,16 @@
+{
+	"_id": "JOBZnCfZVdzcv5Qp",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.JOBZnCfZVdzcv5Qp",
+	"description": "You're obviously not who you claim to be.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		44,
+		44
+	],
+	"type": "text",
+	"weight": 1
+}

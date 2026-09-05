@@ -1,0 +1,16 @@
+{
+	"_id": "E57JCkuZuU0Ehz0p",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.E57JCkuZuU0Ehz0p",
+	"description": "You have an angelic singing voice but are shy to use it.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		59,
+		59
+	],
+	"type": "text",
+	"weight": 1
+}

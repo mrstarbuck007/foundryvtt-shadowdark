@@ -1,0 +1,16 @@
+{
+	"_id": "FxQqRAiW9DYODi46",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.FxQqRAiW9DYODi46",
+	"description": "You write scandalous books and stories under a pen name.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		40,
+		40
+	],
+	"type": "text",
+	"weight": 1
+}

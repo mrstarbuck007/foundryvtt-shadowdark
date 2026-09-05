@@ -1,0 +1,16 @@
+{
+	"_id": "JSpqcz9LqHrmW1bm",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.JSpqcz9LqHrmW1bm",
+	"description": "You've been finding acorns in your pockets your whole life.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		63,
+		63
+	],
+	"type": "text",
+	"weight": 1
+}

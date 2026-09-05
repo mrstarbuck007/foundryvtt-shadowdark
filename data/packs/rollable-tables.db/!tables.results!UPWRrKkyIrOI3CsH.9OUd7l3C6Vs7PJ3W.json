@@ -1,0 +1,16 @@
+{
+	"_id": "9OUd7l3C6Vs7PJ3W",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.9OUd7l3C6Vs7PJ3W",
+	"description": "A cloaked rider left you with a box. And you opened it.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		4,
+		4
+	],
+	"type": "text",
+	"weight": 1
+}

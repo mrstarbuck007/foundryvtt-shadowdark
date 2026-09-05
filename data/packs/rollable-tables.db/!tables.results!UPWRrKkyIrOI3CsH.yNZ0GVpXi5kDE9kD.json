@@ -1,0 +1,16 @@
+{
+	"_id": "yNZ0GVpXi5kDE9kD",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.yNZ0GVpXi5kDE9kD",
+	"description": "You deserted a losing army on the eve of a great battle.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		19,
+		19
+	],
+	"type": "text",
+	"weight": 1
+}

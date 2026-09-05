@@ -1,0 +1,16 @@
+{
+	"_id": "uhMzQzQy4iSd8b9F",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.uhMzQzQy4iSd8b9F",
+	"description": "You pretend to be a devotee of a god you do not worship.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		27,
+		27
+	],
+	"type": "text",
+	"weight": 1
+}

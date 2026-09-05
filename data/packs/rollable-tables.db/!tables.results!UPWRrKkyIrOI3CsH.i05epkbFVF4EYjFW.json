@@ -1,0 +1,16 @@
+{
+	"_id": "i05epkbFVF4EYjFW",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.i05epkbFVF4EYjFW",
+	"description": "You stole, lied, and killed for someone who betrayed you.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		56,
+		56
+	],
+	"type": "text",
+	"weight": 1
+}

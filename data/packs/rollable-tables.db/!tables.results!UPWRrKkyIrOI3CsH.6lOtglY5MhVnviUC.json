@@ -1,0 +1,16 @@
+{
+	"_id": "6lOtglY5MhVnviUC",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.6lOtglY5MhVnviUC",
+	"description": "You have two souls in your body. You are both, and neither.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		91,
+		91
+	],
+	"type": "text",
+	"weight": 1
+}

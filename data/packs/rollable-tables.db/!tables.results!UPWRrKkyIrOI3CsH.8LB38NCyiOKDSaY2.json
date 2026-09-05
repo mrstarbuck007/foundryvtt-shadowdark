@@ -1,0 +1,16 @@
+{
+	"_id": "8LB38NCyiOKDSaY2",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.8LB38NCyiOKDSaY2",
+	"description": "You have an overly acute sense of smell. Everything stinks.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		23,
+		23
+	],
+	"type": "text",
+	"weight": 1
+}

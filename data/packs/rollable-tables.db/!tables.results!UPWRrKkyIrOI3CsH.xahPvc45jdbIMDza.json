@@ -1,0 +1,16 @@
+{
+	"_id": "xahPvc45jdbIMDza",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.xahPvc45jdbIMDza",
+	"description": "You were addicted to Bloodroot, but you're mostly over it.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		72,
+		72
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "PZ8GQqxyaOVbt628",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.PZ8GQqxyaOVbt628",
+	"description": "You're looking for the person who killed your father.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		75,
+		75
+	],
+	"type": "text",
+	"weight": 1
+}

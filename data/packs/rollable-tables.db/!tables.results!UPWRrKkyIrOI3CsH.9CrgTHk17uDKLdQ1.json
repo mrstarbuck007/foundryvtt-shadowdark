@@ -1,0 +1,16 @@
+{
+	"_id": "9CrgTHk17uDKLdQ1",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.9CrgTHk17uDKLdQ1",
+	"description": "You can read and write a lost language from an ancient era.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		66,
+		66
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "PhtzNebFg9ZulK2A",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.PhtzNebFg9ZulK2A",
+	"description": "You miraculously recovered from a completely fatal disease.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		78,
+		78
+	],
+	"type": "text",
+	"weight": 1
+}

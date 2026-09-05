@@ -1,0 +1,16 @@
+{
+	"_id": "R1yFiLshF5YvnKZ9",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.R1yFiLshF5YvnKZ9",
+	"description": "You're a barely restrained pyromaniac.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		61,
+		61
+	],
+	"type": "text",
+	"weight": 1
+}

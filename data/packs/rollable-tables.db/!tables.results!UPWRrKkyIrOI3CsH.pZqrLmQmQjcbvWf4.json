@@ -1,0 +1,16 @@
+{
+	"_id": "pZqrLmQmQjcbvWf4",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.pZqrLmQmQjcbvWf4",
+	"description": "You have a birthmark that says something in Diabolic.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		18,
+		18
+	],
+	"type": "text",
+	"weight": 1
+}

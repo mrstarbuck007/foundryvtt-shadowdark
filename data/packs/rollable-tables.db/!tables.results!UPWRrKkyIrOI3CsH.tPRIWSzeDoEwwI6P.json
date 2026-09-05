@@ -1,0 +1,16 @@
+{
+	"_id": "tPRIWSzeDoEwwI6P",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.tPRIWSzeDoEwwI6P",
+	"description": "You cheated to win at a famous fishing competition.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		39,
+		39
+	],
+	"type": "text",
+	"weight": 1
+}

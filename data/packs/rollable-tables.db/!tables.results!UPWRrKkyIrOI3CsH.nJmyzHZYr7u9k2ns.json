@@ -1,0 +1,16 @@
+{
+	"_id": "nJmyzHZYr7u9k2ns",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.nJmyzHZYr7u9k2ns",
+	"description": "You regret stealing your childhood best friend's favorite toy.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		83,
+		83
+	],
+	"type": "text",
+	"weight": 1
+}

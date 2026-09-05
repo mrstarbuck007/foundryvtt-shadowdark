@@ -1,0 +1,16 @@
+{
+	"_id": "cVhn64EdtlaYf6Sv",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.cVhn64EdtlaYf6Sv",
+	"description": "A famous wizard took credit for all of your clever inventions.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		94,
+		94
+	],
+	"type": "text",
+	"weight": 1
+}

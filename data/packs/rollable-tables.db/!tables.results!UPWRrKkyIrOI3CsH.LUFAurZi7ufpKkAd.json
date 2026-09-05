@@ -1,0 +1,16 @@
+{
+	"_id": "LUFAurZi7ufpKkAd",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.LUFAurZi7ufpKkAd",
+	"description": "You have an actual allergic reaction to the Elvish language.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		84,
+		84
+	],
+	"type": "text",
+	"weight": 1
+}

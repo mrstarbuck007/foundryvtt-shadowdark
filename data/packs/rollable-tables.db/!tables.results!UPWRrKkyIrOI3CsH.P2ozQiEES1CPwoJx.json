@@ -1,0 +1,16 @@
+{
+	"_id": "P2ozQiEES1CPwoJx",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.P2ozQiEES1CPwoJx",
+	"description": "The Thieves' Guild framed you for poisoning a countess.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		53,
+		53
+	],
+	"type": "text",
+	"weight": 1
+}

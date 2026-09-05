@@ -1,0 +1,16 @@
+{
+	"_id": "BI7R7oNMaCM5Qc1K",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.BI7R7oNMaCM5Qc1K",
+	"description": "You died once, but somehow you have come back to life.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		10,
+		10
+	],
+	"type": "text",
+	"weight": 1
+}

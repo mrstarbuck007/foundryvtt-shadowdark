@@ -1,0 +1,16 @@
+{
+	"_id": "cgZgiAa2Arifk3kw",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.cgZgiAa2Arifk3kw",
+	"description": "You tell everyone you are married, but you are not.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		29,
+		29
+	],
+	"type": "text",
+	"weight": 1
+}

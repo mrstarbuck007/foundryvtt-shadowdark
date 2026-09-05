@@ -1,0 +1,16 @@
+{
+	"_id": "gyc2rtPEyoj0nBww",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.gyc2rtPEyoj0nBww",
+	"description": "You have a vestigial tail that you take great effort to hide.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		17,
+		17
+	],
+	"type": "text",
+	"weight": 1
+}

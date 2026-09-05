@@ -1,0 +1,16 @@
+{
+	"_id": "LjQZNcYk2XwgukI6",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.LjQZNcYk2XwgukI6",
+	"description": "You sometimes suck your thumb while you're sleeping.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		85,
+		85
+	],
+	"type": "text",
+	"weight": 1
+}

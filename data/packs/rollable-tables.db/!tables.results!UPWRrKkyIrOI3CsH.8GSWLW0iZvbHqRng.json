@@ -1,0 +1,16 @@
+{
+	"_id": "8GSWLW0iZvbHqRng",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.8GSWLW0iZvbHqRng",
+	"description": "You came here 12 years ago on a meteor. Nobody believes it.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		55,
+		55
+	],
+	"type": "text",
+	"weight": 1
+}

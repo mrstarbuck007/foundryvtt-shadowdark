@@ -1,0 +1,16 @@
+{
+	"_id": "WVoAHnT6YfZuSOdc",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.WVoAHnT6YfZuSOdc",
+	"description": "You didn't mean to kill him! It just... happened. Accidentally.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		1,
+		1
+	],
+	"type": "text",
+	"weight": 1
+}

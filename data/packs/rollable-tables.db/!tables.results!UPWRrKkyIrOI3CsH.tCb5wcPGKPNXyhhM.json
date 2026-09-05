@@ -1,0 +1,16 @@
+{
+	"_id": "tCb5wcPGKPNXyhhM",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.tCb5wcPGKPNXyhhM",
+	"description": "You're supposed to inherit an important job you don't want.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		96,
+		96
+	],
+	"type": "text",
+	"weight": 1
+}

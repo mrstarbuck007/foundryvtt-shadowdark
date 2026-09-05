@@ -1,0 +1,16 @@
+{
+	"_id": "mqL4PiTRtaZDGOc6",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.mqL4PiTRtaZDGOc6",
+	"description": "You have a natural talent for charming snakes.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		16,
+		16
+	],
+	"type": "text",
+	"weight": 1
+}

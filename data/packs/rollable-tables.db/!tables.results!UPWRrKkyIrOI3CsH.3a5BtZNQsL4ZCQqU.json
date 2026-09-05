@@ -1,0 +1,16 @@
+{
+	"_id": "3a5BtZNQsL4ZCQqU",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.3a5BtZNQsL4ZCQqU",
+	"description": "You sometimes have flashes of memories from past lives.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		26,
+		26
+	],
+	"type": "text",
+	"weight": 1
+}

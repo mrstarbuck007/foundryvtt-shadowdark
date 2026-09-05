@@ -1,0 +1,16 @@
+{
+	"_id": "r8Jqj37xNW4QeTe3",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.r8Jqj37xNW4QeTe3",
+	"description": "Once a year, the same ghost possesses you for a full night.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		73,
+		73
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "HrkoUh9aRp9Icaiz",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.HrkoUh9aRp9Icaiz",
+	"description": "You were an ill-behaved child until you met the Willowman.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		31,
+		31
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "AlVEcOK37g9ufPsi",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.AlVEcOK37g9ufPsi",
+	"description": "You carry around a yellow baby chick in your pocket.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		89,
+		89
+	],
+	"type": "text",
+	"weight": 1
+}

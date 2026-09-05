@@ -1,0 +1,16 @@
+{
+	"_id": "GkBel9AaYNQ96kIs",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.GkBel9AaYNQ96kIs",
+	"description": "You suspect you're actually the child of a local noble.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		35,
+		35
+	],
+	"type": "text",
+	"weight": 1
+}

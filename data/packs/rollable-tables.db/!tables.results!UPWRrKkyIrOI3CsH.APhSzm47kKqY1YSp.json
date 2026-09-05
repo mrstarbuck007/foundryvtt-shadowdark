@@ -1,0 +1,16 @@
+{
+	"_id": "APhSzm47kKqY1YSp",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.APhSzm47kKqY1YSp",
+	"description": "You must gain a noble title to marry your secret noble love!",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		97,
+		97
+	],
+	"type": "text",
+	"weight": 1
+}

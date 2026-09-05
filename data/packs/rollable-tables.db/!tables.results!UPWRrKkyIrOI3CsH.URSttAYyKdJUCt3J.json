@@ -1,0 +1,16 @@
+{
+	"_id": "URSttAYyKdJUCt3J",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.URSttAYyKdJUCt3J",
+	"description": "You helped your friend in a heist, but he took the fall for it.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		88,
+		88
+	],
+	"type": "text",
+	"weight": 1
+}

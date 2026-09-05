@@ -1,0 +1,16 @@
+{
+	"_id": "uGQMSTBstpyQjEgl",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.uGQMSTBstpyQjEgl",
+	"description": "Cultists hunt you, claiming you are their destined prophet.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		76,
+		76
+	],
+	"type": "text",
+	"weight": 1
+}

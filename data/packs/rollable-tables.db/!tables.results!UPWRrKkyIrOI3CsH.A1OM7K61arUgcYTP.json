@@ -1,0 +1,16 @@
+{
+	"_id": "A1OM7K61arUgcYTP",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.A1OM7K61arUgcYTP",
+	"description": "You've never met a bard you trusted. Charming liars, the lot.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		92,
+		92
+	],
+	"type": "text",
+	"weight": 1
+}

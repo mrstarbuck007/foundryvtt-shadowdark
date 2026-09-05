@@ -1,0 +1,16 @@
+{
+	"_id": "BQTD8GuF6wrDBKSi",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.BQTD8GuF6wrDBKSi",
+	"description": "You defeated a famous knight by a total freak accident.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		98,
+		98
+	],
+	"type": "text",
+	"weight": 1
+}

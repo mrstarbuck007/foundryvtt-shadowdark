@@ -1,0 +1,16 @@
+{
+	"_id": "Hnf73GV9LN30KZUA",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.Hnf73GV9LN30KZUA",
+	"description": "A miscast spell permanently burned off all your facial hair.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		90,
+		90
+	],
+	"type": "text",
+	"weight": 1
+}

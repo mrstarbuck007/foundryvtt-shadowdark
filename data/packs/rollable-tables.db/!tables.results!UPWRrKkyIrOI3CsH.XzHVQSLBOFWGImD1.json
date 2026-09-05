@@ -1,0 +1,16 @@
+{
+	"_id": "XzHVQSLBOFWGImD1",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.XzHVQSLBOFWGImD1",
+	"description": "Your blood is a strange and disturbingly garish color.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		69,
+		69
+	],
+	"type": "text",
+	"weight": 1
+}

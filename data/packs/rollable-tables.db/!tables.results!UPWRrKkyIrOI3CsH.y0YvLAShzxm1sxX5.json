@@ -1,0 +1,16 @@
+{
+	"_id": "y0YvLAShzxm1sxX5",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.y0YvLAShzxm1sxX5",
+	"description": "You feel a strong urge to let domesticated animals escape.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		71,
+		71
+	],
+	"type": "text",
+	"weight": 1
+}

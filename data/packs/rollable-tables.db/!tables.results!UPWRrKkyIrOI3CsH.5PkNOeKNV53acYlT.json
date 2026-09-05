@@ -1,0 +1,16 @@
+{
+	"_id": "5PkNOeKNV53acYlT",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.5PkNOeKNV53acYlT",
+	"description": "Your sibling is a werewolf. You desperately seek a cure.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		41,
+		41
+	],
+	"type": "text",
+	"weight": 1
+}

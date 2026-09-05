@@ -1,0 +1,16 @@
+{
+	"_id": "E4nVXdbcULWOl5jx",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.E4nVXdbcULWOl5jx",
+	"description": "You sneeze so loudly and suddenly that you startle people.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		57,
+		57
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -9,6 +9,8 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 
 	LEVEL_ZERO_GEAR_TABLE_UUID = "Compendium.shadowdark.rollable-tables.RollTable.WKVfMaGkoXe3DGub";
 
+	SECRETS_TABLE_UUID = "Compendium.shadowdark.rollable-tables.RollTable.UPWRrKkyIrOI3CsH";
+
 	/**
 	 * Contains functions for building Shadowdark characters
 	 */
@@ -46,6 +48,7 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 				choose: false,
 				required: false,
 			},
+			secret: "",
 			startingSpells: [],
 			weapons: ["All weapons"],
 		};
@@ -410,6 +413,16 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		const trinket = await this._drawTrinket();
 		if (trinket) allItems.push(trinket);
 
+		// A rolled secret is recorded on the character's Notes tab, where the
+		// player can reword or remove it
+		if (this.formData.secret !== "") {
+			const label = game.i18n.localize("SHADOWDARK.apps.character-generator.secret");
+			const notes = this.formData.actor.system.notes ?? "";
+
+			this.formData.actor.system.notes =
+				`<p><strong>${label}:</strong> ${this.formData.secret}</p>${notes}`;
+		}
+
 		// Calculate initial HP
 		let hpConMod = this.formData.actor.system.abilities.con.mod;
 		if (hpConMod < 1) hpConMod = 1;
@@ -492,6 +505,7 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 			"randomize-gear": false,
 			"randomize-gold": false,
 			"randomize-name": false,
+			"randomize-secret": false,
 			"randomize-stats": false,
 		};
 
@@ -926,6 +940,7 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 		if (randomizationTasks["randomize-gear"]) await this._randomizeGear();
 		if (randomizationTasks["randomize-gold"]) await this._randomizeGold();
 		if (randomizationTasks["randomize-name"]) await this._randomizeName();
+		if (randomizationTasks["randomize-secret"]) await this._randomizeSecret();
 		if (randomizationTasks["randomize-stats"]) await this._randomizeStats();
 
 		shadowdark.utils.diceSound();
@@ -984,6 +999,23 @@ export default class CharacterGeneratorSD extends foundry.appv1.api.FormApplicat
 
 		this.formData.actor.system.patron = patronUuid;
 		await this._loadPatron(patronUuid, true);
+	}
+
+
+	async _randomizeSecret() {
+		const table = await fromUuid(this.SECRETS_TABLE_UUID);
+
+		if (!table) return;
+
+		try {
+			const draw = await table.draw({displayChat: false});
+
+			// A text result carries its text in the description
+			this.formData.secret = draw.results[0]?.description ?? "";
+		}
+		catch(error) {
+			shadowdark.error(error);
+		}
 	}
 
 

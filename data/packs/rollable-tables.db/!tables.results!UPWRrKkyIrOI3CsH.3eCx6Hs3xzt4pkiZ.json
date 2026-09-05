@@ -1,0 +1,16 @@
+{
+	"_id": "3eCx6Hs3xzt4pkiZ",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.3eCx6Hs3xzt4pkiZ",
+	"description": "You trapped a horrible creature inside a well. Is it still there?",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		46,
+		46
+	],
+	"type": "text",
+	"weight": 1
+}

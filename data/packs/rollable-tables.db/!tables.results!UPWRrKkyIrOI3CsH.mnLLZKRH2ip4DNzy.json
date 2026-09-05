@@ -1,0 +1,16 @@
+{
+	"_id": "mnLLZKRH2ip4DNzy",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.mnLLZKRH2ip4DNzy",
+	"description": "You were blamed for bringing a curse down on your village.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		77,
+		77
+	],
+	"type": "text",
+	"weight": 1
+}

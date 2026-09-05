@@ -1,0 +1,16 @@
+{
+	"_id": "yCotybJc6628jEhx",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.yCotybJc6628jEhx",
+	"description": "A wizard created you in a lab and keeps regular tabs on you.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		80,
+		80
+	],
+	"type": "text",
+	"weight": 1
+}

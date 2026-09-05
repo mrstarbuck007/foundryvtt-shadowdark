@@ -1,0 +1,16 @@
+{
+	"_id": "Z4kWV8dkAfTlX3Ot",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.Z4kWV8dkAfTlX3Ot",
+	"description": "You saw what they did, and they know it. You'll be next.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		3,
+		3
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "5O2sXdmmxZVWdWd6",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.5O2sXdmmxZVWdWd6",
+	"description": "The Thieves' Guild sent their final threat two weeks ago.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		2,
+		2
+	],
+	"type": "text",
+	"weight": 1
+}

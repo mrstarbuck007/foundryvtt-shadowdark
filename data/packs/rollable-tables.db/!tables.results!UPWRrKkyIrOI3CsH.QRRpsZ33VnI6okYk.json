@@ -1,0 +1,16 @@
+{
+	"_id": "QRRpsZ33VnI6okYk",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.QRRpsZ33VnI6okYk",
+	"description": "You suffered a humiliating defeat in a pit fighting arena.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		87,
+		87
+	],
+	"type": "text",
+	"weight": 1
+}

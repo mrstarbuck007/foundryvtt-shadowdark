@@ -1,0 +1,16 @@
+{
+	"_id": "N5BgQW1uCzbSoCxJ",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.N5BgQW1uCzbSoCxJ",
+	"description": "You'd do anything to get your family back. You'll find a way.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		95,
+		95
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "mcYSmK5gDrx3AL1p",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.mcYSmK5gDrx3AL1p",
+	"description": "You have premonitions that sometimes come to pass.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		60,
+		60
+	],
+	"type": "text",
+	"weight": 1
+}

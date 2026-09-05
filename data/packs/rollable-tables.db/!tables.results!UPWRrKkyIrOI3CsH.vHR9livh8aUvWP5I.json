@@ -1,0 +1,16 @@
+{
+	"_id": "vHR9livh8aUvWP5I",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.vHR9livh8aUvWP5I",
+	"description": "You're a notorious poacher known only as \"The Hawk.\"",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		47,
+		47
+	],
+	"type": "text",
+	"weight": 1
+}

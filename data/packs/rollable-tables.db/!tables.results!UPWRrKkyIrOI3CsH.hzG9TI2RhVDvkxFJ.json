@@ -1,0 +1,16 @@
+{
+	"_id": "hzG9TI2RhVDvkxFJ",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.hzG9TI2RhVDvkxFJ",
+	"description": "You were petrified 500 years ago and it only just wore off.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		79,
+		79
+	],
+	"type": "text",
+	"weight": 1
+}

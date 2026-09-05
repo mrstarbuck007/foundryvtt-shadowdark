@@ -1,0 +1,16 @@
+{
+	"_id": "GSSpMZ63MUIEFlSm",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.GSSpMZ63MUIEFlSm",
+	"description": "You keep seeing and hearing a creature nobody else sees.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		58,
+		58
+	],
+	"type": "text",
+	"weight": 1
+}

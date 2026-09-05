@@ -1,0 +1,16 @@
+{
+	"_id": "YbtxvYjpSeHkNeza",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.YbtxvYjpSeHkNeza",
+	"description": "You are the only survivor of a famous adventuring party.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		86,
+		86
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "bCrsfMRS7OMIUSdC",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.bCrsfMRS7OMIUSdC",
+	"description": "You were a chicken in a past life. You remember it vividly.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		82,
+		82
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "wtgw0K9By7hb0lUy",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.wtgw0K9By7hb0lUy",
+	"description": "You know the hiding place of a legendary magical item.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		11,
+		11
+	],
+	"type": "text",
+	"weight": 1
+}

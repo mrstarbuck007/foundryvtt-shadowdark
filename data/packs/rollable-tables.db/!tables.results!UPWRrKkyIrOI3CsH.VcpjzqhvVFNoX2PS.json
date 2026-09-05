@@ -1,0 +1,16 @@
+{
+	"_id": "VcpjzqhvVFNoX2PS",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.VcpjzqhvVFNoX2PS",
+	"description": "You failed in your duties, and someone died as a result.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		12,
+		12
+	],
+	"type": "text",
+	"weight": 1
+}

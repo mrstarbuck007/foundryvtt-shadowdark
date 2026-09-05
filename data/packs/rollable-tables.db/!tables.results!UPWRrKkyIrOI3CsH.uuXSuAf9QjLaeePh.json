@@ -1,0 +1,16 @@
+{
+	"_id": "uuXSuAf9QjLaeePh",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.uuXSuAf9QjLaeePh",
+	"description": "A demon gave you an incredible talent you're afraid to use.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		74,
+		74
+	],
+	"type": "text",
+	"weight": 1
+}

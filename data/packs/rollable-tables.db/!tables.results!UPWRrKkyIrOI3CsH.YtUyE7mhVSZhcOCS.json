@@ -1,0 +1,16 @@
+{
+	"_id": "YtUyE7mhVSZhcOCS",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.YtUyE7mhVSZhcOCS",
+	"description": "Your great grandfather is a vampire who sometimes visits.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		48,
+		48
+	],
+	"type": "text",
+	"weight": 1
+}

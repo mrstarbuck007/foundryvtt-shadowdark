@@ -1,0 +1,16 @@
+{
+	"_id": "pqSdO65IuF23FTLp",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.pqSdO65IuF23FTLp",
+	"description": "You catastrophically failed out of a famous wizard's college.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		42,
+		42
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "Mk7YdmiXVID0z4yg",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.Mk7YdmiXVID0z4yg",
+	"description": "You betrayed a close friend to the City Guard and regret it.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		38,
+		38
+	],
+	"type": "text",
+	"weight": 1
+}

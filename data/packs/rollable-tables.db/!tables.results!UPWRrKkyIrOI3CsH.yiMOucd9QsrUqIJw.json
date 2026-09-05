@@ -1,0 +1,16 @@
+{
+	"_id": "yiMOucd9QsrUqIJw",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.yiMOucd9QsrUqIJw",
+	"description": "You knit beautifully. You try to knit a bit between things.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		65,
+		65
+	],
+	"type": "text",
+	"weight": 1
+}

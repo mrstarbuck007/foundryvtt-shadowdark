@@ -1,0 +1,16 @@
+{
+	"_id": "EvAXra405c94z8XM",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.EvAXra405c94z8XM",
+	"description": "A fortune teller said you would betray your closest friend.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		24,
+		24
+	],
+	"type": "text",
+	"weight": 1
+}

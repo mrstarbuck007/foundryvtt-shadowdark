@@ -1,0 +1,16 @@
+{
+	"_id": "9kuV1v52ZnEQGm3k",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.9kuV1v52ZnEQGm3k",
+	"description": "You lived with wolves as a child, and some habits die hard.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		54,
+		54
+	],
+	"type": "text",
+	"weight": 1
+}

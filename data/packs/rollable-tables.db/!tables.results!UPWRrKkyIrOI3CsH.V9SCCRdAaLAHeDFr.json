@@ -1,0 +1,16 @@
+{
+	"_id": "V9SCCRdAaLAHeDFr",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.V9SCCRdAaLAHeDFr",
+	"description": "You're a god being punished to live out one mortal life.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		100,
+		100
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "tebLsa9mPPPDN75z",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.tebLsa9mPPPDN75z",
+	"description": "You have vivid nightmares you are a killer. Are they real?",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		30,
+		30
+	],
+	"type": "text",
+	"weight": 1
+}

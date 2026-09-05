@@ -1,0 +1,16 @@
+{
+	"_id": "CbIa5RO3b1ae93ZZ",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.CbIa5RO3b1ae93ZZ",
+	"description": "Your entire family is in a cult. It seemed normal growing up.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		50,
+		50
+	],
+	"type": "text",
+	"weight": 1
+}

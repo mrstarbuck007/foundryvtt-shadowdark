@@ -1,0 +1,16 @@
+{
+	"_id": "fRwUhQy3N7qPBEL2",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.fRwUhQy3N7qPBEL2",
+	"description": "You burned a house down on purpose and got away with it.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		32,
+		32
+	],
+	"type": "text",
+	"weight": 1
+}

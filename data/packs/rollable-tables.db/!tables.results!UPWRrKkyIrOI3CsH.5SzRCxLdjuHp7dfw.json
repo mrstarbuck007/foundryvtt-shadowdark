@@ -1,0 +1,16 @@
+{
+	"_id": "5SzRCxLdjuHp7dfw",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.5SzRCxLdjuHp7dfw",
+	"description": "Your last memory is climbing out of a well covered in slime.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		93,
+		93
+	],
+	"type": "text",
+	"weight": 1
+}

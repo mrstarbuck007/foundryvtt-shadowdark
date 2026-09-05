@@ -1,0 +1,16 @@
+{
+	"_id": "mxXtqHqxpTiEcYPj",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.mxXtqHqxpTiEcYPj",
+	"description": "On your birthday, your sinister fairy godmother visits.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		25,
+		25
+	],
+	"type": "text",
+	"weight": 1
+}

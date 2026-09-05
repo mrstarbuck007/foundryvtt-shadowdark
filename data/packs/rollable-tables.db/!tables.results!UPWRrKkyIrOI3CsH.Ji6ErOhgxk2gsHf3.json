@@ -1,0 +1,16 @@
+{
+	"_id": "Ji6ErOhgxk2gsHf3",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.Ji6ErOhgxk2gsHf3",
+	"description": "You gave up being an artist in order to save the family farm.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		45,
+		45
+	],
+	"type": "text",
+	"weight": 1
+}

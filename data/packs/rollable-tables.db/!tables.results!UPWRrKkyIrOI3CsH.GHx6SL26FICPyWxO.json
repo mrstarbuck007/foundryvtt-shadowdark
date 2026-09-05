@@ -1,0 +1,16 @@
+{
+	"_id": "GHx6SL26FICPyWxO",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.GHx6SL26FICPyWxO",
+	"description": "You can barely swim and it's quite embarrassing to watch.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		67,
+		67
+	],
+	"type": "text",
+	"weight": 1
+}

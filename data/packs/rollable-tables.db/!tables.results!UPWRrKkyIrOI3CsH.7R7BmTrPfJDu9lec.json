@@ -1,0 +1,16 @@
+{
+	"_id": "7R7BmTrPfJDu9lec",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.7R7BmTrPfJDu9lec",
+	"description": "You found a silver coin that has a tiny map carved onto it.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		9,
+		9
+	],
+	"type": "text",
+	"weight": 1
+}

@@ -30,6 +30,10 @@
 		{{/if}}
 
 		{{> apps/character-generator/deity}}
+
+		{{#unless editing}}
+			{{> apps/character-generator/secret}}
+		{{/unless}}
 	</div>
 
 	<div id="create-bar">

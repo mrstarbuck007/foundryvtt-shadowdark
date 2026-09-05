@@ -1,0 +1,16 @@
+{
+	"_id": "etddIjz0SpNtlZeZ",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.etddIjz0SpNtlZeZ",
+	"description": "You have a sleepwalking problem, but you don't know it.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		22,
+		22
+	],
+	"type": "text",
+	"weight": 1
+}

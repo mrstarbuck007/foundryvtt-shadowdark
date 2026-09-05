@@ -1,0 +1,16 @@
+{
+	"_id": "ppm7nqPTvAyUjgqj",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.ppm7nqPTvAyUjgqj",
+	"description": "You have stretches of \"lost time\" that you can't remember.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		34,
+		34
+	],
+	"type": "text",
+	"weight": 1
+}

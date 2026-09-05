@@ -1,0 +1,16 @@
+{
+	"_id": "gLCKARfxGDIRuek9",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.gLCKARfxGDIRuek9",
+	"description": "You took the blame for a horrible crime you didn't commit.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		49,
+		49
+	],
+	"type": "text",
+	"weight": 1
+}

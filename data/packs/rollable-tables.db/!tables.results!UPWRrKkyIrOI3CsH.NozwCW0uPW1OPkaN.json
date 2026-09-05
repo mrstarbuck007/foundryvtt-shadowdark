@@ -1,0 +1,16 @@
+{
+	"_id": "NozwCW0uPW1OPkaN",
+	"_key": "!tables.results!UPWRrKkyIrOI3CsH.NozwCW0uPW1OPkaN",
+	"description": "You're a reformed highway bandit trying to make amends.",
+	"drawn": false,
+	"flags": {
+	},
+	"img": "icons/svg/d20-black.svg",
+	"name": "",
+	"range": [
+		43,
+		43
+	],
+	"type": "text",
+	"weight": 1
+}
