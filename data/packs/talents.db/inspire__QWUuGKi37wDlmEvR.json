@@ -1,0 +1,22 @@
+{
+	"_id": "QWUuGKi37wDlmEvR",
+	"_key": "!items!QWUuGKi37wDlmEvR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/symbols/star-solid-gold.webp",
+	"name": "Inspire",
+	"system": {
+		"description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.jg2sUC3nIAI8sT18]{Inspire}</p><p>Each day, you can grant a number of luck tokens equal to your Charisma modifier (min. 1).</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

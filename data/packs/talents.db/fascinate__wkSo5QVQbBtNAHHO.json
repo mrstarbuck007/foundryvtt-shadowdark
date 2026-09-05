@@ -1,0 +1,22 @@
+{
+	"_id": "wkSo5QVQbBtNAHHO",
+	"_key": "!items!wkSo5QVQbBtNAHHO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": "8t1Gmpgn1Q6HXJAz",
+	"img": "icons/magic/control/hypnosis-mesmerism-swirl.webp",
+	"name": "Fascinate",
+	"system": {
+		"description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.oCNpE6bnZjPIdOO1]{Fascinate}</p><p>(Focus). Make a DC 12 CHA check. On a success, you transfix all targets in near whose LV is equal to or less than 1 + half your level (round down). If you fail, excluding focus, you can't use this again until you rest.</p>",
+		"level": 1,
+		"properties": [
+		],
+		"source": {
+			"title": "western-reaches"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}
