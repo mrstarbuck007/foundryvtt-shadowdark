@@ -7,6 +7,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    # The repository default for GITHUB_TOKEN is read-only, which fails the
+    # release step with a 403. Ask for write here rather than relying on a
+    # setting that does not travel with the code.
+    permissions:
+      contents: write
+
     strategy:
       matrix:
         node-version: [24.x]
