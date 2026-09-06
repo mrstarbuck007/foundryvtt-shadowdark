@@ -1,0 +1,71 @@
+{
+	"_id": "PN8qIt020ayl6etl",
+	"_key": "!actors!PN8qIt020ayl6etl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/crabstrosity.webp",
+	"items": [
+		"bBDFlJCde0CNyA48"
+	],
+	"name": "Sting Barnacle",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Sting Barnacle",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/crabstrosity.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -4
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": -3
+			},
+			"wis": {
+				"mod": -1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 1,
+				"value": 1
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 0,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Crabstrosities are massive, territorial abominations that were once giant crabs. Crusty, white parasites that cling to the shells of deep-sea horrors. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 1, <strong>ATK</strong> none, <strong>MV</strong> close (swim), <strong>S</strong> -3, <strong>D</strong> +0, <strong>C</strong> +0, <strong>I</strong> -4, <strong>W</strong> -1, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 0</p><p></p>\n\t<p><strong>Toxin</strong>. A creature who touches the sting barnacle with bare flesh DC 12 CON or paralyzed 1d4 rounds.</p><p></p>\n\t<p><i>Art by Matt Morrow, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

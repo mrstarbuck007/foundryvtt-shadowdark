@@ -1,0 +1,20 @@
+{
+	"_id": "TRzYdX3qU6XT3Oqg",
+	"_key": "!actors.items!TcaVxGFTkwvfvCCm.TRzYdX3qU6XT3Oqg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Boneless",
+	"system": {
+		"description": "<p>ADV on DEX checks to sneak and hide. Can slither through small spaces such as keyholes.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

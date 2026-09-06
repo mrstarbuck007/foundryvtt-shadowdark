@@ -1,0 +1,77 @@
+{
+	"_id": "2dPlaiVImLt34Hqb",
+	"_key": "!actors!2dPlaiVImLt34Hqb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/lord-hedron-antioch.webp",
+	"items": [
+		"Wu6h7sU4FqNUodLq",
+		"B1kzlLYk6Z7sLHEU",
+		"S1gCvSCpFAduwHS9",
+		"m4F5uNObCgFA3Mw9",
+		"ihFsNQkaThYJcF6F",
+		"AsBRxIfV1lAPJxex",
+		"TLja0BGW1ytupbFB"
+	],
+	"name": "Lord Hedron Antioch",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Lord Hedron Antioch",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/lord-hedron-antioch.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 57,
+				"value": 57
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Lord Hedron Antioch broods in his twisted castle rising high over the gloomy village of Skalvin. He was once a dashing explorer, renowned for his expeditions into the lightless and cruel places of the earth. But it was a fateful delve into the jungles of Tal-Yool in search of the legendary Lost Empire that was his undoing. Not one living soul in the 40-person expedition returned from that black, sweltering jungle. Lord Hedron — or what remained of him — crept forth two years later under the cover of night, thralls in tow, a box of rich grave dirt on their shoulders. This reeking, ragged band paid their passage home in ancient gold, cloaks drawn tight against the sun. The night the ship landed, the only thing found aboard were the bodies of the crew, pale and bloodless... </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 57, <strong>ATK</strong> 3 bite +8 (1d8 + blood drain) and 1 charm, <strong>MV</strong> near (climb), <strong>S</strong> +4, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +2, <strong>W</strong> +3, <strong>Ch</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Supreme Undead</strong>. Immune to morale checks. Only damaged by magical sources.</p><p></p><p><strong>Blood Drain</strong>. Hedron heals 2d8 HP and target permanently loses 1d6 CON. At 0 CON, target dies and rises as vampire or vampire spawn (Hedron chooses).</p><p></p><p><strong>Charm</strong>. One humanoid target who can see Hedron within near, DC 15 CHA or under Hedron’s control for 1d4 days.</p><p></p><p><strong>Dire Shapechange</strong>. In place of attacks, turn into a giant bat, dire wolf, or back into regular form.</p><p></p><p><strong>Heart of Darkness</strong>. Hedron is the progeny of Obe-Ixx, the Ur-Vampire; her ancient evil suffuses his soul. Holy magic targeting him is DC 18 to cast.</p><p></p><p><strong>Vampire</strong>. Must sleep in a coffin daily or loses 2d6 HP each day that can’t be healed until resting in coffin. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart with a wooden stake while at 0 HP.</p><p></p>\n\t<p><i>Art by Jessee Egan, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

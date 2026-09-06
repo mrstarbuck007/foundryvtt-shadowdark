@@ -1,0 +1,73 @@
+{
+	"_id": "KbazZhkAJHc7gxEk",
+	"_key": "!actors!KbazZhkAJHc7gxEk",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/badgerlings.webp",
+	"items": [
+		"duCfWfnIj8rdSt5s",
+		"e9jJxNkvDJWiTija",
+		"nSiJeJnLNWmW45Tt"
+	],
+	"name": "Badgerling Warband",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Badgerling Warband",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/badgerlings.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 48,
+				"value": 48
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Badgerlings are elite warrior-halflings who model their combat style upon the vicious, burrow-dwelling badger. Badgerling warbands only follow halfling commanders (see Warband rules in Game Master’s Guide to the Western Reaches). An elite warband of badgerlings who ferociously attack from sudden ambush before withdrawing into a new hidden position. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13 (leather), <strong>HP</strong> 48, <strong>ATK</strong> 1 handaxe (close/near) +5 (3d6), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Ambush</strong>. Deal three extra dice of damage when undetected.</p><p></p><p><strong>Invisibility</strong>. Once per day, turn invisible for 3 rounds. Attacking ends the invisibility.</p><p></p>\n\t<p><i>Art by Yuri Perkowski Domingos, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

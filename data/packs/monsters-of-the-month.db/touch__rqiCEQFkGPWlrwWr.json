@@ -1,0 +1,40 @@
+{
+	"_id": "rqiCEQFkGPWlrwWr",
+	"_key": "!actors.items!f04bCoJyouGGoxM5.rqiCEQFkGPWlrwWr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Touch",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 6,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 1,
+			"special": "Engulf",
+			"value": "1d12"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"close"
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Attack"
+}

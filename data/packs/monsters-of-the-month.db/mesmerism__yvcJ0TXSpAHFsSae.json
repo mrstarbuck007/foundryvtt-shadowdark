@@ -1,0 +1,29 @@
+{
+	"_id": "yvcJ0TXSpAHFsSae",
+	"_key": "!actors.items!Lu7ZiZwZ0QbZmnaj.yvcJ0TXSpAHFsSae",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Mesmerism",
+	"system": {
+		"class": [
+		],
+		"description": "<p>Near, focus. All humanoid creatures in range must pass a CHA check vs. the last spellcasting check at the start of their turn or stand agape, staring at unseen images.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

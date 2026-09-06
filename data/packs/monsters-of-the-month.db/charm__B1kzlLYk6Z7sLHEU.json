@@ -1,0 +1,28 @@
+{
+	"_id": "B1kzlLYk6Z7sLHEU",
+	"_key": "!actors.items!2dPlaiVImLt34Hqb.B1kzlLYk6Z7sLHEU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Charm",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One humanoid target who can see Hedron within near, DC 15 CHA or under Hedron’s control for [[/r 1d4]] days.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Special Attack"
+}

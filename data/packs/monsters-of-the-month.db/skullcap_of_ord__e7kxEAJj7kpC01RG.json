@@ -1,0 +1,20 @@
+{
+	"_id": "e7kxEAJj7kpC01RG",
+	"_key": "!actors.items!Lu7ZiZwZ0QbZmnaj.e7kxEAJj7kpC01RG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Skullcap of Ord",
+	"system": {
+		"description": "<p>Three times per day, cast a spell with advantage or choose a spell being cast within far to have disadvantage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

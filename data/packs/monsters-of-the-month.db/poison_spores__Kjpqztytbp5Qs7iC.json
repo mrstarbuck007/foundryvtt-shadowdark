@@ -1,0 +1,29 @@
+{
+	"_id": "Kjpqztytbp5Qs7iC",
+	"_key": "!actors.items!IUJv5SgEIMDfCqyP.Kjpqztytbp5Qs7iC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Poison Spores",
+	"system": {
+		"class": [
+		],
+		"description": "<p>All non-fungibolds in near DC 12 CON or take [[/r 1d6]] damage per round (cumulative if from multiple spells). DC 12 CON on turn to end all effects.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

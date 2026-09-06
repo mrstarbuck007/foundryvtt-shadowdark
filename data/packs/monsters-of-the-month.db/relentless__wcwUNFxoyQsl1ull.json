@@ -1,0 +1,20 @@
+{
+	"_id": "wcwUNFxoyQsl1ull",
+	"_key": "!actors.items!s8EZSe6vtUYgJ4sf.wcwUNFxoyQsl1ull",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Relentless",
+	"system": {
+		"description": "<p>If zomblob is reduced to 0 HP by a non-magical source, DC 9 CON to go to 1 HP instead.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

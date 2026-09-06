@@ -1,0 +1,20 @@
+{
+	"_id": "cxApJBt22Fertr1Q",
+	"_key": "!actors.items!QchlM1Eb666ROEbR.cxApJBt22Fertr1Q",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Soul Anchor",
+	"system": {
+		"description": "<p>The Shadowbarge is anchored in reality by [[/r 2d6]] wraiths that man it. If the souls are released or put to rest, the Shadowbarge may fade from existence.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

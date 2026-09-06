@@ -1,0 +1,20 @@
+{
+	"_id": "YmumptYzMS2e1liA",
+	"_key": "!actors.items!f04bCoJyouGGoxM5.YmumptYzMS2e1liA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dissolve",
+	"system": {
+		"description": "<p>Living creatures inside the cube takes [[/r 1d12]] damage on the cube’s turn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

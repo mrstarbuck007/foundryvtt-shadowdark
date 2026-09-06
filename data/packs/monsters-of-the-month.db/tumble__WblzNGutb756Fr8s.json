@@ -1,0 +1,20 @@
+{
+	"_id": "WblzNGutb756Fr8s",
+	"_key": "!actors.items!vwCcRewXw4kp6mc1.WblzNGutb756Fr8s",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Tumble",
+	"system": {
+		"description": "<p>In place of attacks, move up to double near. The Mad Jester’s AC becomes 18 until the start of his next turn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

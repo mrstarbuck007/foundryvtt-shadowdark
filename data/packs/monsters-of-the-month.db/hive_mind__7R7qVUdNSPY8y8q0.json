@@ -1,0 +1,20 @@
+{
+	"_id": "7R7qVUdNSPY8y8q0",
+	"_key": "!actors.items!IUJv5SgEIMDfCqyP.7R7qVUdNSPY8y8q0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Hive Mind",
+	"system": {
+		"description": "<p>Can telepathically speak with other fungibolds within a mile.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

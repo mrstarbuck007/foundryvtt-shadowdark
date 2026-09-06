@@ -1,0 +1,20 @@
+{
+	"_id": "ckBybsZqie7gsqTV",
+	"_key": "!actors.items!RfKPTwPfG77VRclG.ckBybsZqie7gsqTV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Magnetic",
+	"system": {
+		"description": "<p>DC 12 STR each round to hold onto large metal objects in near range or they are engulfed (creatures in armor also engulfed).</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

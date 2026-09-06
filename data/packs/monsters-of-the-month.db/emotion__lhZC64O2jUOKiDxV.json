@@ -1,0 +1,20 @@
+{
+	"_id": "lhZC64O2jUOKiDxV",
+	"_key": "!actors.items!Qd70tajy5O5XFxku.lhZC64O2jUOKiDxV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Emotion",
+	"system": {
+		"description": "<p>In addition to its Possess talent, each haunted mask has one of the below talents based on the emotion it depicts. Anger: The wearer attacks the nearest creature on each of its turns. The wearer gains 10 temporary HP and deals +[[/r 1d4]] damage. Fear: The wearer becomes jumpy and flees at the slightest sign of danger. The wearer’s shrill, uncontrollable screams attract a great deal of attention. Sorrow: Unbearable sadness overcomes the wearer and they turn their weapon upon themselves. Mirth: The wearer falls to the ground in a fit of hideous, gasping laughter. In addition to the noise, the wearer begins suffocating as if drowning.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

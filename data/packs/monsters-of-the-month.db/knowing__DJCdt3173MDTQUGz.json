@@ -1,0 +1,29 @@
+{
+	"_id": "DJCdt3173MDTQUGz",
+	"_key": "!actors.items!DCRenet8WCkzdvdN.DJCdt3173MDTQUGz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Knowing",
+	"system": {
+		"class": [
+		],
+		"description": "<p>Learn the answer to a yes or no question.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

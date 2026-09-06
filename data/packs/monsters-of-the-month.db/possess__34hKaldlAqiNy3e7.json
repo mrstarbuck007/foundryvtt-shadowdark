@@ -1,0 +1,20 @@
+{
+	"_id": "34hKaldlAqiNy3e7",
+	"_key": "!actors.items!Qd70tajy5O5XFxku.34hKaldlAqiNy3e7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Possess",
+	"system": {
+		"description": "<p>A humanoid who dons the haunted mask must make a DC 15 CHA check. On a failure, the mask possesses it until the wearer falls unconscious or the mask is destroyed.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

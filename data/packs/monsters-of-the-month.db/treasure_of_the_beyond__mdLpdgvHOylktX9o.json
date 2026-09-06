@@ -1,0 +1,20 @@
+{
+	"_id": "mdLpdgvHOylktX9o",
+	"_key": "!actors.items!QchlM1Eb666ROEbR.mdLpdgvHOylktX9o",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Treasure of the Beyond",
+	"system": {
+		"description": "<p>Holds countless treasures plundered from sunken ships. Roll with advantage on treasure tables.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

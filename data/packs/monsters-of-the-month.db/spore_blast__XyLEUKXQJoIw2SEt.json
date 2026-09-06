@@ -1,0 +1,28 @@
+{
+	"_id": "XyLEUKXQJoIw2SEt",
+	"_key": "!actors.items!IUJv5SgEIMDfCqyP.XyLEUKXQJoIw2SEt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Spore Blast",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Enemies in near DC 12 CON or fall asleep [[/r 1d4]] rounds. Creatures who pass immune 1 day.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "t6TUmUP5svRZXA8K",
+	"_key": "!actors.items!f04bCoJyouGGoxM5.t6TUmUP5svRZXA8K",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Peat Zombies",
+	"system": {
+		"description": "<p>The cube expels [[/r 2d4]] allied zombies at the start of combat.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

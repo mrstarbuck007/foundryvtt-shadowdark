@@ -1,0 +1,73 @@
+{
+	"_id": "61PeC62e3FLW6STo",
+	"_key": "!actors!61PeC62e3FLW6STo",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/hydra-worm.webp",
+	"items": [
+		"c4s2TprRYqUX42A5",
+		"IOxh2OPEqoherMuP",
+		"SNObEsRUusPR4GO8"
+	],
+	"name": "Hydra Worm",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Hydra Worm",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/hydra-worm.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 30,
+				"value": 30
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "burrow",
+		"notes": "\n\t<p><i>A towering, multi-headed desert worm with segmented armor hide. The older a hydra worm gets, the more heads it sprouts from past injuries. Statted here with three heads; adjust LV and HP to match the number of heads you give it. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 30, <strong>ATK</strong> 1 bite (near) +8 (1d12 + swallow), <strong>MV</strong> double near (burrow), <strong>S</strong> +5, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> -3, <strong>W</strong> +1, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Heads</strong>. Choose how many heads the worm has. Each is LV 2, AC 16, HP 9, and can make 1 bite attack. A killed head sprouts into two new heads at the start of the worm’s turn unless cauterized beforehand. The worm’s LV and total HP is that of all the heads combined.</p><p></p><p><strong>Swallow</strong>. On a natural attack roll of 18-20, target is swallowed. Total darkness inside and 2d10 damage per round. Worm regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet.</p><p></p>\n\t<p><i>Art by Ricardo Gabriel Telles, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,73 @@
+{
+	"_id": "fel0ZbDnCeqY9jMg",
+	"_key": "!actors!fel0ZbDnCeqY9jMg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/fire-goblins.webp",
+	"items": [
+		"tawo62oBF7IUo5iP",
+		"MlNHcS62RdylraVw",
+		"cG1f0q8qiargCkmi"
+	],
+	"name": "Blast Goblin",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Blast Goblin",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/fire-goblins.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 20,
+				"value": 20
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>When the moon rises on the longest night of the year, all goblins are filled with a primal, fiery power that lasts until dawn. On this night, the fire goblins burn! Gouts of fire burst out of this muscled goblin’s mouth with each howling war cry. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14 (chainmail), <strong>HP</strong> 20, <strong>ATK</strong> 1 burning spear (near) +3 (1d8), <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> -1, <strong>W</strong> +0, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Keen Senses</strong>. Can’t be surprised.</p><p></p><p><strong>Immolate</strong>. When killed, all in near DC 12 DEX or 1d8 damage.</p><p></p>\n\t<p><i>Art by Yuri Perkowski-Domingos, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

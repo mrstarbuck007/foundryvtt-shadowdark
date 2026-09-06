@@ -101,6 +101,11 @@
 	* Includes its Knowaguy, Lucksmith and Surprising Guts talents, its titles, and its class talent table
 	* The two "any stat" bands hand out the existing +1 stat talents, so the increase applies itself
 	* Adds the Wield a New Weapon or Armor, Extra Hit Points Die and Learn Any Spell talents the table draws on
+- Added a Monsters of the Month compendium holding 35 monsters from the first 26 issues
+	* Issues that print more than one stat block give one monster each, so Brain Eaters supplies the Alpha Brain, Brain Dog and Brain Eater Elder, and Ooze Cubes the Heal, Magnetic and Necrotic Cubes
+	* Each monster carries the issue artwork as its portrait and token, and credits the artist in its notes
+	* The Hydra Worm is statted with three heads, as its level and hit points are written to scale with the number of heads you give it
+	* Darkest Day is not included, as it is a seasonal event and a d12 table rather than a monster
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry

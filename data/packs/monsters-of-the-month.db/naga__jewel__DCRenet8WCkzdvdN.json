@@ -1,0 +1,75 @@
+{
+	"_id": "DCRenet8WCkzdvdN",
+	"_key": "!actors!DCRenet8WCkzdvdN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/jewel-naga.webp",
+	"items": [
+		"Eb4ba9zweDeY61WH",
+		"W3h45PMPKnXEmdKp",
+		"4yMdGKpD3OaekVma",
+		"DJCdt3173MDTQUGz",
+		"Xg6R88bN4RRVORR5"
+	],
+	"name": "Naga, Jewel",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Naga, Jewel",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/jewel-naga.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 57,
+				"value": 57
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Three immortal nagas serve as the great oracles for the feathered serpent god, Oatali. These nagas reside in ancient, deadly temples hidden in the Tal-Yool jungle. Each naga’s scales are encrusted with gems that match the three places from which Oatali derives his power: The jungle (jade), the river (lapis lazuli), and the sun (rubies). A gem-encrusted, hooded cobra with a wise countenance. Delicate gold cuffs and ornaments dot the length of its coiled, 15-foot body. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 57, <strong>ATK</strong> 3 bite +7 (2d8 + poison) and 1 spell +7, <strong>MV</strong> near (climb), <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +2, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> L, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Poison</strong>. DC 15 CON or paralyzed 1d4 rounds.</p><p></p><p><strong>Being (WIS Spell)</strong>. DC 12. End all spells affecting one target in near.</p><p></p><p><strong>Knowing (WIS Spell)</strong>. DC 12. Learn the answer to a yes or no question.</p><p></p><p><strong>Seeming (WIS Spell)</strong>. DC 13. Focus. Create a convincing illusion within near up to the size of the naga.</p><p></p>\n\t<p><i>Art by Matt Morrow, 2023</i></p>",
+		"spellcasting": {
+			"ability": "wis",
+			"attacks": 1,
+			"bonus": 7
+		}
+	},
+	"type": "NPC"
+}

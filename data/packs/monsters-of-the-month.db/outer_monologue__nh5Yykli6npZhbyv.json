@@ -1,0 +1,29 @@
+{
+	"_id": "nh5Yykli6npZhbyv",
+	"_key": "!actors.items!Jke7s3XCqR8EeAoa.nh5Yykli6npZhbyv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Outer Monologue",
+	"system": {
+		"class": [
+		],
+		"description": "<p>One target in near can’t stop speaking their inner monologue out loud for [[/r 1d4]] rounds. Attacks and spellcasting checks are made with DISADV for duration.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d4"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

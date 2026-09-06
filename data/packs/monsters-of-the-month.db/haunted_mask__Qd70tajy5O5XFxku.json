@@ -1,0 +1,73 @@
+{
+	"_id": "Qd70tajy5O5XFxku",
+	"_key": "!actors!Qd70tajy5O5XFxku",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/haunted-masks.webp",
+	"items": [
+		"ohSsSBM1u3eRUhKh",
+		"34hKaldlAqiNy3e7",
+		"lhZC64O2jUOKiDxV"
+	],
+	"name": "Haunted Mask",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Haunted Mask",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/haunted-masks.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": -3
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": -2
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 18
+			},
+			"hp": {
+				"max": 14,
+				"value": 14
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Haunted masks look like typical masks worn in theater or revelry, but they are vaguely unsettling when scrutinized. A malicious spirit has bound itself to the mask, and that energy warps and twists the mask’s visage in subtle ways. A mask with exaggerated features that radiate a strong emotion. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 18, <strong>HP</strong> 14, <strong>ATK</strong> 1 bite +3 (1d4), <strong>MV</strong> close (climb), <strong>S</strong> -2, <strong>D</strong> -3, <strong>C</strong> +1, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Possess</strong>. A humanoid who dons the haunted mask must make a DC 15 CHA check. On a failure, the mask possesses it until the wearer falls unconscious or the mask is destroyed.</p><p></p><p><strong>Emotion</strong>. In addition to its Possess talent, each haunted mask has one of the below talents based on the emotion it depicts. Anger: The wearer attacks the nearest creature on each of its turns. The wearer gains 10 temporary HP and deals +1d4 damage. Fear: The wearer becomes jumpy and flees at the slightest sign of danger. The wearer’s shrill, uncontrollable screams attract a great deal of attention. Sorrow: Unbearable sadness overcomes the wearer and they turn their weapon upon themselves. Mirth: The wearer falls to the ground in a fit of hideous, gasping laughter. In addition to the noise, the wearer begins suffocating as if drowning.</p><p></p>\n\t<p><i>Art © Luis Miguez, 2022. Used with permission.</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

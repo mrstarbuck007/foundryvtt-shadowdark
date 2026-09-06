@@ -1,0 +1,20 @@
+{
+	"_id": "HjO1xCejirf2d8K8",
+	"_key": "!actors.items!QchlM1Eb666ROEbR.HjO1xCejirf2d8K8",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ethereal Sailing",
+	"system": {
+		"description": "<p>Traverses ethereal and material planes at will, bypassing physical obstacles and appearing without warning. Can only be halted by local festivals, where it docks to partake in the celebrations.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

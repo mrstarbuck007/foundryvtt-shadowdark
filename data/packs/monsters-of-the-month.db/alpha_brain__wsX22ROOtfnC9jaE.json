@@ -1,0 +1,72 @@
+{
+	"_id": "wsX22ROOtfnC9jaE",
+	"_key": "!actors!wsX22ROOtfnC9jaE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/brain-eaters.webp",
+	"items": [
+		"ixO42nkO5cl8325U",
+		"rX64tf9W0SEgkfbu"
+	],
+	"name": "Alpha Brain",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Alpha Brain",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/brain-eaters.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": -3
+			},
+			"int": {
+				"mod": 6
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 7
+			},
+			"hp": {
+				"max": 70,
+				"value": 70
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 15,
+			"xp": 0
+		},
+		"move": "none",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Brain eaters build spiral-shaped citadels inside massive caverns deep beneath the earth. An ancient alpha brain guides each colony, telepathically deploying its children in the service of its eons-long plots. A giant, pink brain floating in a pool of green ichor. Brain eaters and brain dogs are born from cysts that grow and break free from it. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 7, <strong>HP</strong> 70, <strong>ATK</strong> 3 mind shred (far) +6 (5d6), <strong>MV</strong> none, <strong>S</strong> +0, <strong>D</strong> -3, <strong>C</strong> +3, <strong>I</strong> +6, <strong>W</strong> +4, <strong>Ch</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 15</p><p></p>\n\t<p><strong>Telepathic</strong>. Can hear the surface thoughts of all creatures within a mile and speak telepathically with up to four creatures at a time. DC 15 CHA to resist its commands.</p><p></p>\n\t<p><i>Art by Lucas Korte, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

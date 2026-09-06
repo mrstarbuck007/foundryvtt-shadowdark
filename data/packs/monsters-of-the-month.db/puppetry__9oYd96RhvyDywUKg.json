@@ -1,0 +1,28 @@
+{
+	"_id": "9oYd96RhvyDywUKg",
+	"_key": "!actors.items!InE4McXp3GRo0m5t.9oYd96RhvyDywUKg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Puppetry",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One target in near. DC 15 CHA or use next action to attack ally.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Special Attack"
+}

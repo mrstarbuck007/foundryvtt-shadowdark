@@ -1,0 +1,74 @@
+{
+	"_id": "2gYnVHaiggcqo8vl",
+	"_key": "!actors!2gYnVHaiggcqo8vl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/fungibolds.webp",
+	"items": [
+		"lhgZzlnZwLpyKEif",
+		"QCRadt2v0wLklBfZ",
+		"ZJhEwQdCbVhfvykl",
+		"VPz1kdm9wwWc9acX"
+	],
+	"name": "Fungibold",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Fungibold",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/fungibolds.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": -2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 6,
+				"value": 6
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Fungibolds are deep-dwelling kobolds who have become one with the cave mushrooms, forming a hive mind. Their magi leaders become anchored to the earth as they merge with the vast network of underground fungi roots. Tiny body. Big hat. This kobold bears a weighty, peaked mushroom cap on its head; the fungi’s roots merge seamlessly into its neck. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 6, <strong>ATK</strong> 1 sling (far) +1 (1d4) or 1 claw +1 (1d4) or 1 spore blast, <strong>MV</strong> near, <strong>S</strong> -2, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +1, <strong>W</strong> +0, <strong>Ch</strong> -1, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Hive Mind</strong>. Can telepathically speak with other fungibolds within a mile.</p><p></p><p><strong>Spore Blast</strong>. Enemies in near DC 12 CON or fall asleep 1d4 rounds. Creatures who pass immune 1 day.</p><p></p>\n\t<p><i>Art by Jessee Egan, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "qR3PzRJamfkoD86W",
+	"_key": "!actors.items!z6YHNyF29g0yr7dP.qR3PzRJamfkoD86W",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Crush",
+	"system": {
+		"description": "<p>DC 15 STR or target takes [[/r 1d10]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

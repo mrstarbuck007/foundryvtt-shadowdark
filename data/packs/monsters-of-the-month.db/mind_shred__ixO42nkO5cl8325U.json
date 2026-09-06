@@ -1,0 +1,40 @@
+{
+	"_id": "ixO42nkO5cl8325U",
+	"_key": "!actors.items!wsX22ROOtfnC9jaE.ixO42nkO5cl8325U",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Mind Shred",
+	"system": {
+		"attack": {
+			"num": 3
+		},
+		"bonuses": {
+			"attackBonus": 6,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 5,
+			"special": "",
+			"value": "5d6"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"far"
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Attack"
+}

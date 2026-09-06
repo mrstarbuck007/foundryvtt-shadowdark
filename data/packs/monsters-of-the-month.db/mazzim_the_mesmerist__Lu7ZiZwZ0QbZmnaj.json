@@ -1,0 +1,75 @@
+{
+	"_id": "Lu7ZiZwZ0QbZmnaj",
+	"_key": "!actors!Lu7ZiZwZ0QbZmnaj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/mazzim-the-mesmerist.webp",
+	"items": [
+		"e7kxEAJj7kpC01RG",
+		"7HgULwFPDWX5QodJ",
+		"nTIn2T5hsMtcr9ng",
+		"pThoHD02vVznte5L",
+		"yvcJ0TXSpAHFsSae"
+	],
+	"name": "Mazzim the Mesmerist",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Mazzim the Mesmerist",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/mazzim-the-mesmerist.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": -1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 45,
+				"value": 45
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A malevolent sorcerer who has mastered the arcane arts of illusion, hypnotism, and deception. Among Mazzim’s collection of mystical baubles and trinkets is the Skullcap of Ord, a bronze helm emblazoned with a radiant eye that amplifies the potency of his spellcasting. His disciples revere him as an all-wise sage who wishes to guide his people into a utopian age of wonder shown to him by “the spirits.” They do not realize their zealous loyalty is spurred by his magical manipulations. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 45, <strong>ATK</strong> 2 spell +6, <strong>MV</strong> near, <strong>S</strong> -1, <strong>D</strong> +0, <strong>C</strong> +0, <strong>I</strong> +4, <strong>W</strong> +1, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Skullcap of Ord</strong>. Three times per day, cast a spell with advantage or choose a spell being cast within far to have disadvantage.</p><p></p><p><strong>Crystal of Mind Warping</strong>. If a creature looks into the crystal for three consecutive rounds, the wielder can alter one of the creature’s memories in a plausible way or implant a new memory that could reasonably be true.</p><p></p><p><strong>Enchant (INT Spell)</strong>. DC 12. Close, one humanoid target. The target regards the caster as a good friend for 1d6 rounds.</p><p></p><p><strong>Illusion (INT Spell)</strong>. DC 13. Far. Conjure a convincing visible and audible illusion up to the size of a sailing ship within range. Touching the illusion or passing a DC 15 INT check reveals its false nature. It lasts 1d6 rounds.</p><p></p><p><strong>Mesmerism (INT Spell)</strong>. DC 14. Near, focus. All humanoid creatures in range must pass a CHA check vs. the last spellcasting check at the start of their turn or stand agape, staring at unseen images.</p><p></p>\n\t<p><i>Art by Matt Morrow, 2023</i></p>",
+		"spellcasting": {
+			"ability": "int",
+			"attacks": 2,
+			"bonus": 6
+		}
+	},
+	"type": "NPC"
+}

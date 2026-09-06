@@ -1,0 +1,29 @@
+{
+	"_id": "NUYiHde1KuyjGvuk",
+	"_key": "!actors.items!hfgz2qgBCHSoxntc.NUYiHde1KuyjGvuk",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Exorcise",
+	"system": {
+		"class": [
+		],
+		"description": "<p>Near. End a possession by a chaotic entity.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

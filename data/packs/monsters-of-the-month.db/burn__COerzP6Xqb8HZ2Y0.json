@@ -1,0 +1,20 @@
+{
+	"_id": "COerzP6Xqb8HZ2Y0",
+	"_key": "!actors.items!aYCXSjjVBxLG0smE.COerzP6Xqb8HZ2Y0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Burn",
+	"system": {
+		"description": "<p>Flammable objects the target carries ignite ([[/r 1d4]] damage on turn).</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

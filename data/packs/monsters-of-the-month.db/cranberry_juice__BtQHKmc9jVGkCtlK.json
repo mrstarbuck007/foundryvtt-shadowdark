@@ -1,0 +1,20 @@
+{
+	"_id": "BtQHKmc9jVGkCtlK",
+	"_key": "!actors.items!f04bCoJyouGGoxM5.BtQHKmc9jVGkCtlK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Cranberry Juice",
+	"system": {
+		"description": "<p>The first time the cube takes damage each round, all enemies in close DC 12 CON or blinded until the end of their turn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

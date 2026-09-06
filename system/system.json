@@ -223,6 +223,15 @@
 			"flags": {}
 		},
 		{
+			"name": "monsters-of-the-month",
+			"label": "Monsters of the Month",
+			"system": "shadowdark",
+			"path": "packs/monsters-of-the-month",
+			"type": "Actor",
+			"private": false,
+			"flags": {}
+		},
+		{
 			"name": "patrons-and-deities",
 			"label": "Patrons and Deities",
 			"system": "shadowdark",
@@ -324,6 +333,7 @@
 				"macros",
 				"magic-items",
 				"monsters",
+				"monsters-of-the-month",
 				"properties",
 				"rollable-tables",
 				"spell-effects",

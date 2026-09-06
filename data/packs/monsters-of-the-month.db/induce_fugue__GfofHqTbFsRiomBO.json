@@ -1,0 +1,20 @@
+{
+	"_id": "GfofHqTbFsRiomBO",
+	"_key": "!actors.items!vwCcRewXw4kp6mc1.GfofHqTbFsRiomBO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Induce Fugue",
+	"system": {
+		"description": "<p>Each time a creature misses an attack or fails a spellcasting check targeting The Mad Jester, that creature loses 1 XP (0 minimum).</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

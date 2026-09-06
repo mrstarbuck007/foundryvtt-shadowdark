@@ -1,0 +1,29 @@
+{
+	"_id": "vf5tw9yytMMubYct",
+	"_key": "!actors.items!IUJv5SgEIMDfCqyP.vf5tw9yytMMubYct",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Confusion",
+	"system": {
+		"class": [
+		],
+		"description": "<p>Far, one target. DC 15 WIS or target can’t take actions and moves in a random direction on its turn for [[/r 1d4]] rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d4"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

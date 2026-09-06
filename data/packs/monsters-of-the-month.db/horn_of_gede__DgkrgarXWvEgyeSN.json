@@ -1,0 +1,28 @@
+{
+	"_id": "DgkrgarXWvEgyeSN",
+	"_key": "!actors.items!yZEwTZ9cmujQCKzr.DgkrgarXWvEgyeSN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Horn of Gede",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Once per day, blow the horn to become impervious to all damage for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Special Attack"
+}

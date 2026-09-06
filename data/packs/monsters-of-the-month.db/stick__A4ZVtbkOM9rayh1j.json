@@ -1,0 +1,20 @@
+{
+	"_id": "A4ZVtbkOM9rayh1j",
+	"_key": "!actors.items!nCBIM8eohFPj3Zq0.A4ZVtbkOM9rayh1j",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stick",
+	"system": {
+		"description": "<p>DC 15 STR or adhere to target; auto-hit with bite while adhered. DC 15 STR on turn to remove.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

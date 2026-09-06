@@ -1,0 +1,74 @@
+{
+	"_id": "TcaVxGFTkwvfvCCm",
+	"_key": "!actors!TcaVxGFTkwvfvCCm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/lash-demon.webp",
+	"items": [
+		"HfVeEjTQDtIEobe5",
+		"PDKhaeqRv8B49eL6",
+		"TRzYdX3qU6XT3Oqg",
+		"BdqngJ1rjMChYHd9"
+	],
+	"name": "Demon, Lash",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Demon, Lash",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/lash-demon.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": -1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 23,
+				"value": 23
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Lash demons wriggle and writhe through lightless corridors, squeezing under doors and through key holes to sneak up on their prey. Few things can hold them at bay besides fawning praise; if complimented on something they like, they will slink away to return another day. However, if given a compliment they despise, their attitude immediately becomes hostile. The same sort of compliment rarely works twice. Blood-red demon with oily skin. The size of a human, but stretched thin like tallow. Its claw-tipped limbs lash out with unnatural reach. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 23, <strong>ATK</strong> 2 claw (near) +4 (1d6 + bind), <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +3, <strong>C</strong> +1, <strong>I</strong> -1, <strong>W</strong> -1, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Bind</strong>. Contested DEX to hold target immobile for one round.</p><p></p><p><strong>Boneless</strong>. ADV on DEX checks to sneak and hide. Can slither through small spaces such as keyholes.</p><p></p><p><strong>Vanity</strong>. Creatures have ADV on CHA checks or reaction checks when appealing to demon’s vanity.</p><p></p>\n\t<p><i>Art by Jessee Egan, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

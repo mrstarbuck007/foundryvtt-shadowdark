@@ -1,0 +1,73 @@
+{
+	"_id": "63H2su4NDmOxDPRN",
+	"_key": "!actors!63H2su4NDmOxDPRN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/sisters-of-saint-sofia.webp",
+	"items": [
+		"xTo5R17YGThSowUV",
+		"y65hfgttFMm2aM5U",
+		"TCPgUPlVeVxjYGI3"
+	],
+	"name": "Little Sister",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Little Sister",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/sisters-of-saint-sofia.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 10,
+				"value": 10
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Centuries ago, Saint Sofia sacrificed her divine spark and living form to bind the mountain-sized demon, Tchernabog, into a permanent slumber. Now, a grim order of nuns called the Sisters of Saint Sofia carry on her selfless duty. A young woman in a crisp nun’s habit. Radiates quiet confidence. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13 (chain mail), <strong>HP</strong> 10, <strong>ATK</strong> 1 flail +2 (1d10) or 1 spell +2, <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +0, <strong>C</strong> +1, <strong>I</strong> +0, <strong>W</strong> +2, <strong>Ch</strong> +0, <strong>AL</strong> L, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Exorcise (WIS Spell)</strong>. DC 12. Near. End a possession by a chaotic entity.</p><p></p><p><strong>Flog (WIS Spell)</strong>. DC 11. One chaotic creature in near 1d6 damage.</p><p></p>\n\t<p><i>Art by Yuri Perkowski-Domingos, 2023</i></p>",
+		"spellcasting": {
+			"ability": "wis",
+			"attacks": 1,
+			"bonus": 2
+		}
+	},
+	"type": "NPC"
+}

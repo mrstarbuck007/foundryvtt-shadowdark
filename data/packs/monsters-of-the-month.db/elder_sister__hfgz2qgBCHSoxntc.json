@@ -1,0 +1,75 @@
+{
+	"_id": "hfgz2qgBCHSoxntc",
+	"_key": "!actors!hfgz2qgBCHSoxntc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/sisters-of-saint-sofia.webp",
+	"items": [
+		"LHfcp7ua1Av73azo",
+		"lSJvuLHAuPSgNGdg",
+		"NUYiHde1KuyjGvuk",
+		"bSmBg13axu2KZ8Oy",
+		"OJaTaOhynVEUuggz"
+	],
+	"name": "Elder Sister",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Elder Sister",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/sisters-of-saint-sofia.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 19,
+				"value": 19
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Centuries ago, Saint Sofia sacrificed her divine spark and living form to bind the mountain-sized demon, Tchernabog, into a permanent slumber. Now, a grim order of nuns called the Sisters of Saint Sofia carry on her selfless duty. A middle-aged woman in a well worn nun’s habit. Stoic and fearless. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15 (plate mail), <strong>HP</strong> 19, <strong>ATK</strong> 1 blessed flail +4 (1d10 + bind) and 1 spell +3, <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +0, <strong>C</strong> +1, <strong>I</strong> +1, <strong>W</strong> +3, <strong>Ch</strong> +1, <strong>AL</strong> L, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Bind</strong>. Chaotic creature DC 12 CON or paralyzed 1 round.</p><p></p><p><strong>Exorcise (WIS Spell)</strong>. DC 12. Near. End a possession by a chaotic entity.</p><p></p><p><strong>Seal (WIS Spell)</strong>. DC 13. Close, one chaotic creature. 5 rounds. DISADV on attacks and spellcasting checks.</p><p></p><p><strong>Scourge (WIS Spell)</strong>. DC 12. Near, one chaotic creature. 1d10 damage.</p><p></p>\n\t<p><i>Art by Yuri Perkowski-Domingos, 2023</i></p>",
+		"spellcasting": {
+			"ability": "wis",
+			"attacks": 1,
+			"bonus": 3
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,72 @@
+{
+	"_id": "OIXYATpxlf8eeHth",
+	"_key": "!actors!OIXYATpxlf8eeHth",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/brain-eaters.webp",
+	"items": [
+		"p7j2dhU45QzIcSLO",
+		"1acabHILbbHKOdJU"
+	],
+	"name": "Brain Dog",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Brain Dog",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/brain-eaters.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 15,
+				"value": 15
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Brain eaters build spiral-shaped citadels inside massive caverns deep beneath the earth. An ancient alpha brain guides each colony, telepathically deploying its children in the service of its eons-long plots. A wet, purple brain with dog-like legs. Guards brain eater colonies. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 15, <strong>ATK</strong> 1 bite +3 (1d6) or 1 stun, <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +2, <strong>W</strong> +1, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Stun</strong>. One creature in near DC 12 INT or paralyzed 1d4 rounds.</p><p></p>\n\t<p><i>Art by Lucas Korte, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

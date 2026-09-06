@@ -1,0 +1,20 @@
+{
+	"_id": "9cxULM2zJqa9Ia6N",
+	"_key": "!actors.items!zbfHYkSqXfjJUjZD.9cxULM2zJqa9Ia6N",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Necrotic",
+	"system": {
+		"description": "<p>A creature who dies while engulfed becomes a skeleton.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

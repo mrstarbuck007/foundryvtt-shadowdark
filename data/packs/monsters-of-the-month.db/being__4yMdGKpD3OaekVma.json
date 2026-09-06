@@ -1,0 +1,29 @@
+{
+	"_id": "4yMdGKpD3OaekVma",
+	"_key": "!actors.items!DCRenet8WCkzdvdN.4yMdGKpD3OaekVma",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Being",
+	"system": {
+		"class": [
+		],
+		"description": "<p>End all spells affecting one target in near.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

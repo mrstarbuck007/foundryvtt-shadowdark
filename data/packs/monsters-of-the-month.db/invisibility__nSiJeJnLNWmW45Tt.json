@@ -1,0 +1,20 @@
+{
+	"_id": "nSiJeJnLNWmW45Tt",
+	"_key": "!actors.items!KbazZhkAJHc7gxEk.nSiJeJnLNWmW45Tt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Invisibility",
+	"system": {
+		"description": "<p>Once per day, turn invisible for 3 rounds. Attacking ends the invisibility.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

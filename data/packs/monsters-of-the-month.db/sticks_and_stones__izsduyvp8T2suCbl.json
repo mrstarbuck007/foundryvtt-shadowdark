@@ -1,0 +1,29 @@
+{
+	"_id": "izsduyvp8T2suCbl",
+	"_key": "!actors.items!Jke7s3XCqR8EeAoa.izsduyvp8T2suCbl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Sticks and Stones",
+	"system": {
+		"class": [
+		],
+		"description": "<p>Creatures within near are berated with insults that really may break bones. They all take [[/r 1d6]] damage.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

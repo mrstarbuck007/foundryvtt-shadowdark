@@ -1,0 +1,28 @@
+{
+	"_id": "te9BbOMtorOcgsIC",
+	"_key": "!actors.items!28edV0YFCGECUCe9.te9BbOMtorOcgsIC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Mind Blast",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a near-sized cube extending from brain eater. DC 15 INT or [[/r 3d6]] damage and paralyzed [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Special Attack"
+}

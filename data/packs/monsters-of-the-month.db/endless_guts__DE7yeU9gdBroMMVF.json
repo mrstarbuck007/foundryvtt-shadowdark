@@ -1,0 +1,20 @@
+{
+	"_id": "DE7yeU9gdBroMMVF",
+	"_key": "!actors.items!s8EZSe6vtUYgJ4sf.DE7yeU9gdBroMMVF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Endless Guts",
+	"system": {
+		"description": "<p>If at 1 HP or higher, regain [[/r 1d4]] HP at start of turn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "1JddqzOtiLjRsL5d",
+	"_key": "!actors.items!QchlM1Eb666ROEbR.1JddqzOtiLjRsL5d",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Legendary Vessel",
+	"system": {
+		"description": "<p>The Shadowbarge is a ship of legend and is immune to conventional damage. It can only be harmed by magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

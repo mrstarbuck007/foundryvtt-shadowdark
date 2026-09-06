@@ -1,0 +1,20 @@
+{
+	"_id": "KDWX7qajo60esdep",
+	"_key": "!actors.items!T66FLPI9DtgOwaHW.KDWX7qajo60esdep",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Walk the Plank",
+	"system": {
+		"description": "<p>In place of attacks, all creatures within near DC 12 CHA or throw themselves overboard as their next action.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "cG1f0q8qiargCkmi",
+	"_key": "!actors.items!fel0ZbDnCeqY9jMg.cG1f0q8qiargCkmi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Immolate",
+	"system": {
+		"description": "<p>When killed, all in near DC 12 DEX or [[/r 1d8]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

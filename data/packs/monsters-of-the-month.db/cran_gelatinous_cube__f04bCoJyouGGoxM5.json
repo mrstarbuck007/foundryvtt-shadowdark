@@ -1,0 +1,77 @@
+{
+	"_id": "f04bCoJyouGGoxM5",
+	"_key": "!actors!f04bCoJyouGGoxM5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/cran-gelatinous-cube.webp",
+	"items": [
+		"rqiCEQFkGPWlrwWr",
+		"XK1yFyxDGVNEUSVF",
+		"t6TUmUP5svRZXA8K",
+		"b7eYStPyjel0h9D7",
+		"BtQHKmc9jVGkCtlK",
+		"bLw1dBwI8dqspCoe",
+		"YmumptYzMS2e1liA"
+	],
+	"name": "Cran-Gelatinous Cube",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Cran-Gelatinous Cube",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/cran-gelatinous-cube.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -4
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 42,
+				"value": 42
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>In the darkest bogs and chilliest swamps, a blood-red cube slurps along the muddy earth. Glistening cranberry juice beads from its sides, and leathery corpses swirl around within its towering bulk. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 42, <strong>ATK</strong> 1 touch +6 (1d12 + engulf) and 3 tentacle (near) +6 (1d8), <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> -4, <strong>W</strong> +1, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Peat Zombies</strong>. The cube expels 2d4 allied zombies at the start of combat.</p><p></p><p><strong>Rubbery</strong>. Half damage from stabbing weapons.</p><p></p><p><strong>Cranberry Juice</strong>. The first time the cube takes damage each round, all enemies in close DC 12 CON or blinded until the end of their turn.</p><p></p><p><strong>Engulf</strong>. DC 15 STR or trapped inside cube. Touch attack auto-hits engulfed targets each round. DC 15 STR on turn to escape.</p><p></p><p><strong>Dissolve</strong>. Living creatures inside the cube takes 1d12 damage on the cube’s turn.</p><p></p>\n\t<p><i>Art by Yuri Perkowski-Domingos, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

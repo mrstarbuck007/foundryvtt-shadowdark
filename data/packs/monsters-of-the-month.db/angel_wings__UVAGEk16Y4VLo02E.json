@@ -1,0 +1,29 @@
+{
+	"_id": "UVAGEk16Y4VLo02E",
+	"_key": "!actors.items!dhlbKqL1NiMMfgcU.UVAGEk16Y4VLo02E",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Angel Wings",
+	"system": {
+		"class": [
+		],
+		"description": "<p>Self. Fly double near for 5 rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

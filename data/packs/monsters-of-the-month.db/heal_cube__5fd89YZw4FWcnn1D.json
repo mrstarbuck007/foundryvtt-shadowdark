@@ -1,0 +1,74 @@
+{
+	"_id": "5fd89YZw4FWcnn1D",
+	"_key": "!actors!5fd89YZw4FWcnn1D",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/ooze-cubes.webp",
+	"items": [
+		"bE2S3HV0r1rPLvsy",
+		"VDardRaJubFVJINY",
+		"ubhyKGyaGTirOxKV",
+		"TUXPOCDgIkSCQEL4"
+	],
+	"name": "Heal Cube",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Heal Cube",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/ooze-cubes.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -4
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 24,
+				"value": 24
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Gelatinous cubes can mutate to become magnetic, necrotic, or even regenerative! A massive cube of clear slime with a faint, pink color. Plump mice and centipedes drift around inside. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 24, <strong>ATK</strong> 1 touch +4 (engulf + heal), <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> -4, <strong>W</strong> +1, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Engulf</strong>. DC 12 STR or trapped inside cube. DC 12 STR on turn to escape.</p><p></p><p><strong>Heal</strong>. Creatures in cube heal 1 HP per round. Treat as if underwater.</p><p></p><p><strong>Rubbery</strong>. Half damage from stabbing weapons.</p><p></p>\n\t<p><i>Art by Lucas Korte, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

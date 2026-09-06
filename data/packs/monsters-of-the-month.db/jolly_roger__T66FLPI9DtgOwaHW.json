@@ -1,0 +1,76 @@
+{
+	"_id": "T66FLPI9DtgOwaHW",
+	"_key": "!actors!T66FLPI9DtgOwaHW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/jolly-roger.webp",
+	"items": [
+		"S3AE9ELWjj9XjVtK",
+		"tlpQFyFSMvC7Lwsf",
+		"dCNnuKc8kHZ8F722",
+		"Q15ipotxTTp5aDaF",
+		"5UPYmSpOGJHQJHWz",
+		"KDWX7qajo60esdep"
+	],
+	"name": "Jolly Roger",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Jolly Roger",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/jolly-roger.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 36,
+				"value": 36
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Malevolent sea-spirits are attracted to the high sea’s most notorious symbol of evil: the pirate flag. They draw upon this icon’s dark power, manifesting it into a body to inhabit. A seaborne spirit that possesses a pirate flag becomes a jolly roger, a ghost that can channel the worst tendencies of pirate-kind. A fluttering, black cloth drapes over a stooped figure floating silently on the deck. A skull and crossbones leers out of the cloth’s dark folds! </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 36, <strong>ATK</strong> 2 scimitar +6 (1d6 + sap) and 1 touch +6 (1d6 + life drain), <strong>MV</strong> near (fly), <strong>S</strong> -4, <strong>D</strong> +4, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Greater Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Life Drain</strong>. 1d4 CON damage. Death if reduced to 0 CON.</p><p></p><p><strong>Sap</strong>. Jolly roger heals 1d4 HP.</p><p></p><p><strong>Walk The Plank</strong>. In place of attacks, all creatures within near DC 12 CHA or throw themselves overboard as their next action.</p><p></p>\n\t<p><i>Art by Yuri Perkowski-Domingos, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

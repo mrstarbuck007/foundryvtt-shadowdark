@@ -1,0 +1,29 @@
+{
+	"_id": "pThoHD02vVznte5L",
+	"_key": "!actors.items!Lu7ZiZwZ0QbZmnaj.pThoHD02vVznte5L",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Illusion",
+	"system": {
+		"class": [
+		],
+		"description": "<p>Far. Conjure a convincing visible and audible illusion up to the size of a sailing ship within range. Touching the illusion or passing a DC 15 INT check reveals its false nature. It lasts [[/r 1d6]] rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d6"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

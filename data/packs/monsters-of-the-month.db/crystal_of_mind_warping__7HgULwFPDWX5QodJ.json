@@ -1,0 +1,20 @@
+{
+	"_id": "7HgULwFPDWX5QodJ",
+	"_key": "!actors.items!Lu7ZiZwZ0QbZmnaj.7HgULwFPDWX5QodJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Crystal of Mind Warping",
+	"system": {
+		"description": "<p>If a creature looks into the crystal for three consecutive rounds, the wielder can alter one of the creature’s memories in a plausible way or implant a new memory that could reasonably be true.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

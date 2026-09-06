@@ -1,0 +1,74 @@
+{
+	"_id": "nCBIM8eohFPj3Zq0",
+	"_key": "!actors!nCBIM8eohFPj3Zq0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/torch-mimic.webp",
+	"items": [
+		"qG8YvYIL7lkKgHHV",
+		"huiRJ6AehiqGHd7t",
+		"HXDJAaRJC0mjsz9H",
+		"A4ZVtbkOM9rayh1j"
+	],
+	"name": "Torch Mimic",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Torch Mimic",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/torch-mimic.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 23,
+				"value": 23
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>This object looks just like an ordinary torch. But it’s not. It’s a torch mimic. Was there ever a trick so cruel? Just as the torch’s light fades, a wide grin opens inside the guttering flames... A stout, brightly burning torch with a terrible secret. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 23, <strong>ATK</strong> 2 bite +5 (1d8 + stick), <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +0, <strong>C</strong> +1, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Fireblood</strong>. Fire immune.</p><p></p><p><strong>Surprise</strong>. Waits to attack until there is 1 minute left on the torch timer.</p><p></p><p><strong>Stick</strong>. DC 15 STR or adhere to target; auto-hit with bite while adhered. DC 15 STR on turn to remove.</p><p></p>\n\t<p><i>Art by Matt Morrow and Encoded Designs, LLC</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

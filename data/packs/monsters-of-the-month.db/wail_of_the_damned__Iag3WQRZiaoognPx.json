@@ -1,0 +1,20 @@
+{
+	"_id": "Iag3WQRZiaoognPx",
+	"_key": "!actors.items!QchlM1Eb666ROEbR.Iag3WQRZiaoognPx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Wail of the Damned",
+	"system": {
+		"description": "<p>Once per day, the Shadowbarge can emit a ghastly wail. All who hear it within double near DC 15 WIS or be paralyzed with fear for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

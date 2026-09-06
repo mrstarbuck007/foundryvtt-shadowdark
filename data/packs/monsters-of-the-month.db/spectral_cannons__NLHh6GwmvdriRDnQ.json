@@ -1,0 +1,40 @@
+{
+	"_id": "NLHh6GwmvdriRDnQ",
+	"_key": "!actors.items!QchlM1Eb666ROEbR.NLHh6GwmvdriRDnQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Spectral Cannons",
+	"system": {
+		"attack": {
+			"num": 4
+		},
+		"bonuses": {
+			"attackBonus": 10,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 2,
+			"special": "",
+			"value": "2d10"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"near"
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "BdqngJ1rjMChYHd9",
+	"_key": "!actors.items!TcaVxGFTkwvfvCCm.BdqngJ1rjMChYHd9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Vanity",
+	"system": {
+		"description": "<p>Creatures have ADV on CHA checks or reaction checks when appealing to demon’s vanity.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

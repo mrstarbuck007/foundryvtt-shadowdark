@@ -1,0 +1,76 @@
+{
+	"_id": "fZpm2zvnYyGJuaoU",
+	"_key": "!actors!fZpm2zvnYyGJuaoU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/lantern-head.webp",
+	"items": [
+		"sDFfDbn9IuylJz9G",
+		"HJA5B6XIlMUhQcNK",
+		"uRfNkpoq365AoJnf",
+		"L1gyASUI1Zdjdhem",
+		"GCHrddrUlXbMira0",
+		"4LNqsTPYEckN2lGd"
+	],
+	"name": "Lantern Head",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Lantern Head",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/lantern-head.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 29,
+				"value": 29
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>The dread pirate Lantern Head haunts the ocean’s darkest waters, chasing down any ships that dare to cross his sights. His devilishly fast sloop is a twisted, rotting thing strung with will-o’-wisp lanterns! The plank wasn’t enough to douse this ancient pirate’s burning spirit. His original name is lost to time, and now he is simply known as Lantern Head, the horror of the high seas! A pirate in rotting garb stands with his own severed head bouncing in his hand! In place of a cranium, a werelight lantern juts from his neck. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 29, <strong>ATK</strong> 3 scimitar +5 (1d6) and 1 throw head (near) +5 (1d6 + chomp) and 1 steal flame, <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Greater Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Chomp</strong>. Attach to a target hit by the Throw Head attack; the attack automatically hits again next round. DC 12 STR on turn to tear the head off. Once removed, the head rolls a near distance toward Lantern Head on his turn.</p><p></p><p><strong>Steal Flame</strong>. Steal the light from one light source within double near. The light source is extinguished, and the light transfers into Lantern Head’s lantern.</p><p></p><p><strong>Will-o’-Wisp</strong>. In place of attacks, Lantern Head transforms the light in his lantern into an allied will-o’-wisp that joins the fight. The light in his lantern is extinguished.</p><p></p>\n\t<p><i>Art by Geraldo Marinho, 2024</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

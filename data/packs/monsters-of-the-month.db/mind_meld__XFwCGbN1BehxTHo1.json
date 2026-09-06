@@ -1,0 +1,29 @@
+{
+	"_id": "XFwCGbN1BehxTHo1",
+	"_key": "!actors.items!IUJv5SgEIMDfCqyP.XFwCGbN1BehxTHo1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Mind Meld",
+	"system": {
+		"class": [
+		],
+		"description": "<p>Near, one target creature. DC 12 WIS or target connected to Hive Mind as if it were a fungibold. Lasts 1 day.</p>",
+		"duration": {
+			"type": "days",
+			"value": "1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

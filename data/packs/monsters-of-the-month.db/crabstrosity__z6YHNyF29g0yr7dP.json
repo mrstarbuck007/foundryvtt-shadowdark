@@ -1,0 +1,74 @@
+{
+	"_id": "z6YHNyF29g0yr7dP",
+	"_key": "!actors!z6YHNyF29g0yr7dP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/crabstrosity.webp",
+	"items": [
+		"hw0sTsNTndCLCB6j",
+		"GW6avNH2aiGungKS",
+		"qR3PzRJamfkoD86W",
+		"YOBk7XIgjUOybxQ3"
+	],
+	"name": "Crabstrosity",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Crabstrosity",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/crabstrosity.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 56,
+				"value": 56
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Crabstrosities are massive, territorial abominations that were once giant crabs. Eldritch energies emanating from beneath the sea floor warped them into insidious predators. Jointed, purple tentacles writhe inside the grasping mouth of a giant crab with a blue-green shell. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 56, <strong>ATK</strong> 2 claw (near) +6 (1d10 + crush) and 1 tentacle +6 (1d12 + toxin), <strong>MV</strong> double near (swim), <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> -2, <strong>W</strong> +1, <strong>Ch</strong> -2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Crush</strong>. DC 15 STR or target takes 1d10 damage.</p><p></p><p><strong>Toxin</strong>. DC 12 CHA or compulsion to protect crabstrosity for 1d4 rounds.</p><p></p>\n\t<p><i>Art by Matt Morrow, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

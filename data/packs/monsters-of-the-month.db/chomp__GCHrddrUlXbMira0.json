@@ -1,0 +1,20 @@
+{
+	"_id": "GCHrddrUlXbMira0",
+	"_key": "!actors.items!fZpm2zvnYyGJuaoU.GCHrddrUlXbMira0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Chomp",
+	"system": {
+		"description": "<p>Attach to a target hit by the Throw Head attack; the attack automatically hits again next round. DC 12 STR on turn to tear the head off. Once removed, the head rolls a near distance toward Lantern Head on his turn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

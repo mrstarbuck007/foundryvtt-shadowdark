@@ -1,0 +1,28 @@
+{
+	"_id": "a18w5wNOSs1oPAw5",
+	"_key": "!actors.items!vwCcRewXw4kp6mc1.a18w5wNOSs1oPAw5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Dazzling Orb",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All creatures in near DC 15 CON or blinded for 1 round by a brilliant flash of multicolored light.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "dRWoeMyG0Ag9igCr",
+	"_key": "!actors.items!zbfHYkSqXfjJUjZD.dRWoeMyG0Ag9igCr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Rubbery",
+	"system": {
+		"description": "<p>Half damage from stabbing weapons.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,29 @@
+{
+	"_id": "OJaTaOhynVEUuggz",
+	"_key": "!actors.items!hfgz2qgBCHSoxntc.OJaTaOhynVEUuggz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Scourge",
+	"system": {
+		"class": [
+		],
+		"description": "<p>Near, one chaotic creature. [[/r 1d10]] damage.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

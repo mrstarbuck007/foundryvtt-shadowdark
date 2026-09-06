@@ -1,0 +1,29 @@
+{
+	"_id": "54QV5ukJMTmo2nTc",
+	"_key": "!actors.items!dhlbKqL1NiMMfgcU.54QV5ukJMTmo2nTc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Gaze of St. Sofia",
+	"system": {
+		"class": [
+		],
+		"description": "<p>One chaotic creature in far [[/r 2d6]] damage. Marjory regains [[/r 1d8]] HP.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

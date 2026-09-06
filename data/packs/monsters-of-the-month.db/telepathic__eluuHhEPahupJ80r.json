@@ -1,0 +1,20 @@
+{
+	"_id": "eluuHhEPahupJ80r",
+	"_key": "!actors.items!28edV0YFCGECUCe9.eluuHhEPahupJ80r",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Telepathic",
+	"system": {
+		"description": "<p>Can hear the surface thoughts of all creatures within far and speak telepathically with up to two creatures at a time. DC 12 CHA to resist its commands.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

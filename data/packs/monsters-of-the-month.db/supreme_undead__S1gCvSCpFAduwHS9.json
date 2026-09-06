@@ -1,0 +1,20 @@
+{
+	"_id": "S1gCvSCpFAduwHS9",
+	"_key": "!actors.items!2dPlaiVImLt34Hqb.S1gCvSCpFAduwHS9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Supreme Undead",
+	"system": {
+		"description": "<p>Immune to morale checks. Only damaged by magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

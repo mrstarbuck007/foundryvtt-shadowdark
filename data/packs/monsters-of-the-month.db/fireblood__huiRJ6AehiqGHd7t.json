@@ -1,0 +1,20 @@
+{
+	"_id": "huiRJ6AehiqGHd7t",
+	"_key": "!actors.items!nCBIM8eohFPj3Zq0.huiRJ6AehiqGHd7t",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fireblood",
+	"system": {
+		"description": "<p>Fire immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

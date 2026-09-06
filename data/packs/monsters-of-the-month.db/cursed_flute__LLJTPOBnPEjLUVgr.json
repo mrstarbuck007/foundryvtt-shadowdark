@@ -1,0 +1,20 @@
+{
+	"_id": "LLJTPOBnPEjLUVgr",
+	"_key": "!actors.items!InE4McXp3GRo0m5t.LLJTPOBnPEjLUVgr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Cursed Flute",
+	"system": {
+		"description": "<p>The Piper carries a magical flute that grants him the below talents. He can use each once per encounter. If a humanoid creature bears the flute for [[/r 2d6]] days, that person becomes The Piper. Ratsplosion: Summon a loyal swarm of rats (Shadowdark RPG pg. 245). If common folk are nearby, up to [[/r 2d6]] of them melt down into these rats. Dissolve Into Rats: If The Piper goes below 10 HP, he explodes into a swarm of rats and flees. The one albino rat in the swarm is The Piper.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,75 @@
+{
+	"_id": "zacI6VUmh21tD2o1",
+	"_key": "!actors!zacI6VUmh21tD2o1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/questing-beast.webp",
+	"items": [
+		"JkPehZhCKcZDNMmR",
+		"tPZIWmh1d5eHQyU2",
+		"nIjBye7cNBmcdfqg",
+		"elDox2LTV8Yvjc97",
+		"PQathLfZNtlIroOd"
+	],
+	"name": "Questing Beast",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Questing Beast",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/questing-beast.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 57,
+				"value": 57
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A true abomination. Born from a human woman and fathered by a devil, its physical construction is almost inconceivable. The beast's head and neck resemble a great snake with the ears of a greyhound and eyes as red as carbuncle. Its legs and hooves are that of a stag, and from the shoulders to the tail, the beast's spots and sleek form resemble a leopard. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 57, <strong>ATK</strong> 3 bite +7 (2d10 + poison) and 1 fire breath, <strong>MV</strong> double near, <strong>S</strong> +4, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +3, <strong>W</strong> +2, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Mythic</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Glatisant</strong>. Loud yelps and barks, as if from a dozen hounds, emanate from the beast's belly when it opens its maw. Creatures within near who are not aware of the beast have DISADV on INT, CHA, and WIS based checks.</p><p></p><p><strong>Fire Breath</strong>. Fills a near-sized cube extending from beast. DC 15 DEX or 4d6 damage.</p><p></p><p><strong>Poison</strong>. DC 12 CON or 1d4 CON damage. Death if reduced to 0 CON.</p><p></p>\n\t<p><i>Monster design by Michael Putlack. Art by Perplexing Ruins, 2026.</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

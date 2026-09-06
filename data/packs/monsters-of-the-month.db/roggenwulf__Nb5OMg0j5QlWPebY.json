@@ -1,0 +1,74 @@
+{
+	"_id": "Nb5OMg0j5QlWPebY",
+	"_key": "!actors!Nb5OMg0j5QlWPebY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/roggenwulf.webp",
+	"items": [
+		"trYyBzJjIeZPJ6f4",
+		"UBwjeFlEuC79KOLH",
+		"MDqYor47QoZ35zBJ",
+		"bVNDtJ80E9aWpXZZ"
+	],
+	"name": "Roggenwulf",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Roggenwulf",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/roggenwulf.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 32,
+				"value": 32
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>When night falls, demonic wolf spirits stalk through corn and wheat fields. Farmers who get lost in the fields past dusk are doomed to be hunted and devoured! On occasion, a ravenous roggenwulf will creep from the cornfields to snatch sleeping children from their beds. Only a silver horseshoe hung over a door or window can prevent the beasts from crossing through. A slavering wolf demon with peeled-back skin on its face that exposes white bone. Its burning eyes bob like witchlights in the darkness of the cornfields. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 32, <strong>ATK</strong> 3 bite +5 (1d8) or 1 howl, <strong>MV</strong> double near, <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Impervious</strong>. Only damaged by silver or magical sources.</p><p></p><p><strong>Howl</strong>. All who hear it DC 12 CHA or cannot act on their next turn.</p><p></p><p><strong>Silver Aversion</strong>. Takes double damage from silvered weapons. Cannot cross a threshold that has a silver object hung over it.</p><p></p>\n\t<p><i>Art by Yuri Perkowski-Domingos, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

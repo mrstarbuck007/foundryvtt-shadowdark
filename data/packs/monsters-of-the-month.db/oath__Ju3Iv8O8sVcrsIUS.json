@@ -1,0 +1,20 @@
+{
+	"_id": "Ju3Iv8O8sVcrsIUS",
+	"_key": "!actors.items!yZEwTZ9cmujQCKzr.Ju3Iv8O8sVcrsIUS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Oath",
+	"system": {
+		"description": "<p>3/day, ADV on a roll made in service of protecting the wilds and natural creatures.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

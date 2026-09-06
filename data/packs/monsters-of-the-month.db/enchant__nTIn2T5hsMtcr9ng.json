@@ -1,0 +1,29 @@
+{
+	"_id": "nTIn2T5hsMtcr9ng",
+	"_key": "!actors.items!Lu7ZiZwZ0QbZmnaj.nTIn2T5hsMtcr9ng",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Enchant",
+	"system": {
+		"class": [
+		],
+		"description": "<p>Close, one humanoid target. The target regards the caster as a good friend for [[/r 1d6]] rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d6"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

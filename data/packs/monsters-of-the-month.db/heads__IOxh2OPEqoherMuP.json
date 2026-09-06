@@ -1,0 +1,20 @@
+{
+	"_id": "IOxh2OPEqoherMuP",
+	"_key": "!actors.items!61PeC62e3FLW6STo.IOxh2OPEqoherMuP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Heads",
+	"system": {
+		"description": "<p>Choose how many heads the worm has. Each is LV 2, AC 16, HP 9, and can make 1 bite attack. A killed head sprouts into two new heads at the start of the worm’s turn unless cauterized beforehand. The worm’s LV and total HP is that of all the heads combined.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

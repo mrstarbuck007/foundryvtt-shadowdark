@@ -1,0 +1,28 @@
+{
+	"_id": "1acabHILbbHKOdJU",
+	"_key": "!actors.items!OIXYATpxlf8eeHth.1acabHILbbHKOdJU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Stun",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One creature in near DC 12 INT or paralyzed [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Special Attack"
+}

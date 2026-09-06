@@ -1,0 +1,20 @@
+{
+	"_id": "ubhyKGyaGTirOxKV",
+	"_key": "!actors.items!5fd89YZw4FWcnn1D.ubhyKGyaGTirOxKV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Heal",
+	"system": {
+		"description": "<p>Creatures in cube heal 1 HP per round. Treat as if underwater.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,74 @@
+{
+	"_id": "aYCXSjjVBxLG0smE",
+	"_key": "!actors!aYCXSjjVBxLG0smE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/fire-goblins.webp",
+	"items": [
+		"ys28eooKTi58TRaF",
+		"tM06E0wJsneGzpuw",
+		"1y1khqG8KKRtO8bp",
+		"COerzP6Xqb8HZ2Y0"
+	],
+	"name": "Fire Goblin",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Fire Goblin",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/fire-goblins.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": -1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 5,
+				"value": 5
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>When the moon rises on the longest night of the year, all goblins are filled with a primal, fiery power that lasts until dawn. On this night, the fire goblins burn! Triumphant goblins with crescent moon smiles and flickering eyes. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 5, <strong>ATK</strong> 1 club +0 (1d4) or 1 fire blast (far) +1 (1d6 + burn), <strong>MV</strong> near, <strong>S</strong> +0, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -1, <strong>W</strong> -1, <strong>Ch</strong> -2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Keen Senses</strong>. Can’t be surprised.</p><p></p><p><strong>Burn</strong>. Flammable objects the target carries ignite (1d4 damage on turn).</p><p></p>\n\t<p><i>Art by Yuri Perkowski-Domingos, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

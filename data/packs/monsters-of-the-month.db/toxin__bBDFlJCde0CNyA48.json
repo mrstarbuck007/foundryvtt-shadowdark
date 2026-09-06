@@ -1,0 +1,20 @@
+{
+	"_id": "bBDFlJCde0CNyA48",
+	"_key": "!actors.items!PN8qIt020ayl6etl.bBDFlJCde0CNyA48",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Toxin",
+	"system": {
+		"description": "<p>A creature who touches the sting barnacle with bare flesh DC 12 CON or paralyzed [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

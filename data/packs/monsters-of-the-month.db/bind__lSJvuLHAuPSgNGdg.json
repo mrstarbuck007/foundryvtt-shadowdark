@@ -1,0 +1,20 @@
+{
+	"_id": "lSJvuLHAuPSgNGdg",
+	"_key": "!actors.items!hfgz2qgBCHSoxntc.lSJvuLHAuPSgNGdg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Bind",
+	"system": {
+		"description": "<p>Chaotic creature DC 12 CON or paralyzed 1 round.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

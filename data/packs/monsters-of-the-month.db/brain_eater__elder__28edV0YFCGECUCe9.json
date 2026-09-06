@@ -1,0 +1,75 @@
+{
+	"_id": "28edV0YFCGECUCe9",
+	"_key": "!actors!28edV0YFCGECUCe9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/brain-eaters.webp",
+	"items": [
+		"C22oLz0fFrQM3uGI",
+		"te9BbOMtorOcgsIC",
+		"4oWQJQiITeRNQswi",
+		"eluuHhEPahupJ80r",
+		"qa4K3kakp56MMGA2"
+	],
+	"name": "Brain Eater, Elder",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Brain Eater, Elder",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/brain-eaters.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 45,
+				"value": 45
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Brain eaters build spiral-shaped citadels inside massive caverns deep beneath the earth. An ancient alpha brain guides each colony, telepathically deploying its children in the service of its eons-long plots. Nine elder brain eaters tend directly to the alpha brain, acting as its lieutenants. They gain some of its telepathic power in return. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16 (mithral chain), <strong>HP</strong> 45, <strong>ATK</strong> 4 tentacle +6 (1d8 + latch) or 1 mind blast or 1 mind control, <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> +4, <strong>W</strong> +2, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Telepathic</strong>. Can hear the surface thoughts of all creatures within far and speak telepathically with up to two creatures at a time. DC 12 CHA to resist its commands.</p><p></p><p><strong>Latch</strong>. Tentacles attach to hit targets, automatically hitting next round (DC 12 STR on turn to remove 1d4 tentacles). If all four remain latched onto the same humanoid target for 1 round, the target’s brain is ripped out and devoured.</p><p></p><p><strong>Mind Blast</strong>. Fills a near-sized cube extending from brain eater. DC 15 INT or 3d6 damage and paralyzed 1d4 rounds.</p><p></p><p><strong>Mind Control</strong>. One target in near DC 15 CHA or brain eater controls for 1d4 rounds.</p><p></p>\n\t<p><i>Art by Lucas Korte, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

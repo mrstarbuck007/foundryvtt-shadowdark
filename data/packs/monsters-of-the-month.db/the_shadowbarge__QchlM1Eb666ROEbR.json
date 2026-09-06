@@ -1,0 +1,76 @@
+{
+	"_id": "QchlM1Eb666ROEbR",
+	"_key": "!actors!QchlM1Eb666ROEbR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/shadowbarge.webp",
+	"items": [
+		"NLHh6GwmvdriRDnQ",
+		"1JddqzOtiLjRsL5d",
+		"cxApJBt22Fertr1Q",
+		"HjO1xCejirf2d8K8",
+		"Iag3WQRZiaoognPx",
+		"mdLpdgvHOylktX9o"
+	],
+	"name": "The Shadowbarge",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "The Shadowbarge",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/shadowbarge.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 20
+			},
+			"hp": {
+				"max": 81,
+				"value": 81
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 17,
+			"xp": 0
+		},
+		"move": "far",
+		"moveNote": "sail",
+		"notes": "\n\t<p><i>This massive, ethereal vessel skims across the fabric of reality, a ghostly galleon said to be steered by lost souls. It glides silently through the night, appearing where the veil between worlds is thinnest. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 20, <strong>HP</strong> 81, <strong>ATK</strong> 4 spectral cannons (near) +10 (2d10), <strong>MV</strong> far (sail), <strong>S</strong> +0, <strong>D</strong> +0, <strong>C</strong> +5, <strong>I</strong> +3, <strong>W</strong> +4, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> 17</p><p></p>\n\t<p><strong>Legendary Vessel</strong>. The Shadowbarge is a ship of legend and is immune to conventional damage. It can only be harmed by magical sources.</p><p></p><p><strong>Soul Anchor</strong>. The Shadowbarge is anchored in reality by 2d6 wraiths that man it. If the souls are released or put to rest, the Shadowbarge may fade from existence.</p><p></p><p><strong>Ethereal Sailing</strong>. Traverses ethereal and material planes at will, bypassing physical obstacles and appearing without warning. Can only be halted by local festivals, where it docks to partake in the celebrations.</p><p></p><p><strong>Wail of the Damned</strong>. Once per day, the Shadowbarge can emit a ghastly wail. All who hear it within double near DC 15 WIS or be paralyzed with fear for 1d4 rounds.</p><p></p><p><strong>Treasure of the Beyond</strong>. Holds countless treasures plundered from sunken ships. Roll with advantage on treasure tables.</p><p></p>\n\t<p><i>Shadowbarge design by Taylor Seely-Wright, used with permission. Illustration by Matt Morrow.</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

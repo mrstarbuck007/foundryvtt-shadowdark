@@ -1,0 +1,75 @@
+{
+	"_id": "vwCcRewXw4kp6mc1",
+	"_key": "!actors!vwCcRewXw4kp6mc1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/the-mad-jester.webp",
+	"items": [
+		"PYoesXnUW2sXtYCf",
+		"tg9ZmgP67aWF2eXb",
+		"a18w5wNOSs1oPAw5",
+		"GfofHqTbFsRiomBO",
+		"WblzNGutb756Fr8s"
+	],
+	"name": "The Mad Jester",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "The Mad Jester",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/the-mad-jester.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 40,
+				"value": 40
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Prospero was once the Overlord’s favored jester. He was a supreme acrobat and showman, able to perform dazzling leaps and juggling feats that no other harlequin dared. Rumors held that Prospero had fey magic in his blood. One day, a noble guest in the Overlord’s court suddenly threw off her disguise, revealing a trained wizard-assassin from Khadesh. She flung a mind-shattering spell at the Overlord, but a darting flash of checkered cloth and tinkling bells intercepted the bolt. Then, chaos erupted in the throne room. Later, some courtesans would say they saw Prospero stagger to a hidden panel in the wall and disappear down a flight of stairs that led to the citadel’s dank dungeons... </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 40, <strong>ATK</strong> 3 juggling knives (close/near) +6 (1d6) and 1 got your nose and 1 dazzling orb, <strong>MV</strong> near (climb), <strong>S</strong> +1, <strong>D</strong> +4, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Dazzling Orb</strong>. All creatures in near DC 15 CON or blinded for 1 round by a brilliant flash of multicolored light.</p><p></p><p><strong>Got Your Nose</strong>. The Jester makes a DC 15 DEX check to magically pluck an ear, nose, or eye from a creature within close. Stolen anatomy is stored in a bag the Jester carries (can be re-attached by placing in original location).</p><p></p><p><strong>Induce Fugue</strong>. Each time a creature misses an attack or fails a spellcasting check targeting The Mad Jester, that creature loses 1 XP (0 minimum).</p><p></p><p><strong>Tumble</strong>. In place of attacks, move up to double near. The Mad Jester’s AC becomes 18 until the start of his next turn.</p><p></p>\n\t<p><i>Art by Jessee Egan</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

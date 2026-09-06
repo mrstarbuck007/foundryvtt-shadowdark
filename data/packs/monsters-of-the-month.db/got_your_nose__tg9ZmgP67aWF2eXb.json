@@ -1,0 +1,28 @@
+{
+	"_id": "tg9ZmgP67aWF2eXb",
+	"_key": "!actors.items!vwCcRewXw4kp6mc1.tg9ZmgP67aWF2eXb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Got Your Nose",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>The Jester makes a DC 15 DEX check to magically pluck an ear, nose, or eye from a creature within close. Stolen anatomy is stored in a bag the Jester carries (can be re-attached by placing in original location).</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Special Attack"
+}

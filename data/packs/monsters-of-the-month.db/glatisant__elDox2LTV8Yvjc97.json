@@ -1,0 +1,20 @@
+{
+	"_id": "elDox2LTV8Yvjc97",
+	"_key": "!actors.items!zacI6VUmh21tD2o1.elDox2LTV8Yvjc97",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Glatisant",
+	"system": {
+		"description": "<p>Loud yelps and barks, as if from a dozen hounds, emanate from the beast's belly when it opens its maw. Creatures within near who are not aware of the beast have DISADV on INT, CHA, and WIS based checks.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

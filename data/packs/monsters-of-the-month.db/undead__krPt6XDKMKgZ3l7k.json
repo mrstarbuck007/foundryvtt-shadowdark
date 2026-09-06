@@ -1,0 +1,20 @@
+{
+	"_id": "krPt6XDKMKgZ3l7k",
+	"_key": "!actors.items!s8EZSe6vtUYgJ4sf.krPt6XDKMKgZ3l7k",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Undead",
+	"system": {
+		"description": "<p>Immune to morale checks.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

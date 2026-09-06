@@ -1,0 +1,40 @@
+{
+	"_id": "lQOWAIXq9kUqGERp",
+	"_key": "!actors.items!IUJv5SgEIMDfCqyP.lQOWAIXq9kUqGERp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Mind Melt",
+	"system": {
+		"attack": {
+			"num": 2
+		},
+		"bonuses": {
+			"attackBonus": 4,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 2,
+			"special": "",
+			"value": "2d6"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"far"
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "MlNHcS62RdylraVw",
+	"_key": "!actors.items!fel0ZbDnCeqY9jMg.MlNHcS62RdylraVw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Keen Senses",
+	"system": {
+		"description": "<p>Can’t be surprised.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

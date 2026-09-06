@@ -1,0 +1,28 @@
+{
+	"_id": "uRfNkpoq365AoJnf",
+	"_key": "!actors.items!fZpm2zvnYyGJuaoU.uRfNkpoq365AoJnf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Steal Flame",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Steal the light from one light source within double near. The light source is extinguished, and the light transfers into Lantern Head’s lantern.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Special Attack"
+}

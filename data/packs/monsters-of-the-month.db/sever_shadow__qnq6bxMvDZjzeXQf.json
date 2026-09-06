@@ -1,0 +1,28 @@
+{
+	"_id": "qnq6bxMvDZjzeXQf",
+	"_key": "!actors.items!InE4McXp3GRo0m5t.qnq6bxMvDZjzeXQf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Sever Shadow",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 7
+		},
+		"description": "<p>The target creature’s shadow peels off and becomes a hostile shadow (Shadowdark RPG pg. 250).</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Special Attack"
+}

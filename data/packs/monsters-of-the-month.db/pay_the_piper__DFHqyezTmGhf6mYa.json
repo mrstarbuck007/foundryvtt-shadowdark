@@ -1,0 +1,20 @@
+{
+	"_id": "DFHqyezTmGhf6mYa",
+	"_key": "!actors.items!InE4McXp3GRo0m5t.DFHqyezTmGhf6mYa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pay the Piper",
+	"system": {
+		"description": "<p>If you don’t pay The Piper for an agreed-upon debt, a curse strikes you in [[/r 1d4]] days. You suddenly rise and dance out of town into the wilderness as far as you can go for [[/r 2d4]] days without rest.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

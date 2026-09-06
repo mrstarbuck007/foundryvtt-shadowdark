@@ -1,0 +1,28 @@
+{
+	"_id": "UBwjeFlEuC79KOLH",
+	"_key": "!actors.items!Nb5OMg0j5QlWPebY.UBwjeFlEuC79KOLH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Howl",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All who hear it DC 12 CHA or cannot act on their next turn.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Special Attack"
+}

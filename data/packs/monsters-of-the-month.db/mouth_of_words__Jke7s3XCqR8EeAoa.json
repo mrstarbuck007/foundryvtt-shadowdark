@@ -1,0 +1,75 @@
+{
+	"_id": "Jke7s3XCqR8EeAoa",
+	"_key": "!actors!Jke7s3XCqR8EeAoa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/mouth-of-words.webp",
+	"items": [
+		"wgxjZ9aD0hejKXoT",
+		"QJhD6tA48VTBZP3D",
+		"g5y79WAJm9AAJ7N4",
+		"nh5Yykli6npZhbyv",
+		"izsduyvp8T2suCbl"
+	],
+	"name": "Mouth of Words",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Mouth of Words",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/mouth-of-words.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": -2
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": -2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 20,
+				"value": 20
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Have you ever wondered why wizards know so many languages? It’s because not every spell is written in Common! Casting spells written in unknown languages can be dangerous, as even a slight deviation from the scroll can lead to unintended consequences. The Mouth of Words knows this from experience! In an attempt at immortality, a real chatterbox of a wizard cast a spell so that “my voice will forever be heard.” Their talkative mouth lives on while still attached to their undead corpse. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 20, <strong>ATK</strong> 1 slam +2 (1d6) or 1 spell +3, <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> -2, <strong>C</strong> +2, <strong>I</strong> +2, <strong>W</strong> -2, <strong>Ch</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Undead</strong>. Immune to morale checks.</p><p></p><p><strong>Relentless</strong>. If reduced to 0 HP by a non-magical source, DC 15 CON to go to 1 HP instead.</p><p></p><p><strong>Outer Monologue (INT Spell)</strong>. DC 12. One target in near can’t stop speaking their inner monologue out loud for 1d4 rounds. Attacks and spellcasting checks are made with DISADV for duration.</p><p></p><p><strong>Sticks and Stones (INT Spell)</strong>. DC 13. Creatures within near are berated with insults that really may break bones. They all take 1d6 damage.</p><p></p>\n\t<p><i>Monster design by Michael Putlack. Art by Cameron Maas, 2026.</i></p>",
+		"spellcasting": {
+			"ability": "int",
+			"attacks": 1,
+			"bonus": 3
+		}
+	},
+	"type": "NPC"
+}

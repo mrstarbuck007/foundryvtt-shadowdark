@@ -1,0 +1,20 @@
+{
+	"_id": "ihFsNQkaThYJcF6F",
+	"_key": "!actors.items!2dPlaiVImLt34Hqb.ihFsNQkaThYJcF6F",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dire Shapechange",
+	"system": {
+		"description": "<p>In place of attacks, turn into a giant bat, dire wolf, or back into regular form.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

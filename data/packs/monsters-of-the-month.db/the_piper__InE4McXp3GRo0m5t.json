@@ -1,0 +1,75 @@
+{
+	"_id": "InE4McXp3GRo0m5t",
+	"_key": "!actors!InE4McXp3GRo0m5t",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/the-piper.webp",
+	"items": [
+		"a2mvpzrcainaeAw1",
+		"qnq6bxMvDZjzeXQf",
+		"9oYd96RhvyDywUKg",
+		"LLJTPOBnPEjLUVgr",
+		"DFHqyezTmGhf6mYa"
+	],
+	"name": "The Piper",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "The Piper",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/the-piper.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 49,
+				"value": 49
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>A thin man cloaked in once-bright robes smiles widely beneath his hood. He carries a bone-white flute in knuckled hands, trilling and warbling as he meanders through the streets. Children flock to his songs, but their scolding mothers pull them back through tightly shuttered doors. A few days after The Piper passes, rats become restless and vicious. Cats are found with their throats torn out, and disease festers in the streets. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14 (leather armor), <strong>HP</strong> 49, <strong>ATK</strong> 2 discordant note (near) +9 (1d8) and 1 sever shadow +7 and 1 puppetry, <strong>MV</strong> near (climb), <strong>S</strong> +2, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +2, <strong>Ch</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Cursed Flute</strong>. The Piper carries a magical flute that grants him the below talents. He can use each once per encounter. If a humanoid creature bears the flute for 2d6 days, that person becomes The Piper. Ratsplosion: Summon a loyal swarm of rats (Shadowdark RPG pg. 245). If common folk are nearby, up to 2d6 of them melt down into these rats. Dissolve Into Rats: If The Piper goes below 10 HP, he explodes into a swarm of rats and flees. The one albino rat in the swarm is The Piper.</p><p></p><p><strong>Pay The Piper</strong>. If you don’t pay The Piper for an agreed-upon debt, a curse strikes you in 1d4 days. You suddenly rise and dance out of town into the wilderness as far as you can go for 2d4 days without rest.</p><p></p><p><strong>Puppetry</strong>. One target in near. DC 15 CHA or use next action to attack ally.</p><p></p><p><strong>Sever Shadow</strong>. The target creature’s shadow peels off and becomes a hostile shadow (Shadowdark RPG pg. 250).</p><p></p>\n\t<p><i>Art by Yuri Perkowski-Domingos, 2023. “Legend of The Piper” adapted from @Grognard</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

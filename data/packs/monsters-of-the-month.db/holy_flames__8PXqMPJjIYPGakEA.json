@@ -1,0 +1,20 @@
+{
+	"_id": "8PXqMPJjIYPGakEA",
+	"_key": "!actors.items!dhlbKqL1NiMMfgcU.8PXqMPJjIYPGakEA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Holy Flames",
+	"system": {
+		"description": "<p>Deals +[[/r 2d6]] damage against chaotic creatures.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

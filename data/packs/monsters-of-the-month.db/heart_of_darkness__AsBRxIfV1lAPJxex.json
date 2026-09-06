@@ -1,0 +1,20 @@
+{
+	"_id": "AsBRxIfV1lAPJxex",
+	"_key": "!actors.items!2dPlaiVImLt34Hqb.AsBRxIfV1lAPJxex",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Heart of Darkness",
+	"system": {
+		"description": "<p>Hedron is the progeny of Obe-Ixx, the Ur-Vampire; her ancient evil suffuses his soul. Holy magic targeting him is DC 18 to cast.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

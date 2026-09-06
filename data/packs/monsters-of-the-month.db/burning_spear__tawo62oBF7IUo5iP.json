@@ -1,0 +1,40 @@
+{
+	"_id": "tawo62oBF7IUo5iP",
+	"_key": "!actors.items!fel0ZbDnCeqY9jMg.tawo62oBF7IUo5iP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Burning Spear",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 3,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 1,
+			"special": "",
+			"value": "1d8"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"near"
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Attack"
+}

@@ -1,0 +1,40 @@
+{
+	"_id": "LHfcp7ua1Av73azo",
+	"_key": "!actors.items!hfgz2qgBCHSoxntc.LHfcp7ua1Av73azo",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Blessed Flail",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 4,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 1,
+			"special": "Bind",
+			"value": "1d10"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"close"
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Attack"
+}

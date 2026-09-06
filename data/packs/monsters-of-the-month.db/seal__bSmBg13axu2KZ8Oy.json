@@ -1,0 +1,29 @@
+{
+	"_id": "bSmBg13axu2KZ8Oy",
+	"_key": "!actors.items!hfgz2qgBCHSoxntc.bSmBg13axu2KZ8Oy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Seal",
+	"system": {
+		"class": [
+		],
+		"description": "<p>Close, one chaotic creature. 5 rounds. DISADV on attacks and spellcasting checks.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "Monsters of the Month"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

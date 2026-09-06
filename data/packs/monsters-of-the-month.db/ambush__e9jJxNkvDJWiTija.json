@@ -1,0 +1,20 @@
+{
+	"_id": "e9jJxNkvDJWiTija",
+	"_key": "!actors.items!KbazZhkAJHc7gxEk.e9jJxNkvDJWiTija",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ambush",
+	"system": {
+		"description": "<p>Deal three extra dice of damage when undetected.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

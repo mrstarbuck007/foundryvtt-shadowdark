@@ -1,0 +1,76 @@
+{
+	"_id": "IUJv5SgEIMDfCqyP",
+	"_key": "!actors!IUJv5SgEIMDfCqyP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/fungibolds.webp",
+	"items": [
+		"lQOWAIXq9kUqGERp",
+		"XyLEUKXQJoIw2SEt",
+		"7R7qVUdNSPY8y8q0",
+		"vf5tw9yytMMubYct",
+		"XFwCGbN1BehxTHo1",
+		"Kjpqztytbp5Qs7iC"
+	],
+	"name": "Fungibold, Magi",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Fungibold, Magi",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/fungibolds.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": -4
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 6
+			},
+			"hp": {
+				"max": 30,
+				"value": 30
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "none",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Fungibolds are deep-dwelling kobolds who have become one with the cave mushrooms, forming a hive mind. Their magi leaders become anchored to the earth as they merge with the vast network of underground fungi roots. A pale, fat mushroom of waist-height with a scintillating cap of flowing colors. A smooth, lizard-like face is carved into the flesh of the stem. A knowing intelligence winks in its black, glittering eyes. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 6, <strong>HP</strong> 30, <strong>ATK</strong> 2 mind melt (far) +4 (2d6) or 1 spell +4 or 1 spore blast, <strong>MV</strong> none, <strong>S</strong> -4, <strong>D</strong> -4, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> N, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Hive Mind</strong>. Can telepathically speak with other fungibolds within a mile.</p><p></p><p><strong>Spore Blast</strong>. Enemies in near DC 12 CON or fall asleep 1d4 rounds. Creatures who pass immune 1 day.</p><p></p><p><strong>Confusion (WIS Spell)</strong>. DC 13. Far, one target. DC 15 WIS or target can’t take actions and moves in a random direction on its turn for 1d4 rounds.</p><p></p><p><strong>Mind Meld (WIS Spell)</strong>. DC 11. Near, one target creature. DC 12 WIS or target connected to Hive Mind as if it were a fungibold. Lasts 1 day.</p><p></p><p><strong>Poison Spores (WIS Spell)</strong>. DC 12. All non-fungibolds in near DC 12 CON or take 1d6 damage per round (cumulative if from multiple spells). DC 12 CON on turn to end all effects.</p><p></p>\n\t<p><i>Art by Jessee Egan, 2023</i></p>",
+		"spellcasting": {
+			"ability": "wis",
+			"attacks": 1,
+			"bonus": 4
+		}
+	},
+	"type": "NPC"
+}

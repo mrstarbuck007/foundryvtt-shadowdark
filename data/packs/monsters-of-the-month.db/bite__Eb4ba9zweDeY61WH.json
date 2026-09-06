@@ -1,0 +1,40 @@
+{
+	"_id": "Eb4ba9zweDeY61WH",
+	"_key": "!actors.items!DCRenet8WCkzdvdN.Eb4ba9zweDeY61WH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Bite",
+	"system": {
+		"attack": {
+			"num": 3
+		},
+		"bonuses": {
+			"attackBonus": 7,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 2,
+			"special": "Poison",
+			"value": "2d8"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"close"
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Attack"
+}

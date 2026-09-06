@@ -1,0 +1,20 @@
+{
+	"_id": "bVNDtJ80E9aWpXZZ",
+	"_key": "!actors.items!Nb5OMg0j5QlWPebY.bVNDtJ80E9aWpXZZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Silver Aversion",
+	"system": {
+		"description": "<p>Takes double damage from silvered weapons. Cannot cross a threshold that has a silver object hung over it.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

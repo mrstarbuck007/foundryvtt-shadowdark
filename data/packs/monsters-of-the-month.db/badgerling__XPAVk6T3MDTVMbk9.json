@@ -1,0 +1,73 @@
+{
+	"_id": "XPAVk6T3MDTVMbk9",
+	"_key": "!actors!XPAVk6T3MDTVMbk9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/badgerlings.webp",
+	"items": [
+		"IujpbXyxzJCLuw0r",
+		"HbubxhgLC9huSq8p",
+		"uZ71yCd6CNCv3WSU"
+	],
+	"name": "Badgerling",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Badgerling",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/badgerlings.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 9,
+				"value": 9
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Badgerlings are elite warrior-halflings who model their combat style upon the vicious, burrow-dwelling badger. They wear badgerskin cloaks and attack from ambush before fading away again to set up a new surprise assault. Badgerlings are both feared and respected by their fellow halflings. Badgerling warbands only follow halfling commanders (see Warband rules in Game Master’s Guide to the Western Reaches). A wild-eyed halfling wearing a badger skin cloak and wielding a sharply honed axe in each hand. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13 (leather), <strong>HP</strong> 9, <strong>ATK</strong> 1 handaxe (close/near) +2 (1d6), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Ambush</strong>. Deal an extra die of damage when undetected.</p><p></p><p><strong>Invisibility</strong>. Once per day, turn invisible for 3 rounds. Attacking ends the invisibility.</p><p></p>\n\t<p><i>Art by Yuri Perkowski Domingos, 2023</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

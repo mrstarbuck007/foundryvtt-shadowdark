@@ -1,0 +1,75 @@
+{
+	"_id": "dhlbKqL1NiMMfgcU",
+	"_key": "!actors!dhlbKqL1NiMMfgcU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/monsters-of-the-month/sisters-of-saint-sofia.webp",
+	"items": [
+		"r7CgQJRfphE4A5KP",
+		"8PXqMPJjIYPGakEA",
+		"UVAGEk16Y4VLo02E",
+		"t26fU2g4MU5ZfnTe",
+		"54QV5ukJMTmo2nTc"
+	],
+	"name": "Sister Marjory",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Sister Marjory",
+		"texture": {
+			"src": "systems/shadowdark/assets/monsters-of-the-month/tokens/sisters-of-saint-sofia.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 37,
+				"value": 37
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Centuries ago, Saint Sofia sacrificed her divine spark and living form to bind the mountain-sized demon, Tchernabog, into a permanent slumber. Now, a grim order of nuns called the Sisters of Saint Sofia carry on her selfless duty. They travel the land far and wide, seeking out demonic possessions and wicked creatures of chaos to bind, destroy, and banish into eternal darkness. The head of the order. Weathered and grim. Wears an eyepatch. Does not tolerate cowardice or laziness. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16 (+1 plate mail), <strong>HP</strong> 37, <strong>ATK</strong> 2 sacred flail +7 (1d10 + holy flames) and 2 spell +6, <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +0, <strong>C</strong> +1, <strong>I</strong> +1, <strong>W</strong> +4, <strong>Ch</strong> +2, <strong>AL</strong> L, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Holy Flames</strong>. Deals +2d6 damage against chaotic creatures.</p><p></p><p><strong>Angel Wings (WIS Spell)</strong>. DC 13. Self. Fly double near for 5 rounds.</p><p></p><p><strong>Exorcise (WIS Spell)</strong>. DC 12. Near. End a possession by a chaotic entity.</p><p></p><p><strong>Gaze of St</strong>. Sofia (WIS Spell). DC 14. One chaotic creature in far 2d6 damage. Marjory regains 1d8 HP.</p><p></p>\n\t<p><i>Art by Yuri Perkowski-Domingos, 2023</i></p>",
+		"spellcasting": {
+			"ability": "wis",
+			"attacks": 2,
+			"bonus": 6
+		}
+	},
+	"type": "NPC"
+}

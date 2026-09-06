@@ -1,0 +1,20 @@
+{
+	"_id": "qa4K3kakp56MMGA2",
+	"_key": "!actors.items!28edV0YFCGECUCe9.qa4K3kakp56MMGA2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Latch",
+	"system": {
+		"description": "<p>Tentacles attach to hit targets, automatically hitting next round (DC 12 STR on turn to remove [[/r 1d4]] tentacles). If all four remain latched onto the same humanoid target for 1 round, the target’s brain is ripped out and devoured.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

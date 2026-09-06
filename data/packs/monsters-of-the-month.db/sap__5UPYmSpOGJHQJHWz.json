@@ -1,0 +1,20 @@
+{
+	"_id": "5UPYmSpOGJHQJHWz",
+	"_key": "!actors.items!T66FLPI9DtgOwaHW.5UPYmSpOGJHQJHWz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sap",
+	"system": {
+		"description": "<p>Jolly roger heals [[/r 1d4]] HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

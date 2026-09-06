@@ -1,0 +1,20 @@
+{
+	"_id": "W3h45PMPKnXEmdKp",
+	"_key": "!actors.items!DCRenet8WCkzdvdN.W3h45PMPKnXEmdKp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>DC 15 CON or paralyzed [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}

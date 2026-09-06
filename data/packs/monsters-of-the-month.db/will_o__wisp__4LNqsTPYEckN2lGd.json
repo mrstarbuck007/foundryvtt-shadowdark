@@ -1,0 +1,20 @@
+{
+	"_id": "4LNqsTPYEckN2lGd",
+	"_key": "!actors.items!fZpm2zvnYyGJuaoU.4LNqsTPYEckN2lGd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Will-o’-Wisp",
+	"system": {
+		"description": "<p>In place of attacks, Lantern Head transforms the light in his lantern into an allied will-o’-wisp that joins the fight. The light in his lantern is extinguished.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Monsters of the Month"
+		}
+	},
+	"type": "NPC Feature"
+}
