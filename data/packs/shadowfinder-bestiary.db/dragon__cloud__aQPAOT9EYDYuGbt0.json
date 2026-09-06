@@ -1,0 +1,73 @@
+{
+	"_id": "aQPAOT9EYDYuGbt0",
+	"_key": "!actors!aQPAOT9EYDYuGbt0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"ywvZwPsv5pdBMbKh",
+		"0KSAVAHfCLizg6go",
+		"qu6XrWQnsKphkKEr"
+	],
+	"name": "Dragon, Cloud",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Dragon, Cloud",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": -2
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 58,
+				"value": 58
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Ivory scales and four horns frame the snout of this 70- foot-long wind dragon. Fickle, capricious, erratic.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 58, <strong>ATK</strong> 3 rend +8 (2d8) or 1 storm breath, <strong>MV</strong> double near (fly, swim), <strong>S</strong> +4, <strong>D</strong> -2, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Storm Breath</strong>. A double near- size cube of obscuring fog and shocking electricity extending from dragon. CON 15+ or 2d8 damage. Lasts 1d4 rounds, damage each round.</p><p></p><p><strong>Stormblood</strong>. Lightning immune and unaffected by fog, mist, or vapors.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

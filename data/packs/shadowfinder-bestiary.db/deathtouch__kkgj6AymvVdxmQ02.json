@@ -1,0 +1,30 @@
+{
+	"_id": "kkgj6AymvVdxmQ02",
+	"_key": "!actors.items!DhcI8d7h51eUMxVQ.kkgj6AymvVdxmQ02",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Deathtouch",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>[[/r 2d4]] damage to one creature within close.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

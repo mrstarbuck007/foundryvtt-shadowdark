@@ -1,0 +1,28 @@
+{
+	"_id": "QUvXuhSgmAiMxvIc",
+	"_key": "!actors.items!5kq0YrwnbuxQK3vS.QUvXuhSgmAiMxvIc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Summon Spiders",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>3/day, summon [[/r 2d4]] loyal giant spiders that appear within near. They stay for 5 rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

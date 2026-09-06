@@ -1,0 +1,20 @@
+{
+	"_id": "5WasOai3dlUg8gNA",
+	"_key": "!actors.items!2LBWlBvBX8bgCpEs.5WasOai3dlUg8gNA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Deep Dweller",
+	"system": {
+		"description": "<p>Immune to harm from fire and cold.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

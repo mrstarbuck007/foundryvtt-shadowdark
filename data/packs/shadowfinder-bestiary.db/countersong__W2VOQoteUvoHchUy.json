@@ -1,0 +1,28 @@
+{
+	"_id": "W2VOQoteUvoHchUy",
+	"_key": "!actors.items!baYtToCvnaOateHO.W2VOQoteUvoHchUy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Countersong",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Possessed or charmed mortals within double near make a [[check 15 cha]] to be freed.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

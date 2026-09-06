@@ -1,0 +1,40 @@
+{
+	"_id": "20XF650EWdyXRL1r",
+	"_key": "!actors.items!hGlP3CDItuyjeXyq.20XF650EWdyXRL1r",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Bite",
+	"system": {
+		"attack": {
+			"num": 2
+		},
+		"bonuses": {
+			"attackBonus": 3,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 2,
+			"special": "Poison",
+			"value": "2d6"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"close"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "haZxkATsBa1VDzl5",
+	"_key": "!actors.items!1F7wuZvEmcdsslZM.haZxkATsBa1VDzl5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>[[check 18 con]] or go to 0 HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

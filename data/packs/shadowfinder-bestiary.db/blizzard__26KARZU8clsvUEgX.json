@@ -1,0 +1,20 @@
+{
+	"_id": "26KARZU8clsvUEgX",
+	"_key": "!actors.items!R66Klg7sRMaoAQvG.26KARZU8clsvUEgX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blizzard",
+	"system": {
+		"description": "<p>Using its frost breath, creates freezing fog and snow in a far area around dragon.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

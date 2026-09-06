@@ -1,0 +1,28 @@
+{
+	"_id": "weRJUalicHSZ9SNP",
+	"_key": "!actors.items!uWAGY6aScOCRwSGx.weRJUalicHSZ9SNP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Steal Magic",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Touch creature, [[check 15 cha]] or beneficial magic is dispelled (dispel magic). If magic is dispelled, creature takes [[/r 2d6]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

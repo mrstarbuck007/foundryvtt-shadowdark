@@ -1,0 +1,28 @@
+{
+	"_id": "p8a3LC9L3iUN2tpg",
+	"_key": "!actors.items!YyWUcxzvOTQBwwzj.p8a3LC9L3iUN2tpg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Ice Gout",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A near-sized cube extending from mephit, [[check 9 con]] or slowed for 1 round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

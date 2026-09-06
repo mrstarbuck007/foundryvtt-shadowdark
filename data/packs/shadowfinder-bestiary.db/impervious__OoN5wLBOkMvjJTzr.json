@@ -1,0 +1,20 @@
+{
+	"_id": "OoN5wLBOkMvjJTzr",
+	"_key": "!actors.items!xs1Dq5hJw3neuPbr.OoN5wLBOkMvjJTzr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Only damaged by fire or wind. Dispersed and destroyed by a strong wind.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

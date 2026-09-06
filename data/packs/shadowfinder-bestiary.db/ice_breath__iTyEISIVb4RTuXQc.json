@@ -1,0 +1,28 @@
+{
+	"_id": "iTyEISIVb4RTuXQc",
+	"_key": "!actors.items!fHMudq2LRrKhaqqy.iTyEISIVb4RTuXQc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Ice Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a double near-sized cube extending from dragon. [[check 15 dex]] or [[/r 4d8]] damage and frozen for 1 round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

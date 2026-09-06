@@ -1,0 +1,72 @@
+{
+	"_id": "wQCcqA5DLcjfyytc",
+	"_key": "!actors!wQCcqA5DLcjfyytc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"E57FiFiwmf6PbIZk",
+		"TrAA9yDu91A9gh3b"
+	],
+	"name": "Sylph",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Sylph",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": -1
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": -1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 3,
+				"value": 3
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Pale, nimble humanoid with air elemental ancestry, often a djinn or other being.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13 (leather), <strong>HP</strong> 3, <strong>ATK</strong> 1 dagger (close/near) +1 (1d4), <strong>MV</strong> near, <strong>S</strong> -1, <strong>D</strong> +2, <strong>C</strong> -1, <strong>I</strong> +1, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Air-Born</strong>. Half damage from electricity. DEX 12+ when falling to take no damage.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

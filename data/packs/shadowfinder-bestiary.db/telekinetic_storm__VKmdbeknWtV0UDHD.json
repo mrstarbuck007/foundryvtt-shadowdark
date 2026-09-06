@@ -1,0 +1,28 @@
+{
+	"_id": "VKmdbeknWtV0UDHD",
+	"_key": "!actors.items!PazsdHUrhZBzm8SK.VKmdbeknWtV0UDHD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Telekinetic Storm",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>For 5 rounds, debris and dust fills a near-sized cube centered on demilich. Mortal creatures inside cloud are blinded and take [[/r 2d6]] damage per round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

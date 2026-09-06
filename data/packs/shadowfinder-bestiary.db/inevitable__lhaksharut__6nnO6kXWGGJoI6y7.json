@@ -1,0 +1,74 @@
+{
+	"_id": "6nnO6kXWGGJoI6y7",
+	"_key": "!actors!6nnO6kXWGGJoI6y7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"UgcWEkmxVdIOvrLu",
+		"ly6j0th39th2GnmY",
+		"iamHPppimbJZ1bAq",
+		"4X0XVr1QQ2GGDg1K"
+	],
+	"name": "Inevitable, Lhaksharut",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Inevitable, Lhaksharut",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 17
+			},
+			"hp": {
+				"max": 53,
+				"value": 53
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Six armed beings, torso and head of a granite humanoid, lower torso of oscillating rings. Tasked with maintaining the separation of planes of existence.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 17, <strong>HP</strong> 53, <strong>ATK</strong> 6 longsword +7 (1d8) or 6 ray +10 (1d8), <strong>MV</strong> near (fly), <strong>S</strong> +5, <strong>D</strong> +2, <strong>C</strong> +4, <strong>I</strong> +1, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> L, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Energetic</strong>. Fire rays of any elemental energy. Immune to elemental damage.</p><p></p><p><strong>Perfect Prediction</strong>. ADV on all attacks and checks.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

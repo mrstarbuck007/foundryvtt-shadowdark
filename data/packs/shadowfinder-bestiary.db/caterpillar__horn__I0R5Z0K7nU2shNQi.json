@@ -1,0 +1,73 @@
+{
+	"_id": "I0R5Z0K7nU2shNQi",
+	"_key": "!actors!I0R5Z0K7nU2shNQi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"4QI0y01rO3dWjnCf",
+		"sk7N7mi79coP0Vwc",
+		"mIfKyCSCXquZJbAB"
+	],
+	"name": "Caterpillar, Horn",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Caterpillar, Horn",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Greenish-white caterpillar with long spines, the size of a large dog. Never turns into a butterfly, keeps molting into bigger larvae. Vermin, feed on cattle and livestock.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 4, <strong>ATK</strong> 1 bite +0 (1d6 + poison), <strong>MV</strong> near (climb), <strong>S</strong> +0, <strong>D</strong> +0, <strong>C</strong> +0, <strong>I</strong> -2, <strong>W</strong> +1, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Bristles</strong>. Creatures touching or striking caterpillar in melee, DEX 9+ or take 1d4 damage.</p><p></p><p><strong>Poison</strong>. CON 9+ or 1d4 DEX damage. Paralyzed at 0 DEX.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

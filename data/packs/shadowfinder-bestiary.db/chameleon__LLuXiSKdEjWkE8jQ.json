@@ -1,0 +1,20 @@
+{
+	"_id": "LLuXiSKdEjWkE8jQ",
+	"_key": "!actors.items!eMPy2EpeaaKVDjZB.LLuXiSKdEjWkE8jQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Chameleon",
+	"system": {
+		"description": "<p>Blend into the background. Has ADV when sneaking or hiding.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,40 @@
+{
+	"_id": "kEFqxOvP8CKZo9XK",
+	"_key": "!actors.items!MshYHkCMqLQgUUPy.kEFqxOvP8CKZo9XK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Gore",
+	"system": {
+		"attack": {
+			"num": 2
+		},
+		"bonuses": {
+			"attackBonus": 7,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 2,
+			"special": "",
+			"value": "2d10"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"close"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Attack"
+}

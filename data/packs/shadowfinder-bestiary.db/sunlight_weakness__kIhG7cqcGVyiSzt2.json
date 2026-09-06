@@ -1,0 +1,20 @@
+{
+	"_id": "kIhG7cqcGVyiSzt2",
+	"_key": "!actors.items!h9bMiMHsH2g49EVF.kIhG7cqcGVyiSzt2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sunlight Weakness",
+	"system": {
+		"description": "<p>Cannot take actions in direct sunlight, only move.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

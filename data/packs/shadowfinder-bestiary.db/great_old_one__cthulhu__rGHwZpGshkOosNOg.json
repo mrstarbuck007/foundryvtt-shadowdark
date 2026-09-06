@@ -1,0 +1,75 @@
+{
+	"_id": "rGHwZpGshkOosNOg",
+	"_key": "!actors!rGHwZpGshkOosNOg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"LNvCabFsdKLNNvCh",
+		"jzZ0IajKNTpQ3fep",
+		"jiCfj5oqQ8dU68QB",
+		"OaNiBrxx6WFmCxcO",
+		"6T8UWzevO7Ayvcuw"
+	],
+	"name": "Great Old One, Cthulhu",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Great Old One, Cthulhu",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 87,
+				"value": 87
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 18,
+			"xp": 0
+		},
+		"move": "far",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Colossal sea abomination with an octopus head and a slimy, humanoid body.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 87, <strong>ATK</strong> 4 rend (near) +12 (4d8), <strong>MV</strong> far (fly, swim), <strong>S</strong> +6, <strong>D</strong> +2, <strong>C</strong> +6, <strong>I</strong> +4, <strong>W</strong> +5, <strong>Ch</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 18</p><p></p>\n\t<p><strong>Chaos Incarnate</strong>. Mortals within near of Cthulhu, CHA 15+ or die. On success, immune.</p><p></p><p><strong>Madness</strong>. Warps reality for all mortals within far. Each turn, WIS 18+ or 2d4 WIS damage. Insane at 0 WIS.</p><p></p><p><strong>Non-Euclidean</strong>. Warps the weave of space and time. Attacks and spells against Cthulhu have DISADV.</p><p></p><p><strong>Pure Evil</strong>. Only damaged by magic sources. Dissolves if slain, reforms in Dreamlands.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

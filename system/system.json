@@ -286,6 +286,15 @@
 			"flags": {}
 		},
 		{
+			"name": "shadowfinder-bestiary",
+			"label": "Shadowfinder Bestiary",
+			"system": "shadowdark",
+			"path": "packs/shadowfinder-bestiary",
+			"type": "Actor",
+			"private": false,
+			"flags": {}
+		},
+		{
 			"name": "solodark-journals",
 			"label": "SoloDark",
 			"system": "shadowdark",
@@ -336,6 +345,7 @@
 				"monsters-of-the-month",
 				"properties",
 				"rollable-tables",
+				"shadowfinder-bestiary",
 				"spell-effects",
 				"spells"
 			],

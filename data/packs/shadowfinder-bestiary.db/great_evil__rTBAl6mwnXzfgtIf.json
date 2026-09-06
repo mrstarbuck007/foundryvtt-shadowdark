@@ -1,0 +1,20 @@
+{
+	"_id": "rTBAl6mwnXzfgtIf",
+	"_key": "!actors.items!6Bgqg1dltgtTXQQP.rTBAl6mwnXzfgtIf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Great Evil",
+	"system": {
+		"description": "<p>Only damaged by cold iron or magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

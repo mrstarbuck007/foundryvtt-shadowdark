@@ -1,0 +1,73 @@
+{
+	"_id": "be71oSuIndBZcpnu",
+	"_key": "!actors!be71oSuIndBZcpnu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"Zhnr1yrz1TqziywD",
+		"5nGwBBi8FM322cni",
+		"6x2Jqz0ERams3jvc"
+	],
+	"name": "Shard Slag",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Shard Slag",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": -2
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": -3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 8
+			},
+			"hp": {
+				"max": 30,
+				"value": 30
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "burrow",
+		"notes": "\n\t<p><i>Molten metal goop with a dozen sword-pseudopods.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 8, <strong>HP</strong> 30, <strong>ATK</strong> 3 tentacle +4 (1d8), <strong>MV</strong> near (burrow), <strong>S</strong> +2, <strong>D</strong> -2, <strong>C</strong> +3, <strong>I</strong> -4, <strong>W</strong> -3, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Immune</strong>. Immune to acid, electricity, fire. Double damage from cold and water.</p><p></p><p><strong>Molten Form</strong>. Creatures within close of slag at start of turn, CON 15+ or 1d6 damage.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

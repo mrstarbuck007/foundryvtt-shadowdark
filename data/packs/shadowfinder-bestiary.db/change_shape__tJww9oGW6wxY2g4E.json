@@ -1,0 +1,20 @@
+{
+	"_id": "tJww9oGW6wxY2g4E",
+	"_key": "!actors.items!CgDMPvL0bVVaf5L6.tJww9oGW6wxY2g4E",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Change Shape",
+	"system": {
+		"description": "<p>In place of attacks, transform into any human-sized creature within near.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

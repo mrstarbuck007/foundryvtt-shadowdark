@@ -1,0 +1,20 @@
+{
+	"_id": "nypR5l4c07ugOJSE",
+	"_key": "!actors.items!RkvvVude3SFChpe9.nypR5l4c07ugOJSE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow",
+	"system": {
+		"description": "<p>On a natural attack roll of 18-20, target is swallowed. Total darkness inside and [[/r 2d10]] damage per round. Crocodile regurgitates all swallowed if dealt at least 10 damage to the inside of its gullet in one round.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "BbpaYmPtxaiBmBAi",
+	"_key": "!actors.items!bILMyFLTK3vzowJV.BbpaYmPtxaiBmBAi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Nimble",
+	"system": {
+		"description": "<p>ADV on climbing and leaping.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

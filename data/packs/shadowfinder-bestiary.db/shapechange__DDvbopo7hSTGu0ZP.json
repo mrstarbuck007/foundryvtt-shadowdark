@@ -1,0 +1,20 @@
+{
+	"_id": "DDvbopo7hSTGu0ZP",
+	"_key": "!actors.items!vlkJgmwaM1Ic963J.DDvbopo7hSTGu0ZP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>Assume the form of an object such as a shield, weapon, piece of jewelry, etc.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "SvSYvRfcjCVdJgIG",
+	"_key": "!actors.items!apsLjI20cGeVHhZN.SvSYvRfcjCVdJgIG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Psychic Crush",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One target within far, [[check 18 wis]] or go to 0 HP.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

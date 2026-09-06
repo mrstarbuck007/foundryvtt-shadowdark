@@ -1,0 +1,74 @@
+{
+	"_id": "qCIUREhGBfcRvjbR",
+	"_key": "!actors!qCIUREhGBfcRvjbR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"GMBCYxDQ7Do9gP91",
+		"Cnd5Bj9okwFhsama",
+		"zuD2YysOTDx8F8mH",
+		"cFzKmR5gOQ5vp5a7"
+	],
+	"name": "Humbaba",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Humbaba",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 54,
+				"value": 54
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Colossal, lion-faced giants with plaited manes, girded in thick plate armor. Once, the favored warriors of Pazuzu, the Prince of Demon Winds.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 54, <strong>ATK</strong> 4 longsword +7 (2d8) or 1 boulder (far) +7 (2d8) or 1 prismatic aura, <strong>MV</strong> double near, <strong>S</strong> +6, <strong>D</strong> +1, <strong>C</strong> +5, <strong>I</strong> +1, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Prismatic Aura</strong>. Rainbow light rays. All mortals within near, CHA 15+ or suffer random effect (d4): 1. Blind 1d4 rounds, 2. Stunned 1d4 rounds, 3. Insane for 1d4 rounds, 8. 3d10 damage.</p><p></p><p><strong>Regenerate</strong>. Unless reduced to 0 HP, regains 2d6 HP on its turn.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

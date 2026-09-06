@@ -1,0 +1,28 @@
+{
+	"_id": "AMRAFbJQOPjieWHk",
+	"_key": "!actors.items!3CJO1RNH0FWioXcA.AMRAFbJQOPjieWHk",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Marrow Drain",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One corpse, grabbed, or helpless creature, [[check 15 dex]] or lose 1 CON permanently and in agony.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

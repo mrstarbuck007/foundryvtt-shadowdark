@@ -1,0 +1,20 @@
+{
+	"_id": "FIGcz9jWui9Lifz0",
+	"_key": "!actors.items!oiUN4qpxvL1US5vb.FIGcz9jWui9Lifz0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Screaming",
+	"system": {
+		"description": "<p>Supernaturally loud screams.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "5MDP43tv7y1VEJlb",
+	"_key": "!actors.items!VxN7SXZVOWJGeSsv.5MDP43tv7y1VEJlb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Uplift",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Touch one mortal creature that loses [[/r 1d4]] CON permanently and gains one anatomical feature, such as gills or claws. Alternately, grant sentience to one mortal creature with INT 5 (-3) or lower.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

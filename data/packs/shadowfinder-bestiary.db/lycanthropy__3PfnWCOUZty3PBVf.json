@@ -1,0 +1,20 @@
+{
+	"_id": "3PfnWCOUZty3PBVf",
+	"_key": "!actors.items!9dcOknCO9VIv3qhu.3PfnWCOUZty3PBVf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lycanthropy",
+	"system": {
+		"description": "<p>If 12 or more damage from the same plague swarm, contract wererat lycanthropy.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

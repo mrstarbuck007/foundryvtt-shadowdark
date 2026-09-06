@@ -1,0 +1,28 @@
+{
+	"_id": "FHgAr5oAyaQfnNhP",
+	"_key": "!actors.items!IRr4VzcXzy4unjhq.FHgAr5oAyaQfnNhP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Wail",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All mortals within double near who can hear, [[check 15 wis]], or attempt to drown themselves in the nearest body of water for [[/r 1d6]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

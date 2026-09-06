@@ -1,0 +1,73 @@
+{
+	"_id": "IYzs33MdMUUJKiLe",
+	"_key": "!actors!IYzs33MdMUUJKiLe",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"R5GArMORmTcV4mpe",
+		"8D2n8SJkgbPJOszd",
+		"EnTpCj5Dxkh0GKw9"
+	],
+	"name": "Jubjub Bird",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Jubjub Bird",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 50,
+				"value": 50
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Gigantic purple dodo bird the size of a cottage. The least powerful of the Tane, magical fey war beasts.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 50, <strong>ATK</strong> 3 bite +8 (3d6 + deadly bite), <strong>MV</strong> near (fly), <strong>S</strong> +5, <strong>D</strong> +2, <strong>C</strong> +5, <strong>I</strong> -3, <strong>W</strong> +1, <strong>Ch</strong> +2, <strong>AL</strong> N, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Deadly Bite</strong>. On a critical hit, CON 18+ or decapitated.</p><p></p><p><strong>Tulgey Feathers</strong>. When dealt damage, jubjub bird becomes immune to that damage type for 24 hours.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

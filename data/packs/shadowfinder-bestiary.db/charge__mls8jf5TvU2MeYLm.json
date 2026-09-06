@@ -1,0 +1,28 @@
+{
+	"_id": "mls8jf5TvU2MeYLm",
+	"_key": "!actors.items!IHcziovhrbqeeeIo.mls8jf5TvU2MeYLm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Charge",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>In place of attacks, move up to double near in a straight line and make 1 slam attack. If hit, x3 damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

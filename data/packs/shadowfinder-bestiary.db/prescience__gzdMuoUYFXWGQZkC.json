@@ -1,0 +1,28 @@
+{
+	"_id": "gzdMuoUYFXWGQZkC",
+	"_key": "!actors.items!WAwraJ1EIREu00HG.gzdMuoUYFXWGQZkC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Prescience",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>1/day, grant luck token to all lawful mortals within near of manu.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

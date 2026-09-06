@@ -1,0 +1,20 @@
+{
+	"_id": "Rh1DNJxB8Da0cjgB",
+	"_key": "!actors.items!E8Ucv40ndlRBb332.Rh1DNJxB8Da0cjgB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Questing Beast",
+	"system": {
+		"description": "<p>Mortals eating entrails of a freshly slain ophiotaurus, [[check 15 con]] or reduced to 0 HP. On success, have vision of mythic quest (as per scrying spell).</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "guTshm6Ql4fhkUCU",
+	"_key": "!actors.items!tfHGTjftIadtfmRq.guTshm6Ql4fhkUCU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Healing",
+	"system": {
+		"description": "<p>Regains 1 HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

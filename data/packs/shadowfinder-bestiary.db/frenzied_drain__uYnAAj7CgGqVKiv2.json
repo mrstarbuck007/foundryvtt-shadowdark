@@ -1,0 +1,20 @@
+{
+	"_id": "uYnAAj7CgGqVKiv2",
+	"_key": "!actors.items!W6F7wf6D2UZIe1ze.uYnAAj7CgGqVKiv2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Frenzied Drain",
+	"system": {
+		"description": "<p>Does [[/r 1d4]] CON damage, chupacabra gains +1 bite next turn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

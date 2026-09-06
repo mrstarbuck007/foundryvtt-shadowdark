@@ -1,0 +1,20 @@
+{
+	"_id": "D49fahllROpDqjo0",
+	"_key": "!actors.items!lagVmEJHcVOAJXiV.D49fahllROpDqjo0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Eviscerate",
+	"system": {
+		"description": "<p>[[check 15 con]] or kyton removes flesh, body part, or vital organ. [[/r 1d8]] permanent attribute loss (determine randomly).</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

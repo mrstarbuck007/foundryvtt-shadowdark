@@ -1,0 +1,20 @@
+{
+	"_id": "SX7NKGJOKBZocNKd",
+	"_key": "!actors.items!RKvEltYEhj71yhP2.SX7NKGJOKBZocNKd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>If wearing enchanted pelt, can assume the form of a bipedal beast.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "qKXec0Uqh4H2R6Kc",
+	"_key": "!actors.items!s8xUXSZNbRF1mVGH.qKXec0Uqh4H2R6Kc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dispel Vulnerable",
+	"system": {
+		"description": "<p>Dispel magic causes [[/r 4d6]] damage to disenchanters.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

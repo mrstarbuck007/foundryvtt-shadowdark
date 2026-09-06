@@ -1,0 +1,73 @@
+{
+	"_id": "C8bghxPqaaewDAQo",
+	"_key": "!actors!C8bghxPqaaewDAQo",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"EidogDSrNaoGRHxD",
+		"9NleyCpzaqmHQ4WU",
+		"S0dlBWzkfFrQ0WDP"
+	],
+	"name": "Kami, Toshigami",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Kami, Toshigami",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 47,
+				"value": 47
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Cherry tree kami. Appears as a bark-skinned woman covered in cherry blossoms.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 47, <strong>ATK</strong> 4 staff +7 (1d4 + age), <strong>MV</strong> near (fly), <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +2, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +3, <strong>AL</strong> L, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Age</strong>. Magically make target younger (lose 1d4 INT, WIS, or CHA permanently), or older (lose 1d4 STR, DEX, or CON permanently). Permanent, restoration spell heals.</p><p></p><p><strong>Ward</strong>. Kami protects an old cherry tree or cherry grove. Can merge into warded area and observe everything occurring there.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

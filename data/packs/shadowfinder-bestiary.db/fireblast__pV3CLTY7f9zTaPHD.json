@@ -1,0 +1,28 @@
+{
+	"_id": "pV3CLTY7f9zTaPHD",
+	"_key": "!actors.items!aSkDIXzhgamRicCb.pV3CLTY7f9zTaPHD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Fireblast",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>[[/r 4d6]] damage to all within a near-sized cube within far.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

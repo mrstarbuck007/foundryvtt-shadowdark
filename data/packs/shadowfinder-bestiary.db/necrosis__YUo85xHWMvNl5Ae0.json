@@ -1,0 +1,20 @@
+{
+	"_id": "YUo85xHWMvNl5Ae0",
+	"_key": "!actors.items!I9vQrPlT1f1gE6EM.YUo85xHWMvNl5Ae0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Necrosis",
+	"system": {
+		"description": "<p>[[check 15 con]] or drop to 0 HP. Healing spells are DC 15 to cast on target while at 0 HP due to this effect.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

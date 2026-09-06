@@ -1,0 +1,20 @@
+{
+	"_id": "bviENDT9tKEwV9Hl",
+	"_key": "!actors.items!BFFqVdOKuTXhb6TS.bviENDT9tKEwV9Hl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Light Essence",
+	"system": {
+		"description": "<p>Lurker is invisible in bright light. If slain, dissolves into glowing dust (as light spell).</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

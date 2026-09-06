@@ -1,0 +1,20 @@
+{
+	"_id": "HOfJd7ahtMW5bvJd",
+	"_key": "!actors.items!LqnbvuUyHhkpFsYh.HOfJd7ahtMW5bvJd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>[[check 15 con]] or [[/r 1d8]] STR damage, comatose at 0 STR.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

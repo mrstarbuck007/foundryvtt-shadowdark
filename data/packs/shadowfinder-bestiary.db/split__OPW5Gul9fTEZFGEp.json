@@ -1,0 +1,20 @@
+{
+	"_id": "OPW5Gul9fTEZFGEp",
+	"_key": "!actors.items!HBC1KdxSlAwHMj2K.OPW5Gul9fTEZFGEp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Split",
+	"system": {
+		"description": "<p>If critically hit, splits into two smaller snakes (divide remaining HP between both). Can rejoin parts given [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

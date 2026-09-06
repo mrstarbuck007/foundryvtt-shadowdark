@@ -1,0 +1,28 @@
+{
+	"_id": "meH0q7g06HMEegoJ",
+	"_key": "!actors.items!QA0gGQRVUl3Q4sBp.meH0q7g06HMEegoJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Shriek",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>1/day, all mortal creatures within near that can hear, [[check 15 wis]] or sickened for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

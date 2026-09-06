@@ -1,0 +1,20 @@
+{
+	"_id": "OQTxoB7HeRHnbGlQ",
+	"_key": "!actors.items!8xuxNtwXTofHQG4v.OQTxoB7HeRHnbGlQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Last Rites",
+	"system": {
+		"description": "<p>Destroyed by bless spell, holy water, or being given last rites. STR Drain. [[check 15 con]] or lose [[/r 1d4]] STR permanently. Death if reduced to 0 STR. Duppy regains [[/r 2d6]] HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

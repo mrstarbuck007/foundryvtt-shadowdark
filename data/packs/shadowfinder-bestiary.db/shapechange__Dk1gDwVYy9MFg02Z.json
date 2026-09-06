@@ -1,0 +1,20 @@
+{
+	"_id": "Dk1gDwVYy9MFg02Z",
+	"_key": "!actors.items!BHKiYrYJY0vKTQu3.Dk1gDwVYy9MFg02Z",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>Assume the form of one specific humanoid, same sex.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

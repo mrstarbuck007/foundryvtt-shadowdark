@@ -1,0 +1,74 @@
+{
+	"_id": "lfYiw7flzwQIImIq",
+	"_key": "!actors!lfYiw7flzwQIImIq",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"qkkBs64ZPobe8WTr",
+		"fwHaNCYIVVKrLQNI",
+		"kiBscYeQhNBHSjKH",
+		"My1JhqoEqNay6INn"
+	],
+	"name": "Qlippoth, Shoggti",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Qlippoth, Shoggti",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 20,
+				"value": 20
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Aquatic, squid-shaped qlippoth with four octopus arms, each ending in a pincer, and almost human eyes. 15 feet long, neon blue. Masters of domination.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 20, <strong>ATK</strong> 4 pincer +2 (1d4) or dominate, <strong>MV</strong> near (swim), <strong>S</strong> +2, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +0, <strong>W</strong> +2, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Dominate</strong>. One creature within far WIS 15+ or qlippoth controls for 1d6 rounds.</p><p></p><p><strong>Great Evil</strong>. Only damaged by cold iron or magical sources.</p><p></p><p><strong>Horrific Appearance</strong>. Mortal creatures looking directly at qlippoth, CON 15+ or 1d4 CHA damage. On success, immune for 24 hours.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

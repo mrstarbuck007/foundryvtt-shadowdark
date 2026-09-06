@@ -1,0 +1,20 @@
+{
+	"_id": "0s7mf8PWzd0JzBnG",
+	"_key": "!actors.items!iz0YMGFY5qSvELas.0s7mf8PWzd0JzBnG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Nigh-Immortal",
+	"system": {
+		"description": "<p>If reduced to 0 HP, melts into watery ooze and flows into the earth, reforming over several years.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

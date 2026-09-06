@@ -1,0 +1,20 @@
+{
+	"_id": "3FfAKhQrLLjWm7Eh",
+	"_key": "!actors.items!VfspQXxBHpK8ZZ7T.3FfAKhQrLLjWm7Eh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Strangle",
+	"system": {
+		"description": "<p>[[check 15 dex]] or grabbed, cannot breathe, speak, or cast spells. [[check 15 str]] on turn to break free.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

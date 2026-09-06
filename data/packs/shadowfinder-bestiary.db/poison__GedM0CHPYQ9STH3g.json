@@ -1,0 +1,20 @@
+{
+	"_id": "GedM0CHPYQ9STH3g",
+	"_key": "!actors.items!Rv23Ctjcyh9Rvm9C.GedM0CHPYQ9STH3g",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>[[check 15 con]] or paralyzed for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

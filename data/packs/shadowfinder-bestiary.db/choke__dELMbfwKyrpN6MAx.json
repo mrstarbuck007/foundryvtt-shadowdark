@@ -1,0 +1,20 @@
+{
+	"_id": "dELMbfwKyrpN6MAx",
+	"_key": "!actors.items!4vGZYDpb8zzLEomN.dELMbfwKyrpN6MAx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Choke",
+	"system": {
+		"description": "<p>Cannot breathe, speak, or cast spells. [[check 12 str]] on turn to break free.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

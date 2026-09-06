@@ -1,0 +1,20 @@
+{
+	"_id": "vKV98EhhQ3t56AnJ",
+	"_key": "!actors.items!M9UdV1Ww4QLDeqi2.vKV98EhhQ3t56AnJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Formless",
+	"system": {
+		"description": "<p>In place of attacks, become corporeal or incorporeal. Even if incorporeal, can be seen and attacked by those it has damaged with essence drain.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

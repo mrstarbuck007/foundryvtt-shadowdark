@@ -1,0 +1,20 @@
+{
+	"_id": "aMaHN3meRgEffKMp",
+	"_key": "!actors.items!oaI6ZO0CNp3QOho3.aMaHN3meRgEffKMp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Wild Hunt",
+	"system": {
+		"description": "<p>If slain, turns to dirt and leaves.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

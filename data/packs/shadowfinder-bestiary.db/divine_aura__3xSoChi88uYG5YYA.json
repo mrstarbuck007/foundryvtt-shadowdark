@@ -1,0 +1,20 @@
+{
+	"_id": "3xSoChi88uYG5YYA",
+	"_key": "!actors.items!3Igu1J9qb4OzPZfE.3xSoChi88uYG5YYA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Divine Aura",
+	"system": {
+		"description": "<p>Hostile spells targeting the archon are DC 15. Sword and armor dissolve if slain.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "gXHML2oJND8gwbHa",
+	"_key": "!actors.items!3wjd83p7RP4AnfTt.gXHML2oJND8gwbHa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Feed",
+	"system": {
+		"description": "<p>Regain 5 HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

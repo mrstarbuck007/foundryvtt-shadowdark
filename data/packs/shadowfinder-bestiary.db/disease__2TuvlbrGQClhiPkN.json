@@ -1,0 +1,20 @@
+{
+	"_id": "2TuvlbrGQClhiPkN",
+	"_key": "!actors.items!JpgMs1TIvgWMP4pg.2TuvlbrGQClhiPkN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Disease",
+	"system": {
+		"description": "<p>[[check 12 con]] or [[/r 1d4]] CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

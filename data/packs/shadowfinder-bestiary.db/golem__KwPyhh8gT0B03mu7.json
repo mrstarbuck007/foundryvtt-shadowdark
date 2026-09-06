@@ -1,0 +1,20 @@
+{
+	"_id": "KwPyhh8gT0B03mu7",
+	"_key": "!actors.items!bn8gRXhFfJEcGVpg.KwPyhh8gT0B03mu7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Golem",
+	"system": {
+		"description": "<p>Only damaged by adamantine or magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

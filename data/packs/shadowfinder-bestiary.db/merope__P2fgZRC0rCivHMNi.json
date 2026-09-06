@@ -1,0 +1,20 @@
+{
+	"_id": "P2fgZRC0rCivHMNi",
+	"_key": "!actors.items!SvBfBVxzA9gglvG7.P2fgZRC0rCivHMNi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Merope",
+	"system": {
+		"description": "<p>The queen is coated in merope, thriae honey. 3:6 chance hostile spells are reflected back at their originator.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "nR98kKTKxEeeqYSm",
+	"_key": "!actors.items!AAGx8ZkVVhwUuibh.nR98kKTKxEeeqYSm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Gory Bleed",
+	"system": {
+		"description": "<p>[[/r 1d4]] damage each round. [[check 12 con]], stabilize check, or healing to staunch. Magical healing is at DISADV on bleeding targets.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

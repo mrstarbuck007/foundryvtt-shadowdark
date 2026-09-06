@@ -1,0 +1,20 @@
+{
+	"_id": "4AjatcEygZlwiH6S",
+	"_key": "!actors.items!h6ozXP9R6NFijdGu.4AjatcEygZlwiH6S",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Snot Cure",
+	"system": {
+		"description": "<p>Caustic snot. If diseased, target makes [[check 12 con]] to be cured.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

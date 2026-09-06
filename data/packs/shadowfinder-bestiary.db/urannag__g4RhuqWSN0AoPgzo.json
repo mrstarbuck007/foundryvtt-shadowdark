@@ -1,0 +1,75 @@
+{
+	"_id": "g4RhuqWSN0AoPgzo",
+	"_key": "!actors!g4RhuqWSN0AoPgzo",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"GliEYjGvOdPcjWSS",
+		"LuYygjNaOafcRqz9",
+		"Nfy9BTwkdYS35kbK",
+		"Ga3HfFG4p2DGQUm2",
+		"9O5gyFIedIXYZO6j"
+	],
+	"name": "Urannag",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Urannag",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 25,
+				"value": 25
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Abyssal construct, mobile spiked cage. A dizzying collection of lethal traps jammed into one device.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 25, <strong>ATK</strong> 2 spike +4 (1d8 + grab) or encage, <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +0, <strong>C</strong> +3, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Construct</strong>. Only damaged by adamantine or magical sources.</p><p></p><p><strong>Encage</strong>. Grabbed target trapped inside urannag, takes 2d6 damage per round, STR 18+ to escape.</p><p></p><p><strong>Grab</strong>. STR 15+ or held. STR 15+ on turn to break free.</p><p></p><p><strong>Living Trap</strong>. DEX 18+ to disarm as per a trap, destroys urannag.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

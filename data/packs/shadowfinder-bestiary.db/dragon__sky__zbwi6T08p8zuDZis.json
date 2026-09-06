@@ -1,0 +1,74 @@
+{
+	"_id": "zbwi6T08p8zuDZis",
+	"_key": "!actors!zbwi6T08p8zuDZis",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"4FCE7yJfLT2mdH2F",
+		"1fwxKtqD6Uq4NsVM",
+		"nfnuVMcAHMuXHlI8",
+		"c5CAytg8NoTACbOS"
+	],
+	"name": "Dragon, Sky",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Dragon, Sky",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": -1
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 59,
+				"value": 59
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Twisting, serpentine wingless drake. Scales glimmer with light of the moon and stars.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 59, <strong>ATK</strong> 4 rend +7 (2d8) or 1 lightning breath or 1 thunderstorm, <strong>MV</strong> double near (fly), <strong>S</strong> +5, <strong>D</strong> -1, <strong>C</strong> +5, <strong>I</strong> +4, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> L, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Imperious</strong>. Lightning immune. Shapechange and assume the form of a humanoid.</p><p></p><p><strong>Lightning Breath</strong>. A straight line (5' wide) extending double near from dragon. DEX 15+ or 3d8 damage (DISADV on check if wearing metal armor).</p><p></p><p><strong>Thunderstorm</strong>. Hurricane winds for 1d6 rounds. Ranged weapons are useless, flying enemies STR 15+ or crash.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

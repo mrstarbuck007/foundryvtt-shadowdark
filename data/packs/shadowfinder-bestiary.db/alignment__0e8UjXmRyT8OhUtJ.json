@@ -1,0 +1,20 @@
+{
+	"_id": "0e8UjXmRyT8OhUtJ",
+	"_key": "!actors.items!3CBb4Clm9Ocw8HWw.0e8UjXmRyT8OhUtJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Alignment",
+	"system": {
+		"description": "<p>d6: 1. Lawful, 2-3.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

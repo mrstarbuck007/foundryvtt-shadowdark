@@ -1,0 +1,20 @@
+{
+	"_id": "IxtfrR94mFWmMSk7",
+	"_key": "!actors.items!JStctZ40LCQhGWkT.IxtfrR94mFWmMSk7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapeshift",
+	"system": {
+		"description": "<p>In place of attacks, turn into any humanoid or back into original form.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

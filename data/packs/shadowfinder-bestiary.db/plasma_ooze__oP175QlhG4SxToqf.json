@@ -1,0 +1,73 @@
+{
+	"_id": "oP175QlhG4SxToqf",
+	"_key": "!actors!oP175QlhG4SxToqf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"lkmIQuQdceyB6Xwv",
+		"oWmsjOhaIiLmMGlL",
+		"vkrJS3AyHRrtxAsM"
+	],
+	"name": "Plasma Ooze",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Plasma Ooze",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -4
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": -3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 45,
+				"value": 45
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>15-foot diameter, perfectly round indigo sphere that pulsates with blue tendrils of energy. Highly magnetic.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 45, <strong>ATK</strong> 3 tentacle +6 (3d6), <strong>MV</strong> near (fly), <strong>S</strong> +5, <strong>D</strong> +0, <strong>C</strong> +0, <strong>I</strong> -4, <strong>W</strong> -3, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Impervious</strong>. Immune to electricity and fire.</p><p></p><p><strong>Magnetic</strong>. Attacks on ooze with weapons made of ferrous metals (iron, steel, adamantine, etc.) have DISADV. Creatures wearing ferrous metals within near of ooze, STR 15+ on turn or else move towards ooze, stuck fast, cannot move away.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

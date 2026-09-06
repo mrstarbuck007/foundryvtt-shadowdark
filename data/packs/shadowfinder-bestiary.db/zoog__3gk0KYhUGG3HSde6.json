@@ -1,0 +1,72 @@
+{
+	"_id": "3gk0KYhUGG3HSde6",
+	"_key": "!actors!3gk0KYhUGG3HSde6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"l4ZBtcGaDMue2IeT",
+		"LHPuxSJgMwSJ27gy"
+	],
+	"name": "Zoog",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Zoog",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": -3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A giant rat-sized creature with a mole-like nose and an appetite for ectoplasm.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 4, <strong>ATK</strong> 1 bite (1d4), <strong>MV</strong> near, <strong>S</strong> -3, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Ectoplasmic Appetite</strong>. Can bite incorporeal creatures.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

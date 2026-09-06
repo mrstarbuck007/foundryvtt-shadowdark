@@ -1,0 +1,72 @@
+{
+	"_id": "V2fHkvZiASr7mxh2",
+	"_key": "!actors!V2fHkvZiASr7mxh2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"hw4QL4kRjkZ2DeVL",
+		"O7Mtl77g7CT0H9Tu"
+	],
+	"name": "Centipede, Titan",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Centipede, Titan",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -4
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": -3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 49,
+				"value": 49
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Largest and rarest centipede, 50 feet long and as big around as an elephant. Endlessly hungry, loves horse and cow flesh.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 49, <strong>ATK</strong> 2 bite +8 (4d6 + poison), <strong>MV</strong> double near (climb), <strong>S</strong> +5, <strong>D</strong> +0, <strong>C</strong> +4, <strong>I</strong> -4, <strong>W</strong> -3, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Poison</strong>. CON 18+ or 1d6 DEX damage, paralyzed at 0 DEX.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

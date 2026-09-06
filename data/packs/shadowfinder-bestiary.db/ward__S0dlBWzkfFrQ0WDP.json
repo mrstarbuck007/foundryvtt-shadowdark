@@ -1,0 +1,20 @@
+{
+	"_id": "S0dlBWzkfFrQ0WDP",
+	"_key": "!actors.items!C8bghxPqaaewDAQo.S0dlBWzkfFrQ0WDP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ward",
+	"system": {
+		"description": "<p>Kami protects an old cherry tree or cherry grove. Can merge into warded area and observe everything occurring there.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

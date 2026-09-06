@@ -1,0 +1,20 @@
+{
+	"_id": "9dufic8q886YcQFT",
+	"_key": "!actors.items!ctWy7WRYuzdEeo13.9dufic8q886YcQFT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lunar Aura",
+	"system": {
+		"description": "<p>Double near- sized cube centered on giant On turn, giant chooses aura: Waning. [[check 15 cha]] to take hostile actions against giant or allies. Waxing. [[check 15 cha]] or attack nearest creature for [[/r 1d4]] rounds. Lycanthropes revert to man-beast form.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

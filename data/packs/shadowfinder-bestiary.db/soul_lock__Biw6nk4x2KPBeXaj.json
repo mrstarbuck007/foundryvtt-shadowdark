@@ -1,0 +1,20 @@
+{
+	"_id": "Biw6nk4x2KPBeXaj",
+	"_key": "!actors.items!N6EdFbQgGLUi4g3M.Biw6nk4x2KPBeXaj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Soul Lock",
+	"system": {
+		"description": "<p>1/day, capture soul of a dead or dying creature. [[check 15 cha]] or soul is trapped in shoki's iron-shod staff.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

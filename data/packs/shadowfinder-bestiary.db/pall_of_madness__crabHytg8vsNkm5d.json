@@ -1,0 +1,20 @@
+{
+	"_id": "crabHytg8vsNkm5d",
+	"_key": "!actors.items!zBAYTQtOzPfZOvI8.crabHytg8vsNkm5d",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pall of Madness",
+	"system": {
+		"description": "<p>Immune to charm, sleep, and other mental effects.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

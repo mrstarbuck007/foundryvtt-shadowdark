@@ -1,0 +1,28 @@
+{
+	"_id": "koglirCLSs2RaEvR",
+	"_key": "!actors.items!3sZ0hGyuhDoIeZYp.koglirCLSs2RaEvR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Murmur",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Enemies who can hear within double near [[check 12 cha]] or dazed and drawn to lorelei for [[/r 1d4]] rounds. Immune for 1 day if passed check.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,72 @@
+{
+	"_id": "KStV0wxKGvmJzTeS",
+	"_key": "!actors!KStV0wxKGvmJzTeS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"TxHEZhw5Gk7vs16M",
+		"4TbK9IUizL5xCWm5"
+	],
+	"name": "Giant, Marsh, Brineborn",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Giant, Marsh, Brineborn",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": -3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 43,
+				"value": 43
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>These fetid giant kin are born from marsh giants and deep- water monstrosities.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 43, <strong>ATK</strong> 2 claw +7 (2d4) or 1 boulder (far) +6 (2d10), <strong>MV</strong> double near (swim), <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> -2, <strong>W</strong> -3, <strong>Ch</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 9</p><p></p>\n\t\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

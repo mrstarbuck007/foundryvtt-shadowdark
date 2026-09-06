@@ -1,0 +1,20 @@
+{
+	"_id": "JfYpQZVC1W2p2neY",
+	"_key": "!actors.items!RVFAeQ1CkItlhzCc.JfYpQZVC1W2p2neY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Whispers",
+	"system": {
+		"description": "<p>Near-sized aura of maddening whispers centered on protean. Mortals within [[check 15 wis]] on turn. On failure, confused and unable to take action or move.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

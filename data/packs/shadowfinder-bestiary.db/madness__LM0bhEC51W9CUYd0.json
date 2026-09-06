@@ -1,0 +1,20 @@
+{
+	"_id": "LM0bhEC51W9CUYd0",
+	"_key": "!actors.items!mdccAJkwDH4a3vzH.LM0bhEC51W9CUYd0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Madness",
+	"system": {
+		"description": "<p>Warps reality for all mortals within far. Each turn, [[check 18 wis]] or cursed, DISADV on checks against curses. On success, immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

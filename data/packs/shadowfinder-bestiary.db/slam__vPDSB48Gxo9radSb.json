@@ -1,0 +1,40 @@
+{
+	"_id": "vPDSB48Gxo9radSb",
+	"_key": "!actors.items!FwcMdRcDoTn6AiE5.vPDSB48Gxo9radSb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Slam",
+	"system": {
+		"attack": {
+			"num": 3
+		},
+		"bonuses": {
+			"attackBonus": 6,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 1,
+			"special": "",
+			"value": "1d8"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"close"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Attack"
+}

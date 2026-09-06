@@ -1,0 +1,74 @@
+{
+	"_id": "9yoxRAct3kwJd7xg",
+	"_key": "!actors!9yoxRAct3kwJd7xg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"GJebmo3xPSEMMLwQ",
+		"pYQHDhDKehcOz2Hb",
+		"5go0EJiI8C7Ozggn",
+		"UH5uWnM0h2hHG45n"
+	],
+	"name": "Spectre",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Spectre",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 22,
+				"value": 22
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>A shadowy spirit seething with anger and malice. Its presence is unsettling to animals.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 22, <strong>ATK</strong> 2 death touch +3 (1d10 + life drain), <strong>MV</strong> near (fly), <strong>S</strong> -4, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Greater Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Incorporeal</strong>. In place of attacks, become corporeal or incorporeal.</p><p></p><p><strong>Life Drain</strong>. 1d4 CON damage. Death if reduced to 0 CON. Slain mortals become spectres after 1 day.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

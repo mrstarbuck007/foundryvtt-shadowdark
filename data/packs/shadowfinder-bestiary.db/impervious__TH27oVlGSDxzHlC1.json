@@ -1,0 +1,20 @@
+{
+	"_id": "TH27oVlGSDxzHlC1",
+	"_key": "!actors.items!sQpolIowT59Yrkul.TH27oVlGSDxzHlC1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Immune to cold.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

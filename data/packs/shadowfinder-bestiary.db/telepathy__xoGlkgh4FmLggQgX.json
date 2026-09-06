@@ -1,0 +1,20 @@
+{
+	"_id": "xoGlkgh4FmLggQgX",
+	"_key": "!actors.items!rJTrL1SbAyeC3atC.xoGlkgh4FmLggQgX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Telepathy",
+	"system": {
+		"description": "<p>Mentally speak to sentient creatures within near.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

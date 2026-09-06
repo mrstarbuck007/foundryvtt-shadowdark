@@ -1,0 +1,74 @@
+{
+	"_id": "2flh91bKJjhkJ3eW",
+	"_key": "!actors!2flh91bKJjhkJ3eW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"lCaTEDvDQd9Ohz1U",
+		"lkQwjQcSRkM5w6Sc",
+		"r0y9618oppcHvrbr",
+		"sJr2vzccWvxFpeF8"
+	],
+	"name": "Gaki",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Gaki",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 25,
+				"value": 25
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Floating skeleton with sharp teeth and a long, disjointed neck. Greedy person in life.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 25, <strong>ATK</strong> 2 bite +4 (2d6), <strong>MV</strong> near (fly), <strong>S</strong> +1, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> -1, <strong>W</strong> +0, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Hunger</strong>. If food, flesh, or edible items within near, WIS 15+ or compulsively devour food, ignoring foes.</p><p></p><p><strong>Sun and Moon</strong>. Take 2d6 damage each round in direct sunlight or moonlight.</p><p></p><p><strong>Undead</strong>. Immune to morale checks.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "4gOCgsjr3UXg4tzs",
+	"_key": "!actors.items!oaI6ZO0CNp3QOho3.4gOCgsjr3UXg4tzs",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Summon Pack",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Howl, summoning [[/r 1d4]] Wild Hunt hounds that arrive in 1 round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

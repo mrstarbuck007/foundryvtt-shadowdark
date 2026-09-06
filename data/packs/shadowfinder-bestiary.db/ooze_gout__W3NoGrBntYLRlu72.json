@@ -1,0 +1,28 @@
+{
+	"_id": "W3NoGrBntYLRlu72",
+	"_key": "!actors.items!SIOQSdLoxHEUI5C4.W3NoGrBntYLRlu72",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Ooze Gout",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (1' wide) extending near from mephit, [[check 9 con]] or sickened for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

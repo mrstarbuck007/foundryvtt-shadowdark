@@ -1,0 +1,20 @@
+{
+	"_id": "BTlORrAIAUhInV9x",
+	"_key": "!actors.items!0c0710yfGZ7m7kCI.BTlORrAIAUhInV9x",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Overdrive",
+	"system": {
+		"description": "<p>When at or below 25 HP, +1 slam attack and slams deal double damage. Winds down, stops moving, and becomes inactive after [[/r 1d6]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

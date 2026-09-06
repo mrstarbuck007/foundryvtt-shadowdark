@@ -1,0 +1,20 @@
+{
+	"_id": "ZlWwI7txevFtp0Hv",
+	"_key": "!actors.items!7tO0bVVJ0U2gXDsA.ZlWwI7txevFtp0Hv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Prescience",
+	"system": {
+		"description": "<p>ADV on initiative. Can't be surprised.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

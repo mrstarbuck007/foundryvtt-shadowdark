@@ -1,0 +1,20 @@
+{
+	"_id": "FHkLOWiPh6YVjOYY",
+	"_key": "!actors.items!1K7LBKB0hiCGF4gf.FHkLOWiPh6YVjOYY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mind Drain",
+	"system": {
+		"description": "<p>[[check 15 wis]] or lose [[/r 1d4]] WIS permanently. Moon- beast regains 5 HP per WIS point inflicted. Utterly docile at 0 WIS.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

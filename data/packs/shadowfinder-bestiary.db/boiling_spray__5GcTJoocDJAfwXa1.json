@@ -1,0 +1,28 @@
+{
+	"_id": "5GcTJoocDJAfwXa1",
+	"_key": "!actors.items!O0vhFbJcMdhtBugR.5GcTJoocDJAfwXa1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Boiling Spray",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Double near- sized cube of searing fluids centered on Chavazvug, [[check 15 dex]] or [[/r 2d6]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

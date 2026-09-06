@@ -1,0 +1,73 @@
+{
+	"_id": "CJUd6xnxbdgayKMD",
+	"_key": "!actors!CJUd6xnxbdgayKMD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"VJN86JpFp1Qq1GL0",
+		"udn7KRwnGMeibxJD",
+		"nUihdOhp7JBGTdVQ"
+	],
+	"name": "Robot, Gearsman",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Robot, Gearsman",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 11,
+				"value": 11
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Brass automaton with a single orb-eye. Filled with humming gears, levers, pistons, and machinery.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 11, <strong>ATK</strong> 1 energy spear(close/near) +3 (2d6), <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -1, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Delicate Machinery</strong>. Critical hits against robot do an extra die of damage. Takes double damage from lightning.</p><p></p><p><strong>Nanite Repair</strong>. 1/day, repair a robot within close for 2d6 HP.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

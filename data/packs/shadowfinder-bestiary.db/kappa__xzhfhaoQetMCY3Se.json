@@ -1,0 +1,72 @@
+{
+	"_id": "xzhfhaoQetMCY3Se",
+	"_key": "!actors!xzhfhaoQetMCY3Se",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"a0LlldunRPufsGh9",
+		"BIvysR0qs7m46xU9"
+	],
+	"name": "Kappa",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Kappa",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 9,
+				"value": 9
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Goblin-sized turtle-man with a thick shell and a water- filled, bowl-shaped depression in its head. Exceedingly polite, loves eating horse flesh.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 9, <strong>ATK</strong> 2 claw +0 (1d4), <strong>MV</strong> near (swim), <strong>S</strong> +0, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> -1, <strong>W</strong> +1, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Head Bowl</strong>. If head bowl is emptied of water, kappa is stunned until it is refilled.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

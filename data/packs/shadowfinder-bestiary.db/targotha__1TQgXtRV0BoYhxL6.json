@@ -1,0 +1,74 @@
+{
+	"_id": "1TQgXtRV0BoYhxL6",
+	"_key": "!actors!1TQgXtRV0BoYhxL6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"D5tQh6u9Y6S8zpZh",
+		"DRzrQYNLdewB8fQ9",
+		"hEU57VOhgQui6VkG",
+		"FWZfgOoFismGXQRi"
+	],
+	"name": "Targotha",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Targotha",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 52,
+				"value": 52
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Eyeless dragonkin that lairs in tar pits and oil sumps. Covered with slippery mucus.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 52, <strong>ATK</strong> 3 bite +7 (2d8) or volatile breath, <strong>MV</strong> near (swim), <strong>S</strong> +5, <strong>D</strong> +0, <strong>C</strong> +3, <strong>I</strong> -3, <strong>W</strong> +1, <strong>Ch</strong> +2, <strong>AL</strong> N, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Impervious</strong>. Immune to fire and lightning.</p><p></p><p><strong>Slippery</strong>. Cannot be entangled, slowed, or hindered.</p><p></p><p><strong>Volatile Breath</strong>. Hazy, sulfurous gas fills a double near-sized cube extending from targotha. WIS 15+ or confused for 1d4 rounds. If exposed to fire, gas explodes, DEX 15+ or 3d6 damage.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

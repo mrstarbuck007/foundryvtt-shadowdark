@@ -1,0 +1,75 @@
+{
+	"_id": "meTvpmI4NOYEStqz",
+	"_key": "!actors!meTvpmI4NOYEStqz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"nIQebI2V7oz3HJ5g",
+		"BblxYigJADdnaoND",
+		"eV2M3nmUBgjUssmR",
+		"LD3AYpgzNCPFpEYl",
+		"wKCjUvIVf73XFcKx"
+	],
+	"name": "Archdevil, Moloch",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Archdevil, Moloch",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 6
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 5
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 18
+			},
+			"hp": {
+				"max": 105,
+				"value": 105
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 22,
+			"xp": 0
+		},
+		"move": "far",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>25-foot-tall suit of black plate mail filled with seething lava. General of Hell's army.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 18 (+3 plate mail), <strong>HP</strong> 105, <strong>ATK</strong> 4 +3 vorpal greataxe +10 (2d8 + behead), <strong>MV</strong> far (fly), <strong>S</strong> +6, <strong>D</strong> +5, <strong>C</strong> +6, <strong>I</strong> +5, <strong>W</strong> +5, <strong>Ch</strong> +6, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 22</p><p></p>\n\t<p><strong>Behead</strong>. On a natural attack roll of 20, behead the target.</p><p></p><p><strong>Furnace</strong>. Creatures within near of Moloch at start of turn CON 15+ or 2d6 damage.</p><p></p><p><strong>Impervious</strong>. Fire immune. Only damaged by silver or magical sources.</p><p></p><p><strong>Infernal Fortress</strong>. 1/day as an action, Moloch can cause a towering fortress to erupt from the ground.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

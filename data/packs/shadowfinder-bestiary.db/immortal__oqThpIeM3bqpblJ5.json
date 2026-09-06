@@ -1,0 +1,20 @@
+{
+	"_id": "oqThpIeM3bqpblJ5",
+	"_key": "!actors.items!AJJYwkBRWP5vN5lk.oqThpIeM3bqpblJ5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Immortal",
+	"system": {
+		"description": "<p>Only damaged by magic sources. Immune to acid, cold, fire, and lightning. If slain, resurrects in [[/r 1d10]] days and flees.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

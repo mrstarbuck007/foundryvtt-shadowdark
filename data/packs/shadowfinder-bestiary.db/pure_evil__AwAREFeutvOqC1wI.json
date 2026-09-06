@@ -1,0 +1,20 @@
+{
+	"_id": "AwAREFeutvOqC1wI",
+	"_key": "!actors.items!mdccAJkwDH4a3vzH.AwAREFeutvOqC1wI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pure Evil",
+	"system": {
+		"description": "<p>Only damaged by magic sources. If destroyed, reborn from a venomous serpent's egg, matures into Yig over centuries.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

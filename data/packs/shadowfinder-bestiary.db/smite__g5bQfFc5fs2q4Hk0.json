@@ -1,0 +1,20 @@
+{
+	"_id": "g5bQfFc5fs2q4Hk0",
+	"_key": "!actors.items!crou6vDVkcheApM7.g5bQfFc5fs2q4Hk0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Smite",
+	"system": {
+		"description": "<p>Fiends struck by the planetar's greatsword, [[check 15 cha]] or banished.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

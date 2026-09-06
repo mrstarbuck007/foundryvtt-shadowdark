@@ -1,0 +1,72 @@
+{
+	"_id": "1K7LBKB0hiCGF4gf",
+	"_key": "!actors!1K7LBKB0hiCGF4gf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"HDTGSkfdNH5bV4GT",
+		"FHkLOWiPh6YVjOYY"
+	],
+	"name": "Moon-Beast",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Moon-Beast",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 33,
+				"value": 33
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Pale white, slippery-skinned toad-thing the size of a pony. Eyeless, telepathic, writhing pink tendrils for a mouth.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 33, <strong>ATK</strong> 2 tendril +6 (1d6 + mind drain), <strong>MV</strong> near (climb, fly), <strong>S</strong> +2, <strong>D</strong> +2, <strong>C</strong> +2, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Mind Drain</strong>. WIS 15+ or lose 1d4 WIS permanently. Moon- beast regains 5 HP per WIS point inflicted. Utterly docile at 0 WIS.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

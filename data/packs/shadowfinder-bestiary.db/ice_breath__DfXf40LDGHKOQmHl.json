@@ -1,0 +1,28 @@
+{
+	"_id": "DfXf40LDGHKOQmHl",
+	"_key": "!actors.items!AurmscWyntUFVMa7.DfXf40LDGHKOQmHl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Ice Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (5' wide) extending double near from dragon. [[check 15 dex]] or [[/r 3d6]] damage and frozen for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

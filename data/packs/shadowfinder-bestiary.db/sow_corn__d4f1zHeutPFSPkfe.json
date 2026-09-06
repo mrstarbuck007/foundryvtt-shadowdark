@@ -1,0 +1,28 @@
+{
+	"_id": "d4f1zHeutPFSPkfe",
+	"_key": "!actors.items!1snsGntt3svedI2N.d4f1zHeutPFSPkfe",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Sow Corn",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Sow corn seed on a near-sized area extending from fastachee. Corn grows to full maturity in 1 round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

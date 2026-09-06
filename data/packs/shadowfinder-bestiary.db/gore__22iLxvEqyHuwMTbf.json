@@ -1,0 +1,20 @@
+{
+	"_id": "22iLxvEqyHuwMTbf",
+	"_key": "!actors.items!wHu8HCrCqZdSgWxK.22iLxvEqyHuwMTbf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Gore",
+	"system": {
+		"description": "<p>Deals an extra die of damage if it hits the same target with both tusks.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

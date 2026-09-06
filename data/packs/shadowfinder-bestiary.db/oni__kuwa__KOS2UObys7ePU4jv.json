@@ -1,0 +1,75 @@
+{
+	"_id": "KOS2UObys7ePU4jv",
+	"_key": "!actors!KOS2UObys7ePU4jv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"tCD3o5Z0apxwO4t7",
+		"YLIevzuqxyQQOoQx",
+		"MCKe091z5His5sls",
+		"S8LIDnxuaazbvCUk",
+		"ulk3nL2HgeFPG9g6"
+	],
+	"name": "Oni, Kuwa",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Oni, Kuwa",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 10,
+				"value": 10
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Yellow demon-ogre that bears a humanoid disguise. Seeks authority and wealth. Tusks, gold skin and horns.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14 (chain), <strong>HP</strong> 10, <strong>ATK</strong> 1 warhammer +1 (1d10) or 1 longbow (far) +1 (1d8) or 1 spell +1, <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Charm Person (CHA Spell)</strong>. DC 11. LV 2 or less, friendship for 1d8 days.</p><p></p><p><strong>Fade (CHA Spell)</strong>. DC 13. Self. Become invisible for 1d4 rounds.</p><p></p><p><strong>Shapeshift</strong>. In place of attacks, turn into any humanoid or back into original form.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "cha",
+			"attacks": 1,
+			"bonus": 1
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,40 @@
+{
+	"_id": "bLc66AqsFPMOdNen",
+	"_key": "!actors.items!VT49xdsnOPBHEAMg.bLc66AqsFPMOdNen",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Spine Dart",
+	"system": {
+		"attack": {
+			"num": 2
+		},
+		"bonuses": {
+			"attackBonus": -1,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 1,
+			"special": "Spines",
+			"value": "1d6"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"near"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Attack"
+}

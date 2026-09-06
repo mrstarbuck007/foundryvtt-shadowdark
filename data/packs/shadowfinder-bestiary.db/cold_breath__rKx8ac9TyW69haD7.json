@@ -1,0 +1,28 @@
+{
+	"_id": "rKx8ac9TyW69haD7",
+	"_key": "!actors.items!nWI1mIML1YkgK9YZ.rKx8ac9TyW69haD7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Cold Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a double near-sized cube extending from dragon. [[check 15 con]] or [[/r 2d6]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

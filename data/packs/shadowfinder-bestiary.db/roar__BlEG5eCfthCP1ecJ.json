@@ -1,0 +1,28 @@
+{
+	"_id": "BlEG5eCfthCP1ecJ",
+	"_key": "!actors.items!xMcYCtfoKvIwZvu5.BlEG5eCfthCP1ecJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Roar",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All creatures who can hear within double near [[check 15 con]] or panicked and deaf for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,73 @@
+{
+	"_id": "9dcOknCO9VIv3qhu",
+	"_key": "!actors!9dcOknCO9VIv3qhu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"6O2UjIUkBbP4m5Eq",
+		"3PfnWCOUZty3PBVf",
+		"iFjw9glUPRqZK4HL"
+	],
+	"name": "Plague Swarm, Rat",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Plague Swarm, Rat",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": -1
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": -3
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 35,
+				"value": 35
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Thousands of red-eyed rats, climbing and crawling over every surface. Malicious, formed into a hive mind.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 35, <strong>ATK</strong> 4 bite +0 (1d6 + lycanthropy), <strong>MV</strong> near (climb, swim), <strong>S</strong> -3, <strong>D</strong> +3, <strong>C</strong> -1, <strong>I</strong> +3, <strong>W</strong> +3, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Lycanthropy</strong>. If 12 or more damage from the same plague swarm, contract wererat lycanthropy.</p><p></p><p><strong>Reform</strong>. Unless restoration is cast on swarm and then swarm is reduced to 0 HP, reforms in 1d4 days at full HP.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

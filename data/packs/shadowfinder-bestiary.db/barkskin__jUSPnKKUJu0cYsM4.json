@@ -1,0 +1,30 @@
+{
+	"_id": "jUSPnKKUJu0cYsM4",
+	"_key": "!actors.items!vGdLZbhk4i628x34.jUSPnKKUJu0cYsM4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Barkskin",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Self. DC 13. AC becomes 15 for 5 rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

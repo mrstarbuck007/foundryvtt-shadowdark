@@ -1,0 +1,20 @@
+{
+	"_id": "z30tVIAz2Li8UTlO",
+	"_key": "!actors.items!3u8kj5e3v5cFJjnj.z30tVIAz2Li8UTlO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Light Weakness",
+	"system": {
+		"description": "<p>Cannot take actions in bright light, only move.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

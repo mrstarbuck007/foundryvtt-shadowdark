@@ -1,0 +1,20 @@
+{
+	"_id": "n0Rpp9lQ8jNDIjAW",
+	"_key": "!actors.items!XRXKLvcgykK4iR4w.n0Rpp9lQ8jNDIjAW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Woodland Stride",
+	"system": {
+		"description": "<p>Cannot be entangled, natural terrain is never difficult for drake.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

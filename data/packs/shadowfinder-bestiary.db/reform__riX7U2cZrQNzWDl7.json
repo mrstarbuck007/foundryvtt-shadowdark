@@ -1,0 +1,20 @@
+{
+	"_id": "riX7U2cZrQNzWDl7",
+	"_key": "!actors.items!C463DlzPzGHlRMij.riX7U2cZrQNzWDl7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Reform",
+	"system": {
+		"description": "<p>Unless slain with a holy weapon, swarm reforms in [[/r 1d4]] days at full HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

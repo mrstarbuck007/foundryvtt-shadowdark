@@ -1,0 +1,73 @@
+{
+	"_id": "NXqomRhNbfXsPAaj",
+	"_key": "!actors!NXqomRhNbfXsPAaj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"VUgvp2qTdS2MBElp",
+		"HapI0MbDz9JyHzkh",
+		"M4fdBlsOabpBdptQ"
+	],
+	"name": "Sea Anemone, Siren's Bed",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Sea Anemone, Siren's Bed",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 7
+			},
+			"hp": {
+				"max": 34,
+				"value": 34
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Wagon-sized, scarlet and neon green anemone with a tendril ending in a javelin-like stinger.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 7, <strong>HP</strong> 34, <strong>ATK</strong> 2 stinger (near) +1 (1d6 + paralyze) or shriek, <strong>MV</strong> close (swim), <strong>S</strong> +5, <strong>D</strong> +0, <strong>C</strong> +3, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Paralyze</strong>. CON 12+ or paralyzed 1d4 rounds.</p><p></p><p><strong>Shriek</strong>. Emit a double near- width sonic burst, CON 15+ or deafened 1d4 rounds. Audible underwater for miles.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

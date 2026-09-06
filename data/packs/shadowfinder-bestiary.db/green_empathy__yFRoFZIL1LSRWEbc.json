@@ -1,0 +1,20 @@
+{
+	"_id": "yFRoFZIL1LSRWEbc",
+	"_key": "!actors.items!06lmSJ7lsEAGXXPi.yFRoFZIL1LSRWEbc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Green Empathy",
+	"system": {
+		"description": "<p>Command plant creatures within near, [[check 15 cha]] to resist.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

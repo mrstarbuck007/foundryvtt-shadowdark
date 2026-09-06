@@ -1,0 +1,73 @@
+{
+	"_id": "zn5O0UupQ53GigOx",
+	"_key": "!actors!zn5O0UupQ53GigOx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"ZRhYhVWBdr67Jqe8",
+		"UcWHBTdfCiv4JJVK",
+		"bCSRgy4uR9aVjYZC"
+	],
+	"name": "Gathlain",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Gathlain",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Leaf-winged, halfling-sized faerie. Autumnal colors. Focused on fun and reveling, carefree and fickle.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 4, <strong>ATK</strong> 1 dagger +2 (1d4) or 1 spell +2, <strong>MV</strong> near (fly), <strong>S</strong> +0, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +2, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Color Spray (CHA Spell)</strong>. DC 11. One target within near is blinded for 1 round.</p><p></p><p><strong>Wind Step (CHA Spell)</strong>. Self. DC 12. Teleport within near.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "cha",
+			"attacks": 1,
+			"bonus": 2
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "sqE0Z6wgQM1TXcGK",
+	"_key": "!actors.items!bgMu2JeNazpq4HVk.sqE0Z6wgQM1TXcGK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Avoidance",
+	"system": {
+		"description": "<p>If struck while infesting a creature, [[check 12 con]] to avoid attack, which instead mold's host.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

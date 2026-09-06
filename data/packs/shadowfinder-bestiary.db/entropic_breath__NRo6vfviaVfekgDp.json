@@ -1,0 +1,28 @@
+{
+	"_id": "NRo6vfviaVfekgDp",
+	"_key": "!actors.items!3nriEEznh5nqDcWb.NRo6vfviaVfekgDp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Entropic Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a double near-sized cube extending from linnorm. [[check 15 con]] or [[/r 3d8]] damage and [[/r 1d6]] STR damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

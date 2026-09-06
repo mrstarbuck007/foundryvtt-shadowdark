@@ -1,0 +1,28 @@
+{
+	"_id": "3XZYlPcgZ4fVxPRe",
+	"_key": "!actors.items!IPlwlVY6gAbTDLmk.3XZYlPcgZ4fVxPRe",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Snip Fate",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Shear the thread of life of one creature within double near. Target takes [[/r 4d6]] damage, dying at 0 HP. Scissors become nonmagical if slain.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "PpsW1BlOE95QxJQk",
+	"_key": "!actors.items!baYtToCvnaOateHO.PpsW1BlOE95QxJQk",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Divine Aura",
+	"system": {
+		"description": "<p>Hostile spells targeting the angel are DC 15. Mace dissolves if slain.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

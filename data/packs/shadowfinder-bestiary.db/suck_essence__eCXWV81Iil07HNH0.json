@@ -1,0 +1,28 @@
+{
+	"_id": "eCXWV81Iil07HNH0",
+	"_key": "!actors.items!Pfno0lgYy7NEpIAs.eCXWV81Iil07HNH0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Suck Essence",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Suck the life force out of diseased mortal within double near, who must immediately roll a disease check. If disease gets worse, papinjuwari regains [[/r 4d6]] HP.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "7wzE7VUTugLanrgz",
+	"_key": "!actors.items!bjbdhIAanpiW99vn.7wzE7VUTugLanrgz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Phalanx",
+	"system": {
+		"description": "<p>+1 to attacks and AC when in close range of an allied formian.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

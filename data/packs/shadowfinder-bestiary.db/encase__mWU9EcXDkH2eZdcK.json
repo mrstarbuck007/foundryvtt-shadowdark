@@ -1,0 +1,20 @@
+{
+	"_id": "mWU9EcXDkH2eZdcK",
+	"_key": "!actors.items!Eayu1fKabT9lffs7.mWU9EcXDkH2eZdcK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Encase",
+	"system": {
+		"description": "<p>Stuck in wax blob, [[check 15 str]] to break free.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

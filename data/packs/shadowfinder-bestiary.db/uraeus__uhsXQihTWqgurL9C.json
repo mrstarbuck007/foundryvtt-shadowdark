@@ -1,0 +1,73 @@
+{
+	"_id": "uhsXQihTWqgurL9C",
+	"_key": "!actors!uhsXQihTWqgurL9C",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"LQ9Q0pL7g2rZCEHl",
+		"8hQlo3Zoag7gxtvI",
+		"e4VRYd6E7qotsXcb"
+	],
+	"name": "Uraeus",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Uraeus",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 14,
+				"value": 14
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Two-headed, black-winged giant cobra. River guardians, oracles, servants of Law.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 14, <strong>ATK</strong> 2 bite +2 (1d8 + poison) or poison breath, <strong>MV</strong> near (fly), <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> L, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Poison</strong>. CON 15+ or blind and paralyzed for 1d4 rounds.</p><p></p><p><strong>Poison Breath</strong>. Two straight lines (5' wide) extending near from uraeus. CON 15+ or blind for 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

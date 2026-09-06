@@ -1,0 +1,30 @@
+{
+	"_id": "vXTfI105QMMaU8jK",
+	"_key": "!actors.items!inwqgrG7XCYCmaYg.vXTfI105QMMaU8jK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Acid Dart",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>One target in far takes [[/r 2d6]] damage.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

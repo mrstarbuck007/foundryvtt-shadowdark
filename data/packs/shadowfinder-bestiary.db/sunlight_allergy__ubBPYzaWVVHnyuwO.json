@@ -1,0 +1,20 @@
+{
+	"_id": "ubBPYzaWVVHnyuwO",
+	"_key": "!actors.items!96uZfaEnJ3zP4Z14.ubBPYzaWVVHnyuwO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sunlight Allergy",
+	"system": {
+		"description": "<p>Takes [[/r 1d6]] damage per round in direct sunlight.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

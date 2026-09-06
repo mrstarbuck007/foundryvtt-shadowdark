@@ -1,0 +1,74 @@
+{
+	"_id": "xKjyd4dXoLHHQrJQ",
+	"_key": "!actors!xKjyd4dXoLHHQrJQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"UTyODtTNXpab4NpS",
+		"XuMH67e1P4aXZk5q",
+		"onb6Tolklc2YfMNG",
+		"2gE48eWunqccY40j"
+	],
+	"name": "Qlippoth, Gorgoros",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Qlippoth, Gorgoros",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 30,
+				"value": 30
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "burrow",
+		"notes": "\n\t<p><i>Writhing, massive lavender worm with a three-eyed serpent head.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 30, <strong>ATK</strong> 1 bite +5 (3d6), <strong>MV</strong> near (burrow), <strong>S</strong> +5, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +2, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Consume Statue</strong>. As an action, consume a petrified creature. Regain 4d6 HP.</p><p></p><p><strong>Great Evil</strong>. Only damaged by cold iron or magical sources.</p><p></p><p><strong>Petrify</strong>. Any creature that meets the gorgoros's gaze, CON 15+ or petrified.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

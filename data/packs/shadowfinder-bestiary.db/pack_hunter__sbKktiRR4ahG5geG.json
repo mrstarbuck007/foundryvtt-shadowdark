@@ -1,0 +1,20 @@
+{
+	"_id": "sbKktiRR4ahG5geG",
+	"_key": "!actors.items!JF3RYCaUELgXRcvN.sbKktiRR4ahG5geG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pack Hunter",
+	"system": {
+		"description": "<p>Deals +1 damage while an ally is close.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

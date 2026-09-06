@@ -1,0 +1,28 @@
+{
+	"_id": "oiU6gthdAeIfivoJ",
+	"_key": "!actors.items!KItLQcbgX6BRprNg.oiU6gthdAeIfivoJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Blinding Eyes",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Flash brilliant light from eyes. [[check 12 con]] or blind for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

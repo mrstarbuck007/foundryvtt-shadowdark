@@ -1,0 +1,28 @@
+{
+	"_id": "8hQlo3Zoag7gxtvI",
+	"_key": "!actors.items!uhsXQihTWqgurL9C.8hQlo3Zoag7gxtvI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Poison Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Two straight lines (5' wide) extending near from uraeus. [[check 15 con]] or blind for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "aZhclxlxrsU80j7k",
+	"_key": "!actors.items!sGAduaL0FNDKsCJd.aZhclxlxrsU80j7k",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>Change into a white horse or hippocampus.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

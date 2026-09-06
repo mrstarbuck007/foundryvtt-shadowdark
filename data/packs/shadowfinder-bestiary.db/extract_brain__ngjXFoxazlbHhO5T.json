@@ -1,0 +1,28 @@
+{
+	"_id": "ngjXFoxazlbHhO5T",
+	"_key": "!actors.items!IgzVdXNYa8Hc0Lpy.ngjXFoxazlbHhO5T",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Extract Brain",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Extract brain from helpless or recently dead humanoid, which gets stored in a brain nodule.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

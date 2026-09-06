@@ -1,0 +1,20 @@
+{
+	"_id": "XwP88GsymdQEBRqD",
+	"_key": "!actors.items!ZFZ7E2wf46aAQdWC.XwP88GsymdQEBRqD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Godcaller",
+	"system": {
+		"description": "<p>3/day, uses heal or power word kill.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

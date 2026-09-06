@@ -1,0 +1,20 @@
+{
+	"_id": "JJbORQxXRolwi6aP",
+	"_key": "!actors.items!RF7hO8WOThqoSsgM.JJbORQxXRolwi6aP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Paralyze",
+	"system": {
+		"description": "<p>[[check 15 con]] or paralyzed for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

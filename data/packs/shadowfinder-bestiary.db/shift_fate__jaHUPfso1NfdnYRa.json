@@ -1,0 +1,28 @@
+{
+	"_id": "jaHUPfso1NfdnYRa",
+	"_key": "!actors.items!IPlwlVY6gAbTDLmk.jaHUPfso1NfdnYRa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Shift Fate",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>May remove or bestow a luck token on one creature within double near.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

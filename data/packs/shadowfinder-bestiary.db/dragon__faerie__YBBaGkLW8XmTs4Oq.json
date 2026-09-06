@@ -1,0 +1,72 @@
+{
+	"_id": "YBBaGkLW8XmTs4Oq",
+	"_key": "!actors!YBBaGkLW8XmTs4Oq",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"uyiPl0fxYST8PGno",
+		"rqqBUprb8FEgY19d"
+	],
+	"name": "Dragon, Faerie",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Dragon, Faerie",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": -1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Rainbow-colored, butterfly- winged drake the size of a housecat. Friends with fey, chatty, inquisitive, cowardly.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 4, <strong>ATK</strong> 2 bite +1 (1d4) or 1 euphoria breath, <strong>MV</strong> near (fly, swim), <strong>S</strong> -1, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> +1, <strong>W</strong> +0, <strong>Ch</strong> +1, <strong>AL</strong> L, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Euphoria Breath</strong>. Fills a near- sized cube extending from dragon. CHA 15+ or distracted by ecstasy for 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

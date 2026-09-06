@@ -1,0 +1,20 @@
+{
+	"_id": "hEU57VOhgQui6VkG",
+	"_key": "!actors.items!1TQgXtRV0BoYhxL6.hEU57VOhgQui6VkG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Immune to fire and lightning.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

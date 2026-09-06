@@ -1,0 +1,73 @@
+{
+	"_id": "XaN1c5s0vgBjgXcs",
+	"_key": "!actors!XaN1c5s0vgBjgXcs",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"MmDPJqXtqCJM5l0a",
+		"R3EaZQlgScI5Iexz",
+		"VtNf1ViDisSwesau"
+	],
+	"name": "Bebilith",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Bebilith",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 31,
+				"value": 31
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Demon-devouring Abyssal spider-thing, eight legs ending in shearing blades.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 31, <strong>ATK</strong> 1 bite +6 (1d10 + rot) and 2 claws +6 (1d10), <strong>MV</strong> near (climb), <strong>S</strong> +4, <strong>D</strong> +0, <strong>C</strong> +4, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Rot</strong>. CON 12+ or 1d4 CON damage (can't heal while ill). Repeat check each round; ends on success. Die at 0 CON.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

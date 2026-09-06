@@ -1,0 +1,40 @@
+{
+	"_id": "1jY8k5nFwxXg0TNi",
+	"_key": "!actors.items!6D8MFMFRyA42teYg.1jY8k5nFwxXg0TNi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Ray",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 1,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 2,
+			"special": "",
+			"value": "2d6"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"far"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Attack"
+}

@@ -1,0 +1,72 @@
+{
+	"_id": "3OxQX4ebaWGabwnM",
+	"_key": "!actors!3OxQX4ebaWGabwnM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"b6VRraHiaywKgAmN",
+		"ah1qk7JKXi6zdxu5"
+	],
+	"name": "Fly, Giant",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Fly, Giant",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Housefly the size of a cat, covered with bristly, stiff hair. Feasts on rot and decay.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 4, <strong>ATK</strong> 1 bite +1 (1d4 + disease), <strong>MV</strong> near (climb, fly), <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> -2, <strong>W</strong> +1, <strong>Ch</strong> -2, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Disease</strong>. CON 12+ or 1d4 CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

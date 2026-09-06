@@ -1,0 +1,20 @@
+{
+	"_id": "YHhkB0ukCiiBj8jF",
+	"_key": "!actors.items!QQOVftpe5rBl8xDU.YHhkB0ukCiiBj8jF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Carrion Stench",
+	"system": {
+		"description": "<p>Living creatures [[check 12 con]] the first time within near or DISADV on attacks and spellcasting for 5 rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

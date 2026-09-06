@@ -1,0 +1,30 @@
+{
+	"_id": "S0CDTceJJtXb7oGN",
+	"_key": "!actors.items!vSFeJeEvsZ1ocZ2M.S0CDTceJJtXb7oGN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Gate",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Open a portal at a point within near to another location on any plane. Lasts [[/r 1d6]] rounds or until dismissed.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d6"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

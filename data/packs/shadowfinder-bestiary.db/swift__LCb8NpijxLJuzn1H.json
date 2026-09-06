@@ -1,0 +1,20 @@
+{
+	"_id": "LCb8NpijxLJuzn1H",
+	"_key": "!actors.items!qYbdLhrvJKPEOfhR.LCb8NpijxLJuzn1H",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swift",
+	"system": {
+		"description": "<p>ADV on initiative.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

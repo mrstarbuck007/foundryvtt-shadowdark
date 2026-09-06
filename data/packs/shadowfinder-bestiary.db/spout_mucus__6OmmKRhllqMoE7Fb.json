@@ -1,0 +1,28 @@
+{
+	"_id": "6OmmKRhllqMoE7Fb",
+	"_key": "!actors.items!yrihLvynmZJXQrea.6OmmKRhllqMoE7Fb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Spout Mucus",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (5' wide) extending double near from bhole. [[check 15 dex]] or coated in sticky mucus and entangled for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

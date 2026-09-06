@@ -1,0 +1,20 @@
+{
+	"_id": "fAhAAS8Z06EI7DT1",
+	"_key": "!actors.items!dBXbJ1YEUGAnEndl.fAhAAS8Z06EI7DT1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stranger's Shot",
+	"system": {
+		"description": "<p>Stranger makes [[check 12 dex]] check to shoot target with both pistols for [[/r 4d6]] damage. Pistols don't have to reload, turn to dust if stranger is slain.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

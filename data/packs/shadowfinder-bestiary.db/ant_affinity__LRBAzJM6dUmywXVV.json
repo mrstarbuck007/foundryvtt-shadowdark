@@ -1,0 +1,20 @@
+{
+	"_id": "LRBAzJM6dUmywXVV",
+	"_key": "!actors.items!oXKog4tXzXUlK6iZ.LRBAzJM6dUmywXVV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ant Affinity",
+	"system": {
+		"description": "<p>Command ant swarms or vermin within far.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

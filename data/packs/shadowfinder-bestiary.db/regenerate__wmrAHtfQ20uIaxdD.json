@@ -1,0 +1,20 @@
+{
+	"_id": "wmrAHtfQ20uIaxdD",
+	"_key": "!actors.items!eCn2aljC8ktvv8GW.wmrAHtfQ20uIaxdD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Regenerate",
+	"system": {
+		"description": "<p>Regains [[/r 2d6]] HP on its turn unless its wounds are cauterized with acid.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

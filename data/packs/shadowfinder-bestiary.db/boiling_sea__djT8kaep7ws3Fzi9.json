@@ -1,0 +1,20 @@
+{
+	"_id": "djT8kaep7ws3Fzi9",
+	"_key": "!actors.items!VOXu6PvQa0LghIIf.djT8kaep7ws3Fzi9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Boiling Sea",
+	"system": {
+		"description": "<p>Instead of attacks, boil water within double near centered on div. All except div, [[check 12 con]] or [[/r 1d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

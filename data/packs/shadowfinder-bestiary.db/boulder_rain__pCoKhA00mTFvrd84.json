@@ -1,0 +1,28 @@
+{
+	"_id": "pCoKhA00mTFvrd84",
+	"_key": "!actors.items!HdePsPIPTyGrLMud.pCoKhA00mTFvrd84",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Boulder Rain",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (5' wide) extending far from plankta. [[check 18 dex]] or [[/r 4d6]] damage. Ships struck roll capsize check.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

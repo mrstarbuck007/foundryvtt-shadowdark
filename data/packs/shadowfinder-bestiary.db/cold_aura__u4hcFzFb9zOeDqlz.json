@@ -1,0 +1,20 @@
+{
+	"_id": "u4hcFzFb9zOeDqlz",
+	"_key": "!actors.items!501whRc55GrTo4ZA.u4hcFzFb9zOeDqlz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Cold Aura",
+	"system": {
+		"description": "<p>Creatures in close [[check 12 con]] on turn or [[/r 1d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

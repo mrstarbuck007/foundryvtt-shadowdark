@@ -1,0 +1,20 @@
+{
+	"_id": "2bQWzZQbJzJTsBbI",
+	"_key": "!actors.items!We8wVhOGJGUKbyTj.2bQWzZQbJzJTsBbI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Grab",
+	"system": {
+		"description": "<p>[[check 15 str]] or immobilized. Tentacle auto-hits each round. [[check 15 str]] on turn to break free.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

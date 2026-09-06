@@ -1,0 +1,74 @@
+{
+	"_id": "IVYzluZFbjzWsjeA",
+	"_key": "!actors!IVYzluZFbjzWsjeA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"0bb9RGWIQVbBDZwk",
+		"HgeaPOIz1ywK80aT",
+		"GncJqs2AIO3hFxG1",
+		"tirrrSJUhGIFKHcA"
+	],
+	"name": "Clockwork, Leviathan",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Clockwork, Leviathan",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 53,
+				"value": 53
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>25 feet long, weighing 5 tons, a jointed automaton that resembles a segmented worm with a dozen flippers. Functions on land or sea.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 53, <strong>ATK</strong> 3 bite +9 (2d8 + swallow), <strong>MV</strong> near (swim), <strong>S</strong> +4, <strong>D</strong> +2, <strong>C</strong> +4, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -2, <strong>AL</strong> N, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Clockwork</strong>. Only damaged by adamantine or magical sources. Immune to damage from fire, cold, or non-magical sources. Double damage from electricity.</p><p></p><p><strong>Steam Breath</strong>. 3/day, gout steam. Fills a near-sized cube extending from clockwork. DEX 15+ or 3d8 damage. Effective in water or on land.</p><p></p><p><strong>Swallow</strong>. On a natural attack roll of 18-20, target is swallowed. Total darkness inside, 1d10 damage per round, and risk of drowning.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

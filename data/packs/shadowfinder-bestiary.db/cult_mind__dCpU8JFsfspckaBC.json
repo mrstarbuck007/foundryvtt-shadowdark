@@ -1,0 +1,20 @@
+{
+	"_id": "dCpU8JFsfspckaBC",
+	"_key": "!actors.items!k6TaKqeYxVSa8jE9.dCpU8JFsfspckaBC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Cult Mind",
+	"system": {
+		"description": "<p>When made, dedicated to a specific cult. Can cast spells on any cult member within distant.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

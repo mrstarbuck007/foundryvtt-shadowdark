@@ -1,0 +1,20 @@
+{
+	"_id": "i4p99ZwO4OJ1LdZR",
+	"_key": "!actors.items!gPqJuflEDN9cyYF2.i4p99ZwO4OJ1LdZR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Wind Defense",
+	"system": {
+		"description": "<p>Nonmagical arrows, bolts, and ranged weapons automatically miss.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

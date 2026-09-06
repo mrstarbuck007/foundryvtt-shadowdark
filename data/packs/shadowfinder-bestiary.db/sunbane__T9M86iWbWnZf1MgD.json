@@ -1,0 +1,20 @@
+{
+	"_id": "T9M86iWbWnZf1MgD",
+	"_key": "!actors.items!dlvQvbJDHKWny307.T9M86iWbWnZf1MgD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sunbane",
+	"system": {
+		"description": "<p>Turns to stone if touched by sunlight.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

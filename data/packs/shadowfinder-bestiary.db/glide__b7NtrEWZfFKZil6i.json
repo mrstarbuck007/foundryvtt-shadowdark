@@ -1,0 +1,20 @@
+{
+	"_id": "b7NtrEWZfFKZil6i",
+	"_key": "!actors.items!zThYpjnxcWUDv7mq.b7NtrEWZfFKZil6i",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Glide",
+	"system": {
+		"description": "<p>Can only glide down, not truly fly.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,75 @@
+{
+	"_id": "RwldDjCQLeljVrXD",
+	"_key": "!actors!RwldDjCQLeljVrXD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"r2FKoxQDHo0AOnbA",
+		"ZiXSkaU2MEOgrVXy",
+		"OqEGx2klWXDQSfwG",
+		"8Od2IC1r8Hhmh7J1",
+		"IWvqw0lNepNTxviP"
+	],
+	"name": "Giant, Sun",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Giant, Sun",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 52,
+				"value": 52
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>25-foot-tall red-headed giant. Can manifest solar rays as blinding weapons.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15 (chainmail), <strong>HP</strong> 52, <strong>ATK</strong> 3 mace +7 (2d6) or 1 sun ray (far) +7 (2d6 + blind), <strong>MV</strong> double near, <strong>S</strong> +5, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +3, <strong>Ch</strong> +2, <strong>AL</strong> *, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Alignment</strong>. If unknown roll d6: 1-3. Lawful, 4-6. Chaotic.</p><p></p><p><strong>Blind</strong>. CON 15+ or blind.</p><p></p><p><strong>Solar Aura</strong>. Manifest bright light.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

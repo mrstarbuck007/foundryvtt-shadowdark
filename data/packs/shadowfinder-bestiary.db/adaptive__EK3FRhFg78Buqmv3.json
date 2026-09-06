@@ -1,0 +1,20 @@
+{
+	"_id": "EK3FRhFg78Buqmv3",
+	"_key": "!actors.items!oWkbdHZR1FAGaoDD.EK3FRhFg78Buqmv3",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Adaptive",
+	"system": {
+		"description": "<p>After taking damage from an energy type, becomes immune to that energy type for 10 rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

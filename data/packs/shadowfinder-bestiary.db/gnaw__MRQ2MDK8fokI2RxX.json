@@ -1,0 +1,20 @@
+{
+	"_id": "MRQ2MDK8fokI2RxX",
+	"_key": "!actors.items!K8scIw0NKUoXoN0s.MRQ2MDK8fokI2RxX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Gnaw",
+	"system": {
+		"description": "<p>Chew through wood and wooden objects.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

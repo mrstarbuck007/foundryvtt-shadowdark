@@ -1,0 +1,28 @@
+{
+	"_id": "EuprVz7Ly3Hm4sn0",
+	"_key": "!actors.items!6lYBhEHUfeYfzd3l.EuprVz7Ly3Hm4sn0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Surge",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Move distant, leaving no trail.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

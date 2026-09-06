@@ -1,0 +1,75 @@
+{
+	"_id": "VTloLFuCrK0mgaYI",
+	"_key": "!actors!VTloLFuCrK0mgaYI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"eQTBPOgdUz7JUgtD",
+		"VAC9Uq9gH9syjbhY",
+		"Dc8O598Ib3mhaEUo",
+		"3wIe0RYxWfHWh6oI",
+		"6rWGl0xrJfnkkiPD"
+	],
+	"name": "Horseman, Charon",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Horseman, Charon",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 5
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 87,
+				"value": 87
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 18,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Ebony-robed skeleton. Styx boatman and Horseman of Death, rides the Pale Horse.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 87, <strong>ATK</strong> 3 pole +9 (1d4 + old age) or 3 <strong>S</strong>tygian bolt (far) +8 (2d10 + old age), <strong>MV</strong> near (fly, swim), <strong>S</strong> +6, <strong>D</strong> +4, <strong>C</strong> +6, <strong>I</strong> +5, <strong>W</strong> +5, <strong>Ch</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 18</p><p></p>\n\t<p><strong>Old Age</strong>. CHA 18+ or become frail and elderly, lose 1d6 STR, DEX, and CON permanently.</p><p></p><p><strong>Pure Evil</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Styxian Boatman</strong>. As an action, teleport self and creatures within close to anywhere the River Styx touches.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

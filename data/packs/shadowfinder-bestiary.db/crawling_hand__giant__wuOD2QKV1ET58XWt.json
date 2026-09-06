@@ -1,0 +1,72 @@
+{
+	"_id": "wuOD2QKV1ET58XWt",
+	"_key": "!actors!wuOD2QKV1ET58XWt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"5w8lzGhkUgJC26Xm",
+		"Z2TyFqT6RiKXt4mz"
+	],
+	"name": "Crawling Hand, Giant",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Crawling Hand, Giant",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 24,
+				"value": 24
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Goblin-sized animated hand, sans body. Gallops on fingers like a hunting hound. Grabs and squishes victims.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 24, <strong>ATK</strong> 1 slam +5 (1d8 + squishing grab), <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Squishing Grab</strong>. DEX 15+ or target grabbed, 2d8 damage per round held, STR 15+ on turn to break free.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

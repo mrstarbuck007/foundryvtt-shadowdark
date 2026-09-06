@@ -1,0 +1,20 @@
+{
+	"_id": "u4NjR5PQBQYfn7CT",
+	"_key": "!actors.items!Hf5Lm8ecWHaFZbOP.u4NjR5PQBQYfn7CT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Devour",
+	"system": {
+		"description": "<p>As an action, consume corpse, regain [[/r 3d6]] HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

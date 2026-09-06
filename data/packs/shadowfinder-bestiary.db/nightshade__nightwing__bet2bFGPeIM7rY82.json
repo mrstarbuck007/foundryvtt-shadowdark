@@ -1,0 +1,73 @@
+{
+	"_id": "bet2bFGPeIM7rY82",
+	"_key": "!actors!bet2bFGPeIM7rY82",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"hlD1pexOwwGdCbLS",
+		"r6LwDr2uSaE0FIaF",
+		"YbewGT0o4ue84R56"
+	],
+	"name": "Nightshade, Nightwing",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Nightshade, Nightwing",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 40,
+				"value": 40
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>A bat from darkest Shadow with a 40-foot-long wingspan. Considers wizard flesh the most delicious.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 40, <strong>ATK</strong> 3 bite +7 (2d10 + magic drain), <strong>MV</strong> double near (fly), <strong>S</strong> +5, <strong>D</strong> +2, <strong>C</strong> +4, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Great Evil</strong>. Only damaged by silver or magical sources.</p><p></p><p><strong>Magic Drain</strong>. Bite causes dispel magic (as spell) and target loses the ability to cast a random spell until completing a rest.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

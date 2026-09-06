@@ -1,0 +1,20 @@
+{
+	"_id": "DtMMzH9gfAv5XfXf",
+	"_key": "!actors.items!cdMUCsKfl7KFtFSr.DtMMzH9gfAv5XfXf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sleepless Curse",
+	"system": {
+		"description": "<p>Sleep is filled with wretched nightmares. [[check 12 cha]] or [[/r 1d4]] WIS damage (can't heal or rest while cursed). Repeat check each day, die at 0 WIS.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

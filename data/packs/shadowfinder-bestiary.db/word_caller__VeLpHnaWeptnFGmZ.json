@@ -1,0 +1,28 @@
+{
+	"_id": "VeLpHnaWeptnFGmZ",
+	"_key": "!actors.items!zlYc8A73Px4SdJmg.VeLpHnaWeptnFGmZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Word Caller",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Read and understand an entire book. Can use scrolls (spell +6).</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

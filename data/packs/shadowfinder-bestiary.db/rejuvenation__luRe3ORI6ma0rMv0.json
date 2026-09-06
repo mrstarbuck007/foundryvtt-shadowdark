@@ -1,0 +1,20 @@
+{
+	"_id": "luRe3ORI6ma0rMv0",
+	"_key": "!actors.items!rfKgbU9QaBo3fzyQ.luRe3ORI6ma0rMv0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Rejuvenation",
+	"system": {
+		"description": "<p>If destroyed, reforms in [[/r 2d4]] days unless hupia's body is burned.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

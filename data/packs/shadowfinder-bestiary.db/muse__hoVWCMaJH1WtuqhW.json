@@ -1,0 +1,72 @@
+{
+	"_id": "hoVWCMaJH1WtuqhW",
+	"_key": "!actors!hoVWCMaJH1WtuqhW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"WYVWql6CKQQ5J1VD",
+		"2M4bCpDCyHMyBYge"
+	],
+	"name": "Muse",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Muse",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 19
+			},
+			"hp": {
+				"max": 40,
+				"value": 40
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Beautiful fey woman. Inspires artists, poets, skalds, and other creators.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 19, <strong>HP</strong> 40, <strong>ATK</strong> 2 slam +2 (1) or 2 sonic shout (far) +5 (2d6), <strong>MV</strong> double near, <strong>S</strong> +0, <strong>D</strong> +5, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +1, <strong>Ch</strong> +5, <strong>AL</strong> L, <strong>LV</strong> 8</p><p></p>\n\t\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

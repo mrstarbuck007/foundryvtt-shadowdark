@@ -1,0 +1,28 @@
+{
+	"_id": "bpPi0qa3Tfj2NKcS",
+	"_key": "!actors.items!5qNjsK67HgIxfbes.bpPi0qa3Tfj2NKcS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Charm",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One humanoid in near [[check 15 cha]] or bewitched by succubus for [[/r 1d6]] hours.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "DuXevDkbjgDXmhSA",
+	"_key": "!actors.items!cmWylViCvm0lIYzw.DuXevDkbjgDXmhSA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Grit Gout",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All non-elementals within a near-sized cube extending from mephit, [[check 9 con]] or [[/r 1d4]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

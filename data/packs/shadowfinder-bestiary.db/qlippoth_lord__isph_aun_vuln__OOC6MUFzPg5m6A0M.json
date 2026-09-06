@@ -1,0 +1,76 @@
+{
+	"_id": "OOC6MUFzPg5m6A0M",
+	"_key": "!actors!OOC6MUFzPg5m6A0M",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"DB4MmSWXFMKFGBFX",
+		"Bnc4JNyPUwjbKroU",
+		"f1OjmmXbySYTFHu7",
+		"5VbkgQZlxvmqx9Dx",
+		"NUO3iLPDlXu3bcmR",
+		"qyfYqFCUaeRDffh8"
+	],
+	"name": "Qlippoth Lord, Isph-Aun-Vuln",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Qlippoth Lord, Isph-Aun-Vuln",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 68,
+				"value": 68
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 14,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Blot of grey smoke with a circular, lamprey-like mouth.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 68, <strong>ATK</strong> 1 touch +10 (disintegrate) or possession, <strong>MV</strong> double near (fly), <strong>S</strong> -4, <strong>D</strong> +5, <strong>C</strong> +5, <strong>I</strong> +4, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 14</p><p></p>\n\t<p><strong>Disintegrate</strong>. A target creature of LV 5 or less instantly dies. If it is LV 6+, it takes 3d8 damage instead.</p><p></p><p><strong>Incorporeal</strong>. In place of attacks, become corporeal or incorporeal.</p><p></p><p><strong>Possession</strong>. Must be corporeal. One target, close range. Contested CHA check. If Isph-Aun-Vuln wins, she inhabits target's body and controls it.</p><p></p><p><strong>Pure Evil</strong>. Only damaged by cold iron or magical sources. Immune to cold.</p><p></p><p><strong>Soul Barrier</strong>. When corporeal, surrounded by wind made of damned souls. Ranged attacks against Isph-Aun-Vuln have DISADV.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "lRc6j6szZcambmeP",
+	"_key": "!actors.items!F6IXNKSK6qlK5m7s.lRc6j6szZcambmeP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Broken Ground",
+	"system": {
+		"description": "<p>A near-sized area around the guecubu is churned, muddy, and difficult to move through.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

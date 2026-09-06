@@ -1,0 +1,74 @@
+{
+	"_id": "OK9aU1lySBNv806o",
+	"_key": "!actors!OK9aU1lySBNv806o",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"dBSb6LSD6alBe636",
+		"141pfJNZHxv02uaO",
+		"pNTaOOxagG7kzQop",
+		"64VKMzs0u5bcTxz8"
+	],
+	"name": "Giant, Plague",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Giant, Plague",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 52,
+				"value": 52
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Hairless, necrotic giant covered in pustules and boils.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 52, <strong>ATK</strong> 2 flail +5 (2d6) or 1 thrown corpse (far) +5 (2d4 + corpse bomb), <strong>MV</strong> double near, <strong>S</strong> +4, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +2, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Corpse Bomb</strong>. All creatures in a near-sized cube around where corpse lands, CON 12+ or diseased.</p><p></p><p><strong>Disease</strong>. CON 12+ or 1d4 CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

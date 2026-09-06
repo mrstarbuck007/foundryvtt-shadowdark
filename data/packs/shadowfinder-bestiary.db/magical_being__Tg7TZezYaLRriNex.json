@@ -1,0 +1,20 @@
+{
+	"_id": "Tg7TZezYaLRriNex",
+	"_key": "!actors.items!gVvLtVctENuV5C95.Tg7TZezYaLRriNex",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Magical Being",
+	"system": {
+		"description": "<p>Only damaged by adamantine or magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

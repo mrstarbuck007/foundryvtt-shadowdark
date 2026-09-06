@@ -1,0 +1,28 @@
+{
+	"_id": "wnDYG92gLUEIPAVR",
+	"_key": "!actors.items!unWq8RDu39HlsQ7P.wnDYG92gLUEIPAVR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Charm",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Near, one creature, [[check 15 cha]] or beguiled for [[/r 1d4]] hours.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

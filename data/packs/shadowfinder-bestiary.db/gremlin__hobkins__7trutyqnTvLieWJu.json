@@ -1,0 +1,73 @@
+{
+	"_id": "7trutyqnTvLieWJu",
+	"_key": "!actors!7trutyqnTvLieWJu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"g8qqL4QWkpWhyCov",
+		"Sopuh8CQwHCFIDkQ",
+		"2InMVSCUgN0QGtaB"
+	],
+	"name": "Gremlin, Hobkins",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Gremlin, Hobkins",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": -1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Small, cerulean imp with upright bat ears and circular blue eyes. Hovers 1 inch from the ground.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 4, <strong>ATK</strong> 1 claw +0 (1), <strong>MV</strong> near, <strong>S</strong> -1, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Collateral Damage</strong>. If missed by attack, attacker rerolls attack against ally within range.</p><p></p><p><strong>Out of Phase</strong>. Ranged attacks against hobkins have DISADV.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,41 @@
+{
+	"_id": "1k5s0sEqxZa65Dbo",
+	"_key": "!actors.items!Q4UqCLBodTUVRbwb.1k5s0sEqxZa65Dbo",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Spear",
+	"system": {
+		"attack": {
+			"num": 3
+		},
+		"bonuses": {
+			"attackBonus": 4,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 1,
+			"special": "",
+			"value": "1d6"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"close",
+			"near"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Attack"
+}

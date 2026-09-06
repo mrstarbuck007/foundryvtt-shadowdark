@@ -1,0 +1,28 @@
+{
+	"_id": "1m73kqcYzqTzK7vC",
+	"_key": "!actors.items!pD6SimJPq2hVPefE.1m73kqcYzqTzK7vC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Tangible Illusion",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Create a convincing illusion within near. Illusion is tangible to all senses but made of shadows. Lasts 5 rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

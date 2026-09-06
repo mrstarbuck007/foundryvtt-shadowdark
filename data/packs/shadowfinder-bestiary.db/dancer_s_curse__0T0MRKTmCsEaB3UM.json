@@ -1,0 +1,20 @@
+{
+	"_id": "0T0MRKTmCsEaB3UM",
+	"_key": "!actors.items!Z60y0N2WJ98ULekF.0T0MRKTmCsEaB3UM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dancer's Curse",
+	"system": {
+		"description": "<p>Touch one target. [[check 15 wis]] or cursed, DISADV on DEX checks. Repeat check once per day; ends on success.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

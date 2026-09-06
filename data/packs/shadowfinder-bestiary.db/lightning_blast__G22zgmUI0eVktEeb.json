@@ -1,0 +1,40 @@
+{
+	"_id": "G22zgmUI0eVktEeb",
+	"_key": "!actors.items!tYJf5tuzZGY0MOIs.G22zgmUI0eVktEeb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Lightning Blast",
+	"system": {
+		"attack": {
+			"num": 3
+		},
+		"bonuses": {
+			"attackBonus": 8,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 2,
+			"special": "",
+			"value": "2d10"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"far"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Attack"
+}

@@ -1,0 +1,73 @@
+{
+	"_id": "aYeknHMUjecWJpgZ",
+	"_key": "!actors!aYeknHMUjecWJpgZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"HijVdRepUDvorSxU",
+		"xO1k2UAkFvw7MXT2",
+		"z0ErNmnTS0jzN5wi"
+	],
+	"name": "Aeon, Akhana",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Aeon, Akhana",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 17
+			},
+			"hp": {
+				"max": 29,
+				"value": 29
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Human height, with four long, willowy arms emerging from a swirling vortex. In the maelstrom is a single eye.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 17, <strong>HP</strong> 29, <strong>ATK</strong> 4 slam +4 (1d4 + grab) or siphon soul, <strong>MV</strong> near (fly), <strong>S</strong> +2, <strong>D</strong> +2, <strong>C</strong> +2, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +2, <strong>AL</strong> N, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Grab</strong>. STR 15+ or held. STR 15+ on turn to break free.</p><p></p><p><strong>Siphon Soul</strong>. Siphon the soul of a grabbed creature. CON 15+ or creature dies as soul is sucked out and stored in akhana. If akhana dies within distant of target's corpse, soul is restored to body. Target's body does not decay or age while soul siphoned.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

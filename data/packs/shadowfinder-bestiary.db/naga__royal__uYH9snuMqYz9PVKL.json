@@ -1,0 +1,74 @@
+{
+	"_id": "uYH9snuMqYz9PVKL",
+	"_key": "!actors!uYH9snuMqYz9PVKL",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"wvjU9LnKVj8A7Ttz",
+		"E3CrvN81hKXOwUd2",
+		"mIIlJcK8AK2Q3CCG",
+		"WIEptKrq5ajStppR"
+	],
+	"name": "Naga, Royal",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Naga, Royal",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 34,
+				"value": 34
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A gigantic purple cobra with five heads, each a different humanoid. Guards obscure relics and long-dead cities. Stern, proud, cryptic speech.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 34, <strong>ATK</strong> 5 bite +4 (1d6 + poison) or royal gaze, <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +2, <strong>AL</strong> L, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Poison</strong>. CON 15+ or paralyzed 1d4 rounds.</p><p></p><p><strong>Royal Gaze</strong>. Every creature within near who can see naga, CON 15+ or struck blind and deaf.</p><p></p><p><strong>Shapechange</strong>. Assume the humanoid form of one of its five heads.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

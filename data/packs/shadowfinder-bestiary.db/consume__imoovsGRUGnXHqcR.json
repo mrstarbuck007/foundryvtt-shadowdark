@@ -1,0 +1,20 @@
+{
+	"_id": "imoovsGRUGnXHqcR",
+	"_key": "!actors.items!E75mmtg99Djg41WK.imoovsGRUGnXHqcR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Consume",
+	"system": {
+		"description": "<p>Can devour unconscious or helpless targets in [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

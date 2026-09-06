@@ -1,0 +1,20 @@
+{
+	"_id": "26GX20ahKJb55Qiz",
+	"_key": "!actors.items!dR30aQnabcXp64rd.26GX20ahKJb55Qiz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lassitude",
+	"system": {
+		"description": "<p>All creatures within far, [[check 12 wis]] or lulled into apathy. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

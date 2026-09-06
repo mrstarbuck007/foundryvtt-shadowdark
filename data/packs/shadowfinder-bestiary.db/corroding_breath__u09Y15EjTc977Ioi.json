@@ -1,0 +1,28 @@
+{
+	"_id": "u09Y15EjTc977Ioi",
+	"_key": "!actors.items!4YopU232IabEPm1d.u09Y15EjTc977Ioi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Corroding Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (5' wide) extending double near from dragon. [[check 15 dex]] or [[/r 4d8]] damage. Organic material or metal hit dissolves on a d6 roll of 1-3.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "E0FnUNTqcyZUFfE0",
+	"_key": "!actors.items!1DhXnoBrGzL0mAF6.E0FnUNTqcyZUFfE0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Enlarge",
+	"system": {
+		"description": "<p>As an action, can become ogre-sized or gnome-sized, +[[/r 1d6]] damage on melee attacks and ADV on STR checks while large.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

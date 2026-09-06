@@ -1,0 +1,20 @@
+{
+	"_id": "8n6iXmBVHDslq6pH",
+	"_key": "!actors.items!AaVqRg2e2OiyhV2A.8n6iXmBVHDslq6pH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Jet",
+	"system": {
+		"description": "<p>Move far, cannot be used again for [[/r 1d6]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

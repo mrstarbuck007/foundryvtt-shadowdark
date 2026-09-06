@@ -1,0 +1,20 @@
+{
+	"_id": "OaNiBrxx6WFmCxcO",
+	"_key": "!actors.items!rGHwZpGshkOosNOg.OaNiBrxx6WFmCxcO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Non-Euclidean",
+	"system": {
+		"description": "<p>Warps the weave of space and time. Attacks and spells against Cthulhu have DISADV.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

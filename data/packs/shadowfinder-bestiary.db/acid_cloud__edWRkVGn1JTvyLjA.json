@@ -1,0 +1,28 @@
+{
+	"_id": "edWRkVGn1JTvyLjA",
+	"_key": "!actors.items!y9ia3M2mN8C2vpxE.edWRkVGn1JTvyLjA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Acid Cloud",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Three or more naunets can create a near- size cloud of yellow acid centered on a naunet. It lasts for 5 rounds and spreads around corners. Creatures in cloud are blinded, [[/r 2d6]] damage on their turns.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

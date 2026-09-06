@@ -1,0 +1,28 @@
+{
+	"_id": "dwrhxeIyyom9ucTc",
+	"_key": "!actors.items!cdvb3cIp36dtC7yC.dwrhxeIyyom9ucTc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Squawk",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>1/day, all non-corbies within near, [[check 12 cha]] or frightened 1 round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

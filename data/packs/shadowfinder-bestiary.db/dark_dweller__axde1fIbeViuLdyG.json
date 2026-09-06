@@ -1,0 +1,20 @@
+{
+	"_id": "axde1fIbeViuLdyG",
+	"_key": "!actors.items!Z60y0N2WJ98ULekF.axde1fIbeViuLdyG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dark Dweller",
+	"system": {
+		"description": "<p>Blinded in bright light. Evaporate in a burst of bright light when reduced to 0 HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

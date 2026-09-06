@@ -1,0 +1,20 @@
+{
+	"_id": "Jtn8JUmmZ8O8q9Y9",
+	"_key": "!actors.items!YMtfTThMtSIOrMmc.Jtn8JUmmZ8O8q9Y9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Forge-Made",
+	"system": {
+		"description": "<p>ADV against fatigue, immune to disease, fear, and sleep.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

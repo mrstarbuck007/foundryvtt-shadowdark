@@ -1,0 +1,73 @@
+{
+	"_id": "2VPGAeLcYwDs9dMC",
+	"_key": "!actors!2VPGAeLcYwDs9dMC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"QWK8ubIfetQic6Yv",
+		"e8H2NvabxbFfdG7o",
+		"Pa9R23f8A1lCYj9Q"
+	],
+	"name": "Samsaran",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Samsaran",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": -1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Cobalt-blue humanoid with jet-black eyes. Upon death, reincarnated as a soon-to-be- born samsaran baby. Remembers past lives.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12 (leather), <strong>HP</strong> 4, <strong>ATK</strong> 1 spear (close/near) +1 (1d6) or 1 shortbow (far) +1 (1d4), <strong>MV</strong> near, <strong>S</strong> -1, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Akashic Soul</strong>. If given 1d6 rounds to sift endless memories, has ADV on lore and knowledge checks.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

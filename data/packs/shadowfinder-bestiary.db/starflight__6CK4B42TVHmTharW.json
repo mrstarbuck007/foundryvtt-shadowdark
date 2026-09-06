@@ -1,0 +1,20 @@
+{
+	"_id": "6CK4B42TVHmTharW",
+	"_key": "!actors.items!I08KbZ510VogBEXR.6CK4B42TVHmTharW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Starflight",
+	"system": {
+		"description": "<p>Empyreal and those accompanying her can survive the interstellar void. Able to fly between worlds in [[/r 1d4]] days.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

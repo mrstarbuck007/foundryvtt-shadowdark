@@ -1,0 +1,40 @@
+{
+	"_id": "ie1Yaz7EztjhVUgt",
+	"_key": "!actors.items!2WFnhR3EMcyY5OiX.ie1Yaz7EztjhVUgt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Shortbow",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 2,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 1,
+			"special": "",
+			"value": "1d4"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"far"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "biM4bKmAOqX1rmSU",
+	"_key": "!actors.items!bytTVYtf9FhaG8hh.biM4bKmAOqX1rmSU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Vermin Whisperer",
+	"system": {
+		"description": "<p>Speak with rats, bats, and other vermin. [[check 15 cha]] or vermin must obey commands for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

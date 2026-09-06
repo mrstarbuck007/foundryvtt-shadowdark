@@ -1,0 +1,20 @@
+{
+	"_id": "gOcfcHvNnjNhxnmJ",
+	"_key": "!actors.items!wHu8HCrCqZdSgWxK.gOcfcHvNnjNhxnmJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Quaking Charge",
+	"system": {
+		"description": "<p>When charging, a far-sized area around the ypotryll cracks and is difficult to move in.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

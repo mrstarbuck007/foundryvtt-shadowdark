@@ -1,0 +1,20 @@
+{
+	"_id": "UWuHnGXp7JJR12f3",
+	"_key": "!actors.items!t6i23XxBjNfycyYr.UWuHnGXp7JJR12f3",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Self-Destruct",
+	"system": {
+		"description": "<p>On next turn when reduced below 15 HP, explodes. Near-sized cube centered on dragon, [[check 15 dex]] or [[/r 3d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

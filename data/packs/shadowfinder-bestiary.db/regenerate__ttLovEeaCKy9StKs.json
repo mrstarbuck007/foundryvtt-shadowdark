@@ -1,0 +1,20 @@
+{
+	"_id": "ttLovEeaCKy9StKs",
+	"_key": "!actors.items!zesYj5BsNlng0V0M.ttLovEeaCKy9StKs",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Regenerate",
+	"system": {
+		"description": "<p>Cultists cast healing on themselves. Unless reduced to 0 HP, regains [[/r 2d6]] HP on its turn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

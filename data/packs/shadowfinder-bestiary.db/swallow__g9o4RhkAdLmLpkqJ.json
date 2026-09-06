@@ -1,0 +1,20 @@
+{
+	"_id": "g9o4RhkAdLmLpkqJ",
+	"_key": "!actors.items!uMdjvrAFih4wY5H0.g9o4RhkAdLmLpkqJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow",
+	"system": {
+		"description": "<p>On a bite attack roll of 19-20, target is swallowed regardless of size. Total darkness inside and [[/r 2d10]] damage per round, die and soul consumed at 0 HP. Horseman regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

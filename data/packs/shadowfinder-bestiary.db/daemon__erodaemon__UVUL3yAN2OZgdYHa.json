@@ -1,0 +1,75 @@
+{
+	"_id": "UVUL3yAN2OZgdYHa",
+	"_key": "!actors!UVUL3yAN2OZgdYHa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"eCfYWTCOV4dmdg2N",
+		"vkSgG3dhzufu2KGc",
+		"86M2jtI2x9dtjb05",
+		"XZy0bFhpS9kH3Ady",
+		"k1QeBobH8exARGjq"
+	],
+	"name": "Daemon, Erodaemon",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Daemon, Erodaemon",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 34,
+				"value": 34
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Cerulean-skinned maiden with a third eye in her brow and a snake-headed tail. Embody desire and rejection.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 34, <strong>ATK</strong> 1 bite +4 (1d8) and 2 claw +4 (1d6) or 1 wilting kiss, <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +3, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Shapechange</strong>. Assume the form of a humanoid, typically a subject of desire or lust.</p><p></p><p><strong>Telepathy</strong>. Can secretly know lusts and desires of all mortals within near.</p><p></p><p><strong>Wilting Kiss</strong>. Kiss a helpless or willing target. WIS 15+ or take 1d4 CHA damage and become unwilling to resist daemon's kiss for 1d4 rounds, servile and passive at 0 CHA.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

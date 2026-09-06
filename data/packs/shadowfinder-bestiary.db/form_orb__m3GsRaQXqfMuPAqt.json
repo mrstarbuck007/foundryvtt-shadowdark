@@ -1,0 +1,28 @@
+{
+	"_id": "m3GsRaQXqfMuPAqt",
+	"_key": "!actors.items!SqfbTRBqI1CDq5dQ.m3GsRaQXqfMuPAqt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Form Orb",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Form an orb of creation or destruction for [[/r 1d4]] rounds. Orb must be held by pleroma or disappears with a flash. Creation. As fabricate spell but effect is permanent. Destruction. As disintegrate spell.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,73 @@
+{
+	"_id": "CNtVubRmkQmFhO9Z",
+	"_key": "!actors!CNtVubRmkQmFhO9Z",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"UyUdYe7heJoKShll",
+		"jVurWSUIWss4DAtG",
+		"DlMCCQRTG7Ipgp2Y"
+	],
+	"name": "Azata, Veranallia",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Azata, Veranallia",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 59,
+				"value": 59
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Upper torso of a gorgeous, naked woman with hair of rose petals, lower torso is a column of verdant leaves. Embodies nature's seasons.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 59, <strong>ATK</strong> 3 touch +6 (1d8 + make barren), <strong>MV</strong> double near (fly), <strong>S</strong> +4, <strong>D</strong> +4, <strong>C</strong> +5, <strong>I</strong> +3, <strong>W</strong> +5, <strong>Ch</strong> +5, <strong>AL</strong> L, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Make Barren</strong>. CON 15+ or become sterile or barren.</p><p></p><p><strong>Rebirth</strong>. 1/day, touch a willing creature and cause them to reincarnate as an aasimar. Land for miles around becomes lush and bountiful.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

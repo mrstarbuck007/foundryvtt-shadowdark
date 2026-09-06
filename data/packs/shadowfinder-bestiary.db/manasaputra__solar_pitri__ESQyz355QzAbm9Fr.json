@@ -1,0 +1,76 @@
+{
+	"_id": "ESQyz355QzAbm9Fr",
+	"_key": "!actors!ESQyz355QzAbm9Fr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"QrdYdGzPJpqSNXuf",
+		"UBEQgV8TnvhWtxtl",
+		"j0vOwvi0AzxdvgtV",
+		"AjbpWesgoeBIewfg",
+		"W7nTIfFmvCXvEPZp",
+		"TDAbYwx2yM47Me3B"
+	],
+	"name": "Manasaputra, Solar Pitri",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Manasaputra, Solar Pitri",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 59,
+				"value": 59
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Giant, red-skinned divine being radiating pure energy. Reincarnated from the universes before this one.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 59, <strong>ATK</strong> 3 slam +6 (1d4+3) or 2 cosmic ray, <strong>MV</strong> near (fly), <strong>S</strong> +6, <strong>D</strong> +5, <strong>C</strong> +5, <strong>I</strong> +4, <strong>W</strong> +4, <strong>Ch</strong> +5, <strong>AL</strong> L, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Cosmic Ray</strong>. Straight line (5' wide) extending far from pitri. DEX 15+ or 4d6 damage, disintegrated at 0 HP.</p><p></p><p><strong>Fire Aura</strong>. Creatures within near of pitri at start of turn CON 15+ or 2d6 damage.</p><p></p><p><strong>Great Good</strong>. Only damaged by silver or magical sources. Immune to fire.</p><p></p><p><strong>Incorporeal</strong>. In place of attacks, become corporeal or incorporeal. When pitri becomes incorporeal, near- sized blast of energy centered on pitri, CON 15+ or 3d6 damage.</p><p></p><p><strong>Rebirth</strong>. If slain, reborn on the Positive Energy Plane.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

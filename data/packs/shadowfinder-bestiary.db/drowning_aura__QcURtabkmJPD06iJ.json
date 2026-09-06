@@ -1,0 +1,20 @@
+{
+	"_id": "QcURtabkmJPD06iJ",
+	"_key": "!actors.items!aLnJAUlWgp0K8Yqh.QcURtabkmJPD06iJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Drowning Aura",
+	"system": {
+		"description": "<p>Air is filled with sodden miasma. All mortals within near of mummy, [[check 15 con]] or begin drowning. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "vez1d6jEFb9dTbJI",
+	"_key": "!actors.items!65ayHhd4iT4xRFJk.vez1d6jEFb9dTbJI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Psychic Burble",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>The swarm unleashes a cacophonous, gnawing psychic wave. Sentient enemies in double near [[check 12 cha]] or stunned for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

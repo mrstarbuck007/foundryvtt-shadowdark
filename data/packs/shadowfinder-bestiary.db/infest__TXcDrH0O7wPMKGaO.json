@@ -1,0 +1,20 @@
+{
+	"_id": "TXcDrH0O7wPMKGaO",
+	"_key": "!actors.items!bgMu2JeNazpq4HVk.TXcDrH0O7wPMKGaO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Infest",
+	"system": {
+		"description": "<p>Cover the head of host creature, dominating it until mold is removed. WIS Damage. [[/r 1d8]] WIS damage, docile and compliant at 0 WIS.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

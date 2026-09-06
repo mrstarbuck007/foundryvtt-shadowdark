@@ -1,0 +1,20 @@
+{
+	"_id": "XurEoGYer8XJettr",
+	"_key": "!actors.items!XgNcRZkw9AP8HdHc.XurEoGYer8XJettr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Avatar",
+	"system": {
+		"description": "<p>Only damaged by magic sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

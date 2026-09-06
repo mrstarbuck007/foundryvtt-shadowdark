@@ -1,0 +1,20 @@
+{
+	"_id": "RDiyzYDCQpeQrVEd",
+	"_key": "!actors.items!IswPmm1yIrOFXyuU.RDiyzYDCQpeQrVEd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Grappler",
+	"system": {
+		"description": "<p>Can grapple a target with mini-arms and still use main arms.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

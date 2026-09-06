@@ -1,0 +1,20 @@
+{
+	"_id": "eKxkBAazOLstNQpV",
+	"_key": "!actors.items!F1Uf6gfKgec33lIT.eKxkBAazOLstNQpV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Storm Rage",
+	"system": {
+		"description": "<p>During storms, immune to morale checks, +[[/r 1d4]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

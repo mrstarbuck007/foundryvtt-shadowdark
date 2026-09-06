@@ -1,0 +1,20 @@
+{
+	"_id": "XuMH67e1P4aXZk5q",
+	"_key": "!actors.items!xKjyd4dXoLHHQrJQ.XuMH67e1P4aXZk5q",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Consume Statue",
+	"system": {
+		"description": "<p>As an action, consume a petrified creature. Regain [[/r 4d6]] HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

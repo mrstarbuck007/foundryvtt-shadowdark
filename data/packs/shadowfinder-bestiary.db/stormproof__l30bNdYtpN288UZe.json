@@ -1,0 +1,20 @@
+{
+	"_id": "l30bNdYtpN288UZe",
+	"_key": "!actors.items!rTRx6YZEcKqJSJUX.l30bNdYtpN288UZe",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stormproof",
+	"system": {
+		"description": "<p>Sleipnir and its rider immune to lightning.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

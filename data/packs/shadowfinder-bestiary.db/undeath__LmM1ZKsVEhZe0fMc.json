@@ -1,0 +1,20 @@
+{
+	"_id": "LmM1ZKsVEhZe0fMc",
+	"_key": "!actors.items!ceHvFq44Gw7uqhmf.LmM1ZKsVEhZe0fMc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Undeath",
+	"system": {
+		"description": "<p>If slain, animates as undead ningyo at midnight.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

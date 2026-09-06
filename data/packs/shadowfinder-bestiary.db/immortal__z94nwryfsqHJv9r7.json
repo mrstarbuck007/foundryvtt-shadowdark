@@ -1,0 +1,20 @@
+{
+	"_id": "z94nwryfsqHJv9r7",
+	"_key": "!actors.items!YvyX3Q4FveMn1YWn.z94nwryfsqHJv9r7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Immortal",
+	"system": {
+		"description": "<p>Shabti do not age naturally and can't die of old age. Cannot become undead.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

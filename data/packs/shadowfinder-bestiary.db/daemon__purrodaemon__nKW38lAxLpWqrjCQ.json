@@ -1,0 +1,73 @@
+{
+	"_id": "nKW38lAxLpWqrjCQ",
+	"_key": "!actors!nKW38lAxLpWqrjCQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"f4SMcLRbAlBlyeMu",
+		"K0F8ltgKffC3KBjz",
+		"0TdWN2xfys85dUqN"
+	],
+	"name": "Daemon, Purrodaemon",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Daemon, Purrodaemon",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 45,
+				"value": 45
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Giant, thick-thewed body pierced by swords, spears, and other weapons. Head shaped like a vulture skull. Harbingers of War.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16 (chainmail), <strong>HP</strong> 45, <strong>ATK</strong> 3 halberd +6 (1d10), <strong>MV</strong> near (fly), <strong>S</strong> +5, <strong>D</strong> +3, <strong>C</strong> +5, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Blood of War</strong>. Weapons steeped in blood are magical when wielded by chaotic beings sworn to the Horsemen of the Apocalypse.</p><p></p><p><strong>Great Evil</strong>. Only damaged by silver or magical sources.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

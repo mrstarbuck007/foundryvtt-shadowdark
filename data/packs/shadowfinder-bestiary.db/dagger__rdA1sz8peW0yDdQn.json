@@ -1,0 +1,41 @@
+{
+	"_id": "rdA1sz8peW0yDdQn",
+	"_key": "!actors.items!a2lu6lW7Zfud5ccc.rdA1sz8peW0yDdQn",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Dagger",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 1,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 1
+		},
+		"damage": {
+			"numDice": 1,
+			"special": "",
+			"value": "1d4"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"close",
+			"near"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Attack"
+}

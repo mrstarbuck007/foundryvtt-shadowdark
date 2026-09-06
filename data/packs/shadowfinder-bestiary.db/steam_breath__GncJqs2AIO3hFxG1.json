@@ -1,0 +1,20 @@
+{
+	"_id": "GncJqs2AIO3hFxG1",
+	"_key": "!actors.items!IVYzluZFbjzWsjeA.GncJqs2AIO3hFxG1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Steam Breath",
+	"system": {
+		"description": "<p>3/day, gout steam. Fills a near-sized cube extending from clockwork. [[check 15 dex]] or [[/r 3d8]] damage. Effective in water or on land.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "ePdsEfIDKHEANdSl",
+	"_key": "!actors.items!ttAezHKdvQNwSIB1.ePdsEfIDKHEANdSl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Voidglass",
+	"system": {
+		"description": "<p>Crystal weapons grown by grioth. +1 to attack and damage when wielded by a psychic being.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

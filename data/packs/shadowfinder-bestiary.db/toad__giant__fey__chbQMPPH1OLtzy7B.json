@@ -1,0 +1,72 @@
+{
+	"_id": "chbQMPPH1OLtzy7B",
+	"_key": "!actors!chbQMPPH1OLtzy7B",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"XjhlUeskTLKyGQF2",
+		"HWLdSHTxmsCHGitp"
+	],
+	"name": "Toad, Giant, Fey",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Toad, Giant, Fey",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": -1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 10,
+				"value": 10
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Human-sized toads with brilliantly hued skin and broad butterfly wings.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 10, <strong>ATK</strong> 1 bite +2 (1d6), <strong>MV</strong> near (fly, swim), <strong>S</strong> +2, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> -3, <strong>W</strong> -1, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Poison Warts</strong>. Creatures touching or striking toad in melee, CON 9+ or 1d4 WIS damage, stupefied at 0 WIS.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

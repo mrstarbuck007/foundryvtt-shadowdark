@@ -1,0 +1,20 @@
+{
+	"_id": "YQ3ZB5g946CY3xYt",
+	"_key": "!actors.items!0N3TF78pX2MAVINq.YQ3ZB5g946CY3xYt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Beguile",
+	"system": {
+		"description": "<p>Fossegrim can enchant one mortal within double near who hears him, [[check 15 cha]] or charmed for [[/r 1d6]] hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

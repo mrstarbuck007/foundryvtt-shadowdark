@@ -1,0 +1,74 @@
+{
+	"_id": "oWkbdHZR1FAGaoDD",
+	"_key": "!actors!oWkbdHZR1FAGaoDD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"OwPTQ8rltclh2EHA",
+		"VI9wdolRM7jhkVK1",
+		"EK3FRhFg78Buqmv3",
+		"aPLbkDYNRYJw9p0d"
+	],
+	"name": "Riftcreeper",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Riftcreeper",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 36,
+				"value": 36
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Frothy scarlet jelly that extends long tendrils to move about. Adaptive, acclimated to dark places.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 36, <strong>ATK</strong> 3 tendril (near) +6 (2d6 + acidic grab), <strong>MV</strong> near (climb, swim), <strong>S</strong> +6, <strong>D</strong> +4, <strong>C</strong> +5, <strong>I</strong> -2, <strong>W</strong> +2, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Acidic Grab</strong>. STR 15+ or target held and 2d6 damage per round. STR 15+ on turn to break free.</p><p></p><p><strong>Adaptive</strong>. After taking damage from an energy type, becomes immune to that energy type for 10 rounds.</p><p></p><p><strong>Ooze Spawn</strong>. Immune to acid.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

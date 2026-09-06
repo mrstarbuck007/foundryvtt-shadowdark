@@ -1,0 +1,20 @@
+{
+	"_id": "3q8S6iARcZK2FNTz",
+	"_key": "!actors.items!oiUN4qpxvL1US5vb.3q8S6iARcZK2FNTz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Type",
+	"system": {
+		"description": "<p>Beheaded can have a special type:</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

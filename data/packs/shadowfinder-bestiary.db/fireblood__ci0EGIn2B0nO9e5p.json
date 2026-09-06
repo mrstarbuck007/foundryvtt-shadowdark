@@ -1,0 +1,20 @@
+{
+	"_id": "ci0EGIn2B0nO9e5p",
+	"_key": "!actors.items!wibT6jS8CMstVgPs.ci0EGIn2B0nO9e5p",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fireblood",
+	"system": {
+		"description": "<p>Fire immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

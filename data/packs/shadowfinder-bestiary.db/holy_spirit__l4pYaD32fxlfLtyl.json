@@ -1,0 +1,20 @@
+{
+	"_id": "l4pYaD32fxlfLtyl",
+	"_key": "!actors.items!crou6vDVkcheApM7.l4pYaD32fxlfLtyl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Holy Spirit",
+	"system": {
+		"description": "<p>Hostile spells targeting the planetar are DC 18. Sword and armor dissolve if slain.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

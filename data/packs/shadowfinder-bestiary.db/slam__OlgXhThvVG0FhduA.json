@@ -1,0 +1,28 @@
+{
+	"_id": "OlgXhThvVG0FhduA",
+	"_key": "!actors.items!uVviJvFvKAuI1VZN.OlgXhThvVG0FhduA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Slam",
+	"system": {
+		"attack": {
+			"num": 4
+		},
+		"bonuses": {
+			"attackBonus": 8
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

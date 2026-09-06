@@ -1,0 +1,73 @@
+{
+	"_id": "I3k6ZFzp19jB4XXP",
+	"_key": "!actors!I3k6ZFzp19jB4XXP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"3lzDtRwVOu5gQvs3",
+		"yP1zrhwqfeQ9ZYft",
+		"CeNyiJe80o7fgrhL"
+	],
+	"name": "Spider, Goliath",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Spider, Goliath",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 35,
+				"value": 35
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Colossal green spider that spins poisonous webs.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 35, <strong>ATK</strong> 1 bite +6 (2d6 + poison) or 1 poison web (near) +4, <strong>MV</strong> near (climb), <strong>S</strong> +5, <strong>D</strong> +0, <strong>C</strong> +4, <strong>I</strong> -2, <strong>W</strong> +1, <strong>Ch</strong> -2, <strong>AL</strong> N, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Poison</strong>. CON 15+ or paralyzed 1d4 rounds.</p><p></p><p><strong>Poison Web</strong>. One target stuck in place and 1d4 damage/round. DEX 15+ on turn to escape.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

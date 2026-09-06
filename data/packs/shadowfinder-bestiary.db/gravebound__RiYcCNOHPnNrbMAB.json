@@ -1,0 +1,75 @@
+{
+	"_id": "RiYcCNOHPnNrbMAB",
+	"_key": "!actors!RiYcCNOHPnNrbMAB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"pBpdVw4dpSBrbqAg",
+		"FtCB5ULUBu2yc9oP",
+		"bRYiXp00GhsfH3Rn",
+		"Pbjf4iwrxtgz4Zyw",
+		"z5j5dzKkSBqlS40R"
+	],
+	"name": "Gravebound",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Gravebound",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 12,
+				"value": 12
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "burrow",
+		"notes": "\n\t<p><i>Hateful ghouls spawned from being buried alive. Damp flesh, hollow eye-pits.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 12, <strong>ATK</strong> 1 claw +3 (1d6 + disease) or bury alive or gravedigger, <strong>MV</strong> near (burrow), <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Bury Alive</strong>. Seal a pit within near, burying a target alive. Suffocate in 2d4 rounds.</p><p></p><p><strong>Disease</strong>. CON 12+ or 1d4 CON damage (can't heal while ill). Repeat check each day; ends on success. Die at 0 CON,</p><p></p><p><strong>Gravedigger</strong>. Create a grave- sized pit under a target within near. DEX 15+ or fall in, DEX 9+ on turn to climb out.</p><p></p><p><strong>Undead</strong>. Immune to morale checks.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "Ls2qdnWiAdjSuHab",
+	"_key": "!actors.items!uYIcZQO2zqD5aK5L.Ls2qdnWiAdjSuHab",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mayhem",
+	"system": {
+		"description": "<p>Natural 1 rolls by mortals within near have terrible outcomes. Attacks are rerolled against an ally, spell mishaps roll with DISADV, attribute checks are disastrous.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

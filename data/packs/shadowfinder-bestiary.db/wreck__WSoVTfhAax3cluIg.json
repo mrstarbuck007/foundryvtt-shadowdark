@@ -1,0 +1,20 @@
+{
+	"_id": "WSoVTfhAax3cluIg",
+	"_key": "!actors.items!hSn3vgb8mbODiLiu.WSoVTfhAax3cluIg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Wreck",
+	"system": {
+		"description": "<p>3:6 chance to destroy bitten weapons, armor, shields, or objects.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "pjB2pOZ1JoqJc9k0",
+	"_key": "!actors.items!Owa2dlJbOII740rv.pjB2pOZ1JoqJc9k0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stigmata",
+	"system": {
+		"description": "<p>3/day, touch one target to heal disease, blind, deaf, or other ailment.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

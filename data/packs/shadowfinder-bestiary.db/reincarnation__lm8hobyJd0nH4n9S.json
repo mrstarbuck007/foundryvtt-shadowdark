@@ -1,0 +1,20 @@
+{
+	"_id": "lm8hobyJd0nH4n9S",
+	"_key": "!actors.items!mhPcXY8ZevqgFeeB.lm8hobyJd0nH4n9S",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Reincarnation",
+	"system": {
+		"description": "<p>Reincarnate mortal slain by the Hunt as a Wild Hunt creature.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

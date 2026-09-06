@@ -1,0 +1,20 @@
+{
+	"_id": "SRgV982w1hfSQQWo",
+	"_key": "!actors.items!p7wZRco0QXAEPbPp.SRgV982w1hfSQQWo",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Time Travel",
+	"system": {
+		"description": "<p>Travel to a different time, can bring willing creatures.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

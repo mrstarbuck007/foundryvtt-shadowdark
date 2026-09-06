@@ -1,0 +1,28 @@
+{
+	"_id": "wvrwMev7oKoo6ndh",
+	"_key": "!actors.items!3TXHPm1QtTI60wgT.wvrwMev7oKoo6ndh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Conjure Wisp",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Turn light sources within near into will- o'-wisps for 5 rounds. Wisps continue to shed light, are friendly to banelight.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

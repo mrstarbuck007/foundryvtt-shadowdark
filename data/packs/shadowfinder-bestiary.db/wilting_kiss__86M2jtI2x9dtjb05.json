@@ -1,0 +1,28 @@
+{
+	"_id": "86M2jtI2x9dtjb05",
+	"_key": "!actors.items!UVUL3yAN2OZgdYHa.86M2jtI2x9dtjb05",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Wilting Kiss",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Kiss a helpless or willing target. [[check 15 wis]] or take [[/r 1d4]] CHA damage and become unwilling to resist daemon's kiss for [[/r 1d4]] rounds, servile and passive at 0 CHA.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

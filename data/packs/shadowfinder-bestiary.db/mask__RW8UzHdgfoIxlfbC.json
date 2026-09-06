@@ -1,0 +1,20 @@
+{
+	"_id": "RW8UzHdgfoIxlfbC",
+	"_key": "!actors.items!vjLVxl22zDseuDKx.RW8UzHdgfoIxlfbC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mask",
+	"system": {
+		"description": "<p>Can be worn. Wearer gains ADV on WIS checks. Mask cannot move or take actions until detached from wearer.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

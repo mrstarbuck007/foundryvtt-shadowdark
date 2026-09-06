@@ -1,0 +1,28 @@
+{
+	"_id": "vfLyFKnUoKETpThm",
+	"_key": "!actors.items!3QyEcdeUFaUj14a5.vfLyFKnUoKETpThm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Baleful Whinny",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All targets who can hear within near, [[check 9 con]] or sickened for [[/r 1d4]] rounds. On success, immune for 1 day.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

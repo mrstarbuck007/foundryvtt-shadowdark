@@ -1,0 +1,30 @@
+{
+	"_id": "KUzh6ohBT2I0B8hP",
+	"_key": "!actors.items!0Qb6I8a9kWtwMj5t.KUzh6ohBT2I0B8hP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Entangle",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Vines sprout around one target within far, entangled for [[/r 1d4]] rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d4"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

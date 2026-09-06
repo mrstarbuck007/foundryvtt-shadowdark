@@ -1,0 +1,20 @@
+{
+	"_id": "jfGn9KOKUAsd7XiP",
+	"_key": "!actors.items!2LBWlBvBX8bgCpEs.jfGn9KOKUAsd7XiP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Legendary",
+	"system": {
+		"description": "<p>Only damaged by magical sources. Hostile spells targeting the tarrasque are DC 18 to cast.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

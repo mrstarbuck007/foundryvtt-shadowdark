@@ -1,0 +1,20 @@
+{
+	"_id": "HvraLVF6LnwVvcCG",
+	"_key": "!actors.items!4ihgc9hNYGO5suUN.HvraLVF6LnwVvcCG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Spore Touch",
+	"system": {
+		"description": "<p>[[check 12 con]] or [[/r 1d4]] CON damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "e7Ruk2US9PifE8HJ",
+	"_key": "!actors.items!GTaFl8wSjrzX4dVq.e7Ruk2US9PifE8HJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Puppet Master",
+	"system": {
+		"description": "<p>Attach at the base of the neck of a helpless or willing spellcasting mortal, opposed CHA to dominate it until removed.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

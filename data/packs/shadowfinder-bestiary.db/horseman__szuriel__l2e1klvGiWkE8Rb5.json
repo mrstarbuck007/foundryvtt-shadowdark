@@ -1,0 +1,73 @@
+{
+	"_id": "l2e1klvGiWkE8Rb5",
+	"_key": "!actors!l2e1klvGiWkE8Rb5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"FQec97J8LOmzD2tC",
+		"xGBjARqyoTPa0jSN",
+		"QeVbZ0fI8qXFWPnk"
+	],
+	"name": "Horseman, Szuriel",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Horseman, Szuriel",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 78,
+				"value": 78
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 16,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Blonde woman with raven wings wearing gilt plate armor. Once a paladin, now the Horseman of War.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15 (plate), <strong>HP</strong> 78, <strong>ATK</strong> 3 greatsword +10 (1d12), <strong>MV</strong> near (fly), <strong>S</strong> +6, <strong>D</strong> +4, <strong>C</strong> +6, <strong>I</strong> +4, <strong>W</strong> +5, <strong>Ch</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 16</p><p></p>\n\t<p><strong>Fury</strong>. As an action, inspire bloodlust in all mortals within far, CHA 18+ or attack nearest non-daemon for 1d6 rounds.</p><p></p><p><strong>Pure Evil</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

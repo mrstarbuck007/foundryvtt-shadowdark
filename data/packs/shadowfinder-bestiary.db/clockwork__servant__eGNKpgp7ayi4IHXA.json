@@ -1,0 +1,73 @@
+{
+	"_id": "eGNKpgp7ayi4IHXA",
+	"_key": "!actors!eGNKpgp7ayi4IHXA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"vRd0ktVFxCF4e8vN",
+		"oD7BXTgk0gM7XSbH",
+		"2wmJfUSpOgoedHHi"
+	],
+	"name": "Clockwork, Servant",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Clockwork, Servant",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 7,
+				"value": 7
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Four-armed and human- sized. Brass and steel automaton that performs repairs and tasks. It speaks its creator's language.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 7, <strong>ATK</strong> 1 slam +1 (1d4) or repair, <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +0, <strong>C</strong> +3, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> -2, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Clockwork</strong>. Only damaged by adamantine or magical sources. Immune to damage from fire, cold, or non-magical sources. Double damage from electricity.</p><p></p><p><strong>Repair</strong>. INT 15+ to repair a clockwork, which regains 1d10 HP.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

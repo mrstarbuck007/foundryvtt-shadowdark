@@ -1,0 +1,20 @@
+{
+	"_id": "fHS9xeBojbLB3O0J",
+	"_key": "!actors.items!gaY8LuoAQEewPBUf.fHS9xeBojbLB3O0J",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Can only be harmed by magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

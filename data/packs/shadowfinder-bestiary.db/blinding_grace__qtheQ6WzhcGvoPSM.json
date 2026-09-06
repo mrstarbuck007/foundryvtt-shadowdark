@@ -1,0 +1,20 @@
+{
+	"_id": "qtheQ6WzhcGvoPSM",
+	"_key": "!actors.items!2fYxFBsIvNj4F5If.qtheQ6WzhcGvoPSM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blinding Grace",
+	"system": {
+		"description": "<p>The nymph can choose to make all mortals within near blind, [[check 12 cha]] to avoid. Queen of the Waves. LV 3 or lower aquatic creatures hearing nymph's commands, [[check 15 cha]] or utterly charmed for [[/r 1d8]] days.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "uRsr1qnjfR2xWXtJ",
+	"_key": "!actors.items!4ydYRxyqaZOO7eXq.uRsr1qnjfR2xWXtJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mesmerism",
+	"system": {
+		"description": "<p>Can read the minds of all creatures within near. Can instantly take on the illusory appearance of any humanoid.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

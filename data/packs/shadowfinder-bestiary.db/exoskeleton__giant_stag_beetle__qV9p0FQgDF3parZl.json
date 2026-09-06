@@ -1,0 +1,72 @@
+{
+	"_id": "qV9p0FQgDF3parZl",
+	"_key": "!actors!qV9p0FQgDF3parZl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"8P9TehccHNJX01lW",
+		"cRBqNsB69OsOUTS5"
+	],
+	"name": "Exoskeleton, Giant Stag Beetle",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Exoskeleton, Giant Stag Beetle",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": -1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 22,
+				"value": 22
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Animated, undead, wagon- sized beetle with broad, antler-like mandibles.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 22, <strong>ATK</strong> 1 mandible +4 (1d12), <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -3, <strong>W</strong> -1, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Undead</strong>. Immune to morale checks.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

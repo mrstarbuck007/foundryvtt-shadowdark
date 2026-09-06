@@ -1,0 +1,20 @@
+{
+	"_id": "zGcZp4zVa0KP472z",
+	"_key": "!actors.items!mnGlEK8r69mDdUfy.zGcZp4zVa0KP472z",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dispel",
+	"system": {
+		"description": "<p>Bite causes dispel magic, as spell.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

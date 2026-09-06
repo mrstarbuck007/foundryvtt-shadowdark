@@ -1,0 +1,20 @@
+{
+	"_id": "9O5gyFIedIXYZO6j",
+	"_key": "!actors.items!g4RhuqWSN0AoPgzo.9O5gyFIedIXYZO6j",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Living Trap",
+	"system": {
+		"description": "<p>[[check 18 dex]] to disarm as per a trap, destroys urannag.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

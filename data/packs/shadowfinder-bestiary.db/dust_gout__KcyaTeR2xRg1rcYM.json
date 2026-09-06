@@ -1,0 +1,28 @@
+{
+	"_id": "KcyaTeR2xRg1rcYM",
+	"_key": "!actors.items!DZqnNrZSqBZbUc80.KcyaTeR2xRg1rcYM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Dust Gout",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A near-sized cube extending from mephit, [[check 9 con]] or blind for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

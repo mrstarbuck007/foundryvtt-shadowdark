@@ -1,0 +1,73 @@
+{
+	"_id": "Y3P76KknyXELx6cT",
+	"_key": "!actors!Y3P76KknyXELx6cT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"cqXFYjfYKsXLFiHD",
+		"X644BmQMlQ0062o5",
+		"LiKXbKDXWbhguQfe"
+	],
+	"name": "Drake, Lava",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Drake, Lava",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 30,
+				"value": 30
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Horse-sized crimson dragon- kin with two legs and wings, no forearms. Lesser dragon.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 30, <strong>ATK</strong> 2 bite +5 (2d6) or 1 lava gout, <strong>MV</strong> near (fly), <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> -1, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Lava Gout</strong>. Gout lava blast within double near. All creatures in a near-sized cube around where the blast lands, DEX 12+ or 2d6 damage. Cannot use again for 1d6 rounds. Lava remains hot for 1d4 rounds, 1d6 damage.</p><p></p><p><strong>Lavablood</strong>. Fire immune.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

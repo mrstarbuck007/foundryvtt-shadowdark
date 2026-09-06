@@ -1,0 +1,73 @@
+{
+	"_id": "4R9zn9m2xrSdUgoU",
+	"_key": "!actors!4R9zn9m2xrSdUgoU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"1fgJvKy8qZ1ay7yE",
+		"yjMVvHeq3s50gUyp",
+		"c58vcGG96mzzEckN"
+	],
+	"name": "Rakshasa, Tataka",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Rakshasa, Tataka",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 43,
+				"value": 43
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Blue-skinned demon-ogre with backward-facing hands. Rakshasa shock troops. Hates all faiths and faithful.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 43, <strong>ATK</strong> 3 slam +6 (2d6), <strong>MV</strong> near (fly), <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Impervious</strong>. Only damaged by magical sources. Immune to hostile spells of 3rd tier or lower.</p><p></p><p><strong>Mesmerism</strong>. Can instantly take on the illusory appearance of any giant or humanoid.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

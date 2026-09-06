@@ -1,0 +1,75 @@
+{
+	"_id": "iiuHh5Xp4YEVObmC",
+	"_key": "!actors!iiuHh5Xp4YEVObmC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"mMP4fR7jm9cnhn7b",
+		"lXR3fIPXWhgaXJYt",
+		"lpfWSxVPArtHBxFw",
+		"N9G01dvl9E0KDdLj",
+		"fCLUznm7LcgoFjUv"
+	],
+	"name": "Cephalophore",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Cephalophore",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 18
+			},
+			"hp": {
+				"max": 31,
+				"value": 31
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Stone statue depicting a decapitated mortal. Eternal guardian of a single location, such as a tomb or temple. Typically 10-15 feet tall.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 18, <strong>HP</strong> 31, <strong>ATK</strong> 2 slam +6 (1d8) or gaze, <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +4, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -2, <strong>AL</strong> N, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Gaze</strong>. All creatures within double near, WIS 9+ or stunned for 1 round.</p><p></p><p><strong>Golem</strong>. Immune to damage from fire, cold, electricity, or non-magical sources.</p><p></p><p><strong>Shatter Weapon</strong>. Weapons striking caryatid shatter on a d6 roll of 1-3.</p><p></p><p><strong>Statue</strong>. When standing still, looks exactly like a statue.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "vCYIYB319rRRQ0K2",
+	"_key": "!actors.items!djubdqkXMZczVL04.vCYIYB319rRRQ0K2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Reveal Visage",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Gaze at one creature within double near. [[check 18 cha]] or lose [[/r 2d6]] WIS permanently. Coma at 0 WIS.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,74 @@
+{
+	"_id": "shpOX49m4WTeFGKV",
+	"_key": "!actors!shpOX49m4WTeFGKV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"JHlJweLWGRelegTN",
+		"7OzCSKas8yLYzaqZ",
+		"Dx6vR7yQ94OAgTbd",
+		"qpde6vdPEeAi4KbI"
+	],
+	"name": "Blight, Tundra",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Blight, Tundra",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 44,
+				"value": 44
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Mound of icy blue snow ooze. Revel in causing misery and hardship to mortals.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 44, <strong>ATK</strong> 2 tentacle +5 (1d8 + winter curse), <strong>MV</strong> near (burrow, climb), <strong>S</strong> +5, <strong>D</strong> +4, <strong>C</strong> +4, <strong>I</strong> +2, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Frozen Domain</strong>. DISADV to cast fire spells or resist cold in domain.</p><p></p><p><strong>Impervious</strong>. Acid and cold immune. Double damage from fire.</p><p></p><p><strong>Winter Curse</strong>. CHA 15+ or cursed to take double damage from cold.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

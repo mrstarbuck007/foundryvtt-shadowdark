@@ -1,0 +1,20 @@
+{
+	"_id": "Uh4oUUIrjur1AoZP",
+	"_key": "!actors.items!QXCV1Eg8MPWFp1nd.Uh4oUUIrjur1AoZP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Statuesque",
+	"system": {
+		"description": "<p>When standing still, looks like a statue.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

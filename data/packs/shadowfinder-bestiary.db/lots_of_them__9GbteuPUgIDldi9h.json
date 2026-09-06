@@ -1,0 +1,20 @@
+{
+	"_id": "9GbteuPUgIDldi9h",
+	"_key": "!actors.items!2JXuAqIIpvIegyDc.9GbteuPUgIDldi9h",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lots of Them",
+	"system": {
+		"description": "<p>Deals +1 damage while another dossenus is close.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

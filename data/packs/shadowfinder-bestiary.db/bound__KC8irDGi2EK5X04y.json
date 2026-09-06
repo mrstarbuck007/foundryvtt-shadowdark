@@ -1,0 +1,20 @@
+{
+	"_id": "KC8irDGi2EK5X04y",
+	"_key": "!actors.items!51rxPNmmRJfAtn4n.KC8irDGi2EK5X04y",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Bound",
+	"system": {
+		"description": "<p>Bound to a specific site or object by a curse. Rejuvenates at full HP in [[/r 2d4]] days if destroyed.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

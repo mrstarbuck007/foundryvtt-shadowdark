@@ -1,0 +1,20 @@
+{
+	"_id": "sCqjlgZoIHYaCjFf",
+	"_key": "!actors.items!PazsdHUrhZBzm8SK.sCqjlgZoIHYaCjFf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Insurmountable",
+	"system": {
+		"description": "<p>Immune to hostile spells of 4th tier or lower.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

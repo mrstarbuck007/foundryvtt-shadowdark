@@ -1,0 +1,20 @@
+{
+	"_id": "N35Sub4qQ0lec3NK",
+	"_key": "!actors.items!es0Cg0amoPbmyoZ3.N35Sub4qQ0lec3NK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Corruption",
+	"system": {
+		"description": "<p>If drake kills a creature afflicted by accursed gout, the victim rises as a wight in [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "TvnmeYFnmL8MVXcm",
+	"_key": "!actors.items!jGgbvmVaKeZWpdxU.TvnmeYFnmL8MVXcm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Toss",
+	"system": {
+		"description": "<p>[[check 18 dex]] or thrown [[/r 1d100]] feet in a random direction.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

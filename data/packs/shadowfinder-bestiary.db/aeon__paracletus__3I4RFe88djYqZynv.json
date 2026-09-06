@@ -1,0 +1,71 @@
+{
+	"_id": "3I4RFe88djYqZynv",
+	"_key": "!actors!3I4RFe88djYqZynv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"gbUmdsYFFwhp1iJI"
+	],
+	"name": "Aeon, Paracletus",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Aeon, Paracletus",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": -1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Fist-sized collection of orbiting, faceted crystals resembling protons. Every paracletus is programmed with two random emotions.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 4, <strong>ATK</strong> 1 conduct emotion, <strong>MV</strong> near (fly), <strong>S</strong> -4, <strong>D</strong> +0, <strong>C</strong> +0, <strong>I</strong> -2, <strong>W</strong> -1, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Conduct Emotion</strong>. All mortals within near, WIS 9+ or intensely experience emotion for 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,30 @@
+{
+	"_id": "QLIYYK4YE5wWOSxP",
+	"_key": "!actors.items!e0uma7OJnyUyYjAv.QLIYYK4YE5wWOSxP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Edict",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Focus. Non-chaotic creatures have DISADV to attack or cast spells against sorceress for duration.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

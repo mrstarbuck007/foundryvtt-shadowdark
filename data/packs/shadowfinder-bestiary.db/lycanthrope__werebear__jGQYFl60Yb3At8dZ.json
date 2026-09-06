@@ -1,0 +1,74 @@
+{
+	"_id": "jGQYFl60Yb3At8dZ",
+	"_key": "!actors!jGQYFl60Yb3At8dZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"BF5NAtgieyD4A9oK",
+		"a1enFHjUFkeOkaMX",
+		"Hz177yzBPcEYwxiX",
+		"fj4Y3SM3Nx8DoOWg"
+	],
+	"name": "Lycanthrope, Werebear",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Lycanthrope, Werebear",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 34,
+				"value": 34
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Humanoid that can assume the form of a dire bear or a hybrid form. Lives in the wild.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 34, <strong>ATK</strong> 2 claw +6 (2d6), <strong>MV</strong> near (climb), <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +0, <strong>AL</strong> L, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Crush</strong>. Deals an extra die of damage if it hits the same target with both claws.</p><p></p><p><strong>Impervious</strong>. Only damaged by silver or magic sources.</p><p></p><p><strong>Lycanthropy</strong>. If 12 or more damage from the same werebear, contract lycanthropy.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

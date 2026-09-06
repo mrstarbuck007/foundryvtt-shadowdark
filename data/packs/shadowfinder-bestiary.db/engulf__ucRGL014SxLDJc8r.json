@@ -1,0 +1,20 @@
+{
+	"_id": "ucRGL014SxLDJc8r",
+	"_key": "!actors.items!CgamSDcKPSmWpCOr.ucRGL014SxLDJc8r",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Engulf",
+	"system": {
+		"description": "<p>If two or more slams hit a target in same round, it is pulled into elemental and suffocates in [[/r 2d4]] rounds. [[check 15 str]] on turn to escape.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

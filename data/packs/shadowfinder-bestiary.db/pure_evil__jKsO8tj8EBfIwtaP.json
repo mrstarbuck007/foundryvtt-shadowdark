@@ -1,0 +1,20 @@
+{
+	"_id": "jKsO8tj8EBfIwtaP",
+	"_key": "!actors.items!4a8gosWOkxmLA870.jKsO8tj8EBfIwtaP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pure Evil",
+	"system": {
+		"description": "<p>Only damaged by cold iron or magical sources. Immune to acid.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

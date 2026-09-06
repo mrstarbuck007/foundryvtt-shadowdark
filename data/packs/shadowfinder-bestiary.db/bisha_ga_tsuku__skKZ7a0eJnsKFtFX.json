@@ -1,0 +1,73 @@
+{
+	"_id": "skKZ7a0eJnsKFtFX",
+	"_key": "!actors!skKZ7a0eJnsKFtFX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"VcmYboVuDZ1ONrHH",
+		"9SRcjcFjzzrH616D",
+		"hGbupzBQtTBYIYZw"
+	],
+	"name": "Bisha Ga Tsuku",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Bisha Ga Tsuku",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 29,
+				"value": 29
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Spirit of those who froze to death. Frigid cloud of obscuring fog with two 4- foot-long chicken feet emerging from mist.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 29, <strong>ATK</strong> 3 tendril +4 (2d6), <strong>MV</strong> near (fly), <strong>S</strong> +3, <strong>D</strong> +3, <strong>C</strong> +2, <strong>I</strong> +0, <strong>W</strong> +2, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Cold Mist</strong>. Surrounded by near-sized cold mist centered on the spirit. All mortals within, CHA 15+ on turn or 1d4 DEX damage, frozen solid at 0 DEX. Ranged attacks have DISADV.</p><p></p><p><strong>Greater Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "gRdz0TItDci6LZMd",
+	"_key": "!actors.items!Ia2J2sKkPlGRtdzq.gRdz0TItDci6LZMd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Space Beast",
+	"system": {
+		"description": "<p>Immune to cold and fire.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

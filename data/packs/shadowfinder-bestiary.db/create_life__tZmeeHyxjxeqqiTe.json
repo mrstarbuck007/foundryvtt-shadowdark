@@ -1,0 +1,28 @@
+{
+	"_id": "tZmeeHyxjxeqqiTe",
+	"_key": "!actors.items!xh04b4KuJQBB2FsR.tZmeeHyxjxeqqiTe",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Create Life",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Create one LV 10 or lower being. Not under elohim's control.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,40 @@
+{
+	"_id": "drvkawzkxgLUzD0K",
+	"_key": "!actors.items!fk4aDDge2tgcfUUj.drvkawzkxgLUzD0K",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Warhammer",
+	"system": {
+		"attack": {
+			"num": 3
+		},
+		"bonuses": {
+			"attackBonus": 10,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 3,
+			"special": "Pummel",
+			"value": "3d10"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"near"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Attack"
+}

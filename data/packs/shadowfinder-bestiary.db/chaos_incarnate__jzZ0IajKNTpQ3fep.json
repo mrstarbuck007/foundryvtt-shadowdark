@@ -1,0 +1,20 @@
+{
+	"_id": "jzZ0IajKNTpQ3fep",
+	"_key": "!actors.items!rGHwZpGshkOosNOg.jzZ0IajKNTpQ3fep",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Chaos Incarnate",
+	"system": {
+		"description": "<p>Mortals within near of Cthulhu, [[check 15 cha]] or die. On success, immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

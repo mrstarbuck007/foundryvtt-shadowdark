@@ -1,0 +1,28 @@
+{
+	"_id": "wpvqkyfyPU8FJdNQ",
+	"_key": "!actors.items!NKnoACEOCZUjeJHE.wpvqkyfyPU8FJdNQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Croak",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All within double near who can hear, [[check 15 cha]] or stunned [[/r 1d4]] rounds. Cannot use again for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

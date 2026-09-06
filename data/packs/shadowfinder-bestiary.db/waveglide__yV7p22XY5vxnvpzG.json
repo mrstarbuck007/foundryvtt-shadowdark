@@ -1,0 +1,20 @@
+{
+	"_id": "yV7p22XY5vxnvpzG",
+	"_key": "!actors.items!9faFXjQ75SXd7Z4O.yV7p22XY5vxnvpzG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Waveglide",
+	"system": {
+		"description": "<p>Control ocean, double or half movement of creatures or objects within double near.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

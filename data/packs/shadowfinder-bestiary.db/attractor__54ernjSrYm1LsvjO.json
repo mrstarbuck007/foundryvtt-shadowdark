@@ -1,0 +1,28 @@
+{
+	"_id": "54ernjSrYm1LsvjO",
+	"_key": "!actors.items!nsZIw4R9boiyB69X.54ernjSrYm1LsvjO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Attractor",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Staff made of strange metal. Creatures within double near, [[check 15 str]] on turn or else move towards attractor, stuck fast, cannot move away.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

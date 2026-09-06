@@ -1,0 +1,28 @@
+{
+	"_id": "plhBxmcQ5EbXLFGz",
+	"_key": "!actors.items!2q63vtClbQTVOpq8.plhBxmcQ5EbXLFGz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Ice Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All within close, [[check 15 con]] or [[/r 2d6]] damage and frozen for 1 round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

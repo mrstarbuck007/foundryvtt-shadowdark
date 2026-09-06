@@ -1,0 +1,29 @@
+{
+	"_id": "slfXq3xK3OHwW0se",
+	"_key": "!actors.items!PruL2IUvFmBalyA4.slfXq3xK3OHwW0se",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Shadow Bolt",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>[[check 15 wis]] or [[/r 2d6]] damage. Non-lethal, shadow damage heals after [[/r 1d4]] hours.</p>",
+		"properties": [
+		],
+		"ranges": [
+			"far"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

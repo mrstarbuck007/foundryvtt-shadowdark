@@ -1,0 +1,28 @@
+{
+	"_id": "0zplG691aMfGLJUf",
+	"_key": "!actors.items!7tO0bVVJ0U2gXDsA.0zplG691aMfGLJUf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Psychic Noise",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All within near, [[check 15 wis]] or stunned [[/r 1d4]] rounds. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

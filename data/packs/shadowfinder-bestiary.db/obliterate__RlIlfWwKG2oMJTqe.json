@@ -1,0 +1,20 @@
+{
+	"_id": "RlIlfWwKG2oMJTqe",
+	"_key": "!actors.items!ENL7oONbXqH03Ass.RlIlfWwKG2oMJTqe",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Obliterate",
+	"system": {
+		"description": "<p>If target reduced to 0 HP, [[check 18 con]] or decays instantly, turns to dust.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

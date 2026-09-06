@@ -1,0 +1,20 @@
+{
+	"_id": "TxW0n2AVGPqtLgLZ",
+	"_key": "!actors.items!oMxrQkeOeSPWGemt.TxW0n2AVGPqtLgLZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Cold immune. Only damaged by silver or magical sources. Lord of the Flies. When attacked or a hostile spell is cast at Baalzebul, [[check 18 cha]] or the attacker instead kneels in supplication.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

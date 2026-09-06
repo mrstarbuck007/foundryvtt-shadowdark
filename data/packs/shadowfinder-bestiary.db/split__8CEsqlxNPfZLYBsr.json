@@ -1,0 +1,20 @@
+{
+	"_id": "8CEsqlxNPfZLYBsr",
+	"_key": "!actors.items!9lJiiDU9Hwga1MIC.8CEsqlxNPfZLYBsr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Split",
+	"system": {
+		"description": "<p>As an action, split into three flesh golems (divide remaining HP between golems, no immunities). Can rejoin given [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

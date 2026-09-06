@@ -1,0 +1,20 @@
+{
+	"_id": "YKZUg8HpSogr619B",
+	"_key": "!actors.items!eXsqTNRLSvbwhjfd.YKZUg8HpSogr619B",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Drink Bone",
+	"system": {
+		"description": "<p>If target had bones softened via gaze, tenome slurps down bone fluid and regains [[/r 2d6]] HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

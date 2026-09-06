@@ -1,0 +1,20 @@
+{
+	"_id": "y2PZ3w2R8ZVNe8oy",
+	"_key": "!actors.items!jKQnBcifayj7errA.y2PZ3w2R8ZVNe8oy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Hop",
+	"system": {
+		"description": "<p>1/day, an attack that would hit misses instead.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

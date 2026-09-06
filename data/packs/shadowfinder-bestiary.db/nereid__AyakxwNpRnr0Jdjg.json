@@ -1,0 +1,74 @@
+{
+	"_id": "AyakxwNpRnr0Jdjg",
+	"_key": "!actors!AyakxwNpRnr0Jdjg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"eby7tTeyYSK651C1",
+		"X4IyvD6tBOW4zmQj",
+		"J0M9bwCc9XpA2tCW",
+		"5R64597TbFzweH3Q"
+	],
+	"name": "Nereid",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Nereid",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": -1
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 19,
+				"value": 19
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Beautiful fey maiden born of rivers and streams. Constantly dripping water. Has a gossamer-threaded shawl that harbors her life essence, always worn or hidden.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 19, <strong>ATK</strong> 1 slam +0 (1) or kiss, <strong>MV</strong> near (swim), <strong>S</strong> -1, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> +1, <strong>W</strong> +3, <strong>Ch</strong> +4, <strong>AL</strong> N, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Beguile</strong>. The nereid can choose to beguile all mortals within near who behold her, CHA 18+ or charmed for 1d6 hours.</p><p></p><p><strong>Kiss</strong>. Kiss a helpless or willing target, filling their lungs with water. CON 18+ or go to 0 HP with a death timer of 1. Can instead bestow water breathing for 1d4 days.</p><p></p><p><strong>Waterborn</strong>. Can become invisible when submerged in running water.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,74 @@
+{
+	"_id": "fXoevt7qokeV8CPu",
+	"_key": "!actors!fXoevt7qokeV8CPu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"V9Gp8qm9sfolWAJc",
+		"NfdIvFVpRAIFblli",
+		"B6Zx30zLTluqs0g3",
+		"RWsn2GeeCxQMV12i"
+	],
+	"name": "Nependis",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Nependis",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 29,
+				"value": 29
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Grey, orcish figure with four tusks and cloven hooves. Ambushers who thrill at the hunt. Territorial loners.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 29, <strong>ATK</strong> 2 claw +5 (1d6+ grab) and abduct (climb), <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Abduct</strong>. If nependis grabs a target, can immediately move double near with foe.</p><p></p><p><strong>Grab</strong>. STR 15+ or held. STR 15+ on turn to break free.</p><p></p><p><strong>Roar</strong>. All creatures who can hear within double near CHA 15+ or frightened 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

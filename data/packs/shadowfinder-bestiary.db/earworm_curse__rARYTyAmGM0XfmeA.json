@@ -1,0 +1,28 @@
+{
+	"_id": "rARYTyAmGM0XfmeA",
+	"_key": "!actors.items!yjEv5Q0Xctm8KdnY.rARYTyAmGM0XfmeA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Earworm Curse",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Whisper one of the Diabolic True Words to a mortal within close. [[check 18 wis]] or sleep is filled with wretched nightmares. Cannot rest, lose [[/r 1d6]] WIS permanently (can't heal or rest while cursed). Repeat check each day, become insane and chaotic at 0 WIS.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

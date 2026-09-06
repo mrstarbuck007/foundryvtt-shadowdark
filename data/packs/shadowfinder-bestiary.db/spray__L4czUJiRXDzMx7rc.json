@@ -1,0 +1,28 @@
+{
+	"_id": "L4czUJiRXDzMx7rc",
+	"_key": "!actors.items!Ia2J2sKkPlGRtdzq.L4czUJiRXDzMx7rc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Spray",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (5' wide) of water extending near from goezspall. [[check 15 dex]] or knocked back [[/r 1d20]] feet and prone.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "zTAiSaDktvz69bqg",
+	"_key": "!actors.items!MXF4SvseUYQAwlkg.zTAiSaDktvz69bqg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mutilation",
+	"system": {
+		"description": "<p>Cursed bite, [[check 9 con]] or [[/r 1d4]] CHA damage (cannot heal while cursed). Coma at 0 CHA.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

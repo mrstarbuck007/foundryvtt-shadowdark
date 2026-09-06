@@ -1,0 +1,28 @@
+{
+	"_id": "ZOZN7jX3S6AchgEs",
+	"_key": "!actors.items!HdePsPIPTyGrLMud.ZOZN7jX3S6AchgEs",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Capsize",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Opposed STR versus captain's INT or ship is capsized and begins to sink.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

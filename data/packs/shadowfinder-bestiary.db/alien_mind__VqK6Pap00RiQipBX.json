@@ -1,0 +1,20 @@
+{
+	"_id": "VqK6Pap00RiQipBX",
+	"_key": "!actors.items!k29h2QpMazho15sh.VqK6Pap00RiQipBX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Alien Mind",
+	"system": {
+		"description": "<p>Immune to charm, sleep, and other mental effects.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

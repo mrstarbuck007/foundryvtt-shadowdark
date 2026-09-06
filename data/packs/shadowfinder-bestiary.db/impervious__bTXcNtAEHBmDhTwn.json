@@ -1,0 +1,20 @@
+{
+	"_id": "bTXcNtAEHBmDhTwn",
+	"_key": "!actors.items!6WDvncUoIWGcM2xI.bTXcNtAEHBmDhTwn",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Only damaged by magical sources. Immune to hostile spells of 2nd tier or lower.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

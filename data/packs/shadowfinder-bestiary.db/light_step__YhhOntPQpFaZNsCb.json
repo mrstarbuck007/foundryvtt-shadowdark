@@ -1,0 +1,20 @@
+{
+	"_id": "YhhOntPQpFaZNsCb",
+	"_key": "!actors.items!BFFqVdOKuTXhb6TS.YhhOntPQpFaZNsCb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Light Step",
+	"system": {
+		"description": "<p>Teleport from a brightly lit area to another brightly lit area within far.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

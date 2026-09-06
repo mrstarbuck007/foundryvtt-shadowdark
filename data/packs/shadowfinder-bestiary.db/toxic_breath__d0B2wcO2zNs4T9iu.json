@@ -1,0 +1,20 @@
+{
+	"_id": "d0B2wcO2zNs4T9iu",
+	"_key": "!actors.items!l74LTUZdr9K1MSLR.d0B2wcO2zNs4T9iu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Toxic Breath",
+	"system": {
+		"description": "<p>On land, surrounded by near-sized cloud centered on Bokrug, [[/r 3d6]] damage per turn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

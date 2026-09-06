@@ -1,0 +1,20 @@
+{
+	"_id": "JYgA2cyIKUPqqhjF",
+	"_key": "!actors.items!mXEquRzxkjWV60uc.JYgA2cyIKUPqqhjF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow",
+	"system": {
+		"description": "<p>On a natural attack roll of 18-20, target is swallowed. Total darkness inside and [[/r 2d10]] damage per round. Turtle regurgitates all swallowed if dealt at least 10 damage to the inside of its gullet in one round.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

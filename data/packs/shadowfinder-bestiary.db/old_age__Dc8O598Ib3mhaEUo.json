@@ -1,0 +1,20 @@
+{
+	"_id": "Dc8O598Ib3mhaEUo",
+	"_key": "!actors.items!VTloLFuCrK0mgaYI.Dc8O598Ib3mhaEUo",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Old Age",
+	"system": {
+		"description": "<p>[[check 18 cha]] or become frail and elderly, lose [[/r 1d6]] STR, DEX, and CON permanently.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

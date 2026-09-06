@@ -1,0 +1,20 @@
+{
+	"_id": "7RlGT9GX07Vc4Ae2",
+	"_key": "!actors.items!IUGTDdsLhoqY2nBh.7RlGT9GX07Vc4Ae2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dreamscape",
+	"system": {
+		"description": "<p>Enter dreams of sleeping creature in far.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "LzfBrgkSweAwrRiM",
+	"_key": "!actors.items!eKCOgK1P0nx3gjgm.LzfBrgkSweAwrRiM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lava Body",
+	"system": {
+		"description": "<p>Creatures touching or in close [[check 15 con]] on turn or [[/r 1d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,76 @@
+{
+	"_id": "5w799jZgKjBX6rWX",
+	"_key": "!actors!5w799jZgKjBX6rWX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"hOA9w9VXnlj4hNkc",
+		"WZLGp11Z80shtdXQ",
+		"q65yPJddeZeTtHRU",
+		"wn961Vuz9zswYOQK",
+		"fiFAnmLLEAPAJ4Ca",
+		"Dobk0iRuubSrcKkg"
+	],
+	"name": "Empyreal Lord, Cernunnos",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Empyreal Lord, Cernunnos",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 82,
+				"value": 82
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 17,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Avatar of a god of the Old Ways. Elf lord with stag�s horns and enmity for forest despoilers. Ultimate hunter.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16 (leather), <strong>HP</strong> 82, <strong>ATK</strong> 3 club +10 (1d4+3) or 3 longbow (far) +10 (1d8+3 + slaying), <strong>MV</strong> double near (fly), <strong>S</strong> +4, <strong>D</strong> +5, <strong>C</strong> +6, <strong>I</strong> +2, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> L, <strong>LV</strong> 17</p><p></p>\n\t<p><strong>Avatar</strong>. Only damaged by magic sources.</p><p></p><p><strong>Beast Mastery</strong>. Animals hearing Cernunnos, CHA 18+ or utterly charmed for 1d8 days.</p><p></p><p><strong>Slaying</strong>. CON 18+ or reduced to 0 HP with a death timer of 1.</p><p></p><p><strong>Weapons of Old</strong>. His club and longbow are +3 weapons while he wields them.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

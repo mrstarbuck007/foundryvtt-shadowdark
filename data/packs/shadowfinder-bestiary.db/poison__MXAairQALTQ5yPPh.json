@@ -1,0 +1,20 @@
+{
+	"_id": "MXAairQALTQ5yPPh",
+	"_key": "!actors.items!e1QL3tvUL2tGtyTa.MXAairQALTQ5yPPh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>[[check 15 con]] or dazed 1 round.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

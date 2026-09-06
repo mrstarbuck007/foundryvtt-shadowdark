@@ -1,0 +1,20 @@
+{
+	"_id": "fj4Y3SM3Nx8DoOWg",
+	"_key": "!actors.items!jGQYFl60Yb3At8dZ.fj4Y3SM3Nx8DoOWg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lycanthropy",
+	"system": {
+		"description": "<p>If 12 or more damage from the same werebear, contract lycanthropy.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

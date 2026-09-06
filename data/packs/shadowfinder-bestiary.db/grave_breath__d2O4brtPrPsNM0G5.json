@@ -1,0 +1,28 @@
+{
+	"_id": "d2O4brtPrPsNM0G5",
+	"_key": "!actors.items!kjz1S4os3vGwSdzx.d2O4brtPrPsNM0G5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Grave Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a double near-sized cube extending from dragon. [[check 15 con]] or reduced to 0 HP.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

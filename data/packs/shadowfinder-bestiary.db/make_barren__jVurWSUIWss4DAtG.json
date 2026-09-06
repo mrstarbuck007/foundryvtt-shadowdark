@@ -1,0 +1,20 @@
+{
+	"_id": "jVurWSUIWss4DAtG",
+	"_key": "!actors.items!CNtVubRmkQmFhO9Z.jVurWSUIWss4DAtG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Make Barren",
+	"system": {
+		"description": "<p>[[check 15 con]] or become sterile or barren.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

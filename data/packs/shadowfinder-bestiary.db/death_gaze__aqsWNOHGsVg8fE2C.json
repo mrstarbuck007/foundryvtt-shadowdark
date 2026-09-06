@@ -1,0 +1,28 @@
+{
+	"_id": "aqsWNOHGsVg8fE2C",
+	"_key": "!actors.items!wbzqLyOIV5s3aT6Q.aqsWNOHGsVg8fE2C",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Death Gaze",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Part hair and show face to creature within close. [[check 15 wis]] or terrified for [[/r 1d4]] rounds. On a natural 1, dies of fright.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

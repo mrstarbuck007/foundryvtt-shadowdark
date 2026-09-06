@@ -1,0 +1,20 @@
+{
+	"_id": "QxogMSl5dU8sA6xA",
+	"_key": "!actors.items!wApJk9Tk2uIguS7l.QxogMSl5dU8sA6xA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Adaptation",
+	"system": {
+		"description": "<p>Can use one of the following. Each lasts 5 rounds, one active at a time:</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

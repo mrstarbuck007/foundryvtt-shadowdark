@@ -1,0 +1,20 @@
+{
+	"_id": "F5Ws6XVgMINkeYvP",
+	"_key": "!actors.items!YlvpTCIW7sIE6ZMK.F5Ws6XVgMINkeYvP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Possession",
+	"system": {
+		"description": "<p>If reduced to 0 HP, vrykolakas 's spirit flies into animal within near range. Contested CHA check. If undead wins, inhabits and controls animal, transforms into undead over [[/r 1d4]] days.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "Nv4x6c6gnIadDNtg",
+	"_key": "!actors.items!USLf2IQtDnJKi29r.Nv4x6c6gnIadDNtg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mimic Form",
+	"system": {
+		"description": "<p>As an action, shapechange into humanoid protean has seen recently.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

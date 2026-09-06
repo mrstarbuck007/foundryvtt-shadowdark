@@ -1,0 +1,30 @@
+{
+	"_id": "LfOXnFaRVoJCro2j",
+	"_key": "!actors.items!inwqgrG7XCYCmaYg.LfOXnFaRVoJCro2j",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Liquid Form",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Self. DC 13. Turn into puddle of water for [[/r 2d4]] rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "2d4"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

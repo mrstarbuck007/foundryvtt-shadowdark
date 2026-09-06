@@ -1,0 +1,20 @@
+{
+	"_id": "BbRywpi4JjzzihHh",
+	"_key": "!actors.items!ILEy7gkkbDityZv7.BbRywpi4JjzzihHh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Restore",
+	"system": {
+		"description": "<p>In place of attacks, touch one creature to remove a curse, affliction, or heal [[/r 3d8]] HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

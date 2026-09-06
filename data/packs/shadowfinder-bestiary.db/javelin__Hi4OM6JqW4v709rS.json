@@ -1,0 +1,41 @@
+{
+	"_id": "Hi4OM6JqW4v709rS",
+	"_key": "!actors.items!f9ptgBE5XhCgjMcR.Hi4OM6JqW4v709rS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Javelin",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 2,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 1,
+			"special": "",
+			"value": "1d4"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"close",
+			"far"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Attack"
+}

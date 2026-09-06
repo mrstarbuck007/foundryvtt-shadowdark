@@ -1,0 +1,30 @@
+{
+	"_id": "w1kq1xTrnJXpWeVD",
+	"_key": "!actors.items!5Ewgitie39He0WRI.w1kq1xTrnJXpWeVD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Fly",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Self. Fly for 5 rounds, double near movement.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

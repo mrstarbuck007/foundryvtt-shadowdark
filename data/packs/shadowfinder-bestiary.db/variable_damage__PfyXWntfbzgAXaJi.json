@@ -1,0 +1,20 @@
+{
+	"_id": "PfyXWntfbzgAXaJi",
+	"_key": "!actors.items!flJdpQfNTchOqUYu.PfyXWntfbzgAXaJi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Variable Damage",
+	"system": {
+		"description": "<p>Eidolon's attack type and damage varies by the form chosen when it is created. d6: 1-3. d6, 4-5. d8. 6. d10.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

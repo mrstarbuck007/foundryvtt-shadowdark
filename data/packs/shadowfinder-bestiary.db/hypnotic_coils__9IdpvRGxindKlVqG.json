@@ -1,0 +1,20 @@
+{
+	"_id": "9IdpvRGxindKlVqG",
+	"_key": "!actors.items!f98fQV1f8udmoKON.9IdpvRGxindKlVqG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Hypnotic Coils",
+	"system": {
+		"description": "<p>Mortals within far, [[check 15 wis]] or gaze in awe at ouroboros's rhythmic coils for [[/r 1d4]] rounds. On success, immune for 24 hours</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "x0crobVP5T4ZfDkH",
+	"_key": "!actors.items!6IRh6cmEdacPRfcY.x0crobVP5T4ZfDkH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Acid Breath",
+	"system": {
+		"description": "<p>A straight line (5' wide) extending near from dracolisk. [[check 15 dex]] or [[/r 2d8]] damage. Organic material or metal hit dissolves on a d6 roll of 1-3.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "e1MnXME3q2ZPuuZs",
+	"_key": "!actors.items!2WFnhR3EMcyY5OiX.e1MnXME3q2ZPuuZs",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Panpipes",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Creatures who can hear within double near [[check 15 cha]] or entranced and jovial for 1 day. Immune for 1 day if passed check.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

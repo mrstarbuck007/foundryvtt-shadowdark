@@ -1,0 +1,20 @@
+{
+	"_id": "CBm06Z06KfA8yLNQ",
+	"_key": "!actors.items!mWFlRrGfzQxiG5XC.CBm06Z06KfA8yLNQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stench",
+	"system": {
+		"description": "<p>Mortal creatures [[check 15 con]] the first time within near or DISADV on attacks and spellcasting for 5 rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

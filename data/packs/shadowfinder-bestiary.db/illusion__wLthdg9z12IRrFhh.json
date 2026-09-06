@@ -1,0 +1,20 @@
+{
+	"_id": "wLthdg9z12IRrFhh",
+	"_key": "!actors.items!aDeTztJd9b4TDbzd.wLthdg9z12IRrFhh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Illusion",
+	"system": {
+		"description": "<p>Create a convincing audiovisual illusion within near. Lasts 5 rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

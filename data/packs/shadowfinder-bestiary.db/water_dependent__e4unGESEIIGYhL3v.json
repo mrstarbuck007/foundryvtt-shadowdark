@@ -1,0 +1,20 @@
+{
+	"_id": "e4unGESEIIGYhL3v",
+	"_key": "!actors.items!9faFXjQ75SXd7Z4O.e4unGESEIIGYhL3v",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Water Dependent",
+	"system": {
+		"description": "<p>Must be submerged in water every 4 hours or suffocates.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

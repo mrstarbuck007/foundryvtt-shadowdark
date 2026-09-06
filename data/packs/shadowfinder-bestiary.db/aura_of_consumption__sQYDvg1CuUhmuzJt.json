@@ -1,0 +1,28 @@
+{
+	"_id": "sQYDvg1CuUhmuzJt",
+	"_key": "!actors.items!f6PNsS68OvCLMNop.sQYDvg1CuUhmuzJt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Aura Of Consumption",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All mortals within near, [[check 18 cha]] or filled with hunger, DISADV on checks and attacks until fed. Immune for 1 day if passed check.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

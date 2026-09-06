@@ -1,0 +1,74 @@
+{
+	"_id": "qKcfkWNHQrUqG5fN",
+	"_key": "!actors!qKcfkWNHQrUqG5fN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"FUpx2ijGoBs1Qgdf",
+		"gWFrfjLgaNoCFkUk",
+		"a0o4zIo5yNSg6Age",
+		"Mg6ooZgAyJAOJd0j"
+	],
+	"name": "Empyreal Lord, Monkey Prince",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Empyreal Lord, Monkey Prince",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 6
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 6
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 77,
+				"value": 77
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 16,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Avatar of a god. Three-tailed monkey prince. Serene, kind, benevolent, peace bringer.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 77, <strong>ATK</strong> 4 staff +10 (1d8+3), <strong>MV</strong> double near (climb, fly), <strong>S</strong> +4, <strong>D</strong> +5, <strong>C</strong> +5, <strong>I</strong> +3, <strong>W</strong> +6, <strong>Ch</strong> +6, <strong>AL</strong> L, <strong>LV</strong> 16</p><p></p>\n\t<p><strong>Avatar</strong>. Only damaged by magic sources.</p><p></p><p><strong>Tranquility</strong>. Within double near, CHA 18+ to take hostile actions against Monkey Price or allies.</p><p></p><p><strong>Weapon of Old</strong>. His staff is a +3 weapon while he wields it.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

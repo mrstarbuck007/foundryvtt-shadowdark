@@ -1,0 +1,73 @@
+{
+	"_id": "wV188S3NMO2ZF3dr",
+	"_key": "!actors!wV188S3NMO2ZF3dr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"ObQnnl8xo0EY7qw2",
+		"btgAPYevPUIS4sco",
+		"lroJrTfev9t3effi"
+	],
+	"name": "Wild Hunt, Archer",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Wild Hunt, Archer",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 52,
+				"value": 52
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Ram-horned archer of the Wild Hunt. Bow made of living wood, six fingers on each hand.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 52, <strong>ATK</strong> 1 gore +5 (1d8) or 2 +3 longbow (far) +6 (1d8+3), <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> +4, <strong>C</strong> +3, <strong>I</strong> +2, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Wild Hunt</strong>. No penalty for cover or concealment. If slain, longbow turns to mossy dirt.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

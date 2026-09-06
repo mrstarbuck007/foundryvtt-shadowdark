@@ -1,0 +1,28 @@
+{
+	"_id": "QYg30oXdXVS0cNHc",
+	"_key": "!actors.items!Tzknv37REppIVJaR.QYg30oXdXVS0cNHc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Inspire",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>[[check 12 cha]], ADV on attacks to formians with near for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

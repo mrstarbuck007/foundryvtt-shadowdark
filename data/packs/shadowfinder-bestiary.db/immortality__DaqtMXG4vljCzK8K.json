@@ -1,0 +1,20 @@
+{
+	"_id": "DaqtMXG4vljCzK8K",
+	"_key": "!actors.items!GJl2OGRaRVsuaVOS.DaqtMXG4vljCzK8K",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Immortality",
+	"system": {
+		"description": "<p>Reincarnates in a year if slain. Holds a grudge against those who slew it.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

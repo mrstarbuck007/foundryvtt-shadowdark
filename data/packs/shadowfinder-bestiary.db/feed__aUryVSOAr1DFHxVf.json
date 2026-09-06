@@ -1,0 +1,28 @@
+{
+	"_id": "aUryVSOAr1DFHxVf",
+	"_key": "!actors.items!n4AdWnHOXjswxTAR.aUryVSOAr1DFHxVf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Feed",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Drain fluids, [[check 15 con]] or lose [[/r 2d4]] CON permanently.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

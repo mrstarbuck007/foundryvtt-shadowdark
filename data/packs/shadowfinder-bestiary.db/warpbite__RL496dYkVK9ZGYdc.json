@@ -1,0 +1,20 @@
+{
+	"_id": "RL496dYkVK9ZGYdc",
+	"_key": "!actors.items!l8DGlmgcTlZA2UUK.RL496dYkVK9ZGYdc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Warpbite",
+	"system": {
+		"description": "<p>[[check 15 cha]] or take [[/r 1d8]] attribute damage. d6: 1. STR, 2. DEX, 3. CON, 4. INT, 5. WIS, 6. CHA.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "jFxlFSmUhLaF5cCL",
+	"_key": "!actors.items!atLh6dqYpEev3JVs.jFxlFSmUhLaF5cCL",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shadow Evocation",
+	"system": {
+		"description": "<p>As an action, create a quasi-real weapon, armor, or item of gear. Functional but dissolves in bright light.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

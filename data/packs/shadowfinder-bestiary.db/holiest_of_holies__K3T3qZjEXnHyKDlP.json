@@ -1,0 +1,20 @@
+{
+	"_id": "K3T3qZjEXnHyKDlP",
+	"_key": "!actors.items!ZFZ7E2wf46aAQdWC.K3T3qZjEXnHyKDlP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Holiest of Holies",
+	"system": {
+		"description": "<p>Hostile spells cast within near are DC 18. Sword and armor dissolve if slain.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

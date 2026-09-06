@@ -1,0 +1,20 @@
+{
+	"_id": "7AaYpLXRVfNk4xAL",
+	"_key": "!actors.items!oN9ih9Hybwd1w7cg.7AaYpLXRVfNk4xAL",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Rejuvenation",
+	"system": {
+		"description": "<p>If destroyed, reforms in [[/r 2d4]] days</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

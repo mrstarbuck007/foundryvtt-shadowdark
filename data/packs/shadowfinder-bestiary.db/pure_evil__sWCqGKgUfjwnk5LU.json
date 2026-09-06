@@ -1,0 +1,20 @@
+{
+	"_id": "sWCqGKgUfjwnk5LU",
+	"_key": "!actors.items!fk4aDDge2tgcfUUj.sWCqGKgUfjwnk5LU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pure Evil",
+	"system": {
+		"description": "<p>Only damaged by silver weapons or magic sources. Immune to cold and lightning.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

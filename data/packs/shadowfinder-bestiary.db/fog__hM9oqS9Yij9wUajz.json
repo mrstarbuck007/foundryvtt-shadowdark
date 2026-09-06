@@ -1,0 +1,30 @@
+{
+	"_id": "hM9oqS9Yij9wUajz",
+	"_key": "!actors.items!ulmLROiQuJQGdbmg.hM9oqS9Yij9wUajz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Fog",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>For [[/r 1d4]] rounds, fog fills a near-sized cube centered on naga. It spreads around corners. Creatures inside the cloud are blinded.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d4"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

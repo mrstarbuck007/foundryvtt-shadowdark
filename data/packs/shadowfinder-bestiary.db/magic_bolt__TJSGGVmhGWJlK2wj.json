@@ -1,0 +1,30 @@
+{
+	"_id": "TJSGGVmhGWJlK2wj",
+	"_key": "!actors.items!ulmLROiQuJQGdbmg.TJSGGVmhGWJlK2wj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Magic Bolt",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>[[/r 1d4]] damage to one target within far.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

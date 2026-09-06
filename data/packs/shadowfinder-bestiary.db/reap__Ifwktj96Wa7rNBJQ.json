@@ -1,0 +1,20 @@
+{
+	"_id": "Ifwktj96Wa7rNBJQ",
+	"_key": "!actors.items!HMNksT9NWZeygwjN.Ifwktj96Wa7rNBJQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Reap",
+	"system": {
+		"description": "<p>[[/r 1d10]] extra damage against mortals.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

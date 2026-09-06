@@ -1,0 +1,74 @@
+{
+	"_id": "o3NVNU3vQAYZqkoJ",
+	"_key": "!actors!o3NVNU3vQAYZqkoJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"TPbsw2afABj26fEp",
+		"2hlE3WYwTMcHFs4C",
+		"L3Zu7aDWwxq1nttk",
+		"snT7ZA1bBkBkTe3Q"
+	],
+	"name": "Drake, Mist",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Drake, Mist",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 14,
+				"value": 14
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Stout, grey dragon-kin with two legs and wings. Scales are natural camouflage. spit balls of solid fog.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 14, <strong>ATK</strong> 2 bite +2 (1d8) or 1 fog gout, <strong>MV</strong> near (fly), <strong>S</strong> +2, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -1, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Camouflage</strong>. Hard to see, ADV to sneak and hide.</p><p></p><p><strong>Fog Gout</strong>. Gout explosive ball of solid fog within double near. All creatures in a near- sized cube around where the blast lands, DEX 12+ or 1d6 damage and knocked prone. Cannot use again for 1d6 rounds.</p><p></p><p><strong>Mistblood</strong>. Cold immune.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

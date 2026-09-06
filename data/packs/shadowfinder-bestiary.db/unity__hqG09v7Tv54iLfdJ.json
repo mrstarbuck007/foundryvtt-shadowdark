@@ -1,0 +1,28 @@
+{
+	"_id": "hqG09v7Tv54iLfdJ",
+	"_key": "!actors.items!Uj8eZbrdKIboePVH.hqG09v7Tv54iLfdJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Unity",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>3/day, a creature within near can reroll a failed dice roll.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

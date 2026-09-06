@@ -1,0 +1,28 @@
+{
+	"_id": "xO1k2UAkFvw7MXT2",
+	"_key": "!actors.items!aYeknHMUjecWJpgZ.xO1k2UAkFvw7MXT2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Siphon Soul",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Siphon the soul of a grabbed creature. [[check 15 con]] or creature dies as soul is sucked out and stored in akhana. If akhana dies within distant of target's corpse, soul is restored to body. Target's body does not decay or age while soul siphoned.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

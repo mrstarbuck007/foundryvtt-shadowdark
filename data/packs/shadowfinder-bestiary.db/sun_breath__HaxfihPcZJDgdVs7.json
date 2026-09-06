@@ -1,0 +1,28 @@
+{
+	"_id": "HaxfihPcZJDgdVs7",
+	"_key": "!actors.items!rpz830Q66RRa0g57.HaxfihPcZJDgdVs7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Sun Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (5' wide) of burning sunlight, extending double near from dragon. [[check 15 con]] or [[/r 4d10]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

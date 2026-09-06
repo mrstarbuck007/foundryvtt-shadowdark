@@ -1,0 +1,74 @@
+{
+	"_id": "3nriEEznh5nqDcWb",
+	"_key": "!actors!3nriEEznh5nqDcWb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"zBjJtikDJGIDRVhi",
+		"yoiGgng7YrvTNWOH",
+		"NRo6vfviaVfekgDp",
+		"O9nRgI39CYsgBwfw"
+	],
+	"name": "Linnorm, Cairn",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Linnorm, Cairn",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 48,
+				"value": 48
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Wingless, nigh-albino dragon with two arms. Appears sickly and gaunt, relishes devouring undead.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 48, <strong>ATK</strong> 1 bite +7 (2d8) and 2 claws +7 (2d6) or 1 entropic breath, <strong>MV</strong> double near (climb, fly), <strong>S</strong> +4, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> -3, <strong>W</strong> +3, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Death Curse</strong>. When slain, death curses the slayer. WIS 15+ or age 1 year per day.</p><p></p><p><strong>Entropic Breath</strong>. Fills a double near-sized cube extending from linnorm. CON 15+ or 3d8 damage and 1d6 STR damage.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

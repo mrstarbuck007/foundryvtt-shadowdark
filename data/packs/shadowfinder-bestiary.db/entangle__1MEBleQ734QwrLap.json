@@ -1,0 +1,29 @@
+{
+	"_id": "1MEBleQ734QwrLap",
+	"_key": "!actors.items!V5a6bskwueGzaF22.1MEBleQ734QwrLap",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Entangle",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One creature within near, [[check 15 dex]] or entangled in skin-strands. [[check 15 str]] on turn to break free. AC 15. 4+ damage to sever.</p>",
+		"properties": [
+		],
+		"ranges": [
+			"near"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

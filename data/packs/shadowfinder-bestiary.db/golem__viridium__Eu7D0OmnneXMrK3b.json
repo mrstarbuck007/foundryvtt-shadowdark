@@ -1,0 +1,73 @@
+{
+	"_id": "Eu7D0OmnneXMrK3b",
+	"_key": "!actors!Eu7D0OmnneXMrK3b",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"Aw0PwKczXsohqnxH",
+		"9GotJMzez6iEeFlC",
+		"vZMPWmjP5m6CfmH6"
+	],
+	"name": "Golem, Viridium",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Golem, Viridium",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 67,
+				"value": 67
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 14,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Green, glassy construct with four sword-tipped arms. Made of toxic viridium.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 67, <strong>ATK</strong> 4 sword +6 (1d12 + toxicity), <strong>MV</strong> near, <strong>S</strong> +5, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -2, <strong>AL</strong> N, <strong>LV</strong> 14</p><p></p>\n\t<p><strong>Golem</strong>. Only damaged by adamantine or magical sources.</p><p></p><p><strong>Toxicity</strong>. Viridium poisoning, CON 12+ or 1d6 CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,77 @@
+{
+	"_id": "vGdLZbhk4i628x34",
+	"_key": "!actors!vGdLZbhk4i628x34",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"jzs7qRXR7q39RspF",
+		"jUSPnKKUJu0cYsM4",
+		"cFNOTpPZeJeby9Re",
+		"hvW6IKmyh1S2kKDP",
+		"zLyRYDh9sNOae9fF",
+		"2P6ASBGXm2ShkKfA",
+		"i56Dm2LaLOKYdzvd"
+	],
+	"name": "Siabrae",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Siabrae",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": -1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 9
+			},
+			"hp": {
+				"max": 31,
+				"value": 31
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "burrow",
+		"notes": "\n\t<p><i>Skeletal, petrified druids, long-sworn to vengeance against chaos and mortals. Hate living druids, who siabrae consider cowards for not taking the undead oath.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 9, <strong>HP</strong> 31, <strong>ATK</strong> 1 staff +0 (1d4 + petrify) or 2 spell +5, <strong>MV</strong> near (burrow), <strong>S</strong> +0, <strong>D</strong> -1, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Barkskin (WIS Spell)</strong>. Self. DC 13. AC becomes 15 for 5 rounds.</p><p></p><p><strong>Conjure Flames (WIS Spell)</strong>. DC 12. One target in far takes 2d6 damage.</p><p></p><p><strong>Greater Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Imbue (WIS Spell)</strong>. Self. DC 13. Staff becomes a +3 magic weapon for 10 rounds. Summon Undead Beetle (WIS Spell). DC 14. Summon a giant stag beetle exoskeleton that appears within near. It stays for 5 rounds.</p><p></p><p><strong>Petrify</strong>. CON 12+ or petrified.</p><p></p><p><strong>Thunderclap (WIS Spell)</strong>. DC 13. Fills a near-sized cube extending from siabrae. Creatures within are thrown 2d20 feet in a random direction.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "wis",
+			"attacks": 2,
+			"bonus": 5
+		}
+	},
+	"type": "NPC"
+}

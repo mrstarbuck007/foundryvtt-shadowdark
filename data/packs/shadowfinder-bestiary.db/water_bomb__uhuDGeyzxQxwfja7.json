@@ -1,0 +1,28 @@
+{
+	"_id": "uhuDGeyzxQxwfja7",
+	"_key": "!actors.items!CteH4dptrIt43LBf.uhuDGeyzxQxwfja7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Water Bomb",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Gout out a water ball within double near. All creatures in a near-sized cube around where the ball lands, [[check 15 dex]] or knocked prone and stunned for 1 round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

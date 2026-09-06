@@ -1,0 +1,74 @@
+{
+	"_id": "mcfDIwA70hV05rTO",
+	"_key": "!actors!mcfDIwA70hV05rTO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"s41pfW062Ti2m1Pf",
+		"foDL7DVrNsLhOtKb",
+		"VZ0UwbVvQhvZUgAx",
+		"aR2QLF1SwK8iijNG"
+	],
+	"name": "Harionago",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Harionago",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 34,
+				"value": 34
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>The spirit of a gruesomely slain woman. Wanders roads and alleys, slaying victims with her long, barbed hair.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 34, <strong>ATK</strong> 3 hair (near) +4 (1d6 + bleed) and laugh, <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Bleed</strong>. 1d4 damage each round. CON 12+, stabilize check, or healing to staunch.</p><p></p><p><strong>Greater Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Laugh</strong>. All mortals within near who hear harionago laugh, WIS 15+ or start laughing, prone and helpless for 1d4 rounds. On success, immune for 24 hours.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

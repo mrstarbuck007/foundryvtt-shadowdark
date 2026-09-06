@@ -1,0 +1,73 @@
+{
+	"_id": "f2b63KcpUHGkVFE4",
+	"_key": "!actors!f2b63KcpUHGkVFE4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"xJ2DUnPUhItsJscm",
+		"Jg0tUDuFjAGil7N8",
+		"UBjb4jBna8y8e0L3"
+	],
+	"name": "Belker",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Belker",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 23,
+				"value": 23
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Smoky, red-eyed, demonic- looking elemental that takes glee in tearing mortals apart from within.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 23, <strong>ATK</strong> 2 gaseous claws +4 (1d6) or smoke form, <strong>MV</strong> near (fly), <strong>S</strong> -4, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Gaseous Claws</strong>. Belker manifests smoky claws within the target, ignoring non- magical armor and shields.</p><p></p><p><strong>Smoke Form</strong>. Turn into grey smoke for 5 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

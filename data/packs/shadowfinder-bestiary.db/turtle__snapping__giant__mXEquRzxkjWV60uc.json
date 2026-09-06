@@ -1,0 +1,72 @@
+{
+	"_id": "mXEquRzxkjWV60uc",
+	"_key": "!actors!mXEquRzxkjWV60uc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"6KySt4vCQAHoDApA",
+		"JYgA2cyIKUPqqhjF"
+	],
+	"name": "Turtle, Snapping, Giant",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Turtle, Snapping, Giant",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": -2
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 48,
+				"value": 48
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Wagon-sized swamp turtle with powerful, rending jaws.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 48, <strong>ATK</strong> 2 bite +7 (3d6 + swallow), <strong>MV</strong> near (swim), <strong>S</strong> +4, <strong>D</strong> -2, <strong>C</strong> +3, <strong>I</strong> -2, <strong>W</strong> +1, <strong>Ch</strong> -2, <strong>AL</strong> N, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Swallow</strong>. On a natural attack roll of 18-20, target is swallowed. Total darkness inside and 2d10 damage per round. Turtle regurgitates all swallowed if dealt at least 10 damage to the inside of its gullet in one round.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

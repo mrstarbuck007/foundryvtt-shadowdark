@@ -1,0 +1,20 @@
+{
+	"_id": "aQMQse48b21BKoM5",
+	"_key": "!actors.items!8Lzf0JeG7Hl9DKJs.aQMQse48b21BKoM5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Acidblood",
+	"system": {
+		"description": "<p>Acid immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

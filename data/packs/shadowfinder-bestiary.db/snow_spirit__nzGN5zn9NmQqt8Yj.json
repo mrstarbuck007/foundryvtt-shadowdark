@@ -1,0 +1,20 @@
+{
+	"_id": "nzGN5zn9NmQqt8Yj",
+	"_key": "!actors.items!Ocn2leWKMNX2pAzq.nzGN5zn9NmQqt8Yj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Snow Spirit",
+	"system": {
+		"description": "<p>Takes [[/r 1d6]] damage per round if in an area without snow.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

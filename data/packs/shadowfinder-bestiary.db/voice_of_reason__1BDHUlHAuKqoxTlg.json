@@ -1,0 +1,20 @@
+{
+	"_id": "1BDHUlHAuKqoxTlg",
+	"_key": "!actors.items!Yfs45feHuRdFIdk2.1BDHUlHAuKqoxTlg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Voice of Reason",
+	"system": {
+		"description": "<p>Everything a selkie says sounds reasonable, ADV to deceive.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

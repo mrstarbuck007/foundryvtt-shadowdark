@@ -1,0 +1,20 @@
+{
+	"_id": "PcTZrOJaAnfqsH4U",
+	"_key": "!actors.items!BhIsrcnsUmzSZxNi.PcTZrOJaAnfqsH4U",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Aura of Doom",
+	"system": {
+		"description": "<p>All mortals within near, [[check 15 cha]] or terrified for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

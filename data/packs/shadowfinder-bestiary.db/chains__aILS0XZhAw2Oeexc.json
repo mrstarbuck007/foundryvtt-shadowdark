@@ -1,0 +1,28 @@
+{
+	"_id": "aILS0XZhAw2Oeexc",
+	"_key": "!actors.items!SVo73wWECNFvksjz.aILS0XZhAw2Oeexc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Chains",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All within near, [[check 15 dex]] or bound in chains, cannot move. [[check 15 str]] on turn to get free.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

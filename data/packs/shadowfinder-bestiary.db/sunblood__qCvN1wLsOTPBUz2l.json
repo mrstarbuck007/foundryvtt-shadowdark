@@ -1,0 +1,20 @@
+{
+	"_id": "qCvN1wLsOTPBUz2l",
+	"_key": "!actors.items!rpz830Q66RRa0g57.qCvN1wLsOTPBUz2l",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sunblood",
+	"system": {
+		"description": "<p>Fire immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "KiLOD3SmrWsScOWz",
+	"_key": "!actors.items!3CBb4Clm9Ocw8HWw.KiLOD3SmrWsScOWz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Neutral",
+	"system": {
+		"description": "<p>4-6. Chaotic.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

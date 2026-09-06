@@ -1,0 +1,75 @@
+{
+	"_id": "j1YitIp9FxjTku4c",
+	"_key": "!actors!j1YitIp9FxjTku4c",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"jTuKjksJsWHfs1Eq",
+		"Ndl8yxc5DgAg7llG",
+		"U5mXluuUO55m42Dh",
+		"Ke1qaNLtmfBEzzMh",
+		"Nb9BbQWDWMl9XWbO"
+	],
+	"name": "Demon Lord, Pazuzu",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Demon Lord, Pazuzu",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 6
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 6
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 6
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 17
+			},
+			"hp": {
+				"max": 96,
+				"value": 96
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 20,
+			"xp": 0
+		},
+		"move": "far",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Crimson hawk-man with four feathered wings, a barbed tail, and a black scepter. Demon lord of harpies and chaotic avians.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 17, <strong>HP</strong> 96, <strong>ATK</strong> 3 scepter +10 (2d8+3) or 3 dark ray (far) +10 (2d8+3), <strong>MV</strong> far (fly), <strong>S</strong> +6, <strong>D</strong> +4, <strong>C</strong> +6, <strong>I</strong> +6, <strong>W</strong> +6, <strong>Ch</strong> +6, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 20</p><p></p>\n\t<p><strong>Profane Wishcraft</strong>. Cast wish for a mortal, no spellcasting check. Mortal becomes chaotic, demonically tainted.</p><p></p><p><strong>Pure Evil</strong>. Only damaged by silver weapons or magic sources. Immune to acid, cold, and fire.</p><p></p><p><strong>Wind Mastery</strong>. Flying creatures hearing Pazuzu, CHA 18+ or utterly charmed for 1d8 days.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

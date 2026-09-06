@@ -1,0 +1,20 @@
+{
+	"_id": "X5dkMAtRe7PfcfKg",
+	"_key": "!actors.items!gEEdQ3Ni6kheDNk9.X5dkMAtRe7PfcfKg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Visineir, Quill",
+	"system": {
+		"description": "<p>As an action, scribe a magic circle or write a contract granting mighty boons and patronage in exchange for a sworn soul.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

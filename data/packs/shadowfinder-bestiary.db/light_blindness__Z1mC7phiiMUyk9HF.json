@@ -1,0 +1,20 @@
+{
+	"_id": "Z1mC7phiiMUyk9HF",
+	"_key": "!actors.items!ynigXgGjeiyebQvy.Z1mC7phiiMUyk9HF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Light Blindness",
+	"system": {
+		"description": "<p>Blinded in bright light.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

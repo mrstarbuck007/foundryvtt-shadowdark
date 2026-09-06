@@ -1,0 +1,20 @@
+{
+	"_id": "ivnazxjHTmHobVFF",
+	"_key": "!actors.items!6dk21ckCxlA2IqvH.ivnazxjHTmHobVFF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Magical Being",
+	"system": {
+		"description": "<p>Only damaged by adamantine or magical sources. Immune to cold, healed by electricity.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

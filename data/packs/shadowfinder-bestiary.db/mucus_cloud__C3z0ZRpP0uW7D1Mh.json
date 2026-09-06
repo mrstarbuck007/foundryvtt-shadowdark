@@ -1,0 +1,28 @@
+{
+	"_id": "C3z0ZRpP0uW7D1Mh",
+	"_key": "!actors.items!jvbsdxFhmJCcqd7z.C3z0ZRpP0uW7D1Mh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Mucus Cloud",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Emit a near- sized mucus cloud centered on master. [[check 15 con]] or target gains a magical curse, turning into a deep one over [[/r 2d10]] days.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

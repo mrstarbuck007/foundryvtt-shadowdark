@@ -1,0 +1,72 @@
+{
+	"_id": "BFOBUUORr1n7cFIP",
+	"_key": "!actors!BFOBUUORr1n7cFIP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"ywjFpQVTcxJLZrqC",
+		"vFsfzgVyySVeGDPz"
+	],
+	"name": "Hungry Flesh",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Hungry Flesh",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -4
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": -2
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": -3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 8
+			},
+			"hp": {
+				"max": 15,
+				"value": 15
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Mindless, undulating mass of swollen, ravenous flesh.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 8, <strong>HP</strong> 15, <strong>ATK</strong> 2 slam +3 (1d6), <strong>MV</strong> near (swim), <strong>S</strong> +2, <strong>D</strong> -2, <strong>C</strong> +2, <strong>I</strong> -4, <strong>W</strong> -3, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Regrowth</strong>. When a hungry flesh takes piercing or slashing damage, it grows bigger and regains 1d6 HP.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

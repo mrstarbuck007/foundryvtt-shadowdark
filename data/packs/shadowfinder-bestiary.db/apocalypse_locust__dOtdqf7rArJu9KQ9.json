@@ -1,0 +1,73 @@
+{
+	"_id": "dOtdqf7rArJu9KQ9",
+	"_key": "!actors!dOtdqf7rArJu9KQ9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"gqa6t51MdRgm9nbR",
+		"fOJJrq4QPOCSuoiJ",
+		"KTRUFSgCgPB1oSCp"
+	],
+	"name": "Apocalypse Locust",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Apocalypse Locust",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 13,
+				"value": 13
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Winged scorpion-man. Made from mortals by fiends for amusement and carnage.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 13, <strong>ATK</strong> 1 sting +2 (1d6 + pain venom) or 1 fire breath, <strong>MV</strong> near (fly), <strong>S</strong> +2, <strong>D</strong> +0, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Fire Breath</strong>. A straight line (5' wide) extending near from locust. DEX 9+ or 1d6 damage.</p><p></p><p><strong>Pain Venom</strong>. CON 9+ or wracked with utter pain for 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

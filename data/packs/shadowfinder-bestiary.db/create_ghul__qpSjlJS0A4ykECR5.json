@@ -1,0 +1,20 @@
+{
+	"_id": "qpSjlJS0A4ykECR5",
+	"_key": "!actors.items!oLSmdvg53wajX0CJ.qpSjlJS0A4ykECR5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Create Ghul",
+	"system": {
+		"description": "<p>Genies slain by akvan rise as a ghul in [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

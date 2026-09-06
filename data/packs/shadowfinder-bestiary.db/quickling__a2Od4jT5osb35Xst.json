@@ -1,0 +1,72 @@
+{
+	"_id": "a2Od4jT5osb35Xst",
+	"_key": "!actors!a2Od4jT5osb35Xst",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"UmS2BBHronhqjscg",
+		"lH11caOe7BdGLxeT"
+	],
+	"name": "Quickling",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Quickling",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": -2
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 9,
+				"value": 9
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "far",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Considered by many the swiftest of faeries, these chaotic grey-green sprites moves with lightning speed.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16 (leather), <strong>HP</strong> 9, <strong>ATK</strong> 1 dagger +4 (1d4), <strong>MV</strong> far, <strong>S</strong> -2, <strong>D</strong> +5, <strong>C</strong> +0, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Supremely Quick</strong>. Unless restrained, quicklings are so swift they become invisible.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

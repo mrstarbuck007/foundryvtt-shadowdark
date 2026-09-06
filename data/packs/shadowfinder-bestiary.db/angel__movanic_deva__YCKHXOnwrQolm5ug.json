@@ -1,0 +1,73 @@
+{
+	"_id": "YCKHXOnwrQolm5ug",
+	"_key": "!actors!YCKHXOnwrQolm5ug",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"bOa3yqZKA6jQQ5su",
+		"h7QPbnMntj2ICkvN",
+		"BRJlPZOG49aHBGM3"
+	],
+	"name": "Angel, Movanic Deva",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Angel, Movanic Deva",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 33,
+				"value": 33
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Lean, wiry, an angel with an alley brawler's physique. Wields a flaming sword.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15 (plate mail), <strong>HP</strong> 33, <strong>ATK</strong> 2 flaming greatsword +6 (1d12+2), <strong>MV</strong> double near (fly), <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> L, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Divine Aura</strong>. Hostile spells targeting the deva are DC 15. Sword and armor dissolve if slain.</p><p></p><p><strong>Pacifism</strong>. Animals and plants, CHA 15+ to take hostile actions against deva. On success, immune for 24 hours.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

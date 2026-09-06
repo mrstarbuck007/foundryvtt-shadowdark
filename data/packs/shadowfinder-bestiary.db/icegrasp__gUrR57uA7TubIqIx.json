@@ -1,0 +1,30 @@
+{
+	"_id": "gUrR57uA7TubIqIx",
+	"_key": "!actors.items!rGRba9V1SR68PTQN.gUrR57uA7TubIqIx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Icegrasp",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Target is frozen and immobilized for [[/r 1d4]] rounds. Wall of Ice (CHA Spell). DC 14. 1/day, 20-foot tall, 5-foot thick wall of ice, double near length. Lasts [[/r 2d4]] rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d4"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

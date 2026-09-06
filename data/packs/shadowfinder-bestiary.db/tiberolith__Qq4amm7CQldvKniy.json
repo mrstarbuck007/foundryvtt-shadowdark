@@ -1,0 +1,73 @@
+{
+	"_id": "Qq4amm7CQldvKniy",
+	"_key": "!actors!Qq4amm7CQldvKniy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"muaSxn1aFGSCKtlb",
+		"S8iraambuMby7o3g",
+		"EdBkbhz5Cjsvjk8N"
+	],
+	"name": "Tiberolith",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Tiberolith",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 31,
+				"value": 31
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Dull green, crudely formed stone statue with a mithral glyph inset in chest. Made by pre-Cyclopean mages.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 31, <strong>ATK</strong> 2 slam +4 (3d8), <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +0, <strong>C</strong> +4, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Golem</strong>. Immune to acid and damage from non-magical sources.</p><p></p><p><strong>Spell Trap</strong>. When targeted by a spell, glyph traps spell and nullifies it. Spell dissipates after 24 hours, glyph only stores one spell at a time.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

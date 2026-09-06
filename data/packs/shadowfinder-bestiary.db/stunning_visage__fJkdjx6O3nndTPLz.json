@@ -1,0 +1,20 @@
+{
+	"_id": "fJkdjx6O3nndTPLz",
+	"_key": "!actors.items!4futsL4atzKpPeKs.fJkdjx6O3nndTPLz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stunning Visage",
+	"system": {
+		"description": "<p>Any creature who looks directly at demon, [[check 15 con]] or paralyzed for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

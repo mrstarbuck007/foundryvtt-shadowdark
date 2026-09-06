@@ -1,0 +1,20 @@
+{
+	"_id": "WQXgl0HVsraYvPr4",
+	"_key": "!actors.items!0d1hSLJ5s9kwge6W.WQXgl0HVsraYvPr4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Grab",
+	"system": {
+		"description": "<p>[[check 15 str]] or held. [[check 15 str]] on turn to break free.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

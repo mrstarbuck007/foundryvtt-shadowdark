@@ -1,0 +1,20 @@
+{
+	"_id": "ZCaI9tRHZugx31hy",
+	"_key": "!actors.items!HiOQMrfh6oZdD6IN.ZCaI9tRHZugx31hy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>If sayona has absorbed blood within the last day, can shapechange into alluring humanoid.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

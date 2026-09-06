@@ -1,0 +1,74 @@
+{
+	"_id": "j1ncRgJ5x0Pv9POG",
+	"_key": "!actors!j1ncRgJ5x0Pv9POG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"1UwUbhueqPaG2WFA",
+		"y55rfDW9HveC60p7",
+		"kGQbQwW1QEYd7Xup",
+		"XYPgdhphCbHiJO62"
+	],
+	"name": "Dragon, Green",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Dragon, Green",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": -1
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 53,
+				"value": 53
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Veridian scales, thick as plate mail, alternate with bony dermal plating all over this dragon's serpentine body.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 53, <strong>ATK</strong> 3 rend +8 (2d6) or 1 bile breath, <strong>MV</strong> double near (fly), <strong>S</strong> +4, <strong>D</strong> -1, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Bile Breath</strong>. Fills a double near-sized cube extending from dragon. CON 15+ or 5d6 damage.</p><p></p><p><strong>Bileblood</strong>. Poison immune.</p><p></p><p><strong>Miasma</strong>. Using its bile breath, create a poison fog centered on dragon, as per cloudkill.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

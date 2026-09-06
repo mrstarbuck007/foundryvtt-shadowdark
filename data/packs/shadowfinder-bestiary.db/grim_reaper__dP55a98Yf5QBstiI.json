@@ -1,0 +1,74 @@
+{
+	"_id": "dP55a98Yf5QBstiI",
+	"_key": "!actors!dP55a98Yf5QBstiI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"NhfVXgQeude6bd0n",
+		"AL9jMznuFDzEo8Qb",
+		"N7I9uqtFvUP7YZzC",
+		"Y0eU3lnsRqrQhfBC"
+	],
+	"name": "Grim Reaper",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Grim Reaper",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 76,
+				"value": 76
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 16,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Skeleton garbed in a black cloak, wielding a scythe. Rumored to work for the Death Gods.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 76, <strong>ATK</strong> 3 scythe +10 (2d4 + death strike), <strong>MV</strong> double near (fly), <strong>S</strong> +5, <strong>D</strong> +5, <strong>C</strong> +4, <strong>I</strong> +1, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 16</p><p></p>\n\t<p><strong>Death Strike</strong>. On a critical hit, CON 18+ or die.</p><p></p><p><strong>Misfortune</strong>. Mortals within near, CHA 18+ or cursed with bad luck, rolling checks and attacks with DISADV for 1d4 rounds. Beings with luck tokens are unaffected by misfortune.</p><p></p><p><strong>Supreme Undead</strong>. Immune to morale checks. Only damaged by magical sources.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

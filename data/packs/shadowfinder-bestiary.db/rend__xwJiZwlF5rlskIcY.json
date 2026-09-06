@@ -1,0 +1,20 @@
+{
+	"_id": "xwJiZwlF5rlskIcY",
+	"_key": "!actors.items!F79dbVZdieuhzFM3.xwJiZwlF5rlskIcY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Rend",
+	"system": {
+		"description": "<p>Deals an extra die of damage if it hits the same target with both slams.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

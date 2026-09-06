@@ -1,0 +1,72 @@
+{
+	"_id": "jd6FpoQO8RJ6gC86",
+	"_key": "!actors!jd6FpoQO8RJ6gC86",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"Lu3CiJlIHtih1NZi",
+		"2E1FedZCI08Nu9oS"
+	],
+	"name": "Achaierai",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Achaierai",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 20,
+				"value": 20
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Fifteen-foot tall, wingless, Hell-born \"bird\" that is only a gigantic raven's head perched atop four spindly chicken legs.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 20, <strong>ATK</strong> 2 bite +3 (2d6) or toxic cloud, <strong>MV</strong> double near, <strong>S</strong> +1, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Toxic Cloud</strong>. CON 12+ or 2d6 damage and confused for 1d4 rounds: (d8): 1-3. Do nothing, 4-5. move in random direction, 6-7. attack nearest creature, 8. flee.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

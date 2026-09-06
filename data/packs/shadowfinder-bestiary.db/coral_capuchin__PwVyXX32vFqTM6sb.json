@@ -1,0 +1,73 @@
+{
+	"_id": "PwVyXX32vFqTM6sb",
+	"_key": "!actors!PwVyXX32vFqTM6sb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"8IvE4gTiPNeW9Wkc",
+		"H2CIE5akDs63Spdq",
+		"GaMS7iLzpBxZVyQB"
+	],
+	"name": "Coral Capuchin",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Coral Capuchin",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": -3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Bright pink, hairless monkey with a trout head and bat- like wings. Often kept as pets by sailors, can be trained.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 4, <strong>ATK</strong> 1 bite +0 (1 + curse), <strong>MV</strong> near (climb, fly, swim), <strong>S</strong> -3, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> -1, <strong>W</strong> +0, <strong>Ch</strong> -1, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Curse</strong>. CON 9+ or become half-amphibious and can breathe water for 1d6 hours.</p><p></p><p><strong>Half-Amphibious</strong>. Must be submerged in water every 4 hours or suffocates.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

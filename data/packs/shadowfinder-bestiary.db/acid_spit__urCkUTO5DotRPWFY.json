@@ -1,0 +1,30 @@
+{
+	"_id": "urCkUTO5DotRPWFY",
+	"_key": "!actors.items!Wdjf5hCCGZXVckje.urCkUTO5DotRPWFY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Acid Spit",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Launch acid spittle at one target within far, [[/r 1d6]] damage each round for 3 rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "3"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

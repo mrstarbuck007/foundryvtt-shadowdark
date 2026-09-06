@@ -1,0 +1,20 @@
+{
+	"_id": "R6OsgLalSgtow9rY",
+	"_key": "!actors.items!jEfTYUnN6n6PFfAY.R6OsgLalSgtow9rY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Wish",
+	"system": {
+		"description": "<p>Cast wish once a week for a mortal, no spellcasting check.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

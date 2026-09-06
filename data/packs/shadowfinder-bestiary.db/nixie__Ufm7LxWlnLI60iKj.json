@@ -1,0 +1,74 @@
+{
+	"_id": "Ufm7LxWlnLI60iKj",
+	"_key": "!actors!Ufm7LxWlnLI60iKj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"FfcVTuZu2ukGuEM4",
+		"yLML8JQefcZy03W0",
+		"U3yPVIedvHC9S3YS",
+		"Oh5peWaqdmaeSyBq"
+	],
+	"name": "Nixie",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Nixie",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": -2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Gnome-sized faeries who dwell in rivers and streams, keeping them flowing and pristine. Shy but curious.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 4, <strong>ATK</strong> 1 dagger (close/near) +1 (1d4) or 1 crossbow (far) +1 (1d6) or 1 fey charm, <strong>MV</strong> near (swim), <strong>S</strong> -2, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +3, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Fey Charm</strong>. One LV 2 or less target within near, CHA 15+ or charmed for 1d4 days.</p><p></p><p><strong>Nixie's Breath</strong>. With a touch, can bestow water breathing for 1d4 days.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

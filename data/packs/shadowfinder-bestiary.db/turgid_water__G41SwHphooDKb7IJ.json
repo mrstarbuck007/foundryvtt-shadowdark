@@ -1,0 +1,20 @@
+{
+	"_id": "G41SwHphooDKb7IJ",
+	"_key": "!actors.items!IswXIpgGf7utEBhQ.G41SwHphooDKb7IJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Turgid Water",
+	"system": {
+		"description": "<p>While touching body of liquid, dimension door (self only). Contiguous liquid must connect end points.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

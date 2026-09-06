@@ -1,0 +1,20 @@
+{
+	"_id": "IREKAHvQry2zXSZw",
+	"_key": "!actors.items!sBMnJ3U3kTi4JHmj.IREKAHvQry2zXSZw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Animal Telepathy",
+	"system": {
+		"description": "<p>Mentally speak with beasts within far.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "d88pojy3IRQc55Ku",
+	"_key": "!actors.items!Si5NCDjIPGpY7Jr6.d88pojy3IRQc55Ku",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Command Cacodaemon",
+	"system": {
+		"description": "<p>Command cacodaemon within near.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

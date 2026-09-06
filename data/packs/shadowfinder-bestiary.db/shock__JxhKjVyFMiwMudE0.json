@@ -1,0 +1,28 @@
+{
+	"_id": "JxhKjVyFMiwMudE0",
+	"_key": "!actors.items!ESfeR422MriG0DLo.JxhKjVyFMiwMudE0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Shock",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All within close, [[check 12 con]] or stunned for 1 round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

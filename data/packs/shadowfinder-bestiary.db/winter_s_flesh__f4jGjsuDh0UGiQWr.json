@@ -1,0 +1,20 @@
+{
+	"_id": "f4jGjsuDh0UGiQWr",
+	"_key": "!actors.items!2wcJ8IhXQh2E5hho.f4jGjsuDh0UGiQWr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Winter's Flesh",
+	"system": {
+		"description": "<p>Cold immune. Double damage from fire. Only damaged by silver or magical sources. Arms and armor melt into water if slain.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

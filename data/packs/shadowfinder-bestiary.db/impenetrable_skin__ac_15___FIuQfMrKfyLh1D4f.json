@@ -1,0 +1,20 @@
+{
+	"_id": "FIuQfMrKfyLh1D4f",
+	"_key": "!actors.items!iIBPsdhTh5LdupjR.FIuQfMrKfyLh1D4f",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impenetrable skin (AC 15)",
+	"system": {
+		"description": "<p></p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

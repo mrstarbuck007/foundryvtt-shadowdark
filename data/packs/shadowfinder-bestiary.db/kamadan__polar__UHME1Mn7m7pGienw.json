@@ -1,0 +1,74 @@
+{
+	"_id": "UHME1Mn7m7pGienw",
+	"_key": "!actors!UHME1Mn7m7pGienw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"TvrYICpGG9JIHaBK",
+		"g7qZ2sPbUkj38j9Z",
+		"V93nrtoFHI8Lvb4E",
+		"tsz6ZweBtziboNgE"
+	],
+	"name": "Kamadan, Polar",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Kamadan, Polar",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 19,
+				"value": 19
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Winged white leopard with black spots and six albino snow serpents emerging from its upper torso.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 19, <strong>ATK</strong> 1 rend +3 (1d6) and 1 bite +3 (1d4 + poison) or cold breath, <strong>MV</strong> near (climb, fly), <strong>S</strong> +2, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> -2, <strong>W</strong> +1, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Cold Breath</strong>. Fills a near-sized cube extending from kamadan. CON 12+ or 1d8 damage.</p><p></p><p><strong>Poison</strong>. CON 12+ or 1d6 CON damage, coma at 0 CON.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

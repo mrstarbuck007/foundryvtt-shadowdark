@@ -1,0 +1,28 @@
+{
+	"_id": "YpVRKuqjgiFnqbqz",
+	"_key": "!actors.items!tL8Pf2KlDWjfE24w.YpVRKuqjgiFnqbqz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Blinding Blast",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fin emits brilliant near-width light centered on muhuru, [[check 15 con]] or blinded [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "yXcMJN6LJpcqoQo6",
+	"_key": "!actors.items!bhzKAiAKp506kgrw.yXcMJN6LJpcqoQo6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Being of Chaos",
+	"system": {
+		"description": "<p>Only damaged by silver or magical sources. Immune to acid.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

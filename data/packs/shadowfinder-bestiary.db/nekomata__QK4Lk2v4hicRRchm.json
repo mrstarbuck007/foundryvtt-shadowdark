@@ -1,0 +1,74 @@
+{
+	"_id": "QK4Lk2v4hicRRchm",
+	"_key": "!actors!QK4Lk2v4hicRRchm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"Utb3smU1ayyP6wRT",
+		"iszTxgacPu4Kbtc2",
+		"D1zaUQdfy67mHHqE",
+		"VHYZVzDqocP0VmzE"
+	],
+	"name": "Nekomata",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Nekomata",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 20,
+				"value": 20
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Large house cat with two tails, spawned from a cat that lived beyond its years. Thrives on causing discord.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 20, <strong>ATK</strong> 2 bite +3 (1d6 + disease) or create undead, <strong>MV</strong> near (climb), <strong>S</strong> +3, <strong>D</strong> +3, <strong>C</strong> +2, <strong>I</strong> +3, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Create Undead</strong>. 3/day, lick dead body, rises as skeletal champion or juju zombie.</p><p></p><p><strong>Disease</strong>. CON 12+ or 1d4 CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON.</p><p></p><p><strong>Shapechange</strong>. Assume the form of the last mortal nekomata bit.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

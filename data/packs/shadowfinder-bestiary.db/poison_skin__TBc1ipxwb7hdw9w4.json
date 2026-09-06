@@ -1,0 +1,20 @@
+{
+	"_id": "TBc1ipxwb7hdw9w4",
+	"_key": "!actors.items!KJfxQZoZH5hapAZk.TBc1ipxwb7hdw9w4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison Skin",
+	"system": {
+		"description": "<p>If touched, [[check 9 con]] or [[/r 1d4]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

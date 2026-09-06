@@ -1,0 +1,20 @@
+{
+	"_id": "xi2ITw5TB2ChTJr5",
+	"_key": "!actors.items!C0UsI2oix7ZtFBr4.xi2ITw5TB2ChTJr5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Antimagic Aura",
+	"system": {
+		"description": "<p>A near-sized cube centered on colossus that cancels hostile spells targeting anyone inside the aura.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

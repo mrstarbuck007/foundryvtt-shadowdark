@@ -1,0 +1,20 @@
+{
+	"_id": "KzbDnJMuKX87jxvU",
+	"_key": "!actors.items!2LBWlBvBX8bgCpEs.KzbDnJMuKX87jxvU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Reflective Carapace",
+	"system": {
+		"description": "<p>Immune to rays, blasts, or bolts of energy. 1:6 chance these are reflected back at their originator.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

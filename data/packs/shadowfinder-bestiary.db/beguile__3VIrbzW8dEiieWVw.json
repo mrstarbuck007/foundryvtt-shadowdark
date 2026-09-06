@@ -1,0 +1,30 @@
+{
+	"_id": "3VIrbzW8dEiieWVw",
+	"_key": "!actors.items!amRNkOtDAycGNWXx.3VIrbzW8dEiieWVw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Beguile",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Focus. One target in near of LV 2 or less is stupefied for the duration.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

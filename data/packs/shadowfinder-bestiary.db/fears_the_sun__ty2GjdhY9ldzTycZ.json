@@ -1,0 +1,20 @@
+{
+	"_id": "ty2GjdhY9ldzTycZ",
+	"_key": "!actors.items!FwcMdRcDoTn6AiE5.ty2GjdhY9ldzTycZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fears the Sun",
+	"system": {
+		"description": "<p>Fears sunlight. Takes [[/r 2d6]] damage each round in direct sunlight.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

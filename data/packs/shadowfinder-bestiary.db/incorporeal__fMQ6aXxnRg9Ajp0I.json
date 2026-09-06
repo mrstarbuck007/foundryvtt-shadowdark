@@ -1,0 +1,20 @@
+{
+	"_id": "fMQ6aXxnRg9Ajp0I",
+	"_key": "!actors.items!IRr4VzcXzy4unjhq.fMQ6aXxnRg9Ajp0I",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Incorporeal",
+	"system": {
+		"description": "<p>In place of attacks, become corporeal or incorporeal.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

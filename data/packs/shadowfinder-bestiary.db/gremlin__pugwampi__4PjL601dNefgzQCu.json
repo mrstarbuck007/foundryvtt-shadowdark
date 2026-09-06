@@ -1,0 +1,73 @@
+{
+	"_id": "4PjL601dNefgzQCu",
+	"_key": "!actors!4PjL601dNefgzQCu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"9a9fvDLhJfRc0XM8",
+		"4rIsf6eUwkL08o8H",
+		"5aupW8IuTc5KB128"
+	],
+	"name": "Gremlin, Pugwampi",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Gremlin, Pugwampi",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 1,
+				"value": 1
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 0,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>This fey, an unsavory blend of kobold and chihuahua, brings ill fortune upon mortals. Reviled as bad luck, their presence can ruin a gambling hall forever.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 1, <strong>ATK</strong> 1 dagger (close/near) +1 (1d4) or shortbow (far) +1 (1d4), <strong>MV</strong> near, <strong>S</strong> -4, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 0</p><p></p>\n\t<p><strong>Misfortune</strong>. All mortals within near suffer constant bad luck, rolling all checks and attacks with DISADV for 1d4 rounds. Beings with luck tokens are unaffected by misfortune.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

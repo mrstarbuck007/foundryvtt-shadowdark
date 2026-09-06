@@ -1,0 +1,73 @@
+{
+	"_id": "yjEv5Q0Xctm8KdnY",
+	"_key": "!actors!yjEv5Q0Xctm8KdnY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"RmEhfmdlwXNPK31v",
+		"rARYTyAmGM0XfmeA",
+		"KQTppNsQ1aL3VZ1X"
+	],
+	"name": "Devil, Apostate",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Devil, Apostate",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 44,
+				"value": 44
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Rainbow-cloaked suit of gilt plate mail, ornate devil helm. Speaks atheist blasphemy, seeding doubt in believers.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 44, <strong>ATK</strong> 2 claw (far) +6 (1d6 + <strong>W</strong><strong>I</strong><strong>S</strong> drain) or earworm curse, <strong>MV</strong> near (fly), <strong>S</strong> +4, <strong>D</strong> +5, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +4, <strong>Ch</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Earworm Curse</strong>. Whisper one of the Diabolic True Words to a mortal within close. WIS 18+ or sleep is filled with wretched nightmares. Cannot rest, lose 1d6 WIS permanently (can't heal or rest while cursed). Repeat check each day, become insane and chaotic at 0 WIS.</p><p></p><p><strong>Impervious</strong>. Fire immune. Only damaged by silver or magical sources. WIS Drain. CON 15+ or lose 1d4 WIS permanently. Driven insane at 0 WIS.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

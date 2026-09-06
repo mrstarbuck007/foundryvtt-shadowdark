@@ -1,0 +1,20 @@
+{
+	"_id": "dpA2xUcUBgfW6aeE",
+	"_key": "!actors.items!2LBWlBvBX8bgCpEs.dpA2xUcUBgfW6aeE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Regeneration",
+	"system": {
+		"description": "<p>Regains [[/r 4d10]] lost HP at the beginning of its turn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

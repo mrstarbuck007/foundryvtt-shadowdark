@@ -1,0 +1,75 @@
+{
+	"_id": "EvfwbgAW4KyEC0fK",
+	"_key": "!actors!EvfwbgAW4KyEC0fK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"B3acKGPNgVZYOEMv",
+		"dKJtANCzHxjUedJ7",
+		"N5OmIZwIHT4BKQIe",
+		"KseHbY93b5XpLM6Q",
+		"MjdPgz1AYQJb7fuo"
+	],
+	"name": "Shriezyx",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Shriezyx",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 13,
+				"value": 13
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Vat-crafted by long-dead wizards as sanctum guards. Duergar, derro, and other dark-dwellers train them.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 13, <strong>ATK</strong> 1 bite +3 (1d8 + poison) or 1 web +3, <strong>MV</strong> near (climb), <strong>S</strong> +0, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> -2, <strong>W</strong> +1, <strong>Ch</strong> -2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Fears Fire</strong>. Immediately roll morale with DISADV if exposed to fire.</p><p></p><p><strong>Poison</strong>. CON 15+ or 1d6 STR damage. Paralyzed at 0 STR.</p><p></p><p><strong>Slow Web</strong>. One target stuck in place. DEX 15+ on turn to escape, can only take action or move on turn.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

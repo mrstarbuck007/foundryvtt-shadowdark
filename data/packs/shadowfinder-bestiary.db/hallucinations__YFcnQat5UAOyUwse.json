@@ -1,0 +1,28 @@
+{
+	"_id": "YFcnQat5UAOyUwse",
+	"_key": "!actors.items!gqGd0Snf9JFqYs8v.YFcnQat5UAOyUwse",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Hallucinations",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Mortals in double near of tree or who eat fruit, [[check 15 wis]] or have pleasant visions for [[/r 1d10]] rounds, seek to eat fruit and protect tree.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

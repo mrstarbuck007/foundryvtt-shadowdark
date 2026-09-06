@@ -1,0 +1,20 @@
+{
+	"_id": "V9Yn5EQ17ajJxnzB",
+	"_key": "!actors.items!pMvK3euqb7Cwcl1o.V9Yn5EQ17ajJxnzB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Inoculate",
+	"system": {
+		"description": "<p>Spore disease. [[check 9 con]] or [[/r 1d4]] CON damage (can't heal while ill). Repeat check each day; ends on success. Die at 0 CON, spawning [[/r 1d6]] myceloids in [[/r 1d6]] days.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

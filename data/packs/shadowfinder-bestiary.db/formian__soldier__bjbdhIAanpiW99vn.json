@@ -1,0 +1,75 @@
+{
+	"_id": "bjbdhIAanpiW99vn",
+	"_key": "!actors!bjbdhIAanpiW99vn",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"u1YCCuobUrdvyrJM",
+		"qlhohf838zpGIXgU",
+		"thE0Zq0FPb2GV0j3",
+		"7wzE7VUTugLanrgz",
+		"BvF5GccJX25GKzMx"
+	],
+	"name": "Formian, Soldier",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Formian, Soldier",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 10,
+				"value": 10
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Ant-centaur warrior.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 10, <strong>ATK</strong> 1 sting +1 (1d4 + poison) and 1 claw +1 (1d4) or 1 javelin (far) +1 (1d4), <strong>MV</strong> double near, <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Phalanx</strong>. +1 to attacks and AC when in close range of an allied formian.</p><p></p><p><strong>Poison</strong>. CON 12+ or paralyzed 1d4 DEX damage, paralyzed at 0 DEX.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

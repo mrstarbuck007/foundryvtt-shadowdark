@@ -1,0 +1,20 @@
+{
+	"_id": "gN2EOz5Sad8GRYFd",
+	"_key": "!actors.items!NeQ7CeeyTAa2OQVD.gN2EOz5Sad8GRYFd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Clobber",
+	"system": {
+		"description": "<p>If gegenee hits the same target with two or more attacks, [[check 15 con]] or stunned for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

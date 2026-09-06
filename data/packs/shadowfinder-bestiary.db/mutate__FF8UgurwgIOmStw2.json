@@ -1,0 +1,28 @@
+{
+	"_id": "FF8UgurwgIOmStw2",
+	"_key": "!actors.items!NbtbvkF3FbpyRngy.FF8UgurwgIOmStw2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Mutate",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Each round, can choose mutation: 1. +2 AC, 2. +1 bite or tendril attack, 3.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

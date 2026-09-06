@@ -1,0 +1,74 @@
+{
+	"_id": "fg46QMaFKK1TzGhI",
+	"_key": "!actors!fg46QMaFKK1TzGhI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"BybUPhdA0Dhcl1T0",
+		"dNRy6JgE4Pe53MgA",
+		"dI16Vae4tPhZi56d",
+		"rRjrD7UsSnkGgGjV"
+	],
+	"name": "Nuckelavee",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Nuckelavee",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 30,
+				"value": 30
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Skinless, bloody centaur. This saltwater faerie is manifested from blight and pollution.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 30, <strong>ATK</strong> 2 longsword +5 (1d8) or pestilent breath, <strong>MV</strong> double near (swim), <strong>S</strong> +3, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +0, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Disease</strong>. 1d4 CON damage (can't heal while ill). Make CON 12+ check once per day; ends on success. Die at 0 CON.</p><p></p><p><strong>Fresh Water Vulnerability</strong>. Avoids fresh water. A flask of fresh water does 4d6 damage.</p><p></p><p><strong>Pestilent Breath</strong>. Fills a near- sized cube extending from nuckelavee. CON 12+ or 3d6 damage and diseased.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

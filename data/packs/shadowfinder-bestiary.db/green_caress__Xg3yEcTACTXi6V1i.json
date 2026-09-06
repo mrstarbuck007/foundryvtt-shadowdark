@@ -1,0 +1,20 @@
+{
+	"_id": "Xg3yEcTACTXi6V1i",
+	"_key": "!actors.items!06lmSJ7lsEAGXXPi.Xg3yEcTACTXi6V1i",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Green Caress",
+	"system": {
+		"description": "<p>Mortals within double near, [[check 15 cha]] or transform into non-magical plant over [[/r 1d6]] rounds. On success or if green man chooses, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

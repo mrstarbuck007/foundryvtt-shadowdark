@@ -1,0 +1,20 @@
+{
+	"_id": "sy84pFnrHe9N9kGd",
+	"_key": "!actors.items!4OkLkl7mceWefYQ3.sy84pFnrHe9N9kGd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lycanthropy",
+	"system": {
+		"description": "<p>If 12 or more damage from the same werewolf, contract lycanthropy.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

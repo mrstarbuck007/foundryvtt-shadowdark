@@ -1,0 +1,73 @@
+{
+	"_id": "x4f59aB0a9eVlvxH",
+	"_key": "!actors!x4f59aB0a9eVlvxH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"WHgW6FIZEf8GsUsO",
+		"YDXxyQX2BBacPFyT",
+		"Kq2YuJqQgeMWc9P3"
+	],
+	"name": "Sahkil, Ximtal",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Sahkil, Ximtal",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 44,
+				"value": 44
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Giant, fat lobster-roach with a black rat's head. Feed on isolation and loneliness.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 44, <strong>ATK</strong> 2 bite +6 (1d12 + disease), <strong>MV</strong> near (climb, fly), <strong>S</strong> +4, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> +1, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Disease</strong>. CON 12+ or 1d4 WIS damage (can't heal while ill). Repeat check once per day; ends on success. Coma at 0 WIS. Contagious, spreads only via 1:1 contact.</p><p></p><p><strong>Great Evil</strong>. Only damaged by silver or magical sources.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

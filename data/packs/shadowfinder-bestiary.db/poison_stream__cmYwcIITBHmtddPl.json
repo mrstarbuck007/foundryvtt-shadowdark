@@ -1,0 +1,28 @@
+{
+	"_id": "cmYwcIITBHmtddPl",
+	"_key": "!actors.items!AmEAs2S77eXAFORi.cmYwcIITBHmtddPl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Poison Stream",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (5' wide) extending near from bug. [[check 15 dex]] or [[/r 1d6]] DEX damage. Paralyzed at 0 DEX.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

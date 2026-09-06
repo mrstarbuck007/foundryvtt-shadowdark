@@ -1,0 +1,20 @@
+{
+	"_id": "JBFuM54vkqFUCOkl",
+	"_key": "!actors.items!ALLFjqqVxhpscjUT.JBFuM54vkqFUCOkl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blinding Spray",
+	"system": {
+		"description": "<p>Spray dirty water at one target in near, [[check 9 dex]] or blind [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

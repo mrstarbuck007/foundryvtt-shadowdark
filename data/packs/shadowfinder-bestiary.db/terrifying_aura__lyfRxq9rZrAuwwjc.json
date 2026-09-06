@@ -1,0 +1,20 @@
+{
+	"_id": "lyfRxq9rZrAuwwjc",
+	"_key": "!actors.items!uVaqhFNEDeSj2bmU.lyfRxq9rZrAuwwjc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Terrifying Aura",
+	"system": {
+		"description": "<p>A creature beholding Barbados. [[check 18 cha]] or terrified for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

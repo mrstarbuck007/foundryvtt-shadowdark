@@ -1,0 +1,20 @@
+{
+	"_id": "zGuv6L0h72FkSz1P",
+	"_key": "!actors.items!ynxcujL3ZRx0yxVs.zGuv6L0h72FkSz1P",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mighty Blow",
+	"system": {
+		"description": "<p>Deals [[/r 2d10]] extra damage if it hits the same target with two blows.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

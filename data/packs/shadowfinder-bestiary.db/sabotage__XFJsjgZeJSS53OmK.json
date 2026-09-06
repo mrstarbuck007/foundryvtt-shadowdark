@@ -1,0 +1,28 @@
+{
+	"_id": "XFJsjgZeJSS53OmK",
+	"_key": "!actors.items!bGLGNShabPSmKwPi.XFJsjgZeJSS53OmK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Sabotage",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Sabotage devices and objects. If worn or held, opposed DEX check or object is broken until fixed.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

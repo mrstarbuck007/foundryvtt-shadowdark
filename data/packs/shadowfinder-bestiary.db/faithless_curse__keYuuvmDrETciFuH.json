@@ -1,0 +1,20 @@
+{
+	"_id": "keYuuvmDrETciFuH",
+	"_key": "!actors.items!citIB5bq0aW04Pru.keYuuvmDrETciFuH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Faithless Curse",
+	"system": {
+		"description": "<p>[[check 18 wis]] or cursed and unable to cast divine spells.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

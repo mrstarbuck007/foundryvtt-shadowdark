@@ -1,0 +1,72 @@
+{
+	"_id": "dZJ3cGchHTDY5YFp",
+	"_key": "!actors!dZJ3cGchHTDY5YFp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"2v1zMhNnH3QBixcz",
+		"00YUHhog7GPVIgQI"
+	],
+	"name": "Archon, Gate",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Archon, Gate",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 18
+			},
+			"hp": {
+				"max": 41,
+				"value": 41
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Celestial stone guardian. Graven with runes, tasked with protecting holy sites.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 18, <strong>HP</strong> 41, <strong>ATK</strong> 3 +1 greatsword +5 (1d12+1), <strong>MV</strong> double near (fly), <strong>S</strong> +5, <strong>D</strong> +2, <strong>C</strong> +5, <strong>I</strong> +3, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> L, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Divine Aura</strong>. Hostile spells targeting the archon are DC 15. Sword dissolves if slain.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

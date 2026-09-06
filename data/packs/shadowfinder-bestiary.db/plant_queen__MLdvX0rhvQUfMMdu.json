@@ -1,0 +1,20 @@
+{
+	"_id": "MLdvX0rhvQUfMMdu",
+	"_key": "!actors.items!4ihgc9hNYGO5suUN.MLdvX0rhvQUfMMdu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Plant Queen",
+	"system": {
+		"description": "<p>LV 3 or lower plant creatures hearing nymph's commands, [[check 15 cha]] or utterly charmed for [[/r 1d8]] days.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

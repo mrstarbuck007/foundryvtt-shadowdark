@@ -1,0 +1,20 @@
+{
+	"_id": "BXvL4ujg5pFI4BkD",
+	"_key": "!actors.items!IgyKAD3pQZvgYsEF.BXvL4ujg5pFI4BkD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Self-Evisceration",
+	"system": {
+		"description": "<p>Vomit out internal organs, fills a near- sized cube extending from atuikakura. [[check 15 dex]] or entangled for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

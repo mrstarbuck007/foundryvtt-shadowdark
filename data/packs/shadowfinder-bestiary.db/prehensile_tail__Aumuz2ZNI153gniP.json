@@ -1,0 +1,20 @@
+{
+	"_id": "Aumuz2ZNI153gniP",
+	"_key": "!actors.items!bILMyFLTK3vzowJV.Aumuz2ZNI153gniP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Prehensile Tail",
+	"system": {
+		"description": "<p>Can carry an item or perform simple tasks. Cannot wield arms or armor.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

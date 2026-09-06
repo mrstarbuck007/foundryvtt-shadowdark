@@ -1,0 +1,20 @@
+{
+	"_id": "yDVJIjgUa698uli1",
+	"_key": "!actors.items!fIP4gVXmghT8UlLa.yDVJIjgUa698uli1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Karmic Defense",
+	"system": {
+		"description": "<p>When effected by a hostile spell, spellcaster also is effected.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

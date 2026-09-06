@@ -1,0 +1,74 @@
+{
+	"_id": "SnyHbrd2LCQAGNj1",
+	"_key": "!actors!SnyHbrd2LCQAGNj1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"ehKQfruxwg9nVveE",
+		"UFgsn6RYPnCw54H3",
+		"wBbGrtaj5qe5SXrT",
+		"bsxiL2aRVIb6N71z"
+	],
+	"name": "Clockwork, Mage",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Clockwork, Mage",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 34,
+				"value": 34
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Copper and brass wind-up automaton inset with a gem. Follows orders relentlessly.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 34, <strong>ATK</strong> 2 slam +3 (1d6) or 1 gem +7, <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -2, <strong>AL</strong> N, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Clockwork</strong>. Only damaged by adamantine or magical sources. Immune to damage from fire, cold, or non-magical sources. Double damage from electricity.</p><p></p><p><strong>Gem</strong>. Each mage has one gem (wand). Roll 1d4: 1. Magic missile, 2. Acid arrow, 3.</p><p></p><p><strong>Lightning bolt, 4</strong>. Fireball.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

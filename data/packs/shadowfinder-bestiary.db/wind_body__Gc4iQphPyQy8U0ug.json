@@ -1,0 +1,20 @@
+{
+	"_id": "Gc4iQphPyQy8U0ug",
+	"_key": "!actors.items!en5r59ETpV5Is2FU.Gc4iQphPyQy8U0ug",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Wind Body",
+	"system": {
+		"description": "<p>As an action, become a gust of wind. Ranged attacks against bralani have DISADV.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

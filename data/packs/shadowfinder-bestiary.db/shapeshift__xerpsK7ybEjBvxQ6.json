@@ -1,0 +1,20 @@
+{
+	"_id": "xerpsK7ybEjBvxQ6",
+	"_key": "!actors.items!sEqf8Wabi1xV8wDR.xerpsK7ybEjBvxQ6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapeshift",
+	"system": {
+		"description": "<p>In place of attacks, transform into a hyena or return to their original form.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

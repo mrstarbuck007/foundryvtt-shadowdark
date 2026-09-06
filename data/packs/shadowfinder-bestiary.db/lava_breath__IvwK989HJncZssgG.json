@@ -1,0 +1,28 @@
+{
+	"_id": "IvwK989HJncZssgG",
+	"_key": "!actors.items!F76VcuoDqJWAwZjm.IvwK989HJncZssgG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Lava Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a double near-sized cube extending from dragon. [[check 15 dex]] or [[/r 5d10]] damage. Creatures reduced to 0 HP are turned to ash.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

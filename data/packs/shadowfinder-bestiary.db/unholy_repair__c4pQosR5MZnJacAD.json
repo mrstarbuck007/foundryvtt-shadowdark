@@ -1,0 +1,20 @@
+{
+	"_id": "c4pQosR5MZnJacAD",
+	"_key": "!actors.items!wYtjJzZErVBEtsSb.c4pQosR5MZnJacAD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Unholy Repair",
+	"system": {
+		"description": "<p>1/day, as an action, pull flotsam, bones, and carcasses into ship, regain [[/r 5d10]] HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

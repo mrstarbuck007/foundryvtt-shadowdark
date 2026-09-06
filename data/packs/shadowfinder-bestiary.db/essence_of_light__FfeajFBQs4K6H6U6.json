@@ -1,0 +1,20 @@
+{
+	"_id": "FfeajFBQs4K6H6U6",
+	"_key": "!actors.items!AhFc3LLveJjux1eu.FfeajFBQs4K6H6U6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Essence of Light",
+	"system": {
+		"description": "<p>Undead take double damage from touch and eye ray. Sheds sunlight.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "DxzEueUtIZqxE38i",
+	"_key": "!actors.items!jGgbvmVaKeZWpdxU.DxzEueUtIZqxE38i",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Roar",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All creatures who can hear within far [[check 18 cha]] or paralyzed [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,30 @@
+{
+	"_id": "nC3vlvhRtduQtgP6",
+	"_key": "!actors.items!ywVU5hI3dmuhABZb.nC3vlvhRtduQtgP6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Fire Blast",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>One target in far takes [[/r 3d6]] damage.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

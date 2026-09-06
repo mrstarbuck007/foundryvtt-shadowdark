@@ -1,0 +1,73 @@
+{
+	"_id": "M5f2S1S5yhfLWIxd",
+	"_key": "!actors!M5f2S1S5yhfLWIxd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"VVWL7Y8pUQ40um6X",
+		"jtelMSxkGQb8mTPT",
+		"a709D9Zi31M0hfMi"
+	],
+	"name": "Ichthyocentaur",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Ichthyocentaur",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 15,
+				"value": 15
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Aquatic centaur with a fish lower torso and two finned hooves.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 15, <strong>ATK</strong> 2 hooves +3 (1d6) or 1 harpoon (far) +2 (1d8 + drag), <strong>MV</strong> double near (swim), <strong>S</strong> +3, <strong>D</strong> +2, <strong>C</strong> +2, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> N, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Drag</strong>. Target is pulled near.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

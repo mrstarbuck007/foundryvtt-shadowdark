@@ -1,0 +1,30 @@
+{
+	"_id": "7iKkcoluIJA4QTEu",
+	"_key": "!actors.items!5Ewgitie39He0WRI.7iKkcoluIJA4QTEu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Bolt",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>A 5- foot wide line of electricity extending far from the statue. [[/r 3d6]] damage.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

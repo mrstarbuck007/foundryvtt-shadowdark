@@ -1,0 +1,28 @@
+{
+	"_id": "wbiHeh0XRdjAtVG4",
+	"_key": "!actors.items!aiCuOOgFUz7Q3upx.wbiHeh0XRdjAtVG4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Babble",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Creatures within near that hear, [[check 12 cha]] at start of their turn or dazed and no action.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "wH2nP0GebIf8QtWx",
+	"_key": "!actors.items!fJiy0pIklFKK964C.wH2nP0GebIf8QtWx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Witchfire",
+	"system": {
+		"description": "<p>Wreathed in emerald flame for [[/r 1d4]] rounds. Does not cause damage, but creature takes double damage from witchfire while glowing.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

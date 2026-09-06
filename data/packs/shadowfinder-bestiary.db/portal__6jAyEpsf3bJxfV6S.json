@@ -1,0 +1,20 @@
+{
+	"_id": "6jAyEpsf3bJxfV6S",
+	"_key": "!actors.items!saTvRUXG3QDygxJn.6jAyEpsf3bJxfV6S",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Portal",
+	"system": {
+		"description": "<p>Portal leads to a specific spot in another plane, defined by the irminsul's creator.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

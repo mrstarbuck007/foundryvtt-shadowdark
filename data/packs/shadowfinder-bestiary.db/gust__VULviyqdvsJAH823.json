@@ -1,0 +1,30 @@
+{
+	"_id": "VULviyqdvsJAH823",
+	"_key": "!actors.items!z3wEJHXEfF58XlDF.VULviyqdvsJAH823",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Gust",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Gale wind blows under control of sorcerer for [[/r 2d4]] rounds, ranged attacks have DISADV.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "2d4"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

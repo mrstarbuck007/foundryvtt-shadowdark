@@ -1,0 +1,20 @@
+{
+	"_id": "8Lh0OO3ldzhVEMYv",
+	"_key": "!actors.items!5OFLNlH2JgYVi798.8Lh0OO3ldzhVEMYv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Only damaged by silver or magic sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

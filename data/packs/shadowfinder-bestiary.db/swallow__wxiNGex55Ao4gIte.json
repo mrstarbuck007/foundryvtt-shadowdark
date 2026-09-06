@@ -1,0 +1,20 @@
+{
+	"_id": "wxiNGex55Ao4gIte",
+	"_key": "!actors.items!ln92GYIzb5A4aYrD.wxiNGex55Ao4gIte",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow",
+	"system": {
+		"description": "<p>On a natural attack roll of 18-20, target is swallowed. Total darkness inside and [[/r 3d10]] damage per round. Nightcrawler regurgitates all swallowed if dealt at least 20 damage to the inside of its gullet in one round.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

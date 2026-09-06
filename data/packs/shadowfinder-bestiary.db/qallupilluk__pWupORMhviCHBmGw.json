@@ -1,0 +1,74 @@
+{
+	"_id": "pWupORMhviCHBmGw",
+	"_key": "!actors!pWupORMhviCHBmGw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"HFz0AuitnNSDyIwk",
+		"nfjp5wDcPA3embf1",
+		"dbWBdIHHMqckIxAv",
+		"9dbMccBEZgT7YSCZ"
+	],
+	"name": "Qallupilluk",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Qallupilluk",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 20,
+				"value": 20
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Trout-faced sea-hag wearing seal-skin garb. Long, greasy black hair, cloying body odor. Transforms mortals into fish- scaled servants and mates.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12 (leather), <strong>HP</strong> 20, <strong>ATK</strong> 2 claw +4 (1d6 + grab) or 2 javelin (close/far) +4 (1d4), <strong>MV</strong> near (swim), <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Grab</strong>. STR 15+ or held. STR 15+ on turn to break free.</p><p></p><p><strong>Scaly Curse</strong>. If target is grabbed or willing, CON 15+ each round or transformed into grindylow over 1d4 rounds. Slaying the qallupilluk stops the curse.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

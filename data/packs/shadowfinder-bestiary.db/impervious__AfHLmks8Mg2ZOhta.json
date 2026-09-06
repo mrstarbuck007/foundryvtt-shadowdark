@@ -1,0 +1,20 @@
+{
+	"_id": "AfHLmks8Mg2ZOhta",
+	"_key": "!actors.items!51EaEdTHrRzdkEU9.AfHLmks8Mg2ZOhta",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Acid immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

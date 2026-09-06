@@ -1,0 +1,20 @@
+{
+	"_id": "dua12ichHw62bsS1",
+	"_key": "!actors.items!Fe6F1PvOTdv2WLAS.dua12ichHw62bsS1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Eel Arrow",
+	"system": {
+		"description": "<p>Galvo launches an eel as a ranged attack. Galvo takes [[/r 1d4]] damage per arrow.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

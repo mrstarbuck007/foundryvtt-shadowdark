@@ -1,0 +1,28 @@
+{
+	"_id": "SIOtIuyUzmXYbESy",
+	"_key": "!actors.items!hYXbOHBGHcjQKmEU.SIOtIuyUzmXYbESy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Implant Maggot",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Using tongue, implant maggot inside helpless or willing mortal brain. Target loses 1 INT permanently and forgets about implanting. Afterwards demon can telepathically communicate with target.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

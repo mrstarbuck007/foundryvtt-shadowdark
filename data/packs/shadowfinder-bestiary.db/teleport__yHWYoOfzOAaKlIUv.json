@@ -1,0 +1,20 @@
+{
+	"_id": "yHWYoOfzOAaKlIUv",
+	"_key": "!actors.items!GUYa6vucHIFMxiOf.yHWYoOfzOAaKlIUv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Teleport",
+	"system": {
+		"description": "<p>Teleport within distant.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

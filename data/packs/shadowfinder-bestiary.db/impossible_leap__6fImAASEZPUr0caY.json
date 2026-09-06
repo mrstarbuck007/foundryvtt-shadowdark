@@ -1,0 +1,20 @@
+{
+	"_id": "6fImAASEZPUr0caY",
+	"_key": "!actors.items!Z24BWy9XdgxAyVhU.6fImAASEZPUr0caY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impossible Leap",
+	"system": {
+		"description": "<p>Jump up to far in height and double near in distance, then make 2 bite attacks.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

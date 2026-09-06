@@ -1,0 +1,28 @@
+{
+	"_id": "OGW0GacmZtr2Kucb",
+	"_key": "!actors.items!p4I0rdXojmTnPomD.OGW0GacmZtr2Kucb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Smother",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Appears as a double near-width patch of stone floor. Snaps closed and smothers a near-sized area, suffocating prey. Targets cannot speak or see.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

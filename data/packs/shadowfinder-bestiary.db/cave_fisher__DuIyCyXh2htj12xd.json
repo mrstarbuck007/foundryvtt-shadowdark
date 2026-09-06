@@ -1,0 +1,72 @@
+{
+	"_id": "DuIyCyXh2htj12xd",
+	"_key": "!actors!DuIyCyXh2htj12xd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"K99Uz9pPbHTXsDTS",
+		"EarQTToTA0mfF4d5"
+	],
+	"name": "Cave Fisher",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Cave Fisher",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 6,
+				"value": 6
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Man-sized cave crab that lurks on ledges and ceilings, snagging prey with long, sticky filaments.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 6, <strong>ATK</strong> 1 claw +1 (1d4) or 1 filament, <strong>MV</strong> close (climb), <strong>S</strong> +2, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Filament</strong>. 1 creature in near STR 12+ or pulled close.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

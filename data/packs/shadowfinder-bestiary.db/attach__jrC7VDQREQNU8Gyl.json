@@ -1,0 +1,20 @@
+{
+	"_id": "jrC7VDQREQNU8Gyl",
+	"_key": "!actors.items!YST3iFeEdVZvHT9T.jrC7VDQREQNU8Gyl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Attach",
+	"system": {
+		"description": "<p>Attach to bitten target; auto-hit the next round. [[check 9 str]] on turn to remove.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

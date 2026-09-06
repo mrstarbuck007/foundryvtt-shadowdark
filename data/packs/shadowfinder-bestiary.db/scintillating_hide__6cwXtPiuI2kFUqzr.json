@@ -1,0 +1,20 @@
+{
+	"_id": "6cwXtPiuI2kFUqzr",
+	"_key": "!actors.items!FFDC97T1EmlCZ4GV.6cwXtPiuI2kFUqzr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Scintillating Hide",
+	"system": {
+		"description": "<p>Lightning immune. 1:6 chance hostile spells are reflected back at their originator.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

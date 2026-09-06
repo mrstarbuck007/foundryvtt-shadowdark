@@ -1,0 +1,72 @@
+{
+	"_id": "MUYdPHlFuEULjBYS",
+	"_key": "!actors!MUYdPHlFuEULjBYS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"I10torJJDHIkI2pC",
+		"GkCBb1vjnhSNdTym"
+	],
+	"name": "Sea Anemone, Coffin Anemone",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Sea Anemone, Coffin Anemone",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "none",
+		"moveNote": "",
+		"notes": "\n\t<p><i>6-foot-long, coffin-shaped anemone. Powder blue and neon yellow fronds.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 4, <strong>ATK</strong> 1 frond +0 (1 + paralyze), <strong>MV</strong> none, <strong>S</strong> +0, <strong>D</strong> +0, <strong>C</strong> +0, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Paralyze</strong>. CON 12+ or paralyzed 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,75 @@
+{
+	"_id": "h9bMiMHsH2g49EVF",
+	"_key": "!actors!h9bMiMHsH2g49EVF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"SgfdvqadtvBvPH7r",
+		"wcmrDTzQ5yPZux9X",
+		"bXehVrUC2wGZZzny",
+		"ls0c4oGUICE9SABP",
+		"kIhG7cqcGVyiSzt2"
+	],
+	"name": "Caller in Darkness",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Caller in Darkness",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 27,
+				"value": 27
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Born from the violent death of a mortal capable of magic, seeks to torment and absorb spell-casters' minds.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 27, <strong>ATK</strong> 2 touch +6 (2d6 + mind drain), <strong>MV</strong> near (fly), <strong>S</strong> -4, <strong>D</strong> +4, <strong>C</strong> +0, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Greater Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Incorporeal</strong>. In place of attacks, become corporeal or incorporeal.</p><p></p><p><strong>Mind Drain</strong>. 1d4 INT damage. Death if reduced to 0 INT, caller absorbs intellect if mortal, gaining memories.</p><p></p><p><strong>Sunlight Weakness</strong>. Cannot take actions in direct sunlight, only move.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "YVCpZKdWg4oOnzXO",
+	"_key": "!actors.items!dP1iBEnNAP7zYMgB.YVCpZKdWg4oOnzXO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Implant",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Implant egg inside grabbed or helpless mortal. [[check 18 con]] or egg matures in [[/r 1d4]] rounds, dealing [[/r 6d6]] damage to target and releasing a drakainia spawn.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

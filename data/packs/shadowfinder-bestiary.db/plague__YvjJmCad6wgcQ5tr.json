@@ -1,0 +1,20 @@
+{
+	"_id": "YvjJmCad6wgcQ5tr",
+	"_key": "!actors.items!Qne1FTLqOK5SuGOp.YvjJmCad6wgcQ5tr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Plague",
+	"system": {
+		"description": "<p>Scabby boils. [[check 12 con]] or [[/r 1d6]] CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

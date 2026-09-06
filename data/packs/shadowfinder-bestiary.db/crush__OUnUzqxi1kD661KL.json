@@ -1,0 +1,20 @@
+{
+	"_id": "OUnUzqxi1kD661KL",
+	"_key": "!actors.items!7zYXXeyV2C2Ujrsx.OUnUzqxi1kD661KL",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Crush",
+	"system": {
+		"description": "<p>[[check 9 str]] or target takes [[/r 1d4]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

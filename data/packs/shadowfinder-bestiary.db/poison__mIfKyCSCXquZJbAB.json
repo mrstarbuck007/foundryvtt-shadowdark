@@ -1,0 +1,20 @@
+{
+	"_id": "mIfKyCSCXquZJbAB",
+	"_key": "!actors.items!I0R5Z0K7nU2shNQi.mIfKyCSCXquZJbAB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>[[check 9 con]] or [[/r 1d4]] DEX damage. Paralyzed at 0 DEX.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

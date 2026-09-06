@@ -1,0 +1,28 @@
+{
+	"_id": "BiUSHwT0PGKkXF6O",
+	"_key": "!actors.items!2Ql4NhxxrwCmxqej.BiUSHwT0PGKkXF6O",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Soul Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Once soul has been consumed, daemon can expel it as a shrieking black wind, straight line (5' wide) extending double near from daemon. [[check 15 cha]] or [[/r 5d10]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

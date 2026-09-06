@@ -1,0 +1,20 @@
+{
+	"_id": "9dbMccBEZgT7YSCZ",
+	"_key": "!actors.items!pWupORMhviCHBmGw.9dbMccBEZgT7YSCZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Scaly Curse",
+	"system": {
+		"description": "<p>If target is grabbed or willing, [[check 15 con]] each round or transformed into grindylow over [[/r 1d4]] rounds. Slaying the qallupilluk stops the curse.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "KkPfZlEdiSmgQemr",
+	"_key": "!actors.items!7J3nDwG3MM8vc4E0.KkPfZlEdiSmgQemr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sucking Wind",
+	"system": {
+		"description": "<p>As an action, can create an inward vortex. All creatures within distant, half movement if moving away from polyp.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

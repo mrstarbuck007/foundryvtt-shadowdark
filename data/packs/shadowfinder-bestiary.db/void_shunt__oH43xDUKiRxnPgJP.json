@@ -1,0 +1,30 @@
+{
+	"_id": "oH43xDUKiRxnPgJP",
+	"_key": "!actors.items!TA9CWDhEPwOHzMOD.oH43xDUKiRxnPgJP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Void Shunt",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Plane shift self and all within double near to the Abyss or mortal world.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

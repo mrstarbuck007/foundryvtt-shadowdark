@@ -1,0 +1,20 @@
+{
+	"_id": "5SXutmeeaD16rOcK",
+	"_key": "!actors.items!2ygLxjMzquh5Gzbw.5SXutmeeaD16rOcK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Freeze",
+	"system": {
+		"description": "<p>[[check 18 con]] or slowed for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

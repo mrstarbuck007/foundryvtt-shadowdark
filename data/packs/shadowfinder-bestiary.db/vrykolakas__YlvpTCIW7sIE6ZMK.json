@@ -1,0 +1,75 @@
+{
+	"_id": "YlvpTCIW7sIE6ZMK",
+	"_key": "!actors!YlvpTCIW7sIE6ZMK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"Q6KANZX6afVNt0BO",
+		"8Lk6wKu0TiYiXhx4",
+		"F5Ws6XVgMINkeYvP",
+		"ARuKuK0yxKv1Depo",
+		"9HdAYe3eXFnsvDgD"
+	],
+	"name": "Vrykolakas",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Vrykolakas",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 29,
+				"value": 29
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Long-necked, bipedal, hairless jackal. Undead born from rageful mortals denied last rites out of spite.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 29, <strong>ATK</strong> 2 claw +4 (1d8 + paralyze), <strong>MV</strong> near (climb), <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Create Spawn</strong>. Slain mortals rise as vrykolakas in 1d4 days unless given last rites.</p><p></p><p><strong>Possession</strong>. If reduced to 0 HP, vrykolakas 's spirit flies into animal within near range. Contested CHA check. If undead wins, inhabits and controls animal, transforms into undead over 1d4 days.</p><p></p><p><strong>Undead</strong>. Immune to morale checks.</p><p></p><p><strong>Vulnerable</strong>. Double damage from fire.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

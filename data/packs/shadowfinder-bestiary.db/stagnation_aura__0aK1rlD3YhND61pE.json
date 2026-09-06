@@ -1,0 +1,20 @@
+{
+	"_id": "0aK1rlD3YhND61pE",
+	"_key": "!actors.items!zgs0WzTXI08TqB5R.0aK1rlD3YhND61pE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stagnation Aura",
+	"system": {
+		"description": "<p>Near-sized slow, lethargic aura centered on spawn. Mortals within [[check 15 wis]] on turn. On failure, can only take action or move. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

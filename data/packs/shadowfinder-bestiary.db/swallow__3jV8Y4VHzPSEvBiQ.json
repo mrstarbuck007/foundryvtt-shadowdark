@@ -1,0 +1,20 @@
+{
+	"_id": "3jV8Y4VHzPSEvBiQ",
+	"_key": "!actors.items!wD6cMdbxSHjlIaLy.3jV8Y4VHzPSEvBiQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow",
+	"system": {
+		"description": "<p>On a natural attack roll of 18-20, target is swallowed. Each turn, [[check 15 cha]] or develop a phobia. Regurgitates all swallowed if dealt at least 10 damage in one round to the inside of its gullet.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

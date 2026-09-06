@@ -1,0 +1,20 @@
+{
+	"_id": "e0lPKsJp0zeoFOPp",
+	"_key": "!actors.items!YAaeO7SNkIJsqCDp.e0lPKsJp0zeoFOPp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Psychic Gestalt",
+	"system": {
+		"description": "<p>Create a hive mind of all brain moles within far, with monarch as leader. Share knowledge and senses.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

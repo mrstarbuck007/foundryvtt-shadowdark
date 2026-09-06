@@ -1,0 +1,73 @@
+{
+	"_id": "OWtKE0cPJTzfAxRe",
+	"_key": "!actors!OWtKE0cPJTzfAxRe",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"jUyj52hnS34vzLup",
+		"yww6pUWsgK2UvK04",
+		"23hRJEWXHLMyiUfC"
+	],
+	"name": "Phycomid",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Phycomid",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -4
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": -2
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": -3
+			},
+			"wis": {
+				"mod": -3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 8
+			},
+			"hp": {
+				"max": 19,
+				"value": 19
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Spore-lobbing purple fungus that reproduces by infecting fleshy creatures. A common underground hazard.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 8, <strong>HP</strong> 19, <strong>ATK</strong> 6 spore pellet (near) +2 (1d8 + inoculate), <strong>MV</strong> close, <strong>S</strong> -3, <strong>D</strong> -2, <strong>C</strong> +1, <strong>I</strong> -4, <strong>W</strong> -3, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Inoculate</strong>. Spore disease. CON 12+ or 1d4 CON damage (can't heal while ill). Repeat check each round; ends on success. Die at 0 CON, spawning a fully-grown phycomid in 1d4 rounds.</p><p></p><p><strong>Spore Pellet</strong>. After firing 6 spore pellets, phycomid must recharge for 1d6 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

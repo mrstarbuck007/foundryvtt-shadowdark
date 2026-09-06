@@ -1,0 +1,20 @@
+{
+	"_id": "ScCzHwlRztIWPbni",
+	"_key": "!actors.items!o31Cc1fjLSMAoIWp.ScCzHwlRztIWPbni",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Unyielding to Oblivion",
+	"system": {
+		"description": "<p>Cannot be destroyed within far of the Horseman of Pestilence.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

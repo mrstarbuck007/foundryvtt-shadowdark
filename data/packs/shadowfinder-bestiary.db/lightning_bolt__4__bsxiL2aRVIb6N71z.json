@@ -1,0 +1,20 @@
+{
+	"_id": "bsxiL2aRVIb6N71z",
+	"_key": "!actors.items!SnyHbrd2LCQAGNj1.bsxiL2aRVIb6N71z",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lightning bolt, 4",
+	"system": {
+		"description": "<p>Fireball.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

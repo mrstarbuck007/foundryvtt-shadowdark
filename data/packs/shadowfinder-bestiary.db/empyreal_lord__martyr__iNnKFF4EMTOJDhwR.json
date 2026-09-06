@@ -1,0 +1,75 @@
+{
+	"_id": "iNnKFF4EMTOJDhwR",
+	"_key": "!actors!iNnKFF4EMTOJDhwR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"NUMNcjrbx4PRCgFh",
+		"2abf3afsrHGXklVR",
+		"ElroOnqGSALgi3Tq",
+		"1uIiwzuq3z55Gava",
+		"1KdueyVkSCZ7bRCA"
+	],
+	"name": "Empyreal Lord, Martyr",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Empyreal Lord, Martyr",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 78,
+				"value": 78
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 16,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Blindfolded, feminine angel wrapped in blood-soaked bandages. Celestial martyr.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 78, <strong>ATK</strong> 4 dagger (far) +10 (1d4+3 + smite), <strong>MV</strong> double near (fly), <strong>S</strong> +6, <strong>D</strong> +5, <strong>C</strong> +6, <strong>I</strong> +2, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> L, <strong>LV</strong> 16</p><p></p>\n\t<p><strong>Avatar</strong>. Only damaged by magic sources.</p><p></p><p><strong>Smite</strong>. If chaotic, CON 18+ or reduced to 0 HP with a death timer of 1.</p><p></p><p><strong>Stigmatic Aura</strong>. All chaotic creatures within double near, CON 18+ or begin bleeding, 1d4 damage each round. CON 18+, stabilize check, or healing to staunch.</p><p></p><p><strong>Weapon of Old</strong>. Her black- bladed dagger is a +3 weapon while she wields it. Returns when thrown.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

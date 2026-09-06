@@ -1,0 +1,20 @@
+{
+	"_id": "5wjPpUjPdWCw9T2a",
+	"_key": "!actors.items!2LBWlBvBX8bgCpEs.5wjPpUjPdWCw9T2a",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Permanent Death",
+	"system": {
+		"description": "<p>Cannot be permanently killed unless a wish spell is cast on it while it is at 0 HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

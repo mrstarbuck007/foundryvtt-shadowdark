@@ -1,0 +1,30 @@
+{
+	"_id": "Fb5zdiNKbjx2b945",
+	"_key": "!actors.items!XaOovltWuun4sTj6.Fb5zdiNKbjx2b945",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Hypnotize",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Focus. One target in near range who can see naga is helplessly stupefied for duration.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "cfvN5AqBn98NKrwW",
+	"_key": "!actors.items!SVON2ExESibNlzOq.cfvN5AqBn98NKrwW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stinking Curse",
+	"system": {
+		"description": "<p>[[check 15 con]] or [[/r 1d4]] CHA damage (can't heal while ill). Repeat check each day; ends on success. Die and rise as ghast at 0 CHA.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

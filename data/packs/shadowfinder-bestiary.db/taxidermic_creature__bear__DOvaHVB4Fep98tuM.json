@@ -1,0 +1,74 @@
+{
+	"_id": "DOvaHVB4Fep98tuM",
+	"_key": "!actors!DOvaHVB4Fep98tuM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"1bUSHL6489a2IQH3",
+		"oAj7xe0m0eONsk71",
+		"yZM0CXNEgg1TmbaA",
+		"BQEMHJYiPWraTGMS"
+	],
+	"name": "Taxidermic Creature, Bear",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Taxidermic Creature, Bear",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": -3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 16,
+				"value": 16
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Animated, preserved bear hide, treated alchemically and stretched over a frame.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 16, <strong>ATK</strong> 2 claw +4 (1d8), <strong>MV</strong> near (climb), <strong>S</strong> +3, <strong>D</strong> +0, <strong>C</strong> +3, <strong>I</strong> -4, <strong>W</strong> -3, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Construct</strong>. Only damaged by adamantine or magical sources.</p><p></p><p><strong>Crush</strong>. Deals an extra die of damage if it hits the same target with both claws.</p><p></p><p><strong>Vulnerable to Slashing</strong>. Can be damaged by non-magical slashing and cutting, takes double damage.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

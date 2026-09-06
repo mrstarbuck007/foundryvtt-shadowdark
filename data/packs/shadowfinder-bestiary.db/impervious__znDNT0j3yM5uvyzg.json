@@ -1,0 +1,20 @@
+{
+	"_id": "znDNT0j3yM5uvyzg",
+	"_key": "!actors.items!fyW1FYyWfIZ1ZMgb.znDNT0j3yM5uvyzg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Nightmare and its rider immune to fire.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "rqmhy07jZye1h6n5",
+	"_key": "!actors.items!xKPYhxhQhGyjIoBc.rqmhy07jZye1h6n5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Object",
+	"system": {
+		"description": "<p>When standing still, looks exactly like the object it is made of. Metal, stone, hard material, AC 15.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

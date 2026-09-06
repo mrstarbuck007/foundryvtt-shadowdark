@@ -1,0 +1,28 @@
+{
+	"_id": "1ZnzBpMVB5s3daP9",
+	"_key": "!actors.items!3Igu1J9qb4OzPZfE.1ZnzBpMVB5s3daP9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Magic Circle",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Cast magic circle, automatic success.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "Ryms9iHaCWZk3Jpn",
+	"_key": "!actors.items!ZYHcAqhnVBClo0ne.Ryms9iHaCWZk3Jpn",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>[[check 12 con]] or [[/r 1d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

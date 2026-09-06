@@ -1,0 +1,73 @@
+{
+	"_id": "z0p9Xdj734TUDe3V",
+	"_key": "!actors!z0p9Xdj734TUDe3V",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"CT8LN6RySxJMtqO4",
+		"tPzFFVxoql0yM2tu",
+		"F4SbfQC52oR4sJgz"
+	],
+	"name": "Crab, Shark-Eating",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Crab, Shark-Eating",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 20,
+				"value": 20
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i></i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 20, <strong>ATK</strong> 2 claw +4 (1d8 + grab) and 1 darting claw +4, <strong>MV</strong> near (swim), <strong>S</strong> +4, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Darting Claw</strong>. If both claws miss, the crab can make a third claw attack.</p><p></p><p><strong>Grab</strong>. STR 15+ or held. STR 15+ on turn to break free.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

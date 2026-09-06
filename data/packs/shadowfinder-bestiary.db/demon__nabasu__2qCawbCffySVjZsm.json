@@ -1,0 +1,73 @@
+{
+	"_id": "2qCawbCffySVjZsm",
+	"_key": "!actors!2qCawbCffySVjZsm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"crxlgvpLa2wD8rvL",
+		"WtvZOErAIetmGkAN",
+		"l6EagxxtpYwPkMWd"
+	],
+	"name": "Demon, Nabasu",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Demon, Nabasu",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 26,
+				"value": 26
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Grey bat wings shroud a fanged demon, a bipedal blend of hyena and badger.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 26, <strong>ATK</strong> 1 bite +5 (1d8) and 2 claw +5 (1d6) or ghoul gaze, <strong>MV</strong> near (fly), <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +4, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Ghoul Gaze</strong>. Gazing at a dying mortal creature kills the target, turning them into a ghoul servitor.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

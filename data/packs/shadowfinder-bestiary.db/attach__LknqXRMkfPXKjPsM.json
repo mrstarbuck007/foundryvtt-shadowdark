@@ -1,0 +1,20 @@
+{
+	"_id": "LknqXRMkfPXKjPsM",
+	"_key": "!actors.items!SvAbFjMurZCl3eej.LknqXRMkfPXKjPsM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Attach",
+	"system": {
+		"description": "<p>Attach to target; bite auto-hits next round. [[check 12 str]] on turn to tear off.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

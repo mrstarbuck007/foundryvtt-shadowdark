@@ -1,0 +1,20 @@
+{
+	"_id": "D9xYkKCG1nA7vcGd",
+	"_key": "!actors.items!a8gZyE6R7tAqlMli.D9xYkKCG1nA7vcGd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Golem",
+	"system": {
+		"description": "<p>Immune to damage from non-magical sources. Healed by fire.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

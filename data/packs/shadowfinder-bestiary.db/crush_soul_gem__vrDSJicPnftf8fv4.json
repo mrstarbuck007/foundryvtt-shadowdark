@@ -1,0 +1,20 @@
+{
+	"_id": "vrDSJicPnftf8fv4",
+	"_key": "!actors.items!SagkCkxUAtG6kxGB.vrDSJicPnftf8fv4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Crush Soul Gem",
+	"system": {
+		"description": "<p>Crush soul gem (see cacodaemon) to heal a daemon within close to full hit points.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "jNcgsIzjJzIJKn04",
+	"_key": "!actors.items!ILEy7gkkbDityZv7.jNcgsIzjJzIJKn04",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>[[check 15 con]] or fall into natural, deep sleep for [[/r 1d8]] hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

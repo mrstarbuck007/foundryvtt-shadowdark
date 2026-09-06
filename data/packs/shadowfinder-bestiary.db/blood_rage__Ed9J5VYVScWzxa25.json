@@ -1,0 +1,20 @@
+{
+	"_id": "Ed9J5VYVScWzxa25",
+	"_key": "!actors.items!IXXpdiiM692iGJ2A.Ed9J5VYVScWzxa25",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Rage",
+	"system": {
+		"description": "<p>1/day, immune to morale checks, +[[/r 1d4]] damage (3 rounds). Triggers when blood is in the water.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,30 @@
+{
+	"_id": "xm95BrDuUxdZIKrC",
+	"_key": "!actors.items!EaFLtaVxdRaAaHYQ.xm95BrDuUxdZIKrC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Death Bolt",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>One target of LV 9 or less within near [[check 15 con]] or go to 0 HP.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

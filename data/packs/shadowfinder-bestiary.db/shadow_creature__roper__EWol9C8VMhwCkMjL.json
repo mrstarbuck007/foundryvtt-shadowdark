@@ -1,0 +1,76 @@
+{
+	"_id": "EWol9C8VMhwCkMjL",
+	"_key": "!actors!EWol9C8VMhwCkMjL",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"lH9WY2zNt2smGJQo",
+		"wKy3UPQauZloy7Df",
+		"clWH6gf9BjH36TYc",
+		"GKr0tepTJY3l5oeN",
+		"g2ZZP9DoOB9r2qZ9",
+		"wlsAJxfyuap2d8V6"
+	],
+	"name": "Shadow Creature, Roper",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Shadow Creature, Roper",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 31,
+				"value": 31
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Malicious shadowy boulder with one eye and long, ropey black tendrils.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 31, <strong>ATK</strong> 4 tendril (double near) +4 (grab + <strong>S</strong>TR drain) and 1 bite +4 (2d8), <strong>MV</strong> close (climb), <strong>S</strong> +4, <strong>D</strong> +0, <strong>C</strong> +4, <strong>I</strong> -1, <strong>W</strong> +2, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Grab</strong>. STR 15+ or target trapped in tendril. Tendril autohits target next round. STR 15+ on turn to break free.</p><p></p><p><strong>One With Shadow</strong>. While in dim light or darkness, only damaged by magical sources. STR Drain. Target takes 1d6 STR damage. Paralyzed at 0 STR.</p><p></p><p><strong>Pull</strong>. In place of a tendril attack, pull a grabbed target a near distance.</p><p></p><p><strong>Tendrils</strong>. Four total. AC 18 each. 4+ damage to one severs it.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

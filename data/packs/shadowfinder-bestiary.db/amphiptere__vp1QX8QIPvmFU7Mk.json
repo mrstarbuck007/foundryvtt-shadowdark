@@ -1,0 +1,72 @@
+{
+	"_id": "vp1QX8QIPvmFU7Mk",
+	"_key": "!actors!vp1QX8QIPvmFU7Mk",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"1FV5GkrVTraUfMOB",
+		"sUKt5KWspbhAbQWX"
+	],
+	"name": "Amphiptere",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Amphiptere",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 14,
+				"value": 14
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>18-foot-long, sinuous drake with no arms or legs, merely two broad wings. Akin to sleek, legless, stingerless wyvern.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 14, <strong>ATK</strong> 1 bite +3 (1d10), <strong>MV</strong> near (fly), <strong>S</strong> +3, <strong>D</strong> +0, <strong>C</strong> +1, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -1, <strong>AL</strong> N, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Clumsy</strong>. Move is close when not flying.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

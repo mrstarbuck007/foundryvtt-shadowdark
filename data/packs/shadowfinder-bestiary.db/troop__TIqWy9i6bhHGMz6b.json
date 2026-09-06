@@ -1,0 +1,20 @@
+{
+	"_id": "TIqWy9i6bhHGMz6b",
+	"_key": "!actors.items!1WvF5J18XNzEHc5w.TIqWy9i6bhHGMz6b",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Troop",
+	"system": {
+		"description": "<p>If reduced to 9 HP or less, makes morale check and deals half damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

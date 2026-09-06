@@ -1,0 +1,20 @@
+{
+	"_id": "RwbC9Ql9NzzVdEPY",
+	"_key": "!actors.items!eZmz4VotOMIHsfIS.RwbC9Ql9NzzVdEPY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Inexorable",
+	"system": {
+		"description": "<p>Can harm undead and incorporeal creatures.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

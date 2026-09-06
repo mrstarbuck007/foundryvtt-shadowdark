@@ -1,0 +1,76 @@
+{
+	"_id": "KF2VEuf6Twf6dDg5",
+	"_key": "!actors!KF2VEuf6Twf6dDg5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"DWUHOsNVUyATKEeB",
+		"kYsrnLrghVCzuftT",
+		"tsPk8Baeaq0bk8Vm",
+		"g97nNPcjXwtMna1V",
+		"1aKvudBCbW490HpC",
+		"ZYL2hcogwiB3UIjm"
+	],
+	"name": "Archdevil, Dispater",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Archdevil, Dispater",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 6
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 21
+			},
+			"hp": {
+				"max": 105,
+				"value": 105
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 22,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>13-foot-tall, red-skinned devil who wields an iron mace. Represents the dominion of evil via dictatorial might.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 21 (+2 plate and +2 shield), <strong>HP</strong> 105, <strong>ATK</strong> 4 +3 spear +10 (1d6+3) and baleful beauty, <strong>MV</strong> double near (fly), <strong>S</strong> +5, <strong>D</strong> +4, <strong>C</strong> +6, <strong>I</strong> +3, <strong>W</strong> +4, <strong>Ch</strong> +6, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 22</p><p></p>\n\t<p><strong>Impervious</strong>. Fire and cold immune. Only damaged by silver or magical sources.</p><p></p><p><strong>Lord of Iron</strong>. Command iron golems and other metal creatures. Iron within double near of Dispater does not rust or crumble.</p><p></p><p><strong>Mortal Gaze</strong>. Glare at dying mortal, who instantly dies and rises as a zombie lord.</p><p></p><p><strong>Voice of Command</strong>. As an action, issue a one-word command. All mortals that can hear, CHA 18+ or obey the command for 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

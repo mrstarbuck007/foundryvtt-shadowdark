@@ -1,0 +1,20 @@
+{
+	"_id": "2xctiKHWZvjls700",
+	"_key": "!actors.items!aUV9MgBY8bfBr2vy.2xctiKHWZvjls700",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Screech",
+	"system": {
+		"description": "<p>All non-bats within double near, [[check 9 con]] or stunned 1 round.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

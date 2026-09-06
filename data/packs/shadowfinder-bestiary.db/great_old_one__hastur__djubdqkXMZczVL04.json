@@ -1,0 +1,75 @@
+{
+	"_id": "djubdqkXMZczVL04",
+	"_key": "!actors!djubdqkXMZczVL04",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"VhI0Vkb8tLlJ90wj",
+		"vCYIYB319rRRQ0K2",
+		"iFXkbFA3wWHAovaX",
+		"rhDdAPnq2eXds6tk",
+		"Uj63gBpYcWfMhtr3"
+	],
+	"name": "Great Old One, Hastur",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Great Old One, Hastur",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 6
+			},
+			"int": {
+				"mod": 5
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 82,
+				"value": 82
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 17,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Skeleton draped in yellow, tattered robes. Master of Old Carcosa, the Dreamland city, and scribe of the Yellow Sign.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 82, <strong>ATK</strong> 4 lash (near) +10 (2d8 + <strong>W</strong>isdom bleed) and reveal visage, <strong>MV</strong> double near (fly), <strong>S</strong> +3, <strong>D</strong> +6, <strong>C</strong> +6, <strong>I</strong> +5, <strong>W</strong> +5, <strong>Ch</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 17</p><p></p>\n\t<p><strong>Madness</strong>. Warps reality for all mortals within far. Each turn, WIS 18+ or 2d4 WIS damage. Insane at 0 WIS.</p><p></p><p><strong>Pure Evil</strong>. Only damaged by magic sources. Dissolves if slain, reforms in Dreamlands.</p><p></p><p><strong>Reveal Visage</strong>. Gaze at one creature within double near. CHA 18+ or lose 2d6 WIS permanently. Coma at 0 WIS.</p><p></p><p><strong>Wisdom Bleed</strong>. 1d4 WIS damage each round. CON 12+, stabilize check, or healing to staunch.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

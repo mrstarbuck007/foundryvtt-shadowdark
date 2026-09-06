@@ -1,0 +1,28 @@
+{
+	"_id": "y7pzkM5OYDppeqip",
+	"_key": "!actors.items!cgtMLB5oigO6Ke56.y7pzkM5OYDppeqip",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Tickle",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Tickle grabbed foe, [[check 12 con]] or helpless for 1 round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

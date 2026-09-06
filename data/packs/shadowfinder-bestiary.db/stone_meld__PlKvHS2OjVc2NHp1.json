@@ -1,0 +1,20 @@
+{
+	"_id": "PlKvHS2OjVc2NHp1",
+	"_key": "!actors.items!wTUMcW8IyRadL59U.PlKvHS2OjVc2NHp1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stone Meld",
+	"system": {
+		"description": "<p>2/day, underground only. Turn invisible for 3 rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

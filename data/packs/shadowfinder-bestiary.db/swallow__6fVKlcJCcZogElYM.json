@@ -1,0 +1,20 @@
+{
+	"_id": "6fVKlcJCcZogElYM",
+	"_key": "!actors.items!r3z13vprUKJXteNs.6fVKlcJCcZogElYM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow",
+	"system": {
+		"description": "<p>On a natural attack roll of 20, target is swallowed. Total darkness inside and [[/r 1d10]] damage per round. Fish regurgitates all swallowed if dealt at least 5 damage in one round to the inside of its gullet.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

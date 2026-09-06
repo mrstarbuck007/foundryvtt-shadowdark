@@ -1,0 +1,73 @@
+{
+	"_id": "hsWxYB1l89aaej6Q",
+	"_key": "!actors!hsWxYB1l89aaej6Q",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"EJpWYtFopAkLA7S9",
+		"dy6tnCPCB2MHicut",
+		"tI7xJf3Fb0fdnFaw"
+	],
+	"name": "Zombie, Zygomind",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Zombie, Zygomind",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": -2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 10,
+				"value": 10
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Zombie corpse of zygomind fungus victim. Inoculated with mind-controlling spores.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 10, <strong>ATK</strong> 1 slam +1 (1d6 + fascination spores), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -2, <strong>W</strong> -2, <strong>Ch</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Fascination Spores</strong>. Creatures within close of zygomind zombie that are exposed to spores, CHA 12+ or stupefied for 1 day, unable to act, move towards zygomind and lay down.</p><p></p><p><strong>Undead</strong>. Immune to morale checks.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,72 @@
+{
+	"_id": "GqC3A9a95WQPqzO6",
+	"_key": "!actors!GqC3A9a95WQPqzO6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"atEXlaIRtzyGnBgs",
+		"TckyJNRGrNPsFatb"
+	],
+	"name": "Yithian",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Yithian",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 33,
+				"value": 33
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Barrel-shaped alien with a tendrilous neck ending in a large-eyed, spherical head. Crab pincers for forearms. Their technology can swap minds between bodies.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 33, <strong>ATK</strong> 2 claw +5 (1d10) or amnesia, <strong>MV</strong> near (climb), <strong>S</strong> +3, <strong>D</strong> +2, <strong>C</strong> +2, <strong>I</strong> +4, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> N, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Amnesia</strong>. 1/day, CHA 15+ or inflict 24 hours of amnesia on creature within near.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

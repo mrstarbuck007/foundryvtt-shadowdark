@@ -1,0 +1,28 @@
+{
+	"_id": "tTGfg7j36Z4X8TzV",
+	"_key": "!actors.items!vTenZRBPgbsCpcET.tTGfg7j36Z4X8TzV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Compel Emotion",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Release a double-near-sized psychic burst centered on ooze. [[check 15 cha]] or overwhelmed by ooze's attuned emotion for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "YUNBPPl5Ulptfa7T",
+	"_key": "!actors.items!F4TOlaN6SsZV5IH8.YUNBPPl5Ulptfa7T",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Wind Form",
+	"system": {
+		"description": "<p>Unless in contact with dirt or earth, turn into wind.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

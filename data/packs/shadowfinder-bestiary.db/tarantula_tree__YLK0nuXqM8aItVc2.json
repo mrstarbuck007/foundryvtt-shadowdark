@@ -1,0 +1,73 @@
+{
+	"_id": "YLK0nuXqM8aItVc2",
+	"_key": "!actors!YLK0nuXqM8aItVc2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"7px78rdfDwoQNWzg",
+		"87ZBvCa4XO2rDY6c",
+		"zyZuOuEevfpzh5cM"
+	],
+	"name": "Tarantula Tree",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Tarantula Tree",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 61,
+				"value": 61
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 13,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Grove of interwoven trees. Predatory, sentient, likes conversation.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 61, <strong>ATK</strong> 3 vine +6 (1d10 + grab), <strong>MV</strong> near, <strong>S</strong> +5, <strong>D</strong> +4, <strong>C</strong> +3, <strong>I</strong> +0, <strong>W</strong> +3, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 13</p><p></p>\n\t<p><strong>Encage</strong>. As an action, can enclose grove's perimeter in 20-foot-tall, 5-foot-thick thorn wall. Each section of thorns, AC 14, 15 HP.</p><p></p><p><strong>Grab</strong>. STR 15+ or held. STR 15+ on turn to break free.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

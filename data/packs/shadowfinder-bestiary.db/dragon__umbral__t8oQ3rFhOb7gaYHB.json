@@ -1,0 +1,73 @@
+{
+	"_id": "t8oQ3rFhOb7gaYHB",
+	"_key": "!actors!t8oQ3rFhOb7gaYHB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"4xAfpFgew1C2bAZo",
+		"NPES3dkcuFaRWSu5",
+		"7tVWWqffEs9SIS7b"
+	],
+	"name": "Dragon, Umbral",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Dragon, Umbral",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": -1
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 62,
+				"value": 62
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 13,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>60-foot-long, sleek, whip-thin dragon made from tangible darkness. Delight in killing.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 62, <strong>ATK</strong> 3 rend +8 (2d8) or 1 shadow breath, <strong>MV</strong> double near (fly), <strong>S</strong> +5, <strong>D</strong> -1, <strong>C</strong> +4, <strong>I</strong> +2, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 13</p><p></p>\n\t<p><strong>Shadow Breath</strong>. A double near-size cube of enervating blackness extending from dragon. CON 15+ or 4d8 damage. Mortal creatures reduced to 0 HP die, rise as shadows in 1d4 rounds.</p><p></p><p><strong>Shadowblood</strong>. Can harm incorporeal creatures. Inspires fear in undead.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

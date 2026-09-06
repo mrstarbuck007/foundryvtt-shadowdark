@@ -1,0 +1,20 @@
+{
+	"_id": "3OgSigPYfBAYaVil",
+	"_key": "!actors.items!O2RsYsHI6iahhLdr.3OgSigPYfBAYaVil",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dark Dweller",
+	"system": {
+		"description": "<p>Blinded in bright light. Disintegrates in burst of light when reduced to 0 HP, all within near [[check 9 con]] or blinded [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "GxTeAYncIgsX8efo",
+	"_key": "!actors.items!B70lOe8MXwqUVgeW.GxTeAYncIgsX8efo",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pull",
+	"system": {
+		"description": "<p>Pull a grabbed target a near distance. Bite has ADV against pulled target.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

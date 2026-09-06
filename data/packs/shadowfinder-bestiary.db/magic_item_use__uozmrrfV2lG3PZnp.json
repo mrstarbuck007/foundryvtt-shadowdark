@@ -1,0 +1,20 @@
+{
+	"_id": "uozmrrfV2lG3PZnp",
+	"_key": "!actors.items!xQYqeMhWLCSXQ18C.uozmrrfV2lG3PZnp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Magic Item Use",
+	"system": {
+		"description": "<p>Can use scrolls and wands (spell +3).</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

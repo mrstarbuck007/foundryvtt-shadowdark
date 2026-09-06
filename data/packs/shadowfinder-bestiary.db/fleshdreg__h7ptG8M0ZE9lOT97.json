@@ -1,0 +1,72 @@
+{
+	"_id": "h7ptG8M0ZE9lOT97",
+	"_key": "!actors!h7ptG8M0ZE9lOT97",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"zxmQrhhfNwL0dv8a",
+		"m9jWdpW4cvPKbj4h"
+	],
+	"name": "Fleshdreg",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Fleshdreg",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 5,
+				"value": 5
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Pink, fleshy head with one eye and a fanged mouth, perched atop two long legs. Incomplete sinspawn.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 5, <strong>ATK</strong> 1 bite +0 (1d6 + sinwrack), <strong>MV</strong> close, <strong>S</strong> +0, <strong>D</strong> +0, <strong>C</strong> +1, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Sinwrack</strong>. WIS 9+ or dazed by sinful urges and emotions for 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

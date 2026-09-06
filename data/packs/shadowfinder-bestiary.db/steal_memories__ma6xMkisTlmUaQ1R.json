@@ -1,0 +1,20 @@
+{
+	"_id": "ma6xMkisTlmUaQ1R",
+	"_key": "!actors.items!TVC9X9TFoNZfPE4C.ma6xMkisTlmUaQ1R",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Steal Memories",
+	"system": {
+		"description": "<p>[[check 12 wis]] or [[/r 1d4]] weeks of recent memories are stolen by the hyakume, which remembers them vividly. On a natural 1, [[/r 1d4]] years of memories lost.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,72 @@
+{
+	"_id": "2dfKIcnuQbR1Mjai",
+	"_key": "!actors!2dfKIcnuQbR1Mjai",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"Dcn7EPxsKdRo8xSe",
+		"S8ZneAEut2I1Pf2q"
+	],
+	"name": "Pyrausta",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Pyrausta",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": -1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": -2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 1,
+				"value": 1
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 0,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Dragonfly-sized dragonette. Emerald green, breathes tiny gouts of flame.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 1, <strong>ATK</strong> 1 tiny fire breath, <strong>MV</strong> near (fly), <strong>S</strong> -2, <strong>D</strong> +1, <strong>C</strong> -1, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> +1, <strong>AL</strong> N, <strong>LV</strong> 0</p><p></p>\n\t<p><strong>Fireblood</strong>. Fire immune.</p><p></p><p><strong>Tiny Fire Breath</strong>. Fills a close- sized cube extending from pyrausta. DEX 9+ or 1d4 damage.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

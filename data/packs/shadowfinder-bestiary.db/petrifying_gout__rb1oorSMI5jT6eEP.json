@@ -1,0 +1,28 @@
+{
+	"_id": "rb1oorSMI5jT6eEP",
+	"_key": "!actors.items!tcvMqUuVIlz64xdU.rb1oorSMI5jT6eEP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Petrifying Gout",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (5' wide) extending double near from dragon. [[check 15 con]] or petrified.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

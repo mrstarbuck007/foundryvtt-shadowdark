@@ -1,0 +1,20 @@
+{
+	"_id": "Yt2kZsMk3bnm22BW",
+	"_key": "!actors.items!vlkJgmwaM1Ic963J.Yt2kZsMk3bnm22BW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Transmit",
+	"system": {
+		"description": "<p>A raktavarna's sworn master can hear, see, taste, smell, and speak using its senses from any distance.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

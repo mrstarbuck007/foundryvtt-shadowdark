@@ -1,0 +1,20 @@
+{
+	"_id": "tFCUi5VqcOzC5oeD",
+	"_key": "!actors.items!zsIjbiuWpr0lcvwy.tFCUi5VqcOzC5oeD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Irreligious",
+	"system": {
+		"description": "<p>If presented with a holy symbol, must make morale check.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

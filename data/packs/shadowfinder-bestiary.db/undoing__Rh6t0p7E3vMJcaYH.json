@@ -1,0 +1,20 @@
+{
+	"_id": "Rh6t0p7E3vMJcaYH",
+	"_key": "!actors.items!D5J9FQ9RipggyWfF.Rh6t0p7E3vMJcaYH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Undoing",
+	"system": {
+		"description": "<p>Pitri's critical hits deal �3 damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "x1VQ36E6QZUVhC4v",
+	"_key": "!actors.items!F4TOlaN6SsZV5IH8.x1VQ36E6QZUVhC4v",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Regenerate",
+	"system": {
+		"description": "<p>Unless in contact with dirt or earth, regains [[/r 2d6]] HP on its turn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

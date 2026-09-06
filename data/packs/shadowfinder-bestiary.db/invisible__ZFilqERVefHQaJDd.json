@@ -1,0 +1,20 @@
+{
+	"_id": "ZFilqERVefHQaJDd",
+	"_key": "!actors.items!GyyAFOO0pzeURpEb.ZFilqERVefHQaJDd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Invisible",
+	"system": {
+		"description": "<p>Turn invisible at will.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

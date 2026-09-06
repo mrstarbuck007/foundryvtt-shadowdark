@@ -1,0 +1,73 @@
+{
+	"_id": "foWVtSHabGkffSzt",
+	"_key": "!actors!foWVtSHabGkffSzt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"6Gx8EWMspgDRjyBf",
+		"NHqX4hHqXBdtYIcL",
+		"H1j0YANL5HHbePr3"
+	],
+	"name": "Veela, Fire",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Veela, Fire",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 21,
+				"value": 21
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Red elemental dancing spirit, beckoning mortals with charming allure.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 21, <strong>ATK</strong> 2 dagger (close/near) +4 (1d4) or dance, <strong>MV</strong> double near, <strong>S</strong> +3, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +0, <strong>Ch</strong> +3, <strong>AL</strong> N, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Dance</strong>. Compel one mortal within near that can see veela to dance. CHA 15+ or dance for 1d4 rounds, taking 1 CON damage per round. While dancing, mortals CHA 15+ or cannot take hostile actions against veela.</p><p></p><p><strong>Impervious</strong>. Only damaged by magical sources. Immune to fire.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

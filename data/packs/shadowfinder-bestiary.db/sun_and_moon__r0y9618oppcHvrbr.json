@@ -1,0 +1,20 @@
+{
+	"_id": "r0y9618oppcHvrbr",
+	"_key": "!actors.items!2flh91bKJjhkJ3eW.r0y9618oppcHvrbr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sun and Moon",
+	"system": {
+		"description": "<p>Take [[/r 2d6]] damage each round in direct sunlight or moonlight.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

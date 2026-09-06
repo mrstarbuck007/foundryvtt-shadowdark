@@ -1,0 +1,20 @@
+{
+	"_id": "Ssuf6vB9yUhmmX20",
+	"_key": "!actors.items!PruL2IUvFmBalyA4.Ssuf6vB9yUhmmX20",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dark Dweller",
+	"system": {
+		"description": "<p>Blinded in bright light. Evaporate in icy burst when reduced to 0 HP, all within near [[check 9 con]] or [[/r 1d4]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

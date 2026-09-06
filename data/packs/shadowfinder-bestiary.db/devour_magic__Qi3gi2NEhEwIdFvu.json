@@ -1,0 +1,20 @@
+{
+	"_id": "Qi3gi2NEhEwIdFvu",
+	"_key": "!actors.items!NdNR0Bmy8HeBy9b0.Qi3gi2NEhEwIdFvu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Devour Magic",
+	"system": {
+		"description": "<p>Spells cast in near of fungus have DISADV. If failed, regains [[/r 2d6]] HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

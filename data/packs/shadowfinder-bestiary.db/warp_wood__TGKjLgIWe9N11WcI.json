@@ -1,0 +1,28 @@
+{
+	"_id": "TGKjLgIWe9N11WcI",
+	"_key": "!actors.items!uA886ZXSFnx69LN6.TGKjLgIWe9N11WcI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Warp Wood",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One wooden object in near twists/bends.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "ktT8CTpJcIWOUykD",
+	"_key": "!actors.items!XZpTazpIM6xaeTCh.ktT8CTpJcIWOUykD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Lightning Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (5' wide) extending double near from dragon. [[check 15 dex]] or [[/r 4d8]] damage (DISADV on check if wearing metal armor).</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

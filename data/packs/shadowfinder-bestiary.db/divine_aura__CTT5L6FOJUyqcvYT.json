@@ -1,0 +1,20 @@
+{
+	"_id": "CTT5L6FOJUyqcvYT",
+	"_key": "!actors.items!hcI9JDtukz6lQ0l1.CTT5L6FOJUyqcvYT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Divine Aura",
+	"system": {
+		"description": "<p>Immune to hostile spells of 2nd tier or lower.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

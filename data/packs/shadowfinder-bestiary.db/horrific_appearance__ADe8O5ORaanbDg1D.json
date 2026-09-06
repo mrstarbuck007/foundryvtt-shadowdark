@@ -1,0 +1,20 @@
+{
+	"_id": "ADe8O5ORaanbDg1D",
+	"_key": "!actors.items!6Bgqg1dltgtTXQQP.ADe8O5ORaanbDg1D",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Horrific Appearance",
+	"system": {
+		"description": "<p>Mortal creatures looking directly at qlippoth, [[check 15 con]] or [[/r 1d4]] CHA damage. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

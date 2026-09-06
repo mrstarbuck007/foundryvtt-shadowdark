@@ -1,0 +1,71 @@
+{
+	"_id": "YQzgLw4TjkyGoctI",
+	"_key": "!actors!YQzgLw4TjkyGoctI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"ibpxlGHbXiaEyavd"
+	],
+	"name": "Danthienne",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Danthienne",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": -2
+			},
+			"wis": {
+				"mod": -1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 16,
+				"value": 16
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>\"Gossip pixies,\" flamboyantly garbed, doll-sized fey who excel at creating drama. Bully and cajole other fey.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 16, <strong>ATK</strong> none, <strong>MV</strong> near, <strong>S</strong> -2, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +0, <strong>W</strong> -1, <strong>Ch</strong> +4, <strong>AL</strong> N, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Play Favorite</strong>. Designate one willing creature as \"favorite.\" Favorite can use fey's CHA modifier instead of their own, but loses 1 CHA permanently per day, dying in an overly dramatic way at 0 CHA.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

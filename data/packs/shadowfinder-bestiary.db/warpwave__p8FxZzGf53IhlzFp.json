@@ -1,0 +1,28 @@
+{
+	"_id": "p8FxZzGf53IhlzFp",
+	"_key": "!actors.items!s6oHAvUKNS7FYwk9.p8FxZzGf53IhlzFp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Warpwave",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All beings within near of protean (including protean), [[check 15 cha]] or take [[/r 1d8]] attribute damage. d6: 1. STR, 2. DEX, 3. CON, 4. INT, 5. WIS, 6. CHA.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

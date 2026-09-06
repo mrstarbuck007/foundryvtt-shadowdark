@@ -1,0 +1,20 @@
+{
+	"_id": "f1IYy9iNhnL5Xru0",
+	"_key": "!actors.items!FxlzuJp377Cdhh3h.f1IYy9iNhnL5Xru0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Horrific Critical",
+	"system": {
+		"description": "<p>If critical hit reduces target to 0 HP, [[check 15 con]] or vilderavn cuts out target's heart.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

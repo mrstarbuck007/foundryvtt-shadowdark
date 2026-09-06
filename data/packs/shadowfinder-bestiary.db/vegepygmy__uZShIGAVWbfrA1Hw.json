@@ -1,0 +1,72 @@
+{
+	"_id": "uZShIGAVWbfrA1Hw",
+	"_key": "!actors!uZShIGAVWbfrA1Hw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"cQAPqAbJXIH07Pjm",
+		"tVV5Sfodu7BTFtQa"
+	],
+	"name": "Vegepygmy",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Vegepygmy",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": -2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 1,
+				"value": 1
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 0,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Short, green plant people the size of goblins, wielding crude spears. Spawned from victims of russet mold spores.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 1, <strong>ATK</strong> 1 spear (close/near) -1 (1d6), <strong>MV</strong> near, <strong>S</strong> -2, <strong>D</strong> +0, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> 0</p><p></p>\n\t<p><strong>Inoculated</strong>. Embedded with russet mold. When slain, explodes in near-sized cube centered on vegepygmy. CON 12+ or 1d4 CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON and spawn 1d6 vegepygmies.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

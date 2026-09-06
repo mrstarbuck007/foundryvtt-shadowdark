@@ -1,0 +1,28 @@
+{
+	"_id": "couNTBmYGyHEdAPL",
+	"_key": "!actors.items!2fOVLjF34U7dlznz.couNTBmYGyHEdAPL",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Eye Ray",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Ray can target one creature or an object up to 1,000 pounds (up to four on same target). 1. Fire. [[check 15 dex]] or [[/r 2d6]] damage. 2. Cold. [[check 15 dex]] or [[/r 2d6]] damage. 3. Lightning. [[check 15 dex]] or [[/r 2d6]] damage. 4. Petrification. [[check 15 con]] or petrified.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

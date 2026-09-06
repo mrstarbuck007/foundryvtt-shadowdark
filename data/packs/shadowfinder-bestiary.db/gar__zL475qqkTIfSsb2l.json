@@ -1,0 +1,71 @@
+{
+	"_id": "zL475qqkTIfSsb2l",
+	"_key": "!actors!zL475qqkTIfSsb2l",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"HvfTfIo4RxdaXMj2"
+	],
+	"name": "Gar",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Gar",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -4
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 5,
+				"value": 5
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Aquatic, freshwater predator fish. Three feet long, slim snout, cigar-shaped body.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 5, <strong>ATK</strong> 1 bite +1 (1d6), <strong>MV</strong> near (swim), <strong>S</strong> +1, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -4, <strong>W</strong> +0, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

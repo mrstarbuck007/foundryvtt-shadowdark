@@ -1,0 +1,73 @@
+{
+	"_id": "F6s2cwTraO4iV4f7",
+	"_key": "!actors!F6s2cwTraO4iV4f7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"4Ig90MYYetNKwwWZ",
+		"oeog8BtcTDF27mBN",
+		"2YgVtGgSzCOLcDKq"
+	],
+	"name": "Leaf Ray",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Leaf Ray",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 5,
+				"value": 5
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Vaguely intelligent plant life. Broad, veridian, toothy leaf with a short, hollow-tubed tail for implanting seeds.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 5, <strong>ATK</strong> 1 bite +0 (1 + poison) or implant, <strong>MV</strong> near (fly), <strong>S</strong> +0, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Implant</strong>. 1/day, Insert seed inside helpless mortal. CON 12+ or 1d4 CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON, spawning a leaf ray which bursts from the corpse.</p><p></p><p><strong>Poison</strong>. CON 9+ or paralyzed 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,74 @@
+{
+	"_id": "SfVMWiU4QprIEQzM",
+	"_key": "!actors!SfVMWiU4QprIEQzM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"gQ9gdIIm6aZtgZpj",
+		"eVkmSvXyq4g2WFrJ",
+		"fMv3HBEE6a8nZDqF",
+		"7aHlIa0vgU2GVpsk"
+	],
+	"name": "Nightmare Ettercap",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Nightmare Ettercap",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 14,
+				"value": 14
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Shadow-black, bipedal, eight- eyed spiderfolk. Lurking half- dream.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 14, <strong>ATK</strong> 2 bite +2 (1d6) or 1 poison web (near) +2, <strong>MV</strong> near (climb, fly), <strong>S</strong> +0, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> -1, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Great Evil</strong>. Only damaged by silver or magical sources.</p><p></p><p><strong>Night Terror</strong>. Dreams of targets within far are filled with wretched nightmares. CHA 12+ or 1d4 WIS damage (can't heal or rest while cursed). Repeat check each day, die at 0 WIS.</p><p></p><p><strong>Poison Web</strong>. One target stuck in place and 1d4 damage/round. DEX 12+ on turn to escape.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

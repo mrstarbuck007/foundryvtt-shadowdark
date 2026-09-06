@@ -1,0 +1,20 @@
+{
+	"_id": "jQ6uD7iAfadginH1",
+	"_key": "!actors.items!7J3nDwG3MM8vc4E0.jQ6uD7iAfadginH1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Deflecting Winds",
+	"system": {
+		"description": "<p>Ranged attacks against polyp have DISADV.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

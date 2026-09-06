@@ -1,0 +1,20 @@
+{
+	"_id": "q2s7AlaWpx21VVEg",
+	"_key": "!actors.items!wApJk9Tk2uIguS7l.q2s7AlaWpx21VVEg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Attack",
+	"system": {
+		"description": "<p>+1 tendril attack.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

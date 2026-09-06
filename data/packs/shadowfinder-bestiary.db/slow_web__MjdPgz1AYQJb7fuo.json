@@ -1,0 +1,20 @@
+{
+	"_id": "MjdPgz1AYQJb7fuo",
+	"_key": "!actors.items!EvfwbgAW4KyEC0fK.MjdPgz1AYQJb7fuo",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Slow Web",
+	"system": {
+		"description": "<p>One target stuck in place. [[check 15 dex]] on turn to escape, can only take action or move on turn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

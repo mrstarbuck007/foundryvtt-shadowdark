@@ -1,0 +1,72 @@
+{
+	"_id": "FGKh4MZGnhthbGs9",
+	"_key": "!actors!FGKh4MZGnhthbGs9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"gfvm9SmX36P7XeZV",
+		"OT2ZZWgcl6cF0vZo"
+	],
+	"name": "Wolf-in-Sheep's-Clothing",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Wolf-in-Sheep's-Clothing",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": -1
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 28,
+				"value": 28
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Like a hunter's lure, a small woodland animal is perched atop a tree trunk. In reality, the tree conceals toothy jaws that devour reckless hunters.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 28, <strong>ATK</strong> 2 bite +5 (1d8), <strong>MV</strong> close (burrow, climb), <strong>S</strong> +2, <strong>D</strong> -1, <strong>C</strong> +1, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Implant</strong>. Lay eggs inside a mortal, eating its lure. CON 15+ or 1d4 CON damage (cannot heal while ill). Repeat check once per day; ends on success. Die at 0 CON, spawning a juvenile wolf-in- sheep's-clothing which bursts from the corpse and devours it.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

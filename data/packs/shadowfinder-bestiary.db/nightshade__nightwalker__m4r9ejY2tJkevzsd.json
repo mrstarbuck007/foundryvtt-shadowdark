@@ -1,0 +1,74 @@
+{
+	"_id": "m4r9ejY2tJkevzsd",
+	"_key": "!actors!m4r9ejY2tJkevzsd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"PHFGq0UaheGb84TK",
+		"Q8tKuSi6PCXCB1oC",
+		"FAghztaMzTAINKyT",
+		"FgAhRSMTRHwkDPLf"
+	],
+	"name": "Nightshade, Nightwalker",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Nightshade, Nightwalker",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 49,
+				"value": 49
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A 30-foot-tall night-black revenant with ram horns. General of undead legions.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 49, <strong>ATK</strong> 2 claw +9 (3d6 + sunder) or finger of death, <strong>MV</strong> double near, <strong>S</strong> +5, <strong>D</strong> +0, <strong>C</strong> +4, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Finger of Death</strong>. One target of LV 9 or less within far CON 15+ or go to 0 HP. Mortals slain rise as zombies in 1d4 rounds.</p><p></p><p><strong>Great Evil</strong>. Only damaged by silver or magical sources.</p><p></p><p><strong>Sunder</strong>. Items or objects struck are destroyed on a d6 roll of 1-3.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "RXcstT0cxNfCRj9V",
+	"_key": "!actors.items!00htlnGalOXcM6zu.RXcstT0cxNfCRj9V",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Drift",
+	"system": {
+		"description": "<p>Can only fly for 1 round.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

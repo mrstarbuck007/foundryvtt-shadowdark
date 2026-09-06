@@ -1,0 +1,20 @@
+{
+	"_id": "2GRwxUNPoJyzeN6u",
+	"_key": "!actors.items!ojw4sTXhe1miY39t.2GRwxUNPoJyzeN6u",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Fire and cold immune. Only damaged by silver or magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

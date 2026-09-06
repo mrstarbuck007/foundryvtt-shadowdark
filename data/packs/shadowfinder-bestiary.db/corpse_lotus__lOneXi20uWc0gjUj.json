@@ -1,0 +1,73 @@
+{
+	"_id": "lOneXi20uWc0gjUj",
+	"_key": "!actors!lOneXi20uWc0gjUj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"dAUYI5AiWc2sxDon",
+		"OmCMabqaRPQNHHBr",
+		"uV4ewctiDOB4Yig1"
+	],
+	"name": "Corpse Lotus",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Corpse Lotus",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 40,
+				"value": 40
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A gigantic blooming lotus that consumes corpses. Its pollen is a preservative. Mindless, dangerous.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 40, <strong>ATK</strong> 2 vine (near) +5 (1d8 + engulf) and digest corpse, <strong>MV</strong> close, <strong>S</strong> +5, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Digest Corpse</strong>. Pull corpse within near into bloom and consume it. Regains 2d6 HP.</p><p></p><p><strong>Engulf</strong>. If a target is hit by two or more vines in same round, it is pulled into lotus's blossom and suffocates. STR 15+ on turn to escape. If target dies, automatically digested.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

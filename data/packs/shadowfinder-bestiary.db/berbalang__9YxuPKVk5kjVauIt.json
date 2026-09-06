@@ -1,0 +1,75 @@
+{
+	"_id": "9YxuPKVk5kjVauIt",
+	"_key": "!actors!9YxuPKVk5kjVauIt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"xcZUzkhGKhD5Tdw2",
+		"EY6VzWbuEAoadZgh",
+		"Q9XosFAYn4BtNldK",
+		"2sVQwzjxPmHAcBIQ",
+		"sHr3fsTRcAaYPLfe"
+	],
+	"name": "Berbalang",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Berbalang",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 25,
+				"value": 25
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Bat-winged, ghoulish psychic lurker that dwells near humanoids, feeding on them from the Astral Plane.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 25, <strong>ATK</strong> 2 claw +4 (1d6) or 1 touch +4 (drain), <strong>MV</strong> near (fly), <strong>S</strong> +1, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Astral Projection</strong>. Project incorporeal, invisible psychic form while physical body is in statis. Can only use touch attack while astral. If body is destroyed, projection is as well, and vice versa.</p><p></p><p><strong>Drain</strong>. 1d4 CON damage. Death if reduced to 0 CON.</p><p></p><p><strong>Greater Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "1WLcRovOcuU4f5uG",
+	"_key": "!actors.items!vUteGFYbGgzNaK9s.1WLcRovOcuU4f5uG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Aura of Dust",
+	"system": {
+		"description": "<p>Mortals within near of hollow serpent at start of turn [[check 15 con]] or [[/r 1d6]] STR damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "YvBlK30ewYQaeOcv",
+	"_key": "!actors.items!67B4KCRQL6bgVecd.YvBlK30ewYQaeOcv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Illusion",
+	"system": {
+		"description": "<p>Create a convincing illusion within mirage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

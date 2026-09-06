@@ -1,0 +1,20 @@
+{
+	"_id": "O9nRgI39CYsgBwfw",
+	"_key": "!actors.items!3nriEEznh5nqDcWb.O9nRgI39CYsgBwfw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Death Curse",
+	"system": {
+		"description": "<p>When slain, death curses the slayer. [[check 15 wis]] or age 1 year per day.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

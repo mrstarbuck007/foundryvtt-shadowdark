@@ -1,0 +1,20 @@
+{
+	"_id": "ud9hhXkIwu94rH45",
+	"_key": "!actors.items!tkBp4yLlTfILJkfG.ud9hhXkIwu94rH45",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lightning Aura",
+	"system": {
+		"description": "<p>Creatures in close [[check 15 con]] on turn or [[/r 1d10]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "a3gIodvclYFuzx2R",
+	"_key": "!actors.items!Tdu8IhPY1w1beUUk.a3gIodvclYFuzx2R",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Smoke Vulnerable",
+	"system": {
+		"description": "<p>[[check 9 con]] if exposed to smoke or dormant.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

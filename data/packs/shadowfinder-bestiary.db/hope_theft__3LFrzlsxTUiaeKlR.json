@@ -1,0 +1,28 @@
+{
+	"_id": "3LFrzlsxTUiaeKlR",
+	"_key": "!actors.items!gqGd0Snf9JFqYs8v.3LFrzlsxTUiaeKlR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Hope Theft",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One mortal within double near of tree who has eaten tree's fruit, [[check 15 wis]] or permanently charmed by tree, forgetting all memories and desires. Seeks to protect tree.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

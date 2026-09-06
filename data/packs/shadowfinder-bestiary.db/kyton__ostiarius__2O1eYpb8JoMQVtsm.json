@@ -1,0 +1,73 @@
+{
+	"_id": "2O1eYpb8JoMQVtsm",
+	"_key": "!actors!2O1eYpb8JoMQVtsm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"kCSZUzSyOkQU7zHt",
+		"Kko9Crc5NXEEsaQn",
+		"FQF5yStgbVed8LnD"
+	],
+	"name": "Kyton, Ostiarius",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Kyton, Ostiarius",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 14,
+				"value": 14
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Humanoid with a chiseled physique and iron spikes sprouting from its brow. Keeper of the gates to Hell.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 14, <strong>ATK</strong> 2 slam +2 (1), <strong>MV</strong> near, <strong>S</strong> +0, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Regenerate</strong>. Unless reduced to 0 HP, regains 1d6 HP on its turn. Does not regenerate if wounded by a silver weapon.</p><p></p><p><strong>Shadow Step</strong>. Move into a shadow within close and teleport a far distance to another visible shadow.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

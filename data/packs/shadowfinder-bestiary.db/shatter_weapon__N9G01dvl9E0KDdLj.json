@@ -1,0 +1,20 @@
+{
+	"_id": "N9G01dvl9E0KDdLj",
+	"_key": "!actors.items!iiuHh5Xp4YEVObmC.N9G01dvl9E0KDdLj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shatter Weapon",
+	"system": {
+		"description": "<p>Weapons striking caryatid shatter on a d6 roll of 1-3.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

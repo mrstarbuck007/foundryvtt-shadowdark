@@ -1,0 +1,20 @@
+{
+	"_id": "ZKak49x2Z1BTeCRT",
+	"_key": "!actors.items!bDWgGLJOCVIMLb2H.ZKak49x2Z1BTeCRT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Immune to physical attacks.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

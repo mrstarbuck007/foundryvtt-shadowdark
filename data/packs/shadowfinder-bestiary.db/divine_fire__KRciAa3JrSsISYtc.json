@@ -1,0 +1,20 @@
+{
+	"_id": "KRciAa3JrSsISYtc",
+	"_key": "!actors.items!UUxlKq9fussGHsOD.KRciAa3JrSsISYtc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Divine Fire",
+	"system": {
+		"description": "<p>Immune to fire.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

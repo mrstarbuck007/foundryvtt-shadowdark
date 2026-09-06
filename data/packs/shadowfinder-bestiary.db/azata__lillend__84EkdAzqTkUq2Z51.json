@@ -1,0 +1,72 @@
+{
+	"_id": "84EkdAzqTkUq2Z51",
+	"_key": "!actors!84EkdAzqTkUq2Z51",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"abqk1rmpYRlaIQic",
+		"i5FZql5EX82iUhUm"
+	],
+	"name": "Azata, Lillend",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Azata, Lillend",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 14,
+				"value": 14
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Entrancing songstresses, divine beings with feminine upper torsos and colorful serpentine tails.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 14, <strong>ATK</strong> 2 longsword +3 (1d8) or song, <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +3, <strong>C</strong> +1, <strong>I</strong> +2, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> L, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Song</strong>. Enemies who can hear within double near, CHA 12+ or entranced for 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,74 @@
+{
+	"_id": "BhIsrcnsUmzSZxNi",
+	"_key": "!actors!BhIsrcnsUmzSZxNi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"M5RO5XK0NGSZq1et",
+		"PcTZrOJaAnfqsH4U",
+		"ZyM4AaRJxR475Udv",
+		"4EZz4UP9qYo6m1Ew"
+	],
+	"name": "Death Coach",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Death Coach",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 40,
+				"value": 40
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Spectral carriage pulled by skeletal horses and emitting purple flames. Carries misfortunate souls to Hell.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 40, <strong>ATK</strong> collect soul, <strong>MV</strong> near (fly), <strong>S</strong> -4, <strong>D</strong> +4, <strong>C</strong> +4, <strong>I</strong> +2, <strong>W</strong> +3, <strong>Ch</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Aura of Doom</strong>. All mortals within near, CHA 15+ or terrified for 1d4 rounds.</p><p></p><p><strong>Collect Soul</strong>. One target within close of coach, WIS 15+ or become incorporeal and trapped inside carriage, 1d6 CON damage per round. DISADV on WIS check if terrified. Die at 0 CON, soul trapped in coach forever.</p><p></p><p><strong>Greater Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Incorporeal</strong>. In place of attacks, become corporeal or incorporeal.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

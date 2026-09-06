@@ -1,0 +1,20 @@
+{
+	"_id": "xBXcQeLDzLddMjlm",
+	"_key": "!actors.items!TVC9X9TFoNZfPE4C.xBXcQeLDzLddMjlm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Eye Probe",
+	"system": {
+		"description": "<p>As an action, can detach and send up to six eyeballs floating up to far. Can see through eyes.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

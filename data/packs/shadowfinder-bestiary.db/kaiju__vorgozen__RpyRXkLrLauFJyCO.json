@@ -1,0 +1,74 @@
+{
+	"_id": "RpyRXkLrLauFJyCO",
+	"_key": "!actors!RpyRXkLrLauFJyCO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"E1gNl2pyn2CArCW7",
+		"rNidSe97ZzW5HGan",
+		"SIKvRhuIyVPlfuY7",
+		"8BySEHlLycJiFjC5"
+	],
+	"name": "Kaiju, Vorgozen",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Kaiju, Vorgozen",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 7
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 109,
+				"value": 109
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 23,
+			"xp": 0
+		},
+		"move": "far",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Hummock of mossy pulp and ooze with a single ruby-red eye and six tentacles.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 109, <strong>ATK</strong> 3 tentacle (near) +10 (3d10) or acid beam, <strong>MV</strong> far (climb, swim), <strong>S</strong> +7, <strong>D</strong> +5, <strong>C</strong> +6, <strong>I</strong> -3, <strong>W</strong> +5, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 23</p><p></p>\n\t<p><strong>Acid Beam</strong>. Straight lines (5' wide) extending far from Vorgozen. DEX 15+ or 4d10 damage and pushed back 1d100 feet.</p><p></p><p><strong>Immortal</strong>. Only damaged by magic sources. Immune to acid. If slain, resurrects in 1d10 days and flees.</p><p></p><p><strong>Polluted Magic</strong>. Magic targeting Vorgozen is DC 18. Magic mishaps within far of kaiju are rolled with DISADV.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

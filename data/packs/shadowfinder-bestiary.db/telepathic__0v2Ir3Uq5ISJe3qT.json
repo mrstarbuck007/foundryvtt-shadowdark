@@ -1,0 +1,20 @@
+{
+	"_id": "0v2Ir3Uq5ISJe3qT",
+	"_key": "!actors.items!sQpolIowT59Yrkul.0v2Ir3Uq5ISJe3qT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Telepathic",
+	"system": {
+		"description": "<p>Read minds and mentally speak to creatures within near.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "XX4hvbHajnDk3I2n",
+	"_key": "!actors.items!uYIcZQO2zqD5aK5L.XX4hvbHajnDk3I2n",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Great Evil",
+	"system": {
+		"description": "<p>Only damaged by silver or magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

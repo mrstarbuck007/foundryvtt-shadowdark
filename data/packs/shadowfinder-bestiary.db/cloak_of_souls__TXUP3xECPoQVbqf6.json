@@ -1,0 +1,20 @@
+{
+	"_id": "TXUP3xECPoQVbqf6",
+	"_key": "!actors.items!C4lCT3NL6itcaNw8.TXUP3xECPoQVbqf6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Cloak of Souls",
+	"system": {
+		"description": "<p>Ranged attacks against daemon have DISADV. If a mortal dies within double near, soul is pulled into cloak, shrieking and wailing.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "XPNk4z2RDma4TfGc",
+	"_key": "!actors.items!67B4KCRQL6bgVecd.XPNk4z2RDma4TfGc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Desiccate",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Drain water and blood from creature within mirage (near-sized cube), [[/r 2d6]] damage per round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

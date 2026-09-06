@@ -1,0 +1,29 @@
+{
+	"_id": "RuaMuGjQuNaOXhVG",
+	"_key": "!actors.items!CWObR0NVERGq7LDP.RuaMuGjQuNaOXhVG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Tail Shard",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>1/day, fling crystal tail, explodes in close-sized blast. [[check 12 dex]] or [[/r 3d6]] damage. Crysmal cannot sting until shard regrows, 24 hours.</p>",
+		"properties": [
+		],
+		"ranges": [
+			"far"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

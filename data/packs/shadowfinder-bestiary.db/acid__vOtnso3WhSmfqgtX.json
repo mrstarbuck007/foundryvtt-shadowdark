@@ -1,0 +1,20 @@
+{
+	"_id": "vOtnso3WhSmfqgtX",
+	"_key": "!actors.items!9Quenn9dFcEVyyDq.vOtnso3WhSmfqgtX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Acid",
+	"system": {
+		"description": "<p>Non-magical organic material bitten by qlippoth dissolves on a d6 roll of 1-3.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

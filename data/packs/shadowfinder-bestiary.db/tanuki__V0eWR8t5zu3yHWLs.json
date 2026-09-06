@@ -1,0 +1,73 @@
+{
+	"_id": "V0eWR8t5zu3yHWLs",
+	"_key": "!actors!V0eWR8t5zu3yHWLs",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"vp1aYVLg2twSBEsA",
+		"oJJstqqxTrXOIko5",
+		"ZL5B5VQBJPx7aPXe"
+	],
+	"name": "Tanuki",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Tanuki",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 11,
+				"value": 11
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Shapeshifting, trickster faerie that appears as a humanoid badger. Merry pranksters that love taverns and inns.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13 (leather), <strong>HP</strong> 11, <strong>ATK</strong> 1 staff +1 (1d4), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +2, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +2, <strong>AL</strong> N, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Jug</strong>. Carries a clay jug filled with fey wine. 3/day, drinking has effect chosen by tanuki: cure wounds, confusion, gaseous form, or restoration. Jug crumbles to dust if slain.</p><p></p><p><strong>Shapeshift</strong>. In place of attacks, transform into a humanoid.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

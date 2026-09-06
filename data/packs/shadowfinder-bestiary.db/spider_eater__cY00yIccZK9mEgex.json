@@ -1,0 +1,73 @@
+{
+	"_id": "cY00yIccZK9mEgex",
+	"_key": "!actors!cY00yIccZK9mEgex",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"qfhjtOGywTaaLHGc",
+		"WTCwZrcMOzBEqkCq",
+		"NIwa5No9edN5GbiR"
+	],
+	"name": "Spider Eater",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Spider Eater",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 12,
+				"value": 12
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Giant yellowjacket wasp with a spider's eight eyes, mandibles, and two long foreleg pincers. Prefers spiders but will eat any flesh.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 12, <strong>ATK</strong> 1 rend +2 (1d6) or implant, <strong>MV</strong> near (fly), <strong>S</strong> +2, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> -3, <strong>W</strong> +1, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Freedom</strong>. Cannot be caught in or immobilized by webs.</p><p></p><p><strong>Implant</strong>. Lay egg inside helpless mortal. CON 15+ or paralyzed. Repeat check once per day; ends on success. After 2d6 days, egg hatches, killing host and spawning a spider eater.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

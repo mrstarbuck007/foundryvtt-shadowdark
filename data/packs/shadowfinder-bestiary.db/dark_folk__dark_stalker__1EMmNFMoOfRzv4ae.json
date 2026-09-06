@@ -1,0 +1,73 @@
+{
+	"_id": "1EMmNFMoOfRzv4ae",
+	"_key": "!actors!1EMmNFMoOfRzv4ae",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"EbIKCQmyJhCjcfmx",
+		"O2gQJ1ktiShkEJbX",
+		"ayTpXFUN84HPuBdy"
+	],
+	"name": "Dark Folk, Dark Stalker",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Dark Folk, Dark Stalker",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 18,
+				"value": 18
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Reeking rag-wrapped elf- sized humanoids. Prefers dank, moist, vile places.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14 (leather), <strong>HP</strong> 18, <strong>ATK</strong> 2 dagger (close/near) +4 (1d4 + poison), <strong>MV</strong> near, <strong>S</strong> +0, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> -1, <strong>W</strong> +0, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Poison</strong>. CON 15+ or 1d4 DEX damage, paralyzed at 0 DEX.</p><p></p><p><strong>Supreme Dark Dweller</strong>. Blinded in bright light. Evaporate in burst of bright, searing flame when reduced to 0 HP, all within near DEX 9+ or 2d6 damage.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

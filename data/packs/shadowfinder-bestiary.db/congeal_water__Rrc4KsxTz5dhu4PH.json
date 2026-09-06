@@ -1,0 +1,28 @@
+{
+	"_id": "Rrc4KsxTz5dhu4PH",
+	"_key": "!actors.items!96uZfaEnJ3zP4Z14.Rrc4KsxTz5dhu4PH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Congeal Water",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>1/day, manifest a close-sized bubble of water within near for 3 rounds. Water appears around an object or part of a creature. Quenches flames, causes drowning.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

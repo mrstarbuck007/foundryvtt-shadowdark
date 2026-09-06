@@ -1,0 +1,28 @@
+{
+	"_id": "3vgES7TRyheeY3v1",
+	"_key": "!actors.items!mhPcXY8ZevqgFeeB.3vgES7TRyheeY3v1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Summon Wild Hunt",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Blow horn, summoning [[/r 2d6]] Wild Hunt creatures from Faerie, arrive in [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

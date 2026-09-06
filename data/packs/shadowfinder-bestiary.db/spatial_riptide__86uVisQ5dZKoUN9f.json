@@ -1,0 +1,20 @@
+{
+	"_id": "86uVisQ5dZKoUN9f",
+	"_key": "!actors.items!l8DGlmgcTlZA2UUK.86uVisQ5dZKoUN9f",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Spatial Riptide",
+	"system": {
+		"description": "<p>Mortal beings teleporting within far of keketar take [[/r 5d10]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

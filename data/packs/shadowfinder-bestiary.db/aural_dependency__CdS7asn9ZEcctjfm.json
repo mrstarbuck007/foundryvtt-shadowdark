@@ -1,0 +1,20 @@
+{
+	"_id": "CdS7asn9ZEcctjfm",
+	"_key": "!actors.items!5aufridyJE2iCbI2.CdS7asn9ZEcctjfm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Aural Dependency",
+	"system": {
+		"description": "<p>Immune to sonic damage, effectively blinded if deafened.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,73 @@
+{
+	"_id": "SvBfBVxzA9gglvG7",
+	"_key": "!actors!SvBfBVxzA9gglvG7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"65tKkjnwOUH6oD1G",
+		"zueNlwrtvWkoAcYN",
+		"P2fgZRC0rCivHMNi"
+	],
+	"name": "Thriae, Queen",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Thriae, Queen",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 57,
+				"value": 57
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Huge female giant with violet skin, insectoid legs, and bee antennae. Thriae are oracles. Require breeding with humanoid males to fertilize eggs. Recruits local males to live a captive life of leisure.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 57, <strong>ATK</strong> 3 mace +9 (2d6) or spawn swarm, <strong>MV</strong> near (fly), <strong>S</strong> +3, <strong>D</strong> +0, <strong>C</strong> +3, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> L, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Merope</strong>. The queen is coated in merope, thriae honey. 3:6 chance hostile spells are reflected back at their originator.</p><p></p><p><strong>Spawn Swarm</strong>. Spawn 1d4 wasp swarms that protect the queen for 5 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

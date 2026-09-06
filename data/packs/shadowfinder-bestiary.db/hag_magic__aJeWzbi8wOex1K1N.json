@@ -1,0 +1,20 @@
+{
+	"_id": "aJeWzbi8wOex1K1N",
+	"_key": "!actors.items!T8dc6cfSbXUjCFGb.aJeWzbi8wOex1K1N",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Hag Magic",
+	"system": {
+		"description": "<p>A hag or coven can direct their magic through the ooze's eye.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

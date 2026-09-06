@@ -1,0 +1,20 @@
+{
+	"_id": "yyIagxLNmhADDRUQ",
+	"_key": "!actors.items!2i57OQsxTgTgQdhI.yyIagxLNmhADDRUQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Unusual Anatomy",
+	"system": {
+		"description": "<p>Immune to poison, cold, and electricity. Critical hits only do normal damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

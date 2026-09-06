@@ -1,0 +1,28 @@
+{
+	"_id": "F82IcSCv2qReIiYP",
+	"_key": "!actors.items!8jsEYDlm4qs0GQw2.F82IcSCv2qReIiYP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Dual Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One head breathes caustic gas, the other lightning. Caustic Gas. Fills a double near-sized cube extending from dragon. [[check 15 con]] or [[/r 4d6]] damage. Lightning Breath. One head breathes a straight line (5' wide) extending double near from dragon. [[check 15 dex]] or [[/r 2d8]] damage (DISADV on check if wearing metal armor),</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

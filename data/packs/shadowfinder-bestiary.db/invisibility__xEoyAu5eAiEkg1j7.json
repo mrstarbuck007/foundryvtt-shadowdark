@@ -1,0 +1,20 @@
+{
+	"_id": "xEoyAu5eAiEkg1j7",
+	"_key": "!actors.items!tZmZWkfqzko8a2lS.xEoyAu5eAiEkg1j7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Invisibility",
+	"system": {
+		"description": "<p>Turn invisible. Ends if pixie attacks.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

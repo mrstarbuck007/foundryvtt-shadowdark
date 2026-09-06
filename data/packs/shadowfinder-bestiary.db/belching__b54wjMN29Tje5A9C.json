@@ -1,0 +1,20 @@
+{
+	"_id": "b54wjMN29Tje5A9C",
+	"_key": "!actors.items!oiUN4qpxvL1US5vb.b54wjMN29Tje5A9C",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Belching",
+	"system": {
+		"description": "<p>Spit a gobbet of filth at one target within near, [[check 9 dex]] or [[/r 1d4]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

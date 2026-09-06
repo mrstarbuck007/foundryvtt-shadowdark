@@ -1,0 +1,20 @@
+{
+	"_id": "8Lk6wKu0TiYiXhx4",
+	"_key": "!actors.items!YlvpTCIW7sIE6ZMK.8Lk6wKu0TiYiXhx4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Create Spawn",
+	"system": {
+		"description": "<p>Slain mortals rise as vrykolakas in [[/r 1d4]] days unless given last rites.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

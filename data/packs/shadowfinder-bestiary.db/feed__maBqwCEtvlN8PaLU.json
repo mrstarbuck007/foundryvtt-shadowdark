@@ -1,0 +1,20 @@
+{
+	"_id": "maBqwCEtvlN8PaLU",
+	"_key": "!actors.items!eVhfRcPqb8TS0L31.maBqwCEtvlN8PaLU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Feed",
+	"system": {
+		"description": "<p>As an action, feed on helpless or unconscious victim, who loses [[/r 1d6]] INT and CON permanently. Alraune regains [[/r 3d6]] HP after feeding.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

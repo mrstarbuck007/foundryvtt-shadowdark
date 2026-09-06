@@ -1,0 +1,28 @@
+{
+	"_id": "MlgTW33ZDohIdFkb",
+	"_key": "!actors.items!BDdncnlkKQuaKT56.MlgTW33ZDohIdFkb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Soul Scream",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All humanoids within near of irnakurse, [[check 12 cha]] or 1 permanent WIS loss. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

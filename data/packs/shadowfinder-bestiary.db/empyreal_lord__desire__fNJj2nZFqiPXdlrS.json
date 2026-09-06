@@ -1,0 +1,75 @@
+{
+	"_id": "fNJj2nZFqiPXdlrS",
+	"_key": "!actors!fNJj2nZFqiPXdlrS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"K1XZhh39AB9t253I",
+		"Dvd8S561dgmADPHh",
+		"xHtdB3dGdXKhJ5OQ",
+		"x8da1Om7T5NVVeRx",
+		"vBgK7fPuT1FfGVDJ"
+	],
+	"name": "Empyreal Lord, Desire",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Empyreal Lord, Desire",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 6
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 5
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 19
+			},
+			"hp": {
+				"max": 82,
+				"value": 82
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 17,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Androgynous angel of desire and freedom. Seeks to turn mortals to Order by filling their hearts� void.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 19, <strong>HP</strong> 82, <strong>ATK</strong> 3 flail +9 (1d6+3), <strong>MV</strong> double near (fly), <strong>S</strong> +6, <strong>D</strong> +5, <strong>C</strong> +6, <strong>I</strong> +5, <strong>W</strong> +5, <strong>Ch</strong> +6, <strong>AL</strong> L, <strong>LV</strong> 17</p><p></p>\n\t<p><strong>Adoration</strong>. 1/round, when attacked or a hostile spell is cast at Desire, CHA 18+ or the attacker instead falls to their knees in awe.</p><p></p><p><strong>Avatar</strong>. Only damaged by magic sources.</p><p></p><p><strong>Fulfillment</strong>. Cast wish once for a mortal, no spellcasting check. Only does so to bring mortal towards Law.</p><p></p><p><strong>Unlimited Abandon</strong>. Cannot be held, grappled, slowed, or otherwise hindered.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

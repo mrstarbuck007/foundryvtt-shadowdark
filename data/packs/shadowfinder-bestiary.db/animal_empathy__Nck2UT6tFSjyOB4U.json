@@ -1,0 +1,20 @@
+{
+	"_id": "Nck2UT6tFSjyOB4U",
+	"_key": "!actors.items!sJptaPCYRLLjTbou.Nck2UT6tFSjyOB4U",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Animal Empathy",
+	"system": {
+		"description": "<p>Command livestock within far.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

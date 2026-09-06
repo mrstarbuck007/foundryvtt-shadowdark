@@ -1,0 +1,73 @@
+{
+	"_id": "rcL0rnqs4Def6bDH",
+	"_key": "!actors!rcL0rnqs4Def6bDH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"g3QkuPGHc6t9Zo5l",
+		"I3tS1zjabFUG6C76",
+		"lHX2il4UASr5Ytgl"
+	],
+	"name": "Giant, Slag",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Giant, Slag",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 24,
+				"value": 24
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Hybrid of fire and stone giants, the elite crafters of giant-kind. 14 feet tall, rust- colored, rough skin and hair.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15 (plate), <strong>HP</strong> 24, <strong>ATK</strong> 2 warhammer +4 (2d10 + sunder) or 1 boulder (far) +3 (2d10), <strong>MV</strong> double near, <strong>S</strong> +4, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> +1, <strong>W</strong> +2, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Sunder</strong>. Items or objects struck are destroyed on a d6 roll of 1-3.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

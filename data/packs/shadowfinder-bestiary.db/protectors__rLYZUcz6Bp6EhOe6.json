@@ -1,0 +1,20 @@
+{
+	"_id": "rLYZUcz6Bp6EhOe6",
+	"_key": "!actors.items!EUnaly3tbAcKLAwc.rLYZUcz6Bp6EhOe6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Protectors",
+	"system": {
+		"description": "<p>If two or more foo creatures are within near of each other, they all have protection from evil.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

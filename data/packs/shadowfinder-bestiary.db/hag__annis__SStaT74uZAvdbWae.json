@@ -1,0 +1,73 @@
+{
+	"_id": "SStaT74uZAvdbWae",
+	"_key": "!actors!SStaT74uZAvdbWae",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"VBAtwrHww9iYOzqR",
+		"rwylRlE6SZ60YxZR",
+		"tfHsBriyu7FwGnpQ"
+	],
+	"name": "Hag, Annis",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Hag, Annis",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 20,
+				"value": 20
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Known as iron hags, these bruise-colored, tall hags have steely, warty skin and love to devour the flesh of the innocent. Trophy collectors.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 20, <strong>ATK</strong> 2 claw +3 (1d6 + grab), <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Crush</strong>. Deals an extra die of damage if it hits the same target with both claws.</p><p></p><p><strong>Mimicry</strong>. Change self to look and sound like any other humanoid.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

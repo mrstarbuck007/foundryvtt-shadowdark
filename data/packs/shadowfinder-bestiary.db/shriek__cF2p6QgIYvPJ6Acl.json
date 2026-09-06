@@ -1,0 +1,28 @@
+{
+	"_id": "cF2p6QgIYvPJ6Acl",
+	"_key": "!actors.items!H4BRj2NmgfAMNqms.cF2p6QgIYvPJ6Acl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Shriek",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All non-bats who can hear within near, [[check 9 cha]] or deafened for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

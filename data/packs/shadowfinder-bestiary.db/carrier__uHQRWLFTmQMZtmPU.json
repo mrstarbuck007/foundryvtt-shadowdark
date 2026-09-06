@@ -1,0 +1,20 @@
+{
+	"_id": "uHQRWLFTmQMZtmPU",
+	"_key": "!actors.items!O0jEht8wxgGGIlwU.uHQRWLFTmQMZtmPU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Carrier",
+	"system": {
+		"description": "<p>Can safely carry up to 20 human-sized creatures in belly.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

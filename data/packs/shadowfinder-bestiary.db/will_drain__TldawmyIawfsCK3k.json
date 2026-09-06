@@ -1,0 +1,20 @@
+{
+	"_id": "TldawmyIawfsCK3k",
+	"_key": "!actors.items!PcdteRnzvlgpgt0R.TldawmyIawfsCK3k",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Will Drain",
+	"system": {
+		"description": "<p>[[check 15 con]] or take [[/r 1d4]] CHA damage. Dies and becomes spore zombie at 0 CHA.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

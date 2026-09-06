@@ -1,0 +1,20 @@
+{
+	"_id": "ECODrLIBpcfYhPCc",
+	"_key": "!actors.items!FvZSLtMQ3K4amj0t.ECODrLIBpcfYhPCc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sleep Breath",
+	"system": {
+		"description": "<p>Fills a near- sized cube extending from dragon. [[check 15 con]] or sleep for [[/r 1d4]] hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "wFilath5nyeIbWJu",
+	"_key": "!actors.items!zrZZlX8F3croQjkc.wFilath5nyeIbWJu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Adhesive",
+	"system": {
+		"description": "<p>[[check 15 str]] or adhere to sundew; auto-hit with slam. [[check 15 str]] on turn to remove.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

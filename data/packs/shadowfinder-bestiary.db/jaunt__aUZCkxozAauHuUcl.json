@@ -1,0 +1,30 @@
+{
+	"_id": "aUZCkxozAauHuUcl",
+	"_key": "!actors.items!BiHY599DKecWMVBg.aUZCkxozAauHuUcl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Jaunt",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Self. DC 12. Teleport within near.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

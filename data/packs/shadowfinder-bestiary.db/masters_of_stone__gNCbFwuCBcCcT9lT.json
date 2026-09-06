@@ -1,0 +1,20 @@
+{
+	"_id": "gNCbFwuCBcCcT9lT",
+	"_key": "!actors.items!UR5QxRLGlaQdwZ1u.gNCbFwuCBcCcT9lT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Masters of Stone",
+	"system": {
+		"description": "<p>Four or more pech working together can create a near-sized cavern or tunnel in the earth, or a 10- foot-tall, 5-foot-thick, near- length stone wall (must be contiguous).</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

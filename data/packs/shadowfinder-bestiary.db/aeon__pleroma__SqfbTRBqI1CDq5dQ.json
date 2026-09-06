@@ -1,0 +1,72 @@
+{
+	"_id": "SqfbTRBqI1CDq5dQ",
+	"_key": "!actors!SqfbTRBqI1CDq5dQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"4LaT4AGn2MxWXZ1Q",
+		"m3GsRaQXqfMuPAqt"
+	],
+	"name": "Aeon, Pleroma",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Aeon, Pleroma",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 18
+			},
+			"hp": {
+				"max": 57,
+				"value": 57
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>The hazy body of this ageless human-shaped thing contains stars and planets.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 18, <strong>HP</strong> 57, <strong>ATK</strong> 1 touch +8 (4d10) or form orb, <strong>MV</strong> near (fly), <strong>S</strong> +2, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +4, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> N, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Form Orb</strong>. Form an orb of creation or destruction for 1d4 rounds. Orb must be held by pleroma or disappears with a flash. Creation. As fabricate spell but effect is permanent. Destruction. As disintegrate spell.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

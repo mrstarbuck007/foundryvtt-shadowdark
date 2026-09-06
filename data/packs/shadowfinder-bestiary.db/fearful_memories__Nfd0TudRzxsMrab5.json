@@ -1,0 +1,28 @@
+{
+	"_id": "Nfd0TudRzxsMrab5",
+	"_key": "!actors.items!BuRntj5gckQfGgRP.Nfd0TudRzxsMrab5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Fearful Memories",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Wave of fear, all sentient creatures within near, [[check 15 wis]] or flee for [[/r 1d4]] rounds and forget about taniwha.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

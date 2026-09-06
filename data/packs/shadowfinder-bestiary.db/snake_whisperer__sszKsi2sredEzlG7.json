@@ -1,0 +1,20 @@
+{
+	"_id": "sszKsi2sredEzlG7",
+	"_key": "!actors.items!3D0YAcIxdRpXmwxx.sszKsi2sredEzlG7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Snake Whisperer",
+	"system": {
+		"description": "<p>Speak with snakes. [[check 9 cha]] or snake must obey commands for [[/r 1d4]] rounds. Often tames snakes as pets.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

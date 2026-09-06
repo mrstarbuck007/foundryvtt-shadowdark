@@ -1,0 +1,75 @@
+{
+	"_id": "C0UsI2oix7ZtFBr4",
+	"_key": "!actors!C0UsI2oix7ZtFBr4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"h4Bs3ipY07IsrH9i",
+		"xi2ITw5TB2ChTJr5",
+		"cMynfrxAKPVWxDNZ",
+		"MqeRY6whUpIMe2SB",
+		"UwqfswgpY05GkXkF"
+	],
+	"name": "Colossus, Wood",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Colossus, Wood",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": -1
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 72,
+				"value": 72
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 15,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>70-foot-tall wooden form made of timbers, poles, shutters, and house parts.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 72, <strong>ATK</strong> 2 slam (near) +7 (2d10), <strong>MV</strong> double near, <strong>S</strong> +6, <strong>D</strong> -1, <strong>C</strong> +5, <strong>I</strong> -1, <strong>W</strong> +1, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> 15</p><p></p>\n\t<p><strong>Antimagic Aura</strong>. A near-sized cube centered on colossus that cancels hostile spells targeting anyone inside the aura.</p><p></p><p><strong>Colossus</strong>. Immune to damage from non-magical sources.</p><p></p><p><strong>Flammable</strong>. Can be damaged by fire. Takes x2 damage from it.</p><p></p><p><strong>Manor Form</strong>. Can rearrange itself to be a small manor, house, or hunting lodge.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

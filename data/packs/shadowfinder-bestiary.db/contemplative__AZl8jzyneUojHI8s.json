@@ -1,0 +1,72 @@
+{
+	"_id": "AZl8jzyneUojHI8s",
+	"_key": "!actors!AZl8jzyneUojHI8s",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"dj7Y99WUCTR6u1n4",
+		"4YhKGFMBzMGDEuuD"
+	],
+	"name": "Contemplative",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Contemplative",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": -1
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": -3
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 8,
+				"value": 8
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Telepathic, telekinetic humanoid. Floating brain attached to a hanging, limp nervous system.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 8, <strong>ATK</strong> 1 slam +0 (1) or telekinesis (far), <strong>MV</strong> near (fly), <strong>S</strong> -3, <strong>D</strong> +0, <strong>C</strong> -1, <strong>I</strong> +4, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> N, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Telekinesis</strong>. Mentally move a creature or object a near distance in any direction and hold it in place. Opposed INT versus STR if unwilling.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

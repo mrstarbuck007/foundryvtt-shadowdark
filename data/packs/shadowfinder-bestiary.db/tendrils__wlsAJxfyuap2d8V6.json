@@ -1,0 +1,20 @@
+{
+	"_id": "wlsAJxfyuap2d8V6",
+	"_key": "!actors.items!EWol9C8VMhwCkMjL.wlsAJxfyuap2d8V6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Tendrils",
+	"system": {
+		"description": "<p>Four total. AC 18 each. 4+ damage to one severs it.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

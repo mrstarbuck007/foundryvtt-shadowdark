@@ -1,0 +1,20 @@
+{
+	"_id": "tNoEb0VSwpvk8bfJ",
+	"_key": "!actors.items!X6DrEc4telWTkmma.tNoEb0VSwpvk8bfJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>Assume the form of a humanoid.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

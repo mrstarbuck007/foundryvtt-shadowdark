@@ -1,0 +1,28 @@
+{
+	"_id": "YT7SaDvZWyeR3OVK",
+	"_key": "!actors.items!uu38JjnBaSJO1geQ.YT7SaDvZWyeR3OVK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Feed",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Grabbed target takes [[/r 1d4]] CHA damage. Yangethe regains 5 HP per CHA point inflicted. Coma at 0 CHA.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

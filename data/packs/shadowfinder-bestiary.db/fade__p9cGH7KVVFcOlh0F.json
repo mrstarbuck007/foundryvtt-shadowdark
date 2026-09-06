@@ -1,0 +1,30 @@
+{
+	"_id": "p9cGH7KVVFcOlh0F",
+	"_key": "!actors.items!inwqgrG7XCYCmaYg.p9cGH7KVVFcOlh0F",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Fade",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Self. Become invisible for [[/r 1d4]] rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d4"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

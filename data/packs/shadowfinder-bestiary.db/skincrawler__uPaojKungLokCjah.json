@@ -1,0 +1,71 @@
+{
+	"_id": "uPaojKungLokCjah",
+	"_key": "!actors!uPaojKungLokCjah",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"nUmbSqjGPXWh5JX8"
+	],
+	"name": "Skincrawler",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Skincrawler",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": -2
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": -2
+			},
+			"wis": {
+				"mod": -3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 8
+			},
+			"hp": {
+				"max": 3,
+				"value": 3
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 0,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Parasitic, crawling patch of raw, veiny skin with a stinger.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 8, <strong>HP</strong> 3, <strong>ATK</strong> none, <strong>MV</strong> near, <strong>S</strong> -2, <strong>D</strong> -2, <strong>C</strong> +2, <strong>I</strong> -3, <strong>W</strong> -3, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 0</p><p></p>\n\t<p><strong>Attach</strong>. As an action, attach itself stealthily to a helpless or sleeping target. Opposed DEX versus WIS to be observed. 1 CON damage per day (can't heal while ill). Die at 0 CON.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

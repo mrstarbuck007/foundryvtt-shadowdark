@@ -1,0 +1,20 @@
+{
+	"_id": "wePgqjZS4kS8hptC",
+	"_key": "!actors.items!LWtyWSmrDhKcwqs2.wePgqjZS4kS8hptC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mock",
+	"system": {
+		"description": "<p>As an action, take on illusory appearance of a creature in sight. Does not change size. Mockingfey appears as miniature version.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

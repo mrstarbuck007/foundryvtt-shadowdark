@@ -1,0 +1,28 @@
+{
+	"_id": "YWn4xqpdTGNfKTU8",
+	"_key": "!actors.items!LZQtNP1Bn7bucj5c.YWn4xqpdTGNfKTU8",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Wall Of Ice",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>1/day, 20-foot tall, 5-foot thick wall of ice, double near length. Lasts [[/r 2d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

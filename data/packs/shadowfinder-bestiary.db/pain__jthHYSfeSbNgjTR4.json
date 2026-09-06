@@ -1,0 +1,20 @@
+{
+	"_id": "jthHYSfeSbNgjTR4",
+	"_key": "!actors.items!VLhWV0EoqFTfn04y.jthHYSfeSbNgjTR4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pain",
+	"system": {
+		"description": "<p>[[check 12 con]] or wracked with pain for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "4zPS0Lrq4lVp3t7m",
+	"_key": "!actors.items!KSHZH6ouDlvFBT2F.4zPS0Lrq4lVp3t7m",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>Turn into a hovering ball of green fire.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

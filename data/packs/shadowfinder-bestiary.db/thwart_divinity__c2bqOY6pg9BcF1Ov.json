@@ -1,0 +1,20 @@
+{
+	"_id": "c2bqOY6pg9BcF1Ov",
+	"_key": "!actors.items!vaHLLfwDgrZSTqer.c2bqOY6pg9BcF1Ov",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Thwart Divinity",
+	"system": {
+		"description": "<p>Priests and priestly magic have DISADV against Fomorians.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

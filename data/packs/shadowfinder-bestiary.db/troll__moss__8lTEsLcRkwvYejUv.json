@@ -1,0 +1,73 @@
+{
+	"_id": "8lTEsLcRkwvYejUv",
+	"_key": "!actors!8lTEsLcRkwvYejUv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"FjY5EfiDunEbHo9C",
+		"8Q0gBLV5enQgJeM4",
+		"iGLSauus7bAcA6zZ"
+	],
+	"name": "Troll, Moss",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Troll, Moss",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 10,
+				"value": 10
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Lanky, straggle-haired troll that lurks in treetops, ambushing prey from above.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 10, <strong>ATK</strong> 2 rend +1 (1d4), <strong>MV</strong> near (climb), <strong>S</strong> +1, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -1, <strong>W</strong> +0, <strong>Ch</strong> -2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Fears Flame</strong>. Immediately roll morale with DISADV if exposed to flame.</p><p></p><p><strong>Regenerate</strong>. Regains 2d6 HP on its turn unless its wounds are cauterized with fire.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

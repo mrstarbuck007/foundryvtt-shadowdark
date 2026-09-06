@@ -1,0 +1,20 @@
+{
+	"_id": "GwD7ZAV8NmYwB4ih",
+	"_key": "!actors.items!bfL3jGTIOa6cOtJv.GwD7ZAV8NmYwB4ih",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Construct",
+	"system": {
+		"description": "<p>Only damaged by adamantine or magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

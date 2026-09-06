@@ -1,0 +1,20 @@
+{
+	"_id": "MpokkZS1OImhaqUN",
+	"_key": "!actors.items!o7F3R4Q1nPOmYNwu.MpokkZS1OImhaqUN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Leap",
+	"system": {
+		"description": "<p>Jump up to near in distance, then make 1 halberd attack.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

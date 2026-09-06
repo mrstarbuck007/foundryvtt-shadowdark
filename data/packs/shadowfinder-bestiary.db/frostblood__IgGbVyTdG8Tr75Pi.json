@@ -1,0 +1,20 @@
+{
+	"_id": "IgGbVyTdG8Tr75Pi",
+	"_key": "!actors.items!3O6dtWfLjvWMYdBl.IgGbVyTdG8Tr75Pi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Frostblood",
+	"system": {
+		"description": "<p>Cold immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

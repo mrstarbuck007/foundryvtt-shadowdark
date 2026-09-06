@@ -1,0 +1,20 @@
+{
+	"_id": "yfIR3PAf3XMyCAuo",
+	"_key": "!actors.items!W2sbOG4SSiAkqOrJ.yfIR3PAf3XMyCAuo",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Arctic Beast",
+	"system": {
+		"description": "<p>Cold immune, double damage from fire.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

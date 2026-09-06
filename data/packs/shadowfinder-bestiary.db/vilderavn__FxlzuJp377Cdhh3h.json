@@ -1,0 +1,73 @@
+{
+	"_id": "FxlzuJp377Cdhh3h",
+	"_key": "!actors!FxlzuJp377Cdhh3h",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"otMjSNQRCaozkAEM",
+		"am2EVU9kpty0QBKg",
+		"f1IYy9iNhnL5Xru0"
+	],
+	"name": "Vilderavn",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Vilderavn",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 17
+			},
+			"hp": {
+				"max": 53,
+				"value": 53
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Black-armored raven knight. Fey champion of Chaos adorned in black feathers.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 17 (plate mail + shield), <strong>HP</strong> 53, <strong>ATK</strong> 3 falchion +4 (2d4 + horrific critical), <strong>MV</strong> double near (fly), <strong>S</strong> +5, <strong>D</strong> +4, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +3, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Great Fey</strong>. Only damaged by silver or magical sources.</p><p></p><p><strong>Horrific Critical</strong>. If critical hit reduces target to 0 HP, CON 15+ or vilderavn cuts out target's heart.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

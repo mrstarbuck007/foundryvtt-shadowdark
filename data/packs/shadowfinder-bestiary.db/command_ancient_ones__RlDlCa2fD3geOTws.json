@@ -1,0 +1,20 @@
+{
+	"_id": "RlDlCa2fD3geOTws",
+	"_key": "!actors.items!RapvEv2wKkyEH2oF.RlDlCa2fD3geOTws",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Command Ancient Ones",
+	"system": {
+		"description": "<p>As an action, summon [[/r 1d4]] loyal hunduns, who appear for 5 rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

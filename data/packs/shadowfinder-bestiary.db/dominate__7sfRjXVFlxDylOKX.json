@@ -1,0 +1,28 @@
+{
+	"_id": "7sfRjXVFlxDylOKX",
+	"_key": "!actors.items!SvfRtrrOHGeMHiMR.7sfRjXVFlxDylOKX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Dominate",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One creature within double near [[check 15 wis]] or ichor controls for [[/r 1d6]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

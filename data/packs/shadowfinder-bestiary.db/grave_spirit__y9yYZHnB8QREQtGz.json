@@ -1,0 +1,20 @@
+{
+	"_id": "y9yYZHnB8QREQtGz",
+	"_key": "!actors.items!PazsdHUrhZBzm8SK.y9yYZHnB8QREQtGz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Grave Spirit",
+	"system": {
+		"description": "<p>Unless reduced to 0 HP and remains have bless or dispel magic cast on them, or doused with holy water, demilich rejuvenates at full HP in [[/r 2d6]] days.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "hUpRXidNZh202eXn",
+	"_key": "!actors.items!dHxQQx6evZU3lkWe.hUpRXidNZh202eXn",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Bolster Disease",
+	"system": {
+		"description": "<p>Diseased creatures immediately roll for disease progression.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

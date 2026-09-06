@@ -1,0 +1,20 @@
+{
+	"_id": "ay4W8KLeR8h2MpIl",
+	"_key": "!actors.items!eKCOgK1P0nx3gjgm.ay4W8KLeR8h2MpIl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Only damaged by magical sources. Fire immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "qMYohqTH04aXGs3F",
+	"_key": "!actors.items!YX2cbnekWKefjLcF.qMYohqTH04aXGs3F",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Black Depths",
+	"system": {
+		"description": "<p>Water turns pitch black within a near width centered on nightwave. All mortals, [[check 15 con]] or [[/r 1d8]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,76 @@
+{
+	"_id": "UDr9TipKP6xsLuBi",
+	"_key": "!actors!UDr9TipKP6xsLuBi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"AscbKPasSltUJpVk",
+		"kUPX6QHGozhkSU1d",
+		"Cb9EJx1esMrRm0ef",
+		"9ahiF7qn0M1CihIv",
+		"D7Z5TIROU0VfpB6J",
+		"lzKNeHxahs8EBQl2"
+	],
+	"name": "Yaddithian",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Yaddithian",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": -1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 19,
+				"value": 19
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Ochre-skinned, tapir-nosed, nigh-immortal humanoid.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 19, <strong>ATK</strong> 1 dagger +0 (1d4) or 1 spell +5, <strong>MV</strong> near, <strong>S</strong> +0, <strong>D</strong> +0, <strong>C</strong> +1, <strong>I</strong> +3, <strong>W</strong> -1, <strong>Ch</strong> -1, <strong>AL</strong> N, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Baffle (CHA Spell)</strong>. DC 13. Focus. One target in near of LV 4 or less is dazed for the duration.</p><p></p><p><strong>Detect Magic (INT Spell)</strong>. Self. DC 11. Detect magic within near.</p><p></p><p><strong>Flame Bolt (CHA Spell)</strong>. DC 12. One target in far takes 2d6 damage.</p><p></p><p><strong>Long-Lived</strong>. No benefit or penalty from aging, immune to magical aging effects.</p><p></p><p><strong>Portal (INT Spell)</strong>. Self. DC 15. Open portal for 1 round, leads to location in same plane.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "int",
+			"attacks": 1,
+			"bonus": 5
+		}
+	},
+	"type": "NPC"
+}

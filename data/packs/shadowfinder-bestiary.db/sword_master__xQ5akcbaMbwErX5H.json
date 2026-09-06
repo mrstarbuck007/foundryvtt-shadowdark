@@ -1,0 +1,20 @@
+{
+	"_id": "xQ5akcbaMbwErX5H",
+	"_key": "!actors.items!T3qxox4z5MjDn3Qs.xQ5akcbaMbwErX5H",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sword-Master",
+	"system": {
+		"description": "<p>Hovering longswords fly like spears, then return to asura. Trade 2 longsword attacks next round to deflect an attack that would hit.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

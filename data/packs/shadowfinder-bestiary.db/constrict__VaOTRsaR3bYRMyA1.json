@@ -1,0 +1,29 @@
+{
+	"_id": "VaOTRsaR3bYRMyA1",
+	"_key": "!actors.items!7xTjiBefuPlimJOU.VaOTRsaR3bYRMyA1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Constrict",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Contested STR to hold target immobile for one round.</p>",
+		"properties": [
+		],
+		"ranges": [
+			"near"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

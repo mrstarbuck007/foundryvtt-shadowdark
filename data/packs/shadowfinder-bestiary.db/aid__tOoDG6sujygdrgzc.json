@@ -1,0 +1,30 @@
+{
+	"_id": "tOoDG6sujygdrgzc",
+	"_key": "!actors.items!3CBb4Clm9Ocw8HWw.tOoDG6sujygdrgzc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Aid",
+	"system": {
+		"alignment": "lawful",
+		"class": [
+		],
+		"description": "<p>Heal one creature within close for [[/r 1d4]] HP.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

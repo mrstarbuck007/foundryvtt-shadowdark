@@ -1,0 +1,28 @@
+{
+	"_id": "7gm3BkYZHdDe4l8s",
+	"_key": "!actors.items!FlbPs7D07LXisQUp.7gm3BkYZHdDe4l8s",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Dual Lightning Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Two straight lines (5' wide) extending far from Agyra. [[check 15 dex]] or [[/r 5d6]] damage (DISADV on check if wearing metal armor).</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "Bv2vFdTcc6brqNFk",
+	"_key": "!actors.items!SemQgDFi19nKeMw1.Bv2vFdTcc6brqNFk",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Golem",
+	"system": {
+		"description": "<p>Only damaged by adamantine or magical sources. Immune to damage from fire or non-magical sources. Double damage from blunt weapons.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

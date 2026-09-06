@@ -1,0 +1,20 @@
+{
+	"_id": "TKWgcY6DC6mCP2G6",
+	"_key": "!actors.items!pZuQGGC8Cz2gPb7e.TKWgcY6DC6mCP2G6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Regenerate",
+	"system": {
+		"description": "<p>Unless reduced to 0 HP, regains [[/r 1d6]] HP on its turn. Does not regenerate if wounded by a silver weapon.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

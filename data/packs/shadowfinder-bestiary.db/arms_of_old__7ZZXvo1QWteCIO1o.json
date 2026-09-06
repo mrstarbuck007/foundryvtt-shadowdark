@@ -1,0 +1,20 @@
+{
+	"_id": "7ZZXvo1QWteCIO1o",
+	"_key": "!actors.items!f4hRBTrdRcGCQ23c.7ZZXvo1QWteCIO1o",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Arms of Old",
+	"system": {
+		"description": "<p>Faerie weapons and armor are +2 while worn or wielded.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

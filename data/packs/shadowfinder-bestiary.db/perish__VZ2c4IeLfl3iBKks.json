@@ -1,0 +1,20 @@
+{
+	"_id": "VZ2c4IeLfl3iBKks",
+	"_key": "!actors.items!dR30aQnabcXp64rd.VZ2c4IeLfl3iBKks",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Perish",
+	"system": {
+		"description": "<p>Creatures reduced to 0 HP are dissolved and die.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "SuhZkoTR34fm01Tq",
+	"_key": "!actors.items!qsj1KeMfnAyHxexU.SuhZkoTR34fm01Tq",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Hellish Aura",
+	"system": {
+		"description": "<p>Protected by protection from good (reversed protection from evil)</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

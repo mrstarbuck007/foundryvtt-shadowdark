@@ -1,0 +1,20 @@
+{
+	"_id": "3zRqlCjJKrDoAIGj",
+	"_key": "!actors.items!sEqf8Wabi1xV8wDR.3zRqlCjJKrDoAIGj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Bleed",
+	"system": {
+		"description": "<p>[[/r 1d4]] damage each round. [[check 12 con]], stabilize check, or healing to staunch.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

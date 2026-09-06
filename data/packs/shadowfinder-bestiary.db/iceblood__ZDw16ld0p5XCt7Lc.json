@@ -1,0 +1,20 @@
+{
+	"_id": "ZDw16ld0p5XCt7Lc",
+	"_key": "!actors.items!AurmscWyntUFVMa7.ZDw16ld0p5XCt7Lc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Iceblood",
+	"system": {
+		"description": "<p>Cold immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

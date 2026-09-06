@@ -1,0 +1,20 @@
+{
+	"_id": "Aup14pyXk85jAXev",
+	"_key": "!actors.items!bH02ISotcmH2qNfE.Aup14pyXk85jAXev",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Flaming Body",
+	"system": {
+		"description": "<p>Creatures within close of whale at start of turn [[check 15 con]] or [[/r 1d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

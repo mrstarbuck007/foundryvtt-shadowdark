@@ -1,0 +1,20 @@
+{
+	"_id": "lSu3KA1qLzXxX1lY",
+	"_key": "!actors.items!Vd8VTzjUTYedUhgh.lSu3KA1qLzXxX1lY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Magma Body",
+	"system": {
+		"description": "<p>Fire immune. Double damage from cold. Creatures in close [[check 12 con]] on turn or [[/r 1d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

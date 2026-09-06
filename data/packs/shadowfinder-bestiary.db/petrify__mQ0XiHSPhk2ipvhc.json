@@ -1,0 +1,20 @@
+{
+	"_id": "mQ0XiHSPhk2ipvhc",
+	"_key": "!actors.items!lF1vfFhzaAm4ZSDF.mQ0XiHSPhk2ipvhc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Petrify",
+	"system": {
+		"description": "<p>Any creature looking directly at euryale, [[check 15 con]] or petrified, turned into stone statue.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

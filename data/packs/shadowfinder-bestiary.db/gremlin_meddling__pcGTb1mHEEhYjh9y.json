@@ -1,0 +1,20 @@
+{
+	"_id": "pcGTb1mHEEhYjh9y",
+	"_key": "!actors.items!6o0tdute25Enl9dW.pcGTb1mHEEhYjh9y",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Gremlin Meddling",
+	"system": {
+		"description": "<p>Six or more jinkins can concentrate on a magic object for 1 hour. Afterwards, the object gains a random curse. Only works on items without a curse.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

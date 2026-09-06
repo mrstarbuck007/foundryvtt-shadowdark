@@ -1,0 +1,20 @@
+{
+	"_id": "joBrXkpTQPHE9djD",
+	"_key": "!actors.items!8TBwhvz4j4FcEGoc.joBrXkpTQPHE9djD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dream Eater",
+	"system": {
+		"description": "<p>Feeds on dreams and nightmares. Target gets no benefits from resting.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

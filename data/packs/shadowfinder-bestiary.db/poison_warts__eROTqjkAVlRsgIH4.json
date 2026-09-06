@@ -1,0 +1,20 @@
+{
+	"_id": "eROTqjkAVlRsgIH4",
+	"_key": "!actors.items!n6HF8PoVdeT2tqBc.eROTqjkAVlRsgIH4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison Warts",
+	"system": {
+		"description": "<p>Creatures touching or striking toad in melee, [[check 9 con]] or [[/r 1d4]] WIS damage, stupefied at 0 WIS.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

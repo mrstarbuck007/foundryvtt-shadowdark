@@ -1,0 +1,72 @@
+{
+	"_id": "BDdncnlkKQuaKT56",
+	"_key": "!actors!BDdncnlkKQuaKT56",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"9iYagagkCUJZ6MvM",
+		"MlgTW33ZDohIdFkb"
+	],
+	"name": "Fleshwarp, Irnakurse",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Fleshwarp, Irnakurse",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 25,
+				"value": 25
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Tortured elves warped into near-immobile leathery columns with four tendrils.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 25, <strong>ATK</strong> 2 tendril +4 (1d8) or soul scream, <strong>MV</strong> close, <strong>S</strong> +3, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> -1, <strong>W</strong> +0, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Soul Scream</strong>. All humanoids within near of irnakurse, CHA 12+ or 1 permanent WIS loss. On success, immune for 24 hours.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

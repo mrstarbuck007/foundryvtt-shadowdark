@@ -1,0 +1,20 @@
+{
+	"_id": "KtwbbW12gU2gfKiz",
+	"_key": "!actors.items!PVvhUlPYv1NUtCiv.KtwbbW12gU2gfKiz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Deadly Foe",
+	"system": {
+		"description": "<p>Daemon critically hits on 19-20.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

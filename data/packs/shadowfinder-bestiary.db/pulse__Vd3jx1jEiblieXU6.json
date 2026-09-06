@@ -1,0 +1,20 @@
+{
+	"_id": "Vd3jx1jEiblieXU6",
+	"_key": "!actors.items!7tO0bVVJ0U2gXDsA.Vd3jx1jEiblieXU6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pulse",
+	"system": {
+		"description": "<p>[[check 15 con]] or [[/r 1d6]] INT damage and stunned 1 round. Coma at 0 INT.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

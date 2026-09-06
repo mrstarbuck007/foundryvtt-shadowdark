@@ -1,0 +1,20 @@
+{
+	"_id": "23hRJEWXHLMyiUfC",
+	"_key": "!actors.items!OWtKE0cPJTzfAxRe.23hRJEWXHLMyiUfC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Spore Pellet",
+	"system": {
+		"description": "<p>After firing 6 spore pellets, phycomid must recharge for [[/r 1d6]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

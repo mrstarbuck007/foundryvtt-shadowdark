@@ -1,0 +1,20 @@
+{
+	"_id": "atuCIq7LcHEeX02Z",
+	"_key": "!actors.items!cTSwkpDaTRymCWCh.atuCIq7LcHEeX02Z",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Transform",
+	"system": {
+		"description": "<p>When reduced to 0 HP, bursts open, releasing [[/r 1d4]] spider swarms, viduus reforms in Purgatory.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

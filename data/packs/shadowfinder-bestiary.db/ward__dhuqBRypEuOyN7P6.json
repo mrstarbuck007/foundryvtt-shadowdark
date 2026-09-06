@@ -1,0 +1,20 @@
+{
+	"_id": "dhuqBRypEuOyN7P6",
+	"_key": "!actors.items!sG1PSoGEtGvZ3oIJ.dhuqBRypEuOyN7P6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ward",
+	"system": {
+		"description": "<p>Kami protects a lake, mountain, or other area of nature. Can merge into warded area and observe everything occurring there.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

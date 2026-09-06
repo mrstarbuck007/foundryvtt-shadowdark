@@ -1,0 +1,20 @@
+{
+	"_id": "UwqfswgpY05GkXkF",
+	"_key": "!actors.items!C0UsI2oix7ZtFBr4.UwqfswgpY05GkXkF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Manor Form",
+	"system": {
+		"description": "<p>Can rearrange itself to be a small manor, house, or hunting lodge.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

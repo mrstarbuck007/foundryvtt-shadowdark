@@ -1,0 +1,20 @@
+{
+	"_id": "3jHaMwRD65RS1JdA",
+	"_key": "!actors.items!IeGHjiqQiOwDl9kI.3jHaMwRD65RS1JdA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>While in contact with dirt or earth, only damaged by magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

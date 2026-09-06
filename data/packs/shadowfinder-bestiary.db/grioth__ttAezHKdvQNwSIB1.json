@@ -1,0 +1,73 @@
+{
+	"_id": "ttAezHKdvQNwSIB1",
+	"_key": "!actors!ttAezHKdvQNwSIB1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"Jp0P69o3RNianGBv",
+		"nqL0AFvG8g9eDdVC",
+		"ePdsEfIDKHEANdSl"
+	],
+	"name": "Grioth",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Grioth",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": -1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Dark violet humanoid with bat wings, rat tail, and four slitted eyes. Planar raiders, zealous servants of Old Ones.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 4, <strong>ATK</strong> 1 voidglass dagger +4 (1d4+1 + mindshock), <strong>MV</strong> near (fly), <strong>S</strong> -1, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Mindshock</strong>. INT 12+ or dazed 1d4 rounds.</p><p></p><p><strong>Voidglass</strong>. Crystal weapons grown by grioth. +1 to attack and damage when wielded by a psychic being.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "ErjeSVxXsGRo3Ba8",
+	"_key": "!actors.items!VLzDCMJqlu4fsDgq.ErjeSVxXsGRo3Ba8",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Crush",
+	"system": {
+		"description": "<p>Deals an extra die of damage if it hits the same target with both claws.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

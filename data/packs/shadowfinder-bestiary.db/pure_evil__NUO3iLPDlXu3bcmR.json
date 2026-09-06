@@ -1,0 +1,20 @@
+{
+	"_id": "NUO3iLPDlXu3bcmR",
+	"_key": "!actors.items!OOC6MUFzPg5m6A0M.NUO3iLPDlXu3bcmR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pure Evil",
+	"system": {
+		"description": "<p>Only damaged by cold iron or magical sources. Immune to cold.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

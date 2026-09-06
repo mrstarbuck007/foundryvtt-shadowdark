@@ -1,0 +1,20 @@
+{
+	"_id": "jw9qwj7H8Nekxaaw",
+	"_key": "!actors.items!qIEvSJgSX9dRogg8.jw9qwj7H8Nekxaaw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blubber",
+	"system": {
+		"description": "<p>Immune to cold.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,74 @@
+{
+	"_id": "9Quenn9dFcEVyyDq",
+	"_key": "!actors!9Quenn9dFcEVyyDq",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"aZ5k7CnKIpO0goGc",
+		"vOtnso3WhSmfqgtX",
+		"brwtVGh9DiNdHEEr",
+		"HhpSenxM6Dfc2p5F"
+	],
+	"name": "Qlippoth, Nyogoth",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Qlippoth, Nyogoth",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 34,
+				"value": 34
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>A 5-foot-wide, toothy mouth that floats in mid-air, surrounded by pulsating, fleshy tendrils.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 34, <strong>ATK</strong> 2 bite +6 (2d6 + acid), <strong>MV</strong> near (fly), <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> -1, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Acid</strong>. Non-magical organic material bitten by qlippoth dissolves on a d6 roll of 1-3.</p><p></p><p><strong>Great Evil</strong>. Only damaged by cold iron or magical sources.</p><p></p><p><strong>Horrific Appearance</strong>. Mortal creatures looking directly at qlippoth, CON 15+ or 1d4 CHA damage. On success, immune for 24 hours.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,73 @@
+{
+	"_id": "bgMu2JeNazpq4HVk",
+	"_key": "!actors!bgMu2JeNazpq4HVk",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"By5voDvebgheer1c",
+		"sqE0Z6wgQM1TXcGK",
+		"TXcDrH0O7wPMKGaO"
+	],
+	"name": "Mindslaver Mold",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Mindslaver Mold",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 11,
+				"value": 11
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Chartreuse, fey fungus. Infests sentient beings and forces them to obey fungal commands.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 11, <strong>ATK</strong> 1 spore pod +2 (<strong>W</strong><strong>I</strong><strong>S</strong> damage), <strong>MV</strong> close, <strong>S</strong> -4, <strong>D</strong> +2, <strong>C</strong> +2, <strong>I</strong> +1, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Avoidance</strong>. If struck while infesting a creature, CON 12+ to avoid attack, which instead mold's host.</p><p></p><p><strong>Infest</strong>. Cover the head of host creature, dominating it until mold is removed. WIS Damage. 1d8 WIS damage, docile and compliant at 0 WIS.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

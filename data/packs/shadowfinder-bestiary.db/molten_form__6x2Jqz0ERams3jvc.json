@@ -1,0 +1,20 @@
+{
+	"_id": "6x2Jqz0ERams3jvc",
+	"_key": "!actors.items!be71oSuIndBZcpnu.6x2Jqz0ERams3jvc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Molten Form",
+	"system": {
+		"description": "<p>Creatures within close of slag at start of turn, [[check 15 con]] or [[/r 1d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

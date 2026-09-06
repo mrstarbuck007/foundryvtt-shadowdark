@@ -1,0 +1,73 @@
+{
+	"_id": "itzO7ZcK85Jhbo5A",
+	"_key": "!actors!itzO7ZcK85Jhbo5A",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"7xAhUMd5guvndfD1",
+		"Qx7jUaLeO3w76mqZ",
+		"v06avcftmccET3wE"
+	],
+	"name": "Argus",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Argus",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 34,
+				"value": 34
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A 25-foot-tall human-shaped giant whose flesh is studded with a thousand eyes. Made as sentries by the titans. Loves music, can be bribed with beautiful songs.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 34, <strong>ATK</strong> 3 slam +6 (3d6) or baffling gaze, <strong>MV</strong> double near, <strong>S</strong> +5, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +0, <strong>Ch</strong> -1, <strong>AL</strong> N, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Baffling Gaze</strong>. Mortals in near of the argus, WIS 15+ or dazed for 1d6 rounds.</p><p></p><p><strong>Watchful</strong>. ADV on initiative. Cannot be surprised.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

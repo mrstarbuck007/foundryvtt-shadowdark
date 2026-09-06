@@ -1,0 +1,28 @@
+{
+	"_id": "t3SYP1IdSHpa5SjW",
+	"_key": "!actors.items!zq8NT4dtfZX5XuRM.t3SYP1IdSHpa5SjW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Stygian Gout",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Gout ball of darkness within double near. All light in a close-sized cube around where the ball lands is extinguished. Cannot use again for [[/r 1d6]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

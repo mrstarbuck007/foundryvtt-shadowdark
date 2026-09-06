@@ -1,0 +1,20 @@
+{
+	"_id": "nUihdOhp7JBGTdVQ",
+	"_key": "!actors.items!CJUd6xnxbdgayKMD.nUihdOhp7JBGTdVQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Nanite Repair",
+	"system": {
+		"description": "<p>1/day, repair a robot within close for [[/r 2d6]] HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

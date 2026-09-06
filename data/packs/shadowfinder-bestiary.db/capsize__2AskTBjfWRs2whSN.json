@@ -1,0 +1,20 @@
+{
+	"_id": "2AskTBjfWRs2whSN",
+	"_key": "!actors.items!EcKh0KjW7zTqAScK.2AskTBjfWRs2whSN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Capsize",
+	"system": {
+		"description": "<p>Opposed STR versus captain's INT or ship is capsized and begins to sink.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

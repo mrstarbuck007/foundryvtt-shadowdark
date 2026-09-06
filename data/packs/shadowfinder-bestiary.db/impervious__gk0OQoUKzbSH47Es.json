@@ -1,0 +1,20 @@
+{
+	"_id": "gk0OQoUKzbSH47Es",
+	"_key": "!actors.items!3yswa46Ps9ffgL89.gk0OQoUKzbSH47Es",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Fire immune. Double damage from cold.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

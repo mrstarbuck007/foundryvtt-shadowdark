@@ -1,0 +1,28 @@
+{
+	"_id": "rvz50mykXvzoenZH",
+	"_key": "!actors.items!tZmZWkfqzko8a2lS.rvz50mykXvzoenZH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Soul Skull",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Throws soul- stealing faerie skull. [[check 9 wis]] or chaneque controls until the skull is destroyed. Can only control one being at a time, must hold skull.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

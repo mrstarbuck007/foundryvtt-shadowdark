@@ -1,0 +1,74 @@
+{
+	"_id": "TVC9X9TFoNZfPE4C",
+	"_key": "!actors!TVC9X9TFoNZfPE4C",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"slH3O2ZMIEbw3M8u",
+		"xBXcQeLDzLddMjlm",
+		"kbfShMD9MPrC62ib",
+		"ma6xMkisTlmUaQ1R"
+	],
+	"name": "Hyakume",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Hyakume",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 43,
+				"value": 43
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Corpulent purple ogre, every inch of skin covered in blinking, staring eyes. Steals memories, which it savors.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 43, <strong>ATK</strong> 2 slam +6 (2d6 + steal memories), <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +2, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Eye Probe</strong>. As an action, can detach and send up to six eyeballs floating up to far. Can see through eyes.</p><p></p><p><strong>Light Blindness</strong>. Blinded in bright light.</p><p></p><p><strong>Steal Memories</strong>. WIS 12+ or 1d4 weeks of recent memories are stolen by the hyakume, which remembers them vividly. On a natural 1, 1d4 years of memories lost.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

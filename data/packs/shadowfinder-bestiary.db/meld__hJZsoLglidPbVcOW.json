@@ -1,0 +1,20 @@
+{
+	"_id": "hJZsoLglidPbVcOW",
+	"_key": "!actors.items!kdebxQO01lvuXTIl.hJZsoLglidPbVcOW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Meld",
+	"system": {
+		"description": "<p>Step inside tree. May teleport far to another tree.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

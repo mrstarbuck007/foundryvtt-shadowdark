@@ -1,0 +1,28 @@
+{
+	"_id": "Q8tKuSi6PCXCB1oC",
+	"_key": "!actors.items!m4r9ejY2tJkevzsd.Q8tKuSi6PCXCB1oC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Finger Of Death",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One target of LV 9 or less within far [[check 15 con]] or go to 0 HP. Mortals slain rise as zombies in [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

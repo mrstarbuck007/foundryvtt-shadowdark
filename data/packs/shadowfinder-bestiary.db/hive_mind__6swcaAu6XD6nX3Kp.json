@@ -1,0 +1,20 @@
+{
+	"_id": "6swcaAu6XD6nX3Kp",
+	"_key": "!actors.items!SgsGQKwaGzacmdfO.6swcaAu6XD6nX3Kp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Hive Mind",
+	"system": {
+		"description": "<p>All caulborn within far of each other share knowledge and senses.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

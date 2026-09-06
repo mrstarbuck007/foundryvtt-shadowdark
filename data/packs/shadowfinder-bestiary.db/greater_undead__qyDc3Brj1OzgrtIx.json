@@ -1,0 +1,20 @@
+{
+	"_id": "qyDc3Brj1OzgrtIx",
+	"_key": "!actors.items!ba7casTaVPtWCdEg.qyDc3Brj1OzgrtIx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Greater Undead",
+	"system": {
+		"description": "<p>Immune to morale checks. Only damaged by silver or magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

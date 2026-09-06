@@ -1,0 +1,28 @@
+{
+	"_id": "i0B13bsjRJgkf5Qb",
+	"_key": "!actors.items!ln92GYIzb5A4aYrD.i0B13bsjRJgkf5Qb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Spawn Shadows",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Manifest [[/r 2d4]] shadows that appear within near. They stay for 5 rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

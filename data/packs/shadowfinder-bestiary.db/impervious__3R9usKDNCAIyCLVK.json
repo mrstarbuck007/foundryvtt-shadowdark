@@ -1,0 +1,20 @@
+{
+	"_id": "3R9usKDNCAIyCLVK",
+	"_key": "!actors.items!aSkDIXzhgamRicCb.3R9usKDNCAIyCLVK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Immune to elemental damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

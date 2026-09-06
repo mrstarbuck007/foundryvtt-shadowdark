@@ -1,0 +1,74 @@
+{
+	"_id": "C0rUvEkFZs3W4sAc",
+	"_key": "!actors!C0rUvEkFZs3W4sAc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"GBiebCXvPFEflDJB",
+		"gUTEkFRGlgddubal",
+		"xwtDAeG15MhVyedL",
+		"VzNwLjexd48X5yaH"
+	],
+	"name": "Oblivion",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Oblivion",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 62,
+				"value": 62
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 13,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Churning, flying, black, oily cloud with a single square- pupiled eye in the center. Denizens of Negative Plane.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 62, <strong>ATK</strong> 3 tentacle (near) +8 (2d8 + annihilation), <strong>MV</strong> near (burrow, fly), <strong>S</strong> +6, <strong>D</strong> +5, <strong>C</strong> +4, <strong>I</strong> -2, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 13</p><p></p>\n\t<p><strong>Annihilation</strong>. Kills plants and decays bodies within close. Creatures reduced to 0 HP by tentacle die, disintegrated.</p><p></p><p><strong>Aura of Dubiety</strong>. If a divine caster within double near fails to cast a spell, oblivion can subvert the spell, cast it (spell +8), and choose the target.</p><p></p><p><strong>Pure Evil</strong>. Immune to lightning. Only damaged by magical sources. Can be targeted by turn undead.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

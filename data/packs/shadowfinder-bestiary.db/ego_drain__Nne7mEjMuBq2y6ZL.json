@@ -1,0 +1,20 @@
+{
+	"_id": "Nne7mEjMuBq2y6ZL",
+	"_key": "!actors.items!a20x61LUSaCQZPMG.Nne7mEjMuBq2y6ZL",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ego Drain",
+	"system": {
+		"description": "<p>[[check 9 con]] or [[/r 1d4]] CHA damage. Coma at 0 CHA. Fragrance, Mortals within near, [[check 9 con]] or exhausted for [[/r 1d4]] rounds. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

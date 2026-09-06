@@ -1,0 +1,71 @@
+{
+	"_id": "GCvTi9cRZTZ2TXTX",
+	"_key": "!actors!GCvTi9cRZTZ2TXTX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"AoHQfIGcEOyYGePt"
+	],
+	"name": "Valkyrie",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Valkyrie",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 19
+			},
+			"hp": {
+				"max": 39,
+				"value": 39
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Female god-born warrior girded in shining plate and wielding a spear of lightning. Sent to battlefields to harvest valiant souls.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 19 (plate mail + shield), <strong>HP</strong> 39, <strong>ATK</strong> 2 spear (close/far) +7 (2d6), <strong>MV</strong> near (fly), <strong>S</strong> +2, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> +0, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> N, <strong>LV</strong> 8</p><p></p>\n\t\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

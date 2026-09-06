@@ -1,0 +1,20 @@
+{
+	"_id": "NNgImONNFAmIXlxw",
+	"_key": "!actors.items!i73uLyt591smC59J.NNgImONNFAmIXlxw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ink",
+	"system": {
+		"description": "<p>In place of attacks, ink cloud blinds all in near for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

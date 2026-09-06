@@ -1,0 +1,20 @@
+{
+	"_id": "T2Zu04E81jEwBTEq",
+	"_key": "!actors.items!JmdJWAiGenUsF5vW.T2Zu04E81jEwBTEq",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pure Evil",
+	"system": {
+		"description": "<p>Immune to morale checks. Only damaged by magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

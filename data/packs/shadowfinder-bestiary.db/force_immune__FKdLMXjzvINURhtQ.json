@@ -1,0 +1,20 @@
+{
+	"_id": "FKdLMXjzvINURhtQ",
+	"_key": "!actors.items!ZPMqC3MrD9xetMnc.FKdLMXjzvINURhtQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Force Immune",
+	"system": {
+		"description": "<p>Immune to magic missile.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

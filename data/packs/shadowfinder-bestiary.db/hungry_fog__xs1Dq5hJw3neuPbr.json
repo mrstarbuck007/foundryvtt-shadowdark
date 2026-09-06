@@ -1,0 +1,72 @@
+{
+	"_id": "xs1Dq5hJw3neuPbr",
+	"_key": "!actors!xs1Dq5hJw3neuPbr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"NSsnekp23WFQ9lGW",
+		"OoN5wLBOkMvjJTzr"
+	],
+	"name": "Hungry Fog",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Hungry Fog",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": -3
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": -3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 7
+			},
+			"hp": {
+				"max": 15,
+				"value": 15
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Swirling emerald fog filled with spectral figures. Not undead, but a misty ooze. Forms amidst burial sites.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 7, <strong>HP</strong> 15, <strong>ATK</strong> 1 tendril +2 (2d6), <strong>MV</strong> close (fly), <strong>S</strong> -4, <strong>D</strong> -3, <strong>C</strong> +2, <strong>I</strong> -3, <strong>W</strong> -3, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Impervious</strong>. Only damaged by fire or wind. Dispersed and destroyed by a strong wind.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "IzvcU1DN8ajDWIDa",
+	"_key": "!actors.items!M490nahFvVPfpkc5.IzvcU1DN8ajDWIDa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Giant Slayer",
+	"system": {
+		"description": "<p>ADV on melee attacks against giantkin.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

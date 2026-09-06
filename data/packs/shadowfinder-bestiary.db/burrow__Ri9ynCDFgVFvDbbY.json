@@ -1,0 +1,20 @@
+{
+	"_id": "Ri9ynCDFgVFvDbbY",
+	"_key": "!actors.items!flJdpQfNTchOqUYu.Ri9ynCDFgVFvDbbY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Burrow",
+	"system": {
+		"description": "<p>5. Climb 6. Fly.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

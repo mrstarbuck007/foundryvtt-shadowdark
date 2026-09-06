@@ -1,0 +1,20 @@
+{
+	"_id": "NhE2wCUR5k9WtW0R",
+	"_key": "!actors.items!oLSmdvg53wajX0CJ.NhE2wCUR5k9WtW0R",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shake Faith",
+	"system": {
+		"description": "<p>Divine spellcasters, [[check 15 wis]] or stunned for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

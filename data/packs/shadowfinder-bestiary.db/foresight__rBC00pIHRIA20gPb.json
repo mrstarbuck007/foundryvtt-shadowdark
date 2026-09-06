@@ -1,0 +1,30 @@
+{
+	"_id": "rBC00pIHRIA20gPb",
+	"_key": "!actors.items!I5uexe3ZnbyN39Zj.rBC00pIHRIA20gPb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Foresight",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Self. ADV on rolls and checks for [[/r 2d4]] rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "2d4"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

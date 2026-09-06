@@ -1,0 +1,75 @@
+{
+	"_id": "lbmj3cBghm9apBkQ",
+	"_key": "!actors!lbmj3cBghm9apBkQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"DrawMgchWndo5Bxy",
+		"hNCJLEs3jbjSHkmQ",
+		"JbY2DwEP6eBntgS8",
+		"uUFrWIgekEQ1DZyg",
+		"bM2WNjxvj00JHv8T"
+	],
+	"name": "Linnorm, Fjord",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Linnorm, Fjord",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 63
+			},
+			"hp": {
+				"max": 39,
+				"value": 39
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Sinewy, azure wingless dragon with webbed forearms, gills, and dorsal fin.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 63, <strong>HP</strong> 39, <strong>ATK</strong> 1 bite +6 (2d8) and 2 claws +6 (2d6) or 1 bile breath, <strong>MV</strong> double near (fly, swim), <strong>S</strong> +4, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> -2, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Bile Breath</strong>. A straight line (5' wide) extending double near from linnorm. DEX 15+ or 3d8 damage and entangled for 1d4 rounds.</p><p></p><p><strong>Bileblood</strong>. Poison immune.</p><p></p><p><strong>Death Curse</strong>. When slain, death curses the slayer. WIS 15+ or cannot hold breath underwater.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

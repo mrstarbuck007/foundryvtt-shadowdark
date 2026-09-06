@@ -1,0 +1,20 @@
+{
+	"_id": "G2UjUe7NxlBRFS1t",
+	"_key": "!actors.items!Qne1FTLqOK5SuGOp.G2UjUe7NxlBRFS1t",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Burst",
+	"system": {
+		"description": "<p>When reduced to 0 HP, explodes. All within close, [[check 12 dex]] or [[/r 1d6]] damage and plague.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

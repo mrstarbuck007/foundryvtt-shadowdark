@@ -1,0 +1,74 @@
+{
+	"_id": "baYtToCvnaOateHO",
+	"_key": "!actors!baYtToCvnaOateHO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"E64dg1dxbjpatdj4",
+		"W2VOQoteUvoHchUy",
+		"Olk0wTpkrW2EvvLe",
+		"PpsW1BlOE95QxJQk"
+	],
+	"name": "Angel, Choral",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Angel, Choral",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 18,
+				"value": 18
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Divine child with rainbow wings, part of celestial choir.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 18, <strong>ATK</strong> 1 slam +2 (1) or countersong or hymn, <strong>MV</strong> double near (fly), <strong>S</strong> +0, <strong>D</strong> +2, <strong>C</strong> +2, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +2, <strong>AL</strong> L, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Countersong</strong>. Possessed or charmed mortals within double near make a CHA 15+ to be freed.</p><p></p><p><strong>Divine Aura</strong>. Hostile spells targeting the angel are DC 15. Mace dissolves if slain.</p><p></p><p><strong>Hymn</strong>. All chaotic beings who can hear within double near of angel, CHA 15+ or 2d6 damage. On success, immune for 24 hours.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

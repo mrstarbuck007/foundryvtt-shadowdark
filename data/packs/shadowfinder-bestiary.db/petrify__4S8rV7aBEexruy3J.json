@@ -1,0 +1,20 @@
+{
+	"_id": "4S8rV7aBEexruy3J",
+	"_key": "!actors.items!eaKKY0VB5Lg0O5PB.4S8rV7aBEexruy3J",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Petrify",
+	"system": {
+		"description": "<p>Any creature looking directly at shade, [[check 15 con]] or petrified.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

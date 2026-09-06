@@ -1,0 +1,20 @@
+{
+	"_id": "WTnCgQM7xmFaVMLO",
+	"_key": "!actors.items!gphvSX0ciCkjCjcV.WTnCgQM7xmFaVMLO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Puppet Nest",
+	"system": {
+		"description": "<p>Can inhabit a corpse, moving it like a puppet (as zombie but not undead). Swarm emerges if corpse is destroyed or as an action.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

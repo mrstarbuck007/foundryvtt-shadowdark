@@ -1,0 +1,20 @@
+{
+	"_id": "2c7Dktzp8bousjPJ",
+	"_key": "!actors.items!r95kC62NToojVCpG.2c7Dktzp8bousjPJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Desiccated",
+	"system": {
+		"description": "<p>Can be damaged by fire. Takes x2 damage from it.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

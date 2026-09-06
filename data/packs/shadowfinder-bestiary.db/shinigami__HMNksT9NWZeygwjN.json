@@ -1,0 +1,73 @@
+{
+	"_id": "HMNksT9NWZeygwjN",
+	"_key": "!actors!HMNksT9NWZeygwjN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"cZwdglPEOegISebC",
+		"Ifwktj96Wa7rNBJQ",
+		"8g4GjwlmRcEEiPMB"
+	],
+	"name": "Shinigami",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Shinigami",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 53,
+				"value": 53
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>These undead \"Grim Reaper\" wraiths keep the balance between life and death. Nine feet tall, almost weightless.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 53, <strong>ATK</strong> 3 scythe +8 (1d10 + reap), <strong>MV</strong> near (fly), <strong>S</strong> +3, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> +2, <strong>W</strong> +3, <strong>Ch</strong> +5, <strong>AL</strong> N, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Reap</strong>. 1d10 extra damage against mortals.</p><p></p><p><strong>Supreme Undead</strong>. Immune to morale checks. Only damaged by magical sources.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

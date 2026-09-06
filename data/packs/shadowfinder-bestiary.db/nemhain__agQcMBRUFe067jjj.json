@@ -1,0 +1,76 @@
+{
+	"_id": "agQcMBRUFe067jjj",
+	"_key": "!actors!agQcMBRUFe067jjj",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"b5NBcFgxwv5et1hQ",
+		"0UAdokDig82RxBTs",
+		"C8XwkBsA7H9fslGo",
+		"VZsPTApbjsTCaMR7",
+		"6KAjacJQRMKvYLbK",
+		"FYp9DuZOOz9oahPu"
+	],
+	"name": "Nemhain",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Nemhain",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 40,
+				"value": 40
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Wraith-like spirit surrounded by a cloud of tormented spirit servitors.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 40, <strong>ATK</strong> 3 death touch +6 (1d8 + life drain) or 1 harm, <strong>MV</strong> near (fly), <strong>S</strong> -4, <strong>D</strong> +4, <strong>C</strong> +0, <strong>I</strong> +4, <strong>W</strong> +5, <strong>Ch</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Bound</strong>. Bound to a specific ritual item (statue, pillar, etc.) If slain, reappears at ritual item in 1d4 days at full HP.</p><p></p><p><strong>Greater Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Harm</strong>. 3/day, send spirit servitors to savage one target within near, CHA 15+ or reduced to 0 HP.</p><p></p><p><strong>Incorporeal</strong>. In place of attacks, become corporeal or incorporeal.</p><p></p><p><strong>Life Drain</strong>. 1d4 CON damage. Death if reduced to 0 CON.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

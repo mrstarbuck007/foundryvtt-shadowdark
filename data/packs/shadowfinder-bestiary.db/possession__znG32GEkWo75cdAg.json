@@ -1,0 +1,28 @@
+{
+	"_id": "znG32GEkWo75cdAg",
+	"_key": "!actors.items!b7TmHWtUd9S1h2Fq.znG32GEkWo75cdAg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Possession",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Must be corporeal. One target, close range. Contested CHA check. If ghost wins, it inhabits target's body and controls it for [[/r 2d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "woKYrwgOldsmGNIh",
+	"_key": "!actors.items!4qTRMxIltNvtFXb2.woKYrwgOldsmGNIh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Absorb Lightning",
+	"system": {
+		"description": "<p>Immune to lightning. If damaged by electricity, regains lightning bolt ability.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

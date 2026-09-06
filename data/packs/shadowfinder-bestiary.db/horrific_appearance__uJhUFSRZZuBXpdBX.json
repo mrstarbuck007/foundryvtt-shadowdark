@@ -1,0 +1,20 @@
+{
+	"_id": "uJhUFSRZZuBXpdBX",
+	"_key": "!actors.items!O0vhFbJcMdhtBugR.uJhUFSRZZuBXpdBX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Horrific Appearance",
+	"system": {
+		"description": "<p>Mortal creatures looking directly at Chavazvug, [[check 15 wis]] or cursed to take double damage from fire. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

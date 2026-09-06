@@ -1,0 +1,75 @@
+{
+	"_id": "bfL3jGTIOa6cOtJv",
+	"_key": "!actors!bfL3jGTIOa6cOtJv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"X9jX7E17QXC1GySE",
+		"VZNxB64cOhpB8aTB",
+		"bp4nlv5gXriQ7yf3",
+		"dDgJg6EIGgcYJZuq",
+		"GwD7ZAV8NmYwB4ih"
+	],
+	"name": "Charnel God",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Charnel God",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 6
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 18
+			},
+			"hp": {
+				"max": 62,
+				"value": 62
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 13,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>15-foot-tall sandstone statue. Triple-headed, winged, draconic tail. Fragment of a dead god, hates divinity.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 18, <strong>HP</strong> 62, <strong>ATK</strong> 2 slam +7 (1d6) or 2 longbow (far) +7 (1d8) or severance, <strong>MV</strong> double near (fly), <strong>S</strong> +5, <strong>D</strong> +5, <strong>C</strong> +4, <strong>I</strong> +4, <strong>W</strong> +5, <strong>Ch</strong> +6, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 13</p><p></p>\n\t<p><strong>Antithesis</strong>. Divine spells cast with DISADV in double near.</p><p></p><p><strong>Construct</strong>. Only damaged by adamantine or magical sources.</p><p></p><p><strong>Severance</strong>. One divine caster within double near, CHA 18+ or cut off from deity, unable to cast spells until rested.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

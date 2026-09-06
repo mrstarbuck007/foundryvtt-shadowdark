@@ -1,0 +1,28 @@
+{
+	"_id": "p5KOVwDLkD1WrNT6",
+	"_key": "!actors.items!2wcJ8IhXQh2E5hho.p5KOVwDLkD1WrNT6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "+2 Spear",
+	"system": {
+		"attack": {
+			"num": 3
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

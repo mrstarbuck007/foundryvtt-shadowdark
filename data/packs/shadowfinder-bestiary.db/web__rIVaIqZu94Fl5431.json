@@ -1,0 +1,28 @@
+{
+	"_id": "rIVaIqZu94Fl5431",
+	"_key": "!actors.items!kMMEJMFQT1pxl3e5.rIVaIqZu94Fl5431",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Web",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 4
+		},
+		"description": "<p>One target stuck in place. [[check 15 dex]] on turn to escape.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

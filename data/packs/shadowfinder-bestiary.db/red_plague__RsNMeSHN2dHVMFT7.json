@@ -1,0 +1,20 @@
+{
+	"_id": "RsNMeSHN2dHVMFT7",
+	"_key": "!actors.items!DfGHEhBqsk3Hn9nJ.RsNMeSHN2dHVMFT7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Red Plague",
+	"system": {
+		"description": "<p>[[check 12 con]] or [[/r 1d4]] CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON, spawning [[/r 1d4]] larval urhags.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

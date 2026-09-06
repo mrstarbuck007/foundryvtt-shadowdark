@@ -1,0 +1,20 @@
+{
+	"_id": "dDgJg6EIGgcYJZuq",
+	"_key": "!actors.items!bfL3jGTIOa6cOtJv.dDgJg6EIGgcYJZuq",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Antithesis",
+	"system": {
+		"description": "<p>Divine spells cast with DISADV in double near.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

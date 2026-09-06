@@ -1,0 +1,20 @@
+{
+	"_id": "axczgJZXj2yfS0nh",
+	"_key": "!actors.items!XoqKF1padvrrzNDu.axczgJZXj2yfS0nh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Delicate Machinery",
+	"system": {
+		"description": "<p>Critical hits against robot do an extra die of damage. Takes double damage from lightning.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

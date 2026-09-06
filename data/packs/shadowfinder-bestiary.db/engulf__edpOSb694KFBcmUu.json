@@ -1,0 +1,20 @@
+{
+	"_id": "edpOSb694KFBcmUu",
+	"_key": "!actors.items!e2EjgId2gGT3udqD.edpOSb694KFBcmUu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Engulf",
+	"system": {
+		"description": "<p>[[check 12 str]] or trapped inside shoggoth. Touch attack autohits engulfed targets each round. [[check 12 str]] on turn to escape.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

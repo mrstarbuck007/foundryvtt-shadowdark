@@ -1,0 +1,30 @@
+{
+	"_id": "8EA1ft1i294NlfgT",
+	"_key": "!actors.items!EVF4cq3tkOzi5M6y.8EA1ft1i294NlfgT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Healing Touch",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Heal one creature within close for [[/r 5d6]] HP.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "close",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 5
+	},
+	"type": "Spell"
+}

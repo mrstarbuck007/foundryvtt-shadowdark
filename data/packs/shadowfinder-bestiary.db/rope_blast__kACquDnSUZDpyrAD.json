@@ -1,0 +1,28 @@
+{
+	"_id": "kACquDnSUZDpyrAD",
+	"_key": "!actors.items!V5xcGOyS9Flot9lU.kACquDnSUZDpyrAD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Rope Blast",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A near-size cube of twined filaments extending from dragon. [[check 12 con]] or entangled for [[/r 1d4]] rounds. Cannot use again for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

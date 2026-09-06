@@ -1,0 +1,28 @@
+{
+	"_id": "szzrchzFNgPsrQZp",
+	"_key": "!actors.items!xRr4cLuoGC2V2crj.szzrchzFNgPsrQZp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Spore Cough",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a double near-sized cube extending from mu spore. [[check 15 con]] or [[/r 5d8]] damage. Plants are immune.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

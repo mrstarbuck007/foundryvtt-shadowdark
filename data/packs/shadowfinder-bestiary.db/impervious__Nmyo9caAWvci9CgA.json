@@ -1,0 +1,20 @@
+{
+	"_id": "Nmyo9caAWvci9CgA",
+	"_key": "!actors.items!IZYSYveyJUz2Y9yb.Nmyo9caAWvci9CgA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Only damaged by magical sources. Acid immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

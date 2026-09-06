@@ -1,0 +1,20 @@
+{
+	"_id": "SJPFhvtdhQ044rtW",
+	"_key": "!actors.items!amknPpnbbRWK91PR.SJPFhvtdhQ044rtW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Engulf",
+	"system": {
+		"description": "<p>On a natural attack roll of 20, target is swallowed. Total darkness inside and [[/r 1d10]] damage per round. Flytrap regurgitates all swallowed if dealt at least 10 damage in one round to the inside of its gullet.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "HDSEfNgZ2I1DyqFM",
+	"_key": "!actors.items!6gRwiSd0hDY1oa88.HDSEfNgZ2I1DyqFM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Phase",
+	"system": {
+		"description": "<p>Move through solid objects at half speed.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

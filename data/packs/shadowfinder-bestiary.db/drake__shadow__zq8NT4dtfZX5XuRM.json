@@ -1,0 +1,73 @@
+{
+	"_id": "zq8NT4dtfZX5XuRM",
+	"_key": "!actors!zq8NT4dtfZX5XuRM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"sRTUW5yY2MIWniSW",
+		"t3SYP1IdSHpa5SjW",
+		"oiMLCauZFvh0RQBb"
+	],
+	"name": "Drake, Shadow",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Drake, Shadow",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": -1
+			},
+			"wis": {
+				"mod": -1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 5,
+				"value": 5
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Housecat-sized black drake with shimmering, moist scales. Two legs and wings. Scavengers that lair near civilization.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 5, <strong>ATK</strong> 1 bite +1 (1d4) or 1 <strong>S</strong>tygian gout, <strong>MV</strong> near (fly), <strong>S</strong> -1, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> +0, <strong>W</strong> -1, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Shadow Blend</strong>. Unless in bright light, ADV when sneaking or hiding.</p><p></p><p><strong>Stygian Gout</strong>. Gout ball of darkness within double near. All light in a close-sized cube around where the ball lands is extinguished. Cannot use again for 1d6 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

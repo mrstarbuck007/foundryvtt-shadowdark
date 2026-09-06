@@ -1,0 +1,20 @@
+{
+	"_id": "oJ9eZmGQ40cmGX2V",
+	"_key": "!actors.items!XoqKF1padvrrzNDu.oJ9eZmGQ40cmGX2V",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Force Field",
+	"system": {
+		"description": "<p>Has 10 HP. Unless reduced to 0 HP, regains [[/r 2d6]] HP a turn. Once reduced to 0 HP or if dispel magic is cast on robot, dormant for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

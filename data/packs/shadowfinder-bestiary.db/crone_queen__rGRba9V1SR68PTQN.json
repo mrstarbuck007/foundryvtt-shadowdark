@@ -1,0 +1,75 @@
+{
+	"_id": "rGRba9V1SR68PTQN",
+	"_key": "!actors!rGRba9V1SR68PTQN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"kyk8fMVx6WepNQdn",
+		"EmABRJKTylhgqDEh",
+		"Xu0DaeFdEM3EoAW3",
+		"gUrR57uA7TubIqIx",
+		"FdJ4QzbKFzwPrqaN"
+	],
+	"name": "Crone Queen",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Crone Queen",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 52,
+				"value": 52
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Undead frost wight spawned from one of Baba Yaga's kin.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 52, <strong>ATK</strong> 2 staff +5 (2d6) or 2 spell +7, <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +3, <strong>W</strong> +3, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Cold Aura</strong>. Creatures in close take 1d6 damage.</p><p></p><p><strong>Deathcall (CHA Spell)</strong>. DC 13. Damage dice rolls against one near target have ADV for 1d4 rounds.</p><p></p><p><strong>Icegrasp (CHA Spell)</strong>. DC 12. Target is frozen and immobilized for 1d4 rounds. Wall of Ice (CHA Spell). DC 14. 1/day, 20-foot tall, 5-foot thick wall of ice, double near length. Lasts 2d4 rounds.</p><p></p><p><strong>Supreme Undead</strong>. Immune to morale checks. Only damaged by magical sources.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "cha",
+			"attacks": 2,
+			"bonus": 7
+		}
+	},
+	"type": "NPC"
+}

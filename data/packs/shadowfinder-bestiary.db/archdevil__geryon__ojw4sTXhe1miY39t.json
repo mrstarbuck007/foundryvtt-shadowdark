@@ -1,0 +1,75 @@
+{
+	"_id": "ojw4sTXhe1miY39t",
+	"_key": "!actors!ojw4sTXhe1miY39t",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"487pD0hRDRZWD5uM",
+		"lVhstaSR3QnPIWE0",
+		"2GRwxUNPoJyzeN6u",
+		"ByM2D0aJfkMMK9qE",
+		"LHEv76dg8C30Xa6B"
+	],
+	"name": "Archdevil, Geryon",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Archdevil, Geryon",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 6
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 6
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 100,
+				"value": 100
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 21,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Three conjoined reptilian upper torsos with a writhing viperian lower torso. Duke of heresies and blasphemies.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 100, <strong>ATK</strong> 4 +3 flail +10 (1d6+3 + casterbane), <strong>MV</strong> double near (fly, swim), <strong>S</strong> +5, <strong>D</strong> +3, <strong>C</strong> +6, <strong>I</strong> +6, <strong>W</strong> +5, <strong>Ch</strong> +6, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 21</p><p></p>\n\t<p><strong>Casterbane</strong>. Spellcasters struck by Geryon, WIS 18+ or unable to cast spells for 1d4 rounds.</p><p></p><p><strong>Impervious</strong>. Fire and cold immune. Only damaged by silver or magical sources.</p><p></p><p><strong>Perceive Destiny</strong>. 1/round, Geryon can reroll one roll.</p><p></p><p><strong>Threefold Body</strong>. Geryon has ADV against effects like blindness or deafness.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

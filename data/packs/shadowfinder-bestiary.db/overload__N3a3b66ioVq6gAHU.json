@@ -1,0 +1,20 @@
+{
+	"_id": "N3a3b66ioVq6gAHU",
+	"_key": "!actors.items!upL8j1JDrfd9S7M1.N3a3b66ioVq6gAHU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Overload",
+	"system": {
+		"description": "<p>Stunned for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

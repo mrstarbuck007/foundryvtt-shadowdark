@@ -1,0 +1,28 @@
+{
+	"_id": "78cV2xYt2oJNFldK",
+	"_key": "!actors.items!GZw9wxWfrkOS3t3H.78cV2xYt2oJNFldK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Engulfing Drop",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 1
+		},
+		"description": "<p>Drop from above onto target, engulfing head and suffocating them. Target cannot speak or see.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

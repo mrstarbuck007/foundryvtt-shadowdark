@@ -1,0 +1,72 @@
+{
+	"_id": "xh04b4KuJQBB2FsR",
+	"_key": "!actors!xh04b4KuJQBB2FsR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"VMu4THXyHmIXve1k",
+		"tZmeeHyxjxeqqiTe"
+	],
+	"name": "Elohim",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Elohim",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 54,
+				"value": 54
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Triangle-headed being with a single diamond-pupiled eye, wings of thin fungus sheets, and endless tendrils from the waist down. Absent-minded life creators.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 54, <strong>ATK</strong> 2 claw +8 (2d8) or create life, <strong>MV</strong> near (fly, swim), <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +5, <strong>I</strong> +4, <strong>W</strong> +5, <strong>Ch</strong> +4, <strong>AL</strong> N, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Create Life</strong>. Create one LV 10 or lower being. Not under elohim's control.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "wCRQh1g2LVI10bMg",
+	"_key": "!actors.items!WwYa7WvF9FwqClQq.wCRQh1g2LVI10bMg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Thick Fur",
+	"system": {
+		"description": "<p>Cold immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

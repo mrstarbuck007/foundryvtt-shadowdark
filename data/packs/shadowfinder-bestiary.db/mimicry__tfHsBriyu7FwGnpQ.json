@@ -1,0 +1,20 @@
+{
+	"_id": "tfHsBriyu7FwGnpQ",
+	"_key": "!actors.items!SStaT74uZAvdbWae.tfHsBriyu7FwGnpQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mimicry",
+	"system": {
+		"description": "<p>Change self to look and sound like any other humanoid.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

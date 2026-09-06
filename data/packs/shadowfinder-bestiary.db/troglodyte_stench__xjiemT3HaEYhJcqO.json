@@ -1,0 +1,20 @@
+{
+	"_id": "xjiemT3HaEYhJcqO",
+	"_key": "!actors.items!LBC4U6oRJewub3W5.xjiemT3HaEYhJcqO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Troglodyte Stench",
+	"system": {
+		"description": "<p>Living creatures within near, [[check 15 con]] or DISADV for 5 rounds. Immune to stench for 24 hours once successful.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

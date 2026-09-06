@@ -1,0 +1,20 @@
+{
+	"_id": "6wHGUPmTOxApxl9Q",
+	"_key": "!actors.items!B70lOe8MXwqUVgeW.6wHGUPmTOxApxl9Q",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Spell Absorption",
+	"system": {
+		"description": "<p>Nullify and absorb spells of 3rd tier or lower cast within far, regaining [[/r 1d6]] HP per spell tier absorbed.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

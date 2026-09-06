@@ -1,0 +1,28 @@
+{
+	"_id": "l6EagxxtpYwPkMWd",
+	"_key": "!actors.items!2qCawbCffySVjZsm.l6EagxxtpYwPkMWd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Ghoul Gaze",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Gazing at a dying mortal creature kills the target, turning them into a ghoul servitor.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

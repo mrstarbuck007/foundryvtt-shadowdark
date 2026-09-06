@@ -1,0 +1,20 @@
+{
+	"_id": "3Zcx30IMUctXM08n",
+	"_key": "!actors.items!AAYMcbkNDZa9JETt.3Zcx30IMUctXM08n",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dog Form",
+	"system": {
+		"description": "<p>Transform into a gigantic black mastiff or back into a humanoid.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

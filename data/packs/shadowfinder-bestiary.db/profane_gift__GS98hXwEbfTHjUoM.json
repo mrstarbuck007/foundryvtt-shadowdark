@@ -1,0 +1,20 @@
+{
+	"_id": "GS98hXwEbfTHjUoM",
+	"_key": "!actors.items!gEEdQ3Ni6kheDNk9.GS98hXwEbfTHjUoM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Profane Gift",
+	"system": {
+		"description": "<p>As an action, offer a wish to a mortal who can hear archdevil. If accepted, mortal becomes chaotic, devout worshipper.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

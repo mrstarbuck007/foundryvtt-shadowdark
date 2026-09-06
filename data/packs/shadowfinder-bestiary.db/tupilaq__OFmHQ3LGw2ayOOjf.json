@@ -1,0 +1,73 @@
+{
+	"_id": "OFmHQ3LGw2ayOOjf",
+	"_key": "!actors!OFmHQ3LGw2ayOOjf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"pyNf88UiFAcjYP5N",
+		"lmuhNdpe9YakmcKx",
+		"PrXH52gcqhdBWoBi"
+	],
+	"name": "Tupilaq",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Tupilaq",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 22,
+				"value": 22
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Child-sized whalebone constructs made via a dark ritual. Imbued with one goal: slay its creator's enemies.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 22, <strong>ATK</strong> 2 bite +3 (1d8) or scrimshaw rune +3, <strong>MV</strong> near (swim), <strong>S</strong> +3, <strong>D</strong> +2, <strong>C</strong> +4, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -2, <strong>AL</strong> N, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Construct</strong>. Only damaged by adamantine or magical sources.</p><p></p><p><strong>Scrimshaw Rune</strong>. 3:6 chance tupilaq has a random Tier 1 or 2 spell carved into it, which it can activate like a scroll.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

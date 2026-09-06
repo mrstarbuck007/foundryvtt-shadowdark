@@ -1,0 +1,20 @@
+{
+	"_id": "Y15Gt7IVmuV8LdWw",
+	"_key": "!actors.items!D8fEBIMW4JJCD6bv.Y15Gt7IVmuV8LdWw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Entropic Flesh",
+	"system": {
+		"description": "<p>Creatures striking sceaduinar in melee take [[/r 1d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

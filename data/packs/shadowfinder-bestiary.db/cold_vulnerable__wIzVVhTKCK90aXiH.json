@@ -1,0 +1,20 @@
+{
+	"_id": "wIzVVhTKCK90aXiH",
+	"_key": "!actors.items!DxX1L9ypfIgiaPzJ.wIzVVhTKCK90aXiH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Cold Vulnerable",
+	"system": {
+		"description": "<p>Double damage from cold.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

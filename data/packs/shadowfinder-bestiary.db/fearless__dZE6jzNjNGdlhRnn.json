@@ -1,0 +1,20 @@
+{
+	"_id": "dZE6jzNjNGdlhRnn",
+	"_key": "!actors.items!5OFLNlH2JgYVi798.dZE6jzNjNGdlhRnn",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fearless",
+	"system": {
+		"description": "<p>Immune to morale checks.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

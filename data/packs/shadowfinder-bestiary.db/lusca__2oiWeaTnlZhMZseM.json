@@ -1,0 +1,74 @@
+{
+	"_id": "2oiWeaTnlZhMZseM",
+	"_key": "!actors!2oiWeaTnlZhMZseM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"P4kUV8IGF2RSgcri",
+		"eMIlzr4v7dx5aK6o",
+		"puCyYbhcKOq0S27c",
+		"0Uo5Vra4TZD7IO1r"
+	],
+	"name": "Lusca",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Lusca",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 49,
+				"value": 49
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Gargantuan scarlet-hued triple-headed shark with a giant squid's body. Sinks ships and devours crew.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 49, <strong>ATK</strong> 3 bite +7 (2d8) and 1 tentacle +7 (grab), <strong>MV</strong> double near (swim), <strong>S</strong> +5, <strong>D</strong> +1, <strong>C</strong> +4, <strong>I</strong> +0, <strong>W</strong> +4, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Fearless</strong>. Immune to morale checks.</p><p></p><p><strong>Grab</strong>. STR 18+ or held. STR 18+ on turn to break free.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

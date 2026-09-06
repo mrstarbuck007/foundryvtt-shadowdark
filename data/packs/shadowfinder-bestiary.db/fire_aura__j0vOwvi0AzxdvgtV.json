@@ -1,0 +1,20 @@
+{
+	"_id": "j0vOwvi0AzxdvgtV",
+	"_key": "!actors.items!ESQyz355QzAbm9Fr.j0vOwvi0AzxdvgtV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fire Aura",
+	"system": {
+		"description": "<p>Creatures within near of pitri at start of turn [[check 15 con]] or [[/r 2d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

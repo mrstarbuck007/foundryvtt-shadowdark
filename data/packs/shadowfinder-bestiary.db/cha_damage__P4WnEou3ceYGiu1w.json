@@ -1,0 +1,20 @@
+{
+	"_id": "P4WnEou3ceYGiu1w",
+	"_key": "!actors.items!AVVOTDAs001fNJMR.P4WnEou3ceYGiu1w",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "CHA Damage",
+	"system": {
+		"description": "<p>[[/r 1d4]] CHA damage, coma at 0 CHA.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

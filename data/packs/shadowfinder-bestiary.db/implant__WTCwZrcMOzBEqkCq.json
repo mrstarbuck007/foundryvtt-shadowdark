@@ -1,0 +1,28 @@
+{
+	"_id": "WTCwZrcMOzBEqkCq",
+	"_key": "!actors.items!cY00yIccZK9mEgex.WTCwZrcMOzBEqkCq",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Implant",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Lay egg inside helpless mortal. [[check 15 con]] or paralyzed. Repeat check once per day; ends on success. After [[/r 2d6]] days, egg hatches, killing host and spawning a spider eater.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

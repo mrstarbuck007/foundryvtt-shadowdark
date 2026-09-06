@@ -1,0 +1,72 @@
+{
+	"_id": "atLh6dqYpEev3JVs",
+	"_key": "!actors!atLh6dqYpEev3JVs",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"fTo5vf2kC99Tjz9l",
+		"jFxlFSmUhLaF5cCL"
+	],
+	"name": "Shae",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Shae",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 10,
+				"value": 10
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A grey, misty form wearing a porcelain theater mask. Beings of Shadow. Human- shae offspring are fetchlings.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16 (chain), <strong>HP</strong> 10, <strong>ATK</strong> 1 falchion +2 (2d4), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +3, <strong>C</strong> +1, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> N, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Shadow Evocation</strong>. As an action, create a quasi-real weapon, armor, or item of gear. Functional but dissolves in bright light.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

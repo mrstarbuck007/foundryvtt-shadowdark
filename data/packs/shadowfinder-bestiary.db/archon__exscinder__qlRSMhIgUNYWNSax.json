@@ -1,0 +1,72 @@
+{
+	"_id": "qlRSMhIgUNYWNSax",
+	"_key": "!actors!qlRSMhIgUNYWNSax",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"bvP8fw4VE4TSjnHY",
+		"QopWjorB3Xct7eGb"
+	],
+	"name": "Archon, Exscinder",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Archon, Exscinder",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 35,
+				"value": 35
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Mouthless grey figure with outspread flaming wings. Divine censors who purge heretical, vile texts.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 35, <strong>ATK</strong> 2 +2 longsword +6 (1d8+2) or censor, <strong>MV</strong> double near (fly), <strong>S</strong> +5, <strong>D</strong> +4, <strong>C</strong> +4, <strong>I</strong> +2, <strong>W</strong> +4, <strong>Ch</strong> +3, <strong>AL</strong> L, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Censor</strong>. Erase written text within near. Only reversible via dispel magic or wish.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

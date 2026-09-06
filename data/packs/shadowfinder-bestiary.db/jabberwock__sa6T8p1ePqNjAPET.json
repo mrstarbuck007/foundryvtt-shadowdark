@@ -1,0 +1,75 @@
+{
+	"_id": "sa6T8p1ePqNjAPET",
+	"_key": "!actors!sa6T8p1ePqNjAPET",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"9ycjaYG8yEbXxXj5",
+		"nNoBF5eZ4oIDc7Tz",
+		"UTQqlYdTDHMgCGQx",
+		"b1CobiHp9kaR3krg",
+		"8qw0ZXTQubyupDWR"
+	],
+	"name": "Jabberwock",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Jabberwock",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 18
+			},
+			"hp": {
+				"max": 68,
+				"value": 68
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 14,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Massive, legendary dragonkin with a sinuous neck and oversized, frog-like head. One of the Tane, living fey war machines.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 18, <strong>HP</strong> 68, <strong>ATK</strong> 3 bite +9 (2d12) or 3 eye ray +8 (2d10) and burble and whiffle, <strong>MV</strong> double near (fly), <strong>S</strong> +4, <strong>D</strong> +2, <strong>C</strong> +5, <strong>I</strong> +1, <strong>W</strong> +5, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 14</p><p></p>\n\t<p><strong>Burble</strong>. Creatures within near, WIS 15+ on turn or dazed.</p><p></p><p><strong>Vorpal Weakness</strong>. Cannot be permanently killed unless beheaded with a vorpal weapon while it is at 0 HP.</p><p></p><p><strong>Whiffle</strong>. Wings create a gale- strength wind within double near, ranged weapons are useless.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

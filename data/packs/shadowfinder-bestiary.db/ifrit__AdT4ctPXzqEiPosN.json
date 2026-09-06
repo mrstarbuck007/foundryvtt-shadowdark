@@ -1,0 +1,72 @@
+{
+	"_id": "AdT4ctPXzqEiPosN",
+	"_key": "!actors!AdT4ctPXzqEiPosN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"ZHYVXViL9cmeGoSR",
+		"bt5FaUI2bHd7qded"
+	],
+	"name": "Ifrit",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Ifrit",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": -1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Humanoid with fire elemental ancestry, often an efreeti or other being.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14 (leather + shield), <strong>HP</strong> 4, <strong>ATK</strong> 1 torch +1 (1d4+1), <strong>MV</strong> near, <strong>S</strong> +0, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> -1, <strong>Ch</strong> +2, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Fire-Born</strong>. +1 attack and damage with fire-based attacks (included). Half damage from fire.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

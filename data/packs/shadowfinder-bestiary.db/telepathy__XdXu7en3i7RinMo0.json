@@ -1,0 +1,20 @@
+{
+	"_id": "XdXu7en3i7RinMo0",
+	"_key": "!actors.items!mLSdZciJWkRXqddY.XdXu7en3i7RinMo0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Telepathy",
+	"system": {
+		"description": "<p>With bonded rider only, within far.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

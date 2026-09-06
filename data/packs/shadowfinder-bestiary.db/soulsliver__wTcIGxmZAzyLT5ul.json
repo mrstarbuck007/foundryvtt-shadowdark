@@ -1,0 +1,74 @@
+{
+	"_id": "wTcIGxmZAzyLT5ul",
+	"_key": "!actors!wTcIGxmZAzyLT5ul",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"cQouiMjzGEgJbohM",
+		"RKpNwrEZ3h9v0c2J",
+		"d2oD8ZDJsenQDmEk",
+		"qLUfybMMwmYyJHxf"
+	],
+	"name": "Soulsliver",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Soulsliver",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Silvery-skinned monsters that live in the half-world on the other side of mirrors.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 4, <strong>ATK</strong> 1 slam +1 (1d4), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Death Throes</strong>. When slain, explodes in near-sized glass shards, cube centered on soulsliver. DEX 12+ or 1d6 damage.</p><p></p><p><strong>Mirror Travel</strong>. Step inside mirror within close. May teleport far to another mirror.</p><p></p><p><strong>Shapechange</strong>. Assume the mirror image shape of a being reflected in the mirror the soulsliver is in.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

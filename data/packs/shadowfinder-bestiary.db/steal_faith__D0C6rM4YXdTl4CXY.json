@@ -1,0 +1,20 @@
+{
+	"_id": "D0C6rM4YXdTl4CXY",
+	"_key": "!actors.items!pq1i98CmVwDor4cs.D0C6rM4YXdTl4CXY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Steal Faith",
+	"system": {
+		"description": "<p>Non-chaotic divine spellcasters, [[check 15 cha]] or unable to cast spells for 1 round.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

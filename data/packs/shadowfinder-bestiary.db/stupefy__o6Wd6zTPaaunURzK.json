@@ -1,0 +1,20 @@
+{
+	"_id": "o6Wd6zTPaaunURzK",
+	"_key": "!actors.items!axLbADfRrMmYDI4g.o6Wd6zTPaaunURzK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stupefy",
+	"system": {
+		"description": "<p>Any creature who looks directly at gloomwing, [[check 15 cha]] or stupefied for 1 round.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

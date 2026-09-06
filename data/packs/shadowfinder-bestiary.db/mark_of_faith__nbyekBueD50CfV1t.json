@@ -1,0 +1,28 @@
+{
+	"_id": "nbyekBueD50CfV1t",
+	"_key": "!actors.items!DtPrrguYdrkLzEwl.nbyekBueD50CfV1t",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Mark Of Faith",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>3/day, mark a mortal within near with the glowing holy symbol of the angel's god, lasts [[/r 1d4]] days. ADV on attacks and hostile spells by god's believers.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

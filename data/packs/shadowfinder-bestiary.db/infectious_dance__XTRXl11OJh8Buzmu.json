@@ -1,0 +1,20 @@
+{
+	"_id": "XTRXl11OJh8Buzmu",
+	"_key": "!actors.items!SSeZYa1FlefCBF2E.XTRXl11OJh8Buzmu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Infectious Dance",
+	"system": {
+		"description": "<p>Creatures within near who see maenad dancing, [[check 15 wis]] or drawn to dance ecstatically for [[/r 1d4]] rounds. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

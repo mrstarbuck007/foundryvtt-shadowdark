@@ -1,0 +1,20 @@
+{
+	"_id": "sUKt5KWspbhAbQWX",
+	"_key": "!actors.items!vp1QX8QIPvmFU7Mk.sUKt5KWspbhAbQWX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Clumsy",
+	"system": {
+		"description": "<p>Move is close when not flying.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

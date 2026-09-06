@@ -1,0 +1,20 @@
+{
+	"_id": "s9JbTYORvxRYKVxr",
+	"_key": "!actors.items!YkbPhkDOeCZMRieG.s9JbTYORvxRYKVxr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fears Light",
+	"system": {
+		"description": "<p>Immediately roll morale with DISADV if exposed to bright light.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

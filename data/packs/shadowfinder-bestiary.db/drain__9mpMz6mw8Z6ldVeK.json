@@ -1,0 +1,20 @@
+{
+	"_id": "9mpMz6mw8Z6ldVeK",
+	"_key": "!actors.items!h7oyxg6RiwUdIInM.9mpMz6mw8Z6ldVeK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Drain",
+	"system": {
+		"description": "<p>Heals [[/r 1d6]] HP, target permanently loses 1 CON. At 0 CON, target dies.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

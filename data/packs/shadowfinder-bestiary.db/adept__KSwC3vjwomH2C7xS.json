@@ -1,0 +1,20 @@
+{
+	"_id": "KSwC3vjwomH2C7xS",
+	"_key": "!actors.items!4p2cPccggfXhvnES.KSwC3vjwomH2C7xS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Adept",
+	"system": {
+		"description": "<p>1/day, can become proficient with one item.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

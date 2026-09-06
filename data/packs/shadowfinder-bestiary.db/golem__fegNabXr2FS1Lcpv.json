@@ -1,0 +1,20 @@
+{
+	"_id": "fegNabXr2FS1Lcpv",
+	"_key": "!actors.items!ED4JiXThYdPnJgTa.fegNabXr2FS1Lcpv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Golem",
+	"system": {
+		"description": "<p>Only damaged by adamantine or magical sources. Immune to damage from fire or non-magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

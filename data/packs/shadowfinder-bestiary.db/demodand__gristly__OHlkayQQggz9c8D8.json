@@ -1,0 +1,73 @@
+{
+	"_id": "OHlkayQQggz9c8D8",
+	"_key": "!actors!OHlkayQQggz9c8D8",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"pPwbpHCPijRYoGkS",
+		"UjaBhIiioTIcMuf7",
+		"ot0OurD8WLeH0wfr"
+	],
+	"name": "Demodand, Gristly",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Demodand, Gristly",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 53,
+				"value": 53
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>7 feet tall, 600 pounds. Ogrish demon with bat wings, broad mouth, and pustulant, pox- covered grey skin. Scouts and torturers.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 53, <strong>ATK</strong> 3 +1 warhammer +6 (1d10+1) or 1 spittle (near), <strong>MV</strong> double near (fly), <strong>S</strong> +5, <strong>D</strong> +4, <strong>C</strong> +4, <strong>I</strong> +2, <strong>W</strong> +0, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Great Evil</strong>. Only damaged by silver or magical sources. Weapons dissolve if slain.</p><p></p><p><strong>Spittle</strong>. One target, DEX 15+ or 2d6 damage each round for 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

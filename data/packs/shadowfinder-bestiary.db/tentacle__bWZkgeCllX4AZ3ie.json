@@ -1,0 +1,40 @@
+{
+	"_id": "bWZkgeCllX4AZ3ie",
+	"_key": "!actors.items!xRr4cLuoGC2V2crj.bWZkgeCllX4AZ3ie",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Tentacle",
+	"system": {
+		"attack": {
+			"num": 4
+		},
+		"bonuses": {
+			"attackBonus": 10,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": 6,
+			"special": "Grab",
+			"value": "6d6"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"doubleNear"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "WRqJPA3nKNsspdM0",
+	"_key": "!actors.items!YsK03svvdJvmGcQ1.WRqJPA3nKNsspdM0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Starflight",
+	"system": {
+		"description": "<p>Yarthoon can survive the interstellar void. Able to fly between worlds in [[/r 1d4]] days.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

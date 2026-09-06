@@ -1,0 +1,20 @@
+{
+	"_id": "43CimCprqqMWJIcg",
+	"_key": "!actors.items!GB9AluQHT3a57M4g.43CimCprqqMWJIcg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Manifest Energy",
+	"system": {
+		"description": "<p>1/day, radiate an elemental energy of their choice for [[/r 1d4]] rounds. Does +[[/r 1d4]] damage and takes half damage from that element while manifested.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

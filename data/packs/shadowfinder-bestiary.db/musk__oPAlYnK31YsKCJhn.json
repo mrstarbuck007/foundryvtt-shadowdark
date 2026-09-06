@@ -1,0 +1,28 @@
+{
+	"_id": "oPAlYnK31YsKCJhn",
+	"_key": "!actors.items!YMCyjWralsNhxM8j.oPAlYnK31YsKCJhn",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Musk",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One near target, [[check 12 dex]] or drenched in pungent musk. Sickened for [[/r 1d4]] rounds, stinks for [[/r 1d4]] days.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

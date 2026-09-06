@@ -1,0 +1,20 @@
+{
+	"_id": "uGYl5Saz99uMHZIC",
+	"_key": "!actors.items!ulmLROiQuJQGdbmg.uGYl5Saz99uMHZIC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Command Ooze",
+	"system": {
+		"description": "<p>Oozes and slimes hearing naga's commands, [[check 15 cha]] or charmed for [[/r 1d8]] days.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

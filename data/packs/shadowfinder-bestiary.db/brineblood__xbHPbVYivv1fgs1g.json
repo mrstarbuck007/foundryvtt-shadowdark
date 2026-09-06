@@ -1,0 +1,20 @@
+{
+	"_id": "xbHPbVYivv1fgs1g",
+	"_key": "!actors.items!sgzX2luPZltv1TaU.xbHPbVYivv1fgs1g",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Brineblood",
+	"system": {
+		"description": "<p>Acid immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

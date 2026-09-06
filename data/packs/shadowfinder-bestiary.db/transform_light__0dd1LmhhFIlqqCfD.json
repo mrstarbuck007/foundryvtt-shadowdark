@@ -1,0 +1,28 @@
+{
+	"_id": "0dd1LmhhFIlqqCfD",
+	"_key": "!actors.items!8OKAyq9uI2Vwsmeb.0dd1LmhhFIlqqCfD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Transform Light",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Transform light into magical darkness within double near.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

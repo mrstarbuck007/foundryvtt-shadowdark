@@ -1,0 +1,20 @@
+{
+	"_id": "snT7ZA1bBkBkTe3Q",
+	"_key": "!actors.items!o3NVNU3vQAYZqkoJ.snT7ZA1bBkBkTe3Q",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mistblood",
+	"system": {
+		"description": "<p>Cold immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

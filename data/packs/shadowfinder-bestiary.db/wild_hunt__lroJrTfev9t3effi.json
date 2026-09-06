@@ -1,0 +1,20 @@
+{
+	"_id": "lroJrTfev9t3effi",
+	"_key": "!actors.items!wV188S3NMO2ZF3dr.lroJrTfev9t3effi",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Wild Hunt",
+	"system": {
+		"description": "<p>No penalty for cover or concealment. If slain, longbow turns to mossy dirt.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,30 @@
+{
+	"_id": "eW2CFMHdeYScbJvI",
+	"_key": "!actors.items!I9vQrPlT1f1gE6EM.eW2CFMHdeYScbJvI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Conjure Skeletons",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Summon [[/r 1d6]] loyal skeletons that appear within near. They stay for 5 rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

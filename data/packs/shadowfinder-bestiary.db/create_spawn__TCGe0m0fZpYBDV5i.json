@@ -1,0 +1,20 @@
+{
+	"_id": "TCGe0m0fZpYBDV5i",
+	"_key": "!actors.items!MFHRZ6u72dUrr5wx.TCGe0m0fZpYBDV5i",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Create Spawn",
+	"system": {
+		"description": "<p>If mortal of LV 5 or higher is slain by swarm, rises as vampire spawn at midnight unless given last rites.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

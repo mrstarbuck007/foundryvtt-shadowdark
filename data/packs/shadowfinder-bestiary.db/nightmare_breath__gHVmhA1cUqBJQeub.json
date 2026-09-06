@@ -1,0 +1,28 @@
+{
+	"_id": "gHVmhA1cUqBJQeub",
+	"_key": "!actors.items!l84Nn0p20DLNeZff.gHVmhA1cUqBJQeub",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Nightmare Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Shadowy, living nightmares fill a double near-sized cube extending from dragon. [[check 15 con]] or [[/r 4d6]] damage and hallucinate for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

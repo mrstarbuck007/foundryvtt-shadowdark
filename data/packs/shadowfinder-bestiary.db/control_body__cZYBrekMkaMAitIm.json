@@ -1,0 +1,28 @@
+{
+	"_id": "cZYBrekMkaMAitIm",
+	"_key": "!actors.items!CNALfXXC6tkAc1F5.cZYBrekMkaMAitIm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Control Body",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Wrap around humanoid corpse and animate it as a zombie or skeleton, or detach.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

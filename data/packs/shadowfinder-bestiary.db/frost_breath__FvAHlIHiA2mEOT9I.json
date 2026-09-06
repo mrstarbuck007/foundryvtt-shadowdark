@@ -1,0 +1,28 @@
+{
+	"_id": "FvAHlIHiA2mEOT9I",
+	"_key": "!actors.items!R66Klg7sRMaoAQvG.FvAHlIHiA2mEOT9I",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Frost Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a double near-sized cube extending from dragon. DC 15 DEX or [[/r 5d4]] damage and frozen for 1 round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "ZsIg4GAimGVptU9e",
+	"_key": "!actors.items!O0jEht8wxgGGIlwU.ZsIg4GAimGVptU9e",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Star Being",
+	"system": {
+		"description": "<p>Immune to cold, electricity, fire.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "57WdgoVfu8EdJSfI",
+	"_key": "!actors.items!hSGuEttSoYmIhwSj.57WdgoVfu8EdJSfI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Shriek",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All enemies who can hear within near, [[check 15 cha]] or paralyzed [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

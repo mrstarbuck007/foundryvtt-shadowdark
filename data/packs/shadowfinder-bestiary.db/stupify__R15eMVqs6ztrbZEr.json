@@ -1,0 +1,28 @@
+{
+	"_id": "R15eMVqs6ztrbZEr",
+	"_key": "!actors.items!tM6ZCoZCbaAoyWCX.R15eMVqs6ztrbZEr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Stupify",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One near target, [[check 15 cha]] or INT drops to 1 until restoration is cast.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

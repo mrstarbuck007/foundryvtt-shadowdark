@@ -1,0 +1,74 @@
+{
+	"_id": "lF1vfFhzaAm4ZSDF",
+	"_key": "!actors!lF1vfFhzaAm4ZSDF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"ebYpJCxRx2DxfZWJ",
+		"mQ0XiHSPhk2ipvhc",
+		"jqgmcdQ7yi9OuF4d",
+		"06wXPDSkSBGlQE10"
+	],
+	"name": "Euryale",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Euryale",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 5
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 50,
+				"value": 50
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "burrow",
+		"notes": "\n\t<p><i>Cobra-haired woman with a serpentine lower torso. Can see oracular visions of Chaos.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 50, <strong>ATK</strong> 1 snake bite +6 (1d6 + poison), <strong>MV</strong> near (burrow), <strong>S</strong> +4, <strong>D</strong> +5, <strong>C</strong> +5, <strong>I</strong> +5, <strong>W</strong> +4, <strong>Ch</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Petrify</strong>. Any creature looking directly at euryale, CON 15+ or petrified, turned into stone statue.</p><p></p><p><strong>Poison</strong>. CON 15+ or go to 0 HP.</p><p></p><p><strong>Statue Control</strong>. As an action, animate 1d4 stone statues in near for 5 rounds (as per animated objects).</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

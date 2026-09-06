@@ -1,0 +1,28 @@
+{
+	"_id": "0Qf8QdtLrweQnIaf",
+	"_key": "!actors.items!rs8Y3lvY534Km1Rd.0Qf8QdtLrweQnIaf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Vomit Globster",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>1/day, globster can take [[/r 2d6]] damage and vomit out another globster with full HP.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

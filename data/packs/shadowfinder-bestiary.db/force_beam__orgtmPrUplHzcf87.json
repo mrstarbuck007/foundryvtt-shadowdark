@@ -1,0 +1,28 @@
+{
+	"_id": "orgtmPrUplHzcf87",
+	"_key": "!actors.items!AJJYwkBRWP5vN5lk.orgtmPrUplHzcf87",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Force Beam",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Straight line (5' wide) extending far from Mogaru. [[check 15 dex]] or [[/r 8d6]] damage, disintegrated at 0 HP.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

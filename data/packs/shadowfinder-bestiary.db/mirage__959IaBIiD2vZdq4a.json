@@ -1,0 +1,28 @@
+{
+	"_id": "959IaBIiD2vZdq4a",
+	"_key": "!actors.items!Ozzm5EjunNb44QDs.959IaBIiD2vZdq4a",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Mirage",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All creatures within double near, [[check 15 wis]] or see illusionary terrain of the fiend's choosing.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "qLUfybMMwmYyJHxf",
+	"_key": "!actors.items!wTcIGxmZAzyLT5ul.qLUfybMMwmYyJHxf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>Assume the mirror image shape of a being reflected in the mirror the soulsliver is in.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

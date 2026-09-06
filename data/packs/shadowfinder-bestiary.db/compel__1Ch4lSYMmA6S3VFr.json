@@ -1,0 +1,28 @@
+{
+	"_id": "1Ch4lSYMmA6S3VFr",
+	"_key": "!actors.items!jgqAq6TMsZjU5oXt.1Ch4lSYMmA6S3VFr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Compel",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One mortal within near, [[check 15 wis]] or compelled to approach catrina and kiss her. Repeat check each round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

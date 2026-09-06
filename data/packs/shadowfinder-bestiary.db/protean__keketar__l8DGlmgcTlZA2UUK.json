@@ -1,0 +1,75 @@
+{
+	"_id": "l8DGlmgcTlZA2UUK",
+	"_key": "!actors!l8DGlmgcTlZA2UUK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"XPgHW1fwvufZ5BtB",
+		"ojVZbOgWEZpC7Z7z",
+		"LmpVdM3CwZ1yRmc4",
+		"86uVisQ5dZKoUN9f",
+		"RL496dYkVK9ZGYdc"
+	],
+	"name": "Protean, Keketar",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Protean, Keketar",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 52,
+				"value": 52
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Rainbow-scaled, serpentine sorcerers of Limbo. Draconic, sinuous, 30 feet long, energetic crown perched atop its head.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 52, <strong>ATK</strong> 2 bite +8 (3d8 + warpbite) or warp reality, <strong>MV</strong> near (fly, swim), <strong>S</strong> +3, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> +3, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Being of Chaos</strong>. Only damaged by silver or magical sources. Immune to acid.</p><p></p><p><strong>Spatial Riptide</strong>. Mortal beings teleporting within far of keketar take 5d10 damage.</p><p></p><p><strong>Warp Reality</strong>. Transform a section of terrain up to 30 feet in width and depth within double near at will, turning mud to rock, earth to air, water to wine, etc.</p><p></p><p><strong>Warpbite</strong>. CHA 15+ or take 1d8 attribute damage. d6: 1. STR, 2. DEX, 3. CON, 4. INT, 5. WIS, 6. CHA.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

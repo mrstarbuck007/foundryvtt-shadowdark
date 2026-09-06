@@ -1,0 +1,73 @@
+{
+	"_id": "SdjKQ6SBnNWTdXac",
+	"_key": "!actors!SdjKQ6SBnNWTdXac",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"dkVqUw9N9ss1h5f0",
+		"Ne427s2s8cPogJUg",
+		"bkxwm5060UFR7m0p"
+	],
+	"name": "Sangoi",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Sangoi",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 25,
+				"value": 25
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Green-grey, feral-looking fey with sharp teeth, wearing a dead animal as a cloak. Hunt prey by heartbeats.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 25, <strong>ATK</strong> 2 claw +3 (1d4 + horrific critical), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +4, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +0, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Horrific Critical</strong>. If critical hit reduces target to 0 HP, CON 15+ or sangoi tears target's heart out and gobbles it.</p><p></p><p><strong>Sunlight Transparency</strong>. Becomes invisible in sunlight, but cannot take actions, only move.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

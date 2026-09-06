@@ -1,0 +1,20 @@
+{
+	"_id": "7oNSh0WZBGmScUyr",
+	"_key": "!actors.items!Hp26FfEOF1Lkw2ib.7oNSh0WZBGmScUyr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Divine",
+	"system": {
+		"description": "<p>Immune to damage from non-magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

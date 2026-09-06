@@ -1,0 +1,28 @@
+{
+	"_id": "gTcRdYPHObub4lxU",
+	"_key": "!actors.items!uVviJvFvKAuI1VZN.gTcRdYPHObub4lxU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Temporal Strike",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>[[check 15 wis]] or target disappears, reappearing [[/r 1d4]] rounds later as if no time passed.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

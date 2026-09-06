@@ -1,0 +1,73 @@
+{
+	"_id": "8y2MhL4RL58fjSjb",
+	"_key": "!actors!8y2MhL4RL58fjSjb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"BnahRL0MfJh7e64F",
+		"L0zSGyYhtljN5ni1",
+		"E28dqn3x7DMzAdQz"
+	],
+	"name": "Jinmenju",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Jinmenju",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": -2
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 34,
+				"value": 34
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Fat, black vine-tree sprouting head-shaped fruit. Grow far from civilization, reproducing via fruit-seeds.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 34, <strong>ATK</strong> 2 branch (near) +5 (1d8) and alluring stench and head fruit, <strong>MV</strong> close, <strong>S</strong> +5, <strong>D</strong> -2, <strong>C</strong> +3, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> +2, <strong>AL</strong> N, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Alluring Stench</strong>. Creatures within double near, CHA 15+ or dazed and drawn to tree for 1d4 rounds.</p><p></p><p><strong>Head Fruit</strong>. Creatures within close, WIS 15+ or start eating head fruit, 1d6 WIS damage. Repeat check each round, coma at 0 WIS.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

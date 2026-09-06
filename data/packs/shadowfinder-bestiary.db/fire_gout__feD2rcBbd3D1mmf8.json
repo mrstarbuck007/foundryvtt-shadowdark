@@ -1,0 +1,28 @@
+{
+	"_id": "feD2rcBbd3D1mmf8",
+	"_key": "!actors.items!QCAus3JKAszYw7nK.feD2rcBbd3D1mmf8",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Fire Gout",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A near-sized cube extending from mephit, [[check 9 con]] or [[/r 1d6]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

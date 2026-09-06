@@ -1,0 +1,20 @@
+{
+	"_id": "rkbuStgvLhHJGYah",
+	"_key": "!actors.items!ZzO7QCJAorqIfvF8.rkbuStgvLhHJGYah",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Reduced to Salt",
+	"system": {
+		"description": "<p>If slain by fire, doused with holy water, or targeted by bless or restoration, turns to salt.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

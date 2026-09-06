@@ -1,0 +1,29 @@
+{
+	"_id": "dcJ4lbj2HzJhEoeP",
+	"_key": "!actors.items!0TDS9RRVMixCcDbV.dcJ4lbj2HzJhEoeP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Bone Prison",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Throw pile of bones at target, which assemble into a bone cage. [[check 15 dex]] or imprisoned, [[check 15 str]] on turn to break free.</p>",
+		"properties": [
+		],
+		"ranges": [
+			"near"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

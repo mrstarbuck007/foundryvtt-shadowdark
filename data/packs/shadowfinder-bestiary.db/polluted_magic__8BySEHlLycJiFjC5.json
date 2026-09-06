@@ -1,0 +1,20 @@
+{
+	"_id": "8BySEHlLycJiFjC5",
+	"_key": "!actors.items!RpyRXkLrLauFJyCO.8BySEHlLycJiFjC5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Polluted Magic",
+	"system": {
+		"description": "<p>Magic targeting Vorgozen is DC 18. Magic mishaps within far of kaiju are rolled with DISADV.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

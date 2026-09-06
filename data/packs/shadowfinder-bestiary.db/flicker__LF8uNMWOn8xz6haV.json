@@ -1,0 +1,30 @@
+{
+	"_id": "LF8uNMWOn8xz6haV",
+	"_key": "!actors.items!YvyX3Q4FveMn1YWn.LF8uNMWOn8xz6haV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Flicker",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Self. Phase in and out for [[/r 1d4]] rounds. Attacks against shabti have DISADV.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d4"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

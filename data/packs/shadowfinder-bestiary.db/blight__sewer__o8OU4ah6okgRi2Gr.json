@@ -1,0 +1,74 @@
+{
+	"_id": "o8OU4ah6okgRi2Gr",
+	"_key": "!actors!o8OU4ah6okgRi2Gr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"rJjGe72HqddUP3Xl",
+		"jp2HgcAIocPaRzcO",
+		"bgsIhOLzwM42ypry",
+		"2307iNUbHKUFfMrK"
+	],
+	"name": "Blight, Sewer",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Blight, Sewer",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 40,
+				"value": 40
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Filthy green-brown lurking ooze, pestilent and reeking. Eats those who dwell above.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 40, <strong>ATK</strong> 2 tentacle +5 (1d10), <strong>MV</strong> near (climb, swim), <strong>S</strong> +5, <strong>D</strong> +4, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Command Ooze</strong>. Oozes and slimes hearing blight's commands, CHA 15+ or charmed for 1d8 days.</p><p></p><p><strong>Impervious</strong>. Acid immune.</p><p></p><p><strong>Plagued Domain</strong>. Upon first entering blight's domain, CON 9+ or 1d4 CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

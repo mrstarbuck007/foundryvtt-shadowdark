@@ -1,0 +1,20 @@
+{
+	"_id": "ls0c4oGUICE9SABP",
+	"_key": "!actors.items!h9bMiMHsH2g49EVF.ls0c4oGUICE9SABP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mind Drain",
+	"system": {
+		"description": "<p>[[/r 1d4]] INT damage. Death if reduced to 0 INT, caller absorbs intellect if mortal, gaining memories.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

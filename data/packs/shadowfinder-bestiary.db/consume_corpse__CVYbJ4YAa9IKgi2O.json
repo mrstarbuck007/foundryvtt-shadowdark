@@ -1,0 +1,20 @@
+{
+	"_id": "CVYbJ4YAa9IKgi2O",
+	"_key": "!actors.items!cUBWPWrnAGwEzODG.CVYbJ4YAa9IKgi2O",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Consume Corpse",
+	"system": {
+		"description": "<p>As an action, devour corpse within close. Regains [[/r 2d6]] HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

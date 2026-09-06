@@ -1,0 +1,20 @@
+{
+	"_id": "ad7fymX85GMNvGrz",
+	"_key": "!actors.items!PfBTyFAauwZoz6gc.ad7fymX85GMNvGrz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>Assume form of a humanoid or dire bat.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

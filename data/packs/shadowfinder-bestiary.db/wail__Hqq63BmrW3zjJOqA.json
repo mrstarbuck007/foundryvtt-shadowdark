@@ -1,0 +1,28 @@
+{
+	"_id": "Hqq63BmrW3zjJOqA",
+	"_key": "!actors.items!VLhWV0EoqFTfn04y.Hqq63BmrW3zjJOqA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Wail",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>1/day, scream a deathly howl. All within near, [[check 12 wis]] or [[/r 1d6]] damage and deafened for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

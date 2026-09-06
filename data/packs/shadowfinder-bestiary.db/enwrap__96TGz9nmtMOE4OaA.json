@@ -1,0 +1,28 @@
+{
+	"_id": "96TGz9nmtMOE4OaA",
+	"_key": "!actors.items!23BKCmG8mCzaNUNU.96TGz9nmtMOE4OaA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Enwrap",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Wrap wings around target's face, clinging to head. [[check 9 dex]] or blind, [[check 9 str]] on turn to remove.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

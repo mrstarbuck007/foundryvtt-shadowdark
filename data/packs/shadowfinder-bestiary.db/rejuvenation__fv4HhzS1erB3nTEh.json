@@ -1,0 +1,20 @@
+{
+	"_id": "fv4HhzS1erB3nTEh",
+	"_key": "!actors.items!r2pRGit96rxC765G.fv4HhzS1erB3nTEh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Rejuvenation",
+	"system": {
+		"description": "<p>When tiyanak critically hits target, it regains [[/r 2d6]] HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

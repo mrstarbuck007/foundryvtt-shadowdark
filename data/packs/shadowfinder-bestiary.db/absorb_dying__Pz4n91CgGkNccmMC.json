@@ -1,0 +1,28 @@
+{
+	"_id": "Pz4n91CgGkNccmMC",
+	"_key": "!actors.items!8OrB55gJpBfjLjRt.Pz4n91CgGkNccmMC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Absorb Dying",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Absorb dying creature within close, instantly killing it and regaining [[/r 2d6]] HP.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "eGu5MmsqJftryndS",
+	"_key": "!actors.items!fJvBQWgUkwymqJHW.eGu5MmsqJftryndS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mist Form",
+	"system": {
+		"description": "<p>Turn into cloud.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

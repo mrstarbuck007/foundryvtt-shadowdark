@@ -1,0 +1,20 @@
+{
+	"_id": "vR885qPQZkC3tyem",
+	"_key": "!actors.items!AVb2lFjgrJSkBzvd.vR885qPQZkC3tyem",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Vulnerable Tail",
+	"system": {
+		"description": "<p>Attacks against tail cause double damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

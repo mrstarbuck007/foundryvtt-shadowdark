@@ -1,0 +1,28 @@
+{
+	"_id": "M5RO5XK0NGSZq1et",
+	"_key": "!actors.items!BhIsrcnsUmzSZxNi.M5RO5XK0NGSZq1et",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Collect Soul",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One target within close of coach, [[check 15 wis]] or become incorporeal and trapped inside carriage, [[/r 1d6]] CON damage per round. DISADV on WIS check if terrified. Die at 0 CON, soul trapped in coach forever.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

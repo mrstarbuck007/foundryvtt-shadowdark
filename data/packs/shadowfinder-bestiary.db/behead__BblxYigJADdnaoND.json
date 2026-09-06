@@ -1,0 +1,20 @@
+{
+	"_id": "BblxYigJADdnaoND",
+	"_key": "!actors.items!meTvpmI4NOYEStqz.BblxYigJADdnaoND",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Behead",
+	"system": {
+		"description": "<p>On a natural attack roll of 20, behead the target.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

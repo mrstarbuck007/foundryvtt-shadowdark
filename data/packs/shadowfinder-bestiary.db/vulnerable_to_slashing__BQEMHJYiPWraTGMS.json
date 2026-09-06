@@ -1,0 +1,20 @@
+{
+	"_id": "BQEMHJYiPWraTGMS",
+	"_key": "!actors.items!DOvaHVB4Fep98tuM.BQEMHJYiPWraTGMS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Vulnerable to Slashing",
+	"system": {
+		"description": "<p>Can be damaged by non-magical slashing and cutting, takes double damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

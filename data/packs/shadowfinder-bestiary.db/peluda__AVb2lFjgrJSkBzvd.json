@@ -1,0 +1,75 @@
+{
+	"_id": "AVb2lFjgrJSkBzvd",
+	"_key": "!actors!AVb2lFjgrJSkBzvd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"fQzaCkZ1w7mROTIL",
+		"NGBaz4fgvzIhZU2H",
+		"qM4Y816W9uHUM9Kd",
+		"KPHHzXkeCuvpBsrw",
+		"vR885qPQZkC3tyem"
+	],
+	"name": "Peluda",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Peluda",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 25,
+				"value": 25
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Porcupine-quilled, pony-sized, crimson dragon-kin with a long, thrashing tail.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 25, <strong>ATK</strong> 2 bite +4 (2d6) or 1 steam blast or 1 quill barrage, <strong>MV</strong> near (swim), <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Fireblood</strong>. Fire immune.</p><p></p><p><strong>Quill Barrage</strong>. Launch hundreds of quills in a near- sized cube centered on peluda, DEX 12+ or 2d6 damage.</p><p></p><p><strong>Steam Blast</strong>. Gout of steam filling a near-sized cube extending from peluda. CON 12+ or 2d6 damage.</p><p></p><p><strong>Vulnerable Tail</strong>. Attacks against tail cause double damage.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

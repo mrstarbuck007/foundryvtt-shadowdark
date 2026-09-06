@@ -1,0 +1,28 @@
+{
+	"_id": "w9SUtLT5JYyIc33U",
+	"_key": "!actors.items!pMvK3euqb7Cwcl1o.w9SUtLT5JYyIc33U",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Charm Spores",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All non-fungi within near, [[check 9 cha]] or charmed for [[/r 1d4]] hours. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

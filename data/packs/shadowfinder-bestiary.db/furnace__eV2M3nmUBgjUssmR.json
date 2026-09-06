@@ -1,0 +1,20 @@
+{
+	"_id": "eV2M3nmUBgjUssmR",
+	"_key": "!actors.items!meTvpmI4NOYEStqz.eV2M3nmUBgjUssmR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Furnace",
+	"system": {
+		"description": "<p>Creatures within near of Moloch at start of turn [[check 15 con]] or [[/r 2d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

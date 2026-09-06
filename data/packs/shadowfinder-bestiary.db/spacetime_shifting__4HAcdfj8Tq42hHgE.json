@@ -1,0 +1,20 @@
+{
+	"_id": "4HAcdfj8Tq42hHgE",
+	"_key": "!actors.items!nsZIw4R9boiyB69X.4HAcdfj8Tq42hHgE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Spacetime Shifting",
+	"system": {
+		"description": "<p>Warps space and time, attacks against hundun have DISADV.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

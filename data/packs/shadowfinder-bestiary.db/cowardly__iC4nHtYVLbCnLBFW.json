@@ -1,0 +1,20 @@
+{
+	"_id": "iC4nHtYVLbCnLBFW",
+	"_key": "!actors.items!thspPl8H6BnPzLtt.iC4nHtYVLbCnLBFW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Cowardly",
+	"system": {
+		"description": "<p>DISADV on morale.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

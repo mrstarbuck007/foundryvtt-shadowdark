@@ -1,0 +1,72 @@
+{
+	"_id": "rs8Y3lvY534Km1Rd",
+	"_key": "!actors!rs8Y3lvY534Km1Rd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"A3cqdMXQMRf19CmG",
+		"0Qf8QdtLrweQnIaf"
+	],
+	"name": "Globster",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Globster",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": -4
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": -3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 6
+			},
+			"hp": {
+				"max": 15,
+				"value": 15
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Undulating blob of fatty tissue with a central, barb- toothed maw. Fetid, stinking.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 6, <strong>HP</strong> 15, <strong>ATK</strong> 1 bite +3 (2d6) or vomit globster, <strong>MV</strong> near (swim), <strong>S</strong> +3, <strong>D</strong> -4, <strong>C</strong> +2, <strong>I</strong> -3, <strong>W</strong> -3, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Vomit Globster</strong>. 1/day, globster can take 2d6 damage and vomit out another globster with full HP.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

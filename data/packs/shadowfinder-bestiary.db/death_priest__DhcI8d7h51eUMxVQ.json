@@ -1,0 +1,73 @@
+{
+	"_id": "DhcI8d7h51eUMxVQ",
+	"_key": "!actors!DhcI8d7h51eUMxVQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"acUgRo5YRxQZAigh",
+		"u4NFamul2OXzPF0B",
+		"kkgj6AymvVdxmQ02"
+	],
+	"name": "Death Priest",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Death Priest",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 21,
+				"value": 21
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Armored priestess of death cult, worshipper of darkness.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15 (chain), <strong>HP</strong> 21, <strong>ATK</strong> 2 dagger (close/near) +3 (1d4) or 1 spell +5, <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> +0, <strong>W</strong> +4, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Animate Dead (WIS Spell)</strong>. DC 14. Create 1d4 zombies or skeletons from corpses within far, disintegrate after 5 rounds. Protection from Good (WIS Spell). DC 11. Focus. Lawful beings have DISADV on attacks and spellcasting against priest.</p><p></p><p><strong>Deathtouch (WIS Spell)</strong>. DC 12. 2d4 damage to one creature within close.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "wis",
+			"attacks": 1,
+			"bonus": 5
+		}
+	},
+	"type": "NPC"
+}

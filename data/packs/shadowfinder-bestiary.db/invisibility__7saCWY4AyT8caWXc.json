@@ -1,0 +1,20 @@
+{
+	"_id": "7saCWY4AyT8caWXc",
+	"_key": "!actors.items!b9IwuyCTU9PdAyMV.7saCWY4AyT8caWXc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Invisibility",
+	"system": {
+		"description": "<p>Turn invisible. Doesn't end if alp attacks.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

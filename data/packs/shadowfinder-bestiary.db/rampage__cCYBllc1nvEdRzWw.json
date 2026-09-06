@@ -1,0 +1,20 @@
+{
+	"_id": "cCYBllc1nvEdRzWw",
+	"_key": "!actors.items!2LBWlBvBX8bgCpEs.cCYBllc1nvEdRzWw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Rampage",
+	"system": {
+		"description": "<p>In place of attacks, move far in a straight line and make one bite attack. On a hit, triple damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

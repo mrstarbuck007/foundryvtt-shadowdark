@@ -1,0 +1,28 @@
+{
+	"_id": "HM1FrMW8tPy9GpG4",
+	"_key": "!actors.items!vQs81dunezfJtOdN.HM1FrMW8tPy9GpG4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Shocking Vapor Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a near-sized cube extending from linnorm. [[check 15 con]] on turn or [[/r 2d6]] damage. Vapor stays for 3 rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

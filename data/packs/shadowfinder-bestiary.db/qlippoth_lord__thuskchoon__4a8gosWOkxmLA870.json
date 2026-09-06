@@ -1,0 +1,75 @@
+{
+	"_id": "4a8gosWOkxmLA870",
+	"_key": "!actors!4a8gosWOkxmLA870",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"d0V5PnwQs8pzUIEL",
+		"idEy6ezmYwe39kYo",
+		"jKsO8tj8EBfIwtaP",
+		"7Q90zuvWo1KHwsWi",
+		"AcGwrZvnO3AbQ0IM"
+	],
+	"name": "Qlippoth Lord, Thuskchoon",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Qlippoth Lord, Thuskchoon",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 59,
+				"value": 59
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Gigantic banana-yellow slug with a maw comprised of multiple mandibles. Slimy.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 59, <strong>ATK</strong> 2 bite (near) +7 (3d8), <strong>MV</strong> double near (burrow, fly), <strong>S</strong> +5, <strong>D</strong> +5, <strong>C</strong> +5, <strong>I</strong> -3, <strong>W</strong> +4, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Horrific Appearance</strong>. Mortal creatures looking directly at Thuskchoon, WIS 15+ or INT cursed, INT drops to 1 1. On success, immune for 24 hours.</p><p></p><p><strong>Pure Evil</strong>. Only damaged by cold iron or magical sources. Immune to acid.</p><p></p><p><strong>Swallow</strong>. On a natural attack roll of 18-20, target is swallowed. Total darkness inside and 2d10 damage per round. Thuskchoon regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet.</p><p></p><p><strong>Tar</strong>. Within close of Thuskchoon and the places he's moved, DEX 15+ or stuck, entangled for 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

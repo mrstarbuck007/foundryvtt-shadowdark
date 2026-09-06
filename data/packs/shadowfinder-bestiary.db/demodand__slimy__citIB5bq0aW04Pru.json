@@ -1,0 +1,74 @@
+{
+	"_id": "citIB5bq0aW04Pru",
+	"_key": "!actors!citIB5bq0aW04Pru",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"1yK864MhEM096Ki6",
+		"GUQayORBQS0C1av4",
+		"keYuuvmDrETciFuH",
+		"tX9JGjahbdrXlDfx"
+	],
+	"name": "Demodand, Slimy",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Demodand, Slimy",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 48,
+				"value": 48
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>6 feet tall, 500 pounds. Humanoid demon with a moray eel's head and fat, ichor-coated body with bat wings. Shock troops of the titans in their war against the gods.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 48, <strong>ATK</strong> 3 claws +7 (2d6 + faithless curse), <strong>MV</strong> double near (fly), <strong>S</strong> +4, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Acid Coating</strong>. Creatures touching CON 18+ or 1d6 damage.</p><p></p><p><strong>Faithless Curse</strong>. WIS 18+ or cursed and unable to cast divine spells.</p><p></p><p><strong>Great Evil</strong>. Only damaged by silver or magical sources.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

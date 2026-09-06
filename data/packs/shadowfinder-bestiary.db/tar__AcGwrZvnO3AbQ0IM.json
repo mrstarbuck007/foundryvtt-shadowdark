@@ -1,0 +1,20 @@
+{
+	"_id": "AcGwrZvnO3AbQ0IM",
+	"_key": "!actors.items!4a8gosWOkxmLA870.AcGwrZvnO3AbQ0IM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Tar",
+	"system": {
+		"description": "<p>Within close of Thuskchoon and the places he's moved, [[check 15 dex]] or stuck, entangled for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

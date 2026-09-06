@@ -1,0 +1,73 @@
+{
+	"_id": "CH2f6bdA8AAUTOwd",
+	"_key": "!actors!CH2f6bdA8AAUTOwd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"eBImfbUXPdb00Tdk",
+		"hMFS7J7xB2M8MqR4",
+		"gPRJ48piuEkv4zxX"
+	],
+	"name": "Demon, Seraptis",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Demon, Seraptis",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 35,
+				"value": 35
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Blue, cold-fleshed human- shaped demon woman with ram's horns, four arms, and a mouth that drips blood.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16 (chain), <strong>HP</strong> 35, <strong>ATK</strong> 3 scimitar +4 (1d6 + blood heal) and 1 despairing gaze, <strong>MV</strong> double near, <strong>S</strong> +4, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> +1, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Blood Heal</strong>. If seraptis wounds mortal, regains 1d6 HP as the spilled blood flows into the demon's mouth.</p><p></p><p><strong>Despairing Gaze</strong>. One mortal in near WIS 15+ or loses 1d4 CHA permanently. At 0 CHA, kills self.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "L3Zu7aDWwxq1nttk",
+	"_key": "!actors.items!o3NVNU3vQAYZqkoJ.L3Zu7aDWwxq1nttk",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Camouflage",
+	"system": {
+		"description": "<p>Hard to see, ADV to sneak and hide.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

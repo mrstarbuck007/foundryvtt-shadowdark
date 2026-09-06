@@ -1,0 +1,20 @@
+{
+	"_id": "MAtLnpj1Njg2n5dR",
+	"_key": "!actors.items!kjz1S4os3vGwSdzx.MAtLnpj1Njg2n5dR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Incorporeal Flight",
+	"system": {
+		"description": "<p>When flying, becomes incorporeal.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

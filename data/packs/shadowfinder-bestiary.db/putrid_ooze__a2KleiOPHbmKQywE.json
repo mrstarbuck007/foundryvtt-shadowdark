@@ -1,0 +1,74 @@
+{
+	"_id": "a2KleiOPHbmKQywE",
+	"_key": "!actors!a2KleiOPHbmKQywE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"NzJ2zE6aUoCT8IXl",
+		"Gkz0QUAHl21e6Pf1",
+		"wVCrjmolYaDDfk1K",
+		"p0UYLjH7L3N4r3Vm"
+	],
+	"name": "Putrid Ooze",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Putrid Ooze",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": -1
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": -3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 9
+			},
+			"hp": {
+				"max": 34,
+				"value": 34
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Tar-black mindless acidic ooze filled with rot and filth. Dissolves everything.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 9, <strong>HP</strong> 34, <strong>ATK</strong> 3 tentacle +4 (2d6) or 2 spatter (near) +4 (2d6), <strong>MV</strong> near (climb, swim), <strong>S</strong> +5, <strong>D</strong> -1, <strong>C</strong> +3, <strong>I</strong> -4, <strong>W</strong> -3, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Corrosive</strong>. Organic material or metal touching the ooze dissolves on a d6 roll of 1-3.</p><p></p><p><strong>Impervious</strong>. Immune to fire and lightning.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

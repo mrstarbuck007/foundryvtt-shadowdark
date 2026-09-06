@@ -1,0 +1,74 @@
+{
+	"_id": "fEMevSgmSAahzP9Z",
+	"_key": "!actors!fEMevSgmSAahzP9Z",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"lylSeXoW52ZEaxaw",
+		"sKpd71D0RkwZdyF4",
+		"TlF7QthePy3K1r5F",
+		"RAhBXsxDiBgmE0xc"
+	],
+	"name": "Ahkhat",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Ahkhat",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 12,
+				"value": 12
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Earthen elemental bound to a building keystone, which is engraved with the ahkhat's True Name. Can manifest anywhere within building.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 12, <strong>ATK</strong> 1 slam +2 (1d6) or 1 urn (near) +1 (1d4), <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> -1, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Keystone</strong>. Touching building keystone and saying True Name, opposed CHA check to command ahkhat.</p><p></p><p><strong>Structure</strong>. As an action, can meld into or manifest anywhere inside building.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

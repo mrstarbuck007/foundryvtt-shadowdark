@@ -1,0 +1,28 @@
+{
+	"_id": "S8p8iZln8H8Nqglb",
+	"_key": "!actors.items!gGgDPXFKPQlXt9zg.S8p8iZln8H8Nqglb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Bane",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Designate a type of creature (for example, humans). For the next 5 rounds, get ADV on attacks against creature type.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

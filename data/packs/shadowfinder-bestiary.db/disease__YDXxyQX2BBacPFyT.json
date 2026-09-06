@@ -1,0 +1,20 @@
+{
+	"_id": "YDXxyQX2BBacPFyT",
+	"_key": "!actors.items!x4f59aB0a9eVlvxH.YDXxyQX2BBacPFyT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Disease",
+	"system": {
+		"description": "<p>[[check 12 con]] or [[/r 1d4]] WIS damage (can't heal while ill). Repeat check once per day; ends on success. Coma at 0 WIS. Contagious, spreads only via 1:1 contact.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

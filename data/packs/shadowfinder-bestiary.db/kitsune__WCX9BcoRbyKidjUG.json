@@ -1,0 +1,73 @@
+{
+	"_id": "WCX9BcoRbyKidjUG",
+	"_key": "!actors!WCX9BcoRbyKidjUG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"1j2vIrLqPJfamJvl",
+		"V1zphbOfu7tfn73O",
+		"h3GdO693hUIKbC2V"
+	],
+	"name": "Kitsune",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Kitsune",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": -1
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": -1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 3,
+				"value": 3
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Humanoid, red-furred fox with striking green eyes. Can shapechange into human form. Quick wits, humorous.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13 (chain), <strong>HP</strong> 3, <strong>ATK</strong> 1 mace -1 (1d6) or 1 spell +1, <strong>MV</strong> near, <strong>S</strong> -1, <strong>D</strong> +0, <strong>C</strong> -1, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +2, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Healing Touch (WIS Spell)</strong>. DC 11. Heal one creature within close for 1d4 HP.</p><p></p><p><strong>Shapechange</strong>. Shapechange and assume the form of one specific human, same sex.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "wis",
+			"attacks": 1,
+			"bonus": 1
+		}
+	},
+	"type": "NPC"
+}

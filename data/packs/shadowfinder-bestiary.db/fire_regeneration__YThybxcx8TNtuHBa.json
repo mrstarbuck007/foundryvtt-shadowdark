@@ -1,0 +1,20 @@
+{
+	"_id": "YThybxcx8TNtuHBa",
+	"_key": "!actors.items!CgCFvMR6OpvkuBN2.YThybxcx8TNtuHBa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fire Regeneration",
+	"system": {
+		"description": "<p>If in contact with fire or lava, regains [[/r 2d6]] HP on its turn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

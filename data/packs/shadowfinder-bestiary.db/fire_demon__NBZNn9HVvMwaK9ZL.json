@@ -1,0 +1,20 @@
+{
+	"_id": "NBZNn9HVvMwaK9ZL",
+	"_key": "!actors.items!ClNAa0lpdfay2QM1.NBZNn9HVvMwaK9ZL",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fire Demon",
+	"system": {
+		"description": "<p>Immune to fire.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

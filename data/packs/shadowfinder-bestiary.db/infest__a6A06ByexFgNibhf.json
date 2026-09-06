@@ -1,0 +1,28 @@
+{
+	"_id": "a6A06ByexFgNibhf",
+	"_key": "!actors.items!DfGHEhBqsk3Hn9nJ.a6A06ByexFgNibhf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Infest",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Gnaw into and inhabit a corpse, moving it like a puppet (as zombie but not undead). Urhag emerges if corpse is destroyed or as an action.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "NvMSR32fMpe0v0vv",
+	"_key": "!actors.items!2j9dlzBP0J0mVRd1.NvMSR32fMpe0v0vv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Anchor Curse",
+	"system": {
+		"description": "<p>[[check 15 con]] or cannot teleport, become incorporeal, or plane shift.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

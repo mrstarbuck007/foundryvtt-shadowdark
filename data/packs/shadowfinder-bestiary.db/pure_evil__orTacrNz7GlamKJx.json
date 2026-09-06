@@ -1,0 +1,20 @@
+{
+	"_id": "orTacrNz7GlamKJx",
+	"_key": "!actors.items!yEpjPIFWr93bbQ0S.orTacrNz7GlamKJx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pure Evil",
+	"system": {
+		"description": "<p>Only damaged by magic sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

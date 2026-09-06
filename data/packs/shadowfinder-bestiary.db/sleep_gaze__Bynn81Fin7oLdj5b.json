@@ -1,0 +1,28 @@
+{
+	"_id": "Bynn81Fin7oLdj5b",
+	"_key": "!actors.items!IJlXag9FU6umEGqb.Bynn81Fin7oLdj5b",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Sleep Gaze",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Any creature jackalwere looks at, [[check 12 wis]] or asleep. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

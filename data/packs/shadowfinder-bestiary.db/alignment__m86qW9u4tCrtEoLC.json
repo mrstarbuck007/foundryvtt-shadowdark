@@ -1,0 +1,20 @@
+{
+	"_id": "m86qW9u4tCrtEoLC",
+	"_key": "!actors.items!zvyhd20fwm3JeIW9.m86qW9u4tCrtEoLC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Alignment",
+	"system": {
+		"description": "<p>Always dedicated to a deity. If unknown roll d6: 1-2. Lawful, 3-4. Neutral. 5-6. Chaotic</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

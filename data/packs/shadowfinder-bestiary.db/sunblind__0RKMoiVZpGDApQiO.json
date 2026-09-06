@@ -1,0 +1,20 @@
+{
+	"_id": "0RKMoiVZpGDApQiO",
+	"_key": "!actors.items!0I3sLBNlMCaomJHf.0RKMoiVZpGDApQiO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sunblind",
+	"system": {
+		"description": "<p>Blinded in bright light.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

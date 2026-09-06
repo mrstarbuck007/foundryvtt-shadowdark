@@ -1,0 +1,20 @@
+{
+	"_id": "WOzubdrK2WVzWfDE",
+	"_key": "!actors.items!W3TiLCS1HiLm2krR.WOzubdrK2WVzWfDE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Create Spawn",
+	"system": {
+		"description": "<p>Mortals slain by trailgaunt and not within view of a road rise at sunset as trailgaunt.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "jDs2uB88qi7PcKBG",
+	"_key": "!actors.items!jqOkrhlfhbl14qwR.jDs2uB88qi7PcKBG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Chaotic, 4-6",
+	"system": {
+		"description": "<p>Lawful.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

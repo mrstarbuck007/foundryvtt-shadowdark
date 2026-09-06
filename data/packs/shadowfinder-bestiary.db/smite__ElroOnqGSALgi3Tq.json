@@ -1,0 +1,20 @@
+{
+	"_id": "ElroOnqGSALgi3Tq",
+	"_key": "!actors.items!iNnKFF4EMTOJDhwR.ElroOnqGSALgi3Tq",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Smite",
+	"system": {
+		"description": "<p>If chaotic, [[check 18 con]] or reduced to 0 HP with a death timer of 1.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

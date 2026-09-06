@@ -1,0 +1,20 @@
+{
+	"_id": "V2kI3vBlngpDK155",
+	"_key": "!actors.items!ZOxVqVe2Y691S4xt.V2kI3vBlngpDK155",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Construct",
+	"system": {
+		"description": "<p>Only damaged by adamantine or magical sources. Immune to lightning.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

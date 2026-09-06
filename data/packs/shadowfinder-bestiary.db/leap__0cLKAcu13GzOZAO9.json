@@ -1,0 +1,20 @@
+{
+	"_id": "0cLKAcu13GzOZAO9",
+	"_key": "!actors.items!tXJAaK8pJvGPlZNK.0cLKAcu13GzOZAO9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Leap",
+	"system": {
+		"description": "<p>Jump up to near in height and double near in distance, then make bite attack.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "9SRcjcFjzzrH616D",
+	"_key": "!actors.items!skKZ7a0eJnsKFtFX.9SRcjcFjzzrH616D",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Cold Mist",
+	"system": {
+		"description": "<p>Surrounded by near-sized cold mist centered on the spirit. All mortals within, [[check 15 cha]] on turn or [[/r 1d4]] DEX damage, frozen solid at 0 DEX. Ranged attacks have DISADV.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

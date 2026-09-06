@@ -1,0 +1,20 @@
+{
+	"_id": "1aKvudBCbW490HpC",
+	"_key": "!actors.items!KF2VEuf6Twf6dDg5.1aKvudBCbW490HpC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mortal Gaze",
+	"system": {
+		"description": "<p>Glare at dying mortal, who instantly dies and rises as a zombie lord.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "IS1petS0YRMtmDQ3",
+	"_key": "!actors.items!sUUi9UM70ZUKyH02.IS1petS0YRMtmDQ3",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Tongue",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>1 creature in double near [[check 12 dex]] or pulled to close range.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

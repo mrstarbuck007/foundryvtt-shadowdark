@@ -1,0 +1,28 @@
+{
+	"_id": "qgmcHFc2gjwaX2Yx",
+	"_key": "!actors.items!dXfa0AXr4ynwFPKJ.qgmcHFc2gjwaX2Yx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Sonic Burst",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Near-sized cube extending from gowrow, all within near who hear, [[check 15 con]] or deaf for [[/r 1d6]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

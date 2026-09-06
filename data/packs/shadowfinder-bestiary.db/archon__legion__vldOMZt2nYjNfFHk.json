@@ -1,0 +1,74 @@
+{
+	"_id": "vldOMZt2nYjNfFHk",
+	"_key": "!actors!vldOMZt2nYjNfFHk",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"eBxifSsGZkFeugyq",
+		"gUQNuhJYHIr6GLnG",
+		"dNRxClYmTCc0hCdf",
+		"TWHVdZS0OEJ136bo"
+	],
+	"name": "Archon, Legion",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Archon, Legion",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 23,
+				"value": 23
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Celestial shock troops. Ebony skin under golden plate mail.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16 (+1 plate mail), <strong>HP</strong> 23, <strong>ATK</strong> 2 +1 greatsword +5 (1d12+1) or 2 +1 javelin (far) +4 (1d4+1), <strong>MV</strong> double near (fly), <strong>S</strong> +1, <strong>D</strong> +0, <strong>C</strong> +1, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> L, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Divine Aura</strong>. Hostile spells targeting the archon are DC 15. Weapons and armor dissolve if slain. Servant of the Storm.</p><p></p><p><strong>Immune to lightning</strong>. </p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

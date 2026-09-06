@@ -1,0 +1,20 @@
+{
+	"_id": "eQcdI84nIhHF8BMc",
+	"_key": "!actors.items!sG1PSoGEtGvZ3oIJ.eQcdI84nIhHF8BMc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Nature Manifest",
+	"system": {
+		"description": "<p>Hinder or help those in its domain, such as doubling or halving travel time, or providing food or shelter.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

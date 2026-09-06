@@ -1,0 +1,20 @@
+{
+	"_id": "WWAN8jg0QXJdpZN2",
+	"_key": "!actors.items!ztSAfKOFt9cxMTwR.WWAN8jg0QXJdpZN2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Inhabit Body",
+	"system": {
+		"description": "<p>As an action, can crawl out of or into mortal corpse. Devour insides, use body like a bloated, unwieldy puppet.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

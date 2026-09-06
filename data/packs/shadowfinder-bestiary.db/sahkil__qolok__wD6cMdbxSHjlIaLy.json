@@ -1,0 +1,73 @@
+{
+	"_id": "wD6cMdbxSHjlIaLy",
+	"_key": "!actors!wD6cMdbxSHjlIaLy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"SgUINhBr7dTEqTgS",
+		"GaDLobOyP5acBATS",
+		"3jV8Y4VHzPSEvBiQ"
+	],
+	"name": "Sahkil, Qolok",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Sahkil, Qolok",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 44,
+				"value": 44
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Pink, fleshy mound of clawed arms and womanly breasts. No head or legs, center of the mass is a great fanged slit. Feed on overindulgence.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 44, <strong>ATK</strong> 3 bite +7 (1d8 + swallow), <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Great Evil</strong>. Only damaged by silver or magical sources.</p><p></p><p><strong>Swallow</strong>. On a natural attack roll of 18-20, target is swallowed. Each turn, CHA 15+ or develop a phobia. Regurgitates all swallowed if dealt at least 10 damage in one round to the inside of its gullet.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "pW8UoHSRaz56jIHV",
+	"_key": "!actors.items!GUYa6vucHIFMxiOf.pW8UoHSRaz56jIHV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Moonblood",
+	"system": {
+		"description": "<p>Cold immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

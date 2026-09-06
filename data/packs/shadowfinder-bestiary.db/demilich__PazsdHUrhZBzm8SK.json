@@ -1,0 +1,75 @@
+{
+	"_id": "PazsdHUrhZBzm8SK",
+	"_key": "!actors!PazsdHUrhZBzm8SK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"tfxfW2H2suaExoDs",
+		"VKmdbeknWtV0UDHD",
+		"y9yYZHnB8QREQtGz",
+		"sCqjlgZoIHYaCjFf",
+		"L9QCvvlRZTi0jdiC"
+	],
+	"name": "Demilich",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Demilich",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 40,
+				"value": 40
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>This fearsome foe is a floating skull graven with runes. Embedded with rubies, emeralds, and gems.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 40, <strong>ATK</strong> 1 soul trap or 1 telekinetic storm, <strong>MV</strong> near (fly), <strong>S</strong> -4, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> +3, <strong>W</strong> +3, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Grave Spirit</strong>. Unless reduced to 0 HP and remains have bless or dispel magic cast on them, or doused with holy water, demilich rejuvenates at full HP in 2d6 days.</p><p></p><p><strong>Insurmountable</strong>. Immune to hostile spells of 4th tier or lower.</p><p></p><p><strong>Soul Trap</strong>. CHA 15+ or the demilich sucks out and traps the soul of a mortal within near in one of the demilich's gems. The mortal's body dissolves and turns into dust in 1d4 rounds.</p><p></p><p><strong>Supreme Undead</strong>. Immune to morale checks. Only damaged by magical sources.</p><p></p><p><strong>Telekinetic Storm</strong>. For 5 rounds, debris and dust fills a near-sized cube centered on demilich. Mortal creatures inside cloud are blinded and take 2d6 damage per round.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

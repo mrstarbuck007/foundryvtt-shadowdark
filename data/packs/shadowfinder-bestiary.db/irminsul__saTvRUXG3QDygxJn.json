@@ -1,0 +1,73 @@
+{
+	"_id": "saTvRUXG3QDygxJn",
+	"_key": "!actors!saTvRUXG3QDygxJn",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"2D2RbBuApYyND3QQ",
+		"nD7TOrDLIjecXu2T",
+		"6jAyEpsf3bJxfV6S"
+	],
+	"name": "Irminsul",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Irminsul",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": -2
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 36,
+				"value": 36
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Girthy oak tree with a planar portal in its trunk. Made by primordial gods, cut down for their enchanted wood.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 36, <strong>ATK</strong> 2 branch (near) +5 (3d6), <strong>MV</strong> close, <strong>S</strong> +4, <strong>D</strong> -2, <strong>C</strong> +5, <strong>I</strong> +3, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> *, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Alignment</strong>. Determined by the plane it is aligned with.</p><p></p><p><strong>Portal</strong>. Portal leads to a specific spot in another plane, defined by the irminsul's creator.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

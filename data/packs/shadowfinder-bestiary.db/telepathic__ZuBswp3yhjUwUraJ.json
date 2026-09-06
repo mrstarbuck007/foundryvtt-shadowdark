@@ -1,0 +1,20 @@
+{
+	"_id": "ZuBswp3yhjUwUraJ",
+	"_key": "!actors.items!d138teWf0aDQvy2B.ZuBswp3yhjUwUraJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Telepathic",
+	"system": {
+		"description": "<p>Speak mentally with creatures within double near.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

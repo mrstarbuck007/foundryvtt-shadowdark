@@ -1,0 +1,28 @@
+{
+	"_id": "LgUMCV7nb5AbENLN",
+	"_key": "!actors.items!F4TOlaN6SsZV5IH8.LgUMCV7nb5AbENLN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Cardinal Wind",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Has one of the following powers: North. Flames, one creature within far, immolated for [[/r 2d6]] damage. South. Icy blast, straight line (5' wide) extending double near, [[check 15 dex]] or [[/r 2d4]] DEX damage. East. One creature within far, misfortune, [[check 15 wis]] or DISADV for [[/r 1d4]] rounds. West. Soothing wind, all within double near, [[check 15 cha]] to take hostile actions against anemoi or allies.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

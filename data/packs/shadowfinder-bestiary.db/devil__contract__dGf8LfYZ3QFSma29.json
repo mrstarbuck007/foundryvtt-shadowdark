@@ -1,0 +1,72 @@
+{
+	"_id": "dGf8LfYZ3QFSma29",
+	"_key": "!actors!dGf8LfYZ3QFSma29",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"XHRiz3syfjKj8cPI",
+		"uQWFbCYH2ZFS9ZWq"
+	],
+	"name": "Devil, Contract",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Devil, Contract",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 29,
+				"value": 29
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Crimson devil that carries reams of pre-written contracts, which it eagerly offers. Signing one dooms a mortal soul to the Hells.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 29, <strong>ATK</strong> 3 ribbon of paper (close/near) +6 (1d4), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +3, <strong>C</strong> +2, <strong>I</strong> +4, <strong>W</strong> +4, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Infernal Contract</strong>. A mortal can negotiate a price for singing their True Name. Typical offers include a wish (as the spell) or obtaining a devilish servant.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

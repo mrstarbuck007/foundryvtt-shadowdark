@@ -1,0 +1,28 @@
+{
+	"_id": "8alRGMYbyMSLLMO7",
+	"_key": "!actors.items!YSCqv6Pdtm2kJ2kg.8alRGMYbyMSLLMO7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Toxic Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a near- sized cube extending from catoblepas. [[check 15 con]] or [[/r 3d6]] CON damage, dies at 0 CON.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

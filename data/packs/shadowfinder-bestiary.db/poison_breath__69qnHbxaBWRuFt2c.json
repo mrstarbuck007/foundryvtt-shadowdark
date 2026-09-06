@@ -1,0 +1,28 @@
+{
+	"_id": "69qnHbxaBWRuFt2c",
+	"_key": "!actors.items!W8yG3Q6VWGaN2kUd.69qnHbxaBWRuFt2c",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Poison Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a near- sized cube extending from dragon. [[check 15 con]] or [[/r 2d4]] CON damage. Die at 0 CON.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

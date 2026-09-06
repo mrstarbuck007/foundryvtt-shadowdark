@@ -1,0 +1,20 @@
+{
+	"_id": "bMKGJmdmnwexc9kZ",
+	"_key": "!actors.items!SagkCkxUAtG6kxGB.bMKGJmdmnwexc9kZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Animate Dead",
+	"system": {
+		"description": "<p>Create [[/r 1d4]] zombies or skeletons from corpses within far, disintegrate after 10 rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,75 @@
+{
+	"_id": "EtmdfTwU4QFr7RCE",
+	"_key": "!actors!EtmdfTwU4QFr7RCE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"vfvbluvjVmR8A3ew",
+		"Gi0qLjWB0kIVXpV7",
+		"4s5mndaUtL9uiaVV",
+		"5tvUg222Pxi5ddrh",
+		"ThOvhTYvkldSXPfG"
+	],
+	"name": "Geist",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Geist",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 30,
+				"value": 30
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Tattered black cloak. Empty except for a toothy mouth inside the hood. Birthed when a vile being dies via an undead creature.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 30, <strong>ATK</strong> 2 bite +4 (1d6 + drain) or 1 control undead, <strong>MV</strong> near (fly), <strong>S</strong> -4, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Control Undead</strong>. One mindless undead within near WIS 15+ or geist controls for 1d4 days.</p><p></p><p><strong>Drain</strong>. 1d4 CON damage. Death if reduced to 0 CON.</p><p></p><p><strong>Sunlight Weakness</strong>. Cannot take actions in direct sunlight, only move.</p><p></p><p><strong>Undead</strong>. Immune to morale checks.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

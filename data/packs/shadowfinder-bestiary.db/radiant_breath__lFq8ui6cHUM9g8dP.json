@@ -1,0 +1,28 @@
+{
+	"_id": "lFq8ui6cHUM9g8dP",
+	"_key": "!actors.items!tIBi7WhszIRBZi1J.lFq8ui6cHUM9g8dP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Radiant Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (5' wide) of holy light, extending double near from dragon. [[check 15 wis]] or [[/r 4d10]] damage and banished if fiendish. Dragon can choose to exclude creatures inside light from damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

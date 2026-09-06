@@ -1,0 +1,20 @@
+{
+	"_id": "vZMPWmjP5m6CfmH6",
+	"_key": "!actors.items!Eu7D0OmnneXMrK3b.vZMPWmjP5m6CfmH6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Toxicity",
+	"system": {
+		"description": "<p>Viridium poisoning, [[check 12 con]] or [[/r 1d6]] CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

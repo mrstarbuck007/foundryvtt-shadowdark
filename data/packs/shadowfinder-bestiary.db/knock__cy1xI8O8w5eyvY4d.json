@@ -1,0 +1,20 @@
+{
+	"_id": "cy1xI8O8w5eyvY4d",
+	"_key": "!actors.items!FzY35KO24MmHVyXB.cy1xI8O8w5eyvY4d",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Knock",
+	"system": {
+		"description": "<p>[[check 9 str]] or pushed a close distance and fall down.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

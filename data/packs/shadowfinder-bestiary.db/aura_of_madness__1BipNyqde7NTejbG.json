@@ -1,0 +1,20 @@
+{
+	"_id": "1BipNyqde7NTejbG",
+	"_key": "!actors.items!e1eU6hxKQnqCRQqu.1BipNyqde7NTejbG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Aura of Madness",
+	"system": {
+		"description": "<p>Creatures within near, [[check 12 wis]] on turn or distracted by visions. On a natural 1, hallucinations are permanent unless restoration is cast.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "hb2uqGGMRfJTzWZc",
+	"_key": "!actors.items!GXAh72FLSwDIx5qF.hb2uqGGMRfJTzWZc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Flammable",
+	"system": {
+		"description": "<p>Can be damaged by fire, takes double damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

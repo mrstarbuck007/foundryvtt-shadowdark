@@ -1,0 +1,20 @@
+{
+	"_id": "kzZKr9VW6kHRMbwJ",
+	"_key": "!actors.items!PKgqpHNhG0cPoQu7.kzZKr9VW6kHRMbwJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Phasing Bite",
+	"system": {
+		"description": "<p>Bite ignores non-magical armor and shields.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

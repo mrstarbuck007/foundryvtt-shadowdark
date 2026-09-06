@@ -1,0 +1,20 @@
+{
+	"_id": "kaoSjAQnuPuTm51M",
+	"_key": "!actors.items!fHMudq2LRrKhaqqy.kaoSjAQnuPuTm51M",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Imperious",
+	"system": {
+		"description": "<p>Only damaged by magical sources. Transform into pheasant, shellfish, or songbird.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

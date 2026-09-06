@@ -1,0 +1,20 @@
+{
+	"_id": "YhI3sjEyJpEIW6ll",
+	"_key": "!actors.items!CnG8MLkwzqL439it.YhI3sjEyJpEIW6ll",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Self-Destruct",
+	"system": {
+		"description": "<p>Activate sigils and explode. All mortals within near, [[check 15 con]] or [[/r 1d8]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "cX6AOYpbhcBmN2cU",
+	"_key": "!actors.items!3GZO9xBHWGLGVkdA.cX6AOYpbhcBmN2cU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Slime",
+	"system": {
+		"description": "<p>[[check 15 con]] or target gains a magical curse, turning into a translucent deep one over [[/r 2d10]] days.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

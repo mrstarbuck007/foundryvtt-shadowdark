@@ -1,0 +1,74 @@
+{
+	"_id": "3Igu1J9qb4OzPZfE",
+	"_key": "!actors!3Igu1J9qb4OzPZfE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"0yD0VIBSZFQLPj8G",
+		"1ZnzBpMVB5s3daP9",
+		"3xSoChi88uYG5YYA",
+		"A967FRJNKfmD7A63"
+	],
+	"name": "Archon, Star",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Archon, Star",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 49,
+				"value": 49
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>This perfectly formed, luminescent humanoid is sheathed in a rippling halo. Star archons are generals and tacticians.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16 (+1 plate mail), <strong>HP</strong> 49, <strong>ATK</strong> 4 +2 longsword +8 (1d8+2) or magic circle, <strong>MV</strong> double near (fly), <strong>S</strong> +3, <strong>D</strong> +2, <strong>C</strong> +5, <strong>I</strong> +4, <strong>W</strong> +3, <strong>Ch</strong> +4, <strong>AL</strong> L, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Divine Aura</strong>. Hostile spells targeting the archon are DC 15. Sword and armor dissolve if slain.</p><p></p><p><strong>Magic Circle</strong>. Cast magic circle, automatic success.</p><p></p><p><strong>Protostar Rebirth</strong>. If slain, creatures within double near of archon CON 18+ or 5d6 damage. Archon reforms as a lesser archon in 1d4 days.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

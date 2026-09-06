@@ -1,0 +1,20 @@
+{
+	"_id": "R7uyRm060mQiSNXQ",
+	"_key": "!actors.items!PZ9YbJG1AKj788a5.R7uyRm060mQiSNXQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Weapon Thief",
+	"system": {
+		"description": "<p>If spider disarms a creature, absorbs weapon into body, can use it to attack.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

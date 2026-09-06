@@ -1,0 +1,28 @@
+{
+	"_id": "4HWiy9hKs7HJdpjR",
+	"_key": "!actors.items!7xM6E1P3qM6b4vMS.4HWiy9hKs7HJdpjR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Barrier",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Plant tower shield on ground. One ally can take cover behind shield, attacks or spells cast at ally, DISADV.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "KpByuUEIrUEWfydN",
+	"_key": "!actors.items!KIIUM8QLGlqyd20Q.KpByuUEIrUEWfydN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Death Grip",
+	"system": {
+		"description": "<p>[[check 15 str]] or held. [[check 15 str]] on turn to break free. Doesn't let go even if slain.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

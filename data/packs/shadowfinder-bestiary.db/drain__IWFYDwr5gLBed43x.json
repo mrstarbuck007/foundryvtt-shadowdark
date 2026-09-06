@@ -1,0 +1,20 @@
+{
+	"_id": "IWFYDwr5gLBed43x",
+	"_key": "!actors.items!5qNjsK67HgIxfbes.IWFYDwr5gLBed43x",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Drain",
+	"system": {
+		"description": "<p>The target takes [[/r 1d6]] WIS damage. A target reduced to 0 WIS this way swears its soul to a demon lord.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "fULQp03tcBthvfOy",
+	"_key": "!actors.items!hcI9JDtukz6lQ0l1.fULQp03tcBthvfOy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Roar",
+	"system": {
+		"description": "<p>All chaotic creatures who can hear within double near, [[check 15 cha]] or terrified [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

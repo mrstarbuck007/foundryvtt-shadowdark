@@ -1,0 +1,20 @@
+{
+	"_id": "9EVijjkjoLrZOYmE",
+	"_key": "!actors.items!qgFGXvyOCeLy5JOn.9EVijjkjoLrZOYmE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Merge",
+	"system": {
+		"description": "<p>Can absorb into a willing host, sharing memories and knowledge. Once absorbed by host, no longer considered undead.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

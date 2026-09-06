@@ -1,0 +1,74 @@
+{
+	"_id": "kjz1S4os3vGwSdzx",
+	"_key": "!actors!kjz1S4os3vGwSdzx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"tt577xKQGp9nS238",
+		"d2O4brtPrPsNM0G5",
+		"2ZGHg30HgTmRmcwT",
+		"MAtLnpj1Njg2n5dR"
+	],
+	"name": "Dragon, Etheric",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Dragon, Etheric",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": -1
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 53,
+				"value": 53
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Stout, green dragons with smooth, scaleless hide and ectoplasmic flesh. Diet consists of incorporeal creatures. Ethereal dweller.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 53, <strong>ATK</strong> 3 rend +8 (2d8) or 1 grave breath, <strong>MV</strong> double near (fly), <strong>S</strong> +5, <strong>D</strong> -1, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> N, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Ethereal</strong>. Can harm incorporeal creatures.</p><p></p><p><strong>Grave Breath</strong>. Fills a double near-sized cube extending from dragon. CON 15+ or reduced to 0 HP.</p><p></p><p><strong>Incorporeal Flight</strong>. When flying, becomes incorporeal.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

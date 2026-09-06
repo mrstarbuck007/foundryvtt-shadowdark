@@ -1,0 +1,20 @@
+{
+	"_id": "KZ3xmWzFsyPLdkS7",
+	"_key": "!actors.items!8YlXAkZRJFQgsKnb.KZ3xmWzFsyPLdkS7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>[[check 12 con]] or [[/r 1d6]] STR damage. Die at 0 STR.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

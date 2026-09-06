@@ -1,0 +1,20 @@
+{
+	"_id": "kz3FhQ5Bzjs4WeHD",
+	"_key": "!actors.items!Y6FyS2rrLrE6qwiM.kz3FhQ5Bzjs4WeHD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Vicious Critical",
+	"system": {
+		"description": "<p>Critical hits by sahkil do +[[/r 1d4]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "lpfWSxVPArtHBxFw",
+	"_key": "!actors.items!iiuHh5Xp4YEVObmC.lpfWSxVPArtHBxFw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Golem",
+	"system": {
+		"description": "<p>Immune to damage from fire, cold, electricity, or non-magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

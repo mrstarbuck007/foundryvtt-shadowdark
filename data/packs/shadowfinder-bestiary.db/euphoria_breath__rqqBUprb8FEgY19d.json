@@ -1,0 +1,28 @@
+{
+	"_id": "rqqBUprb8FEgY19d",
+	"_key": "!actors.items!YBBaGkLW8XmTs4Oq.rqqBUprb8FEgY19d",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Euphoria Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a near- sized cube extending from dragon. [[check 15 cha]] or distracted by ecstasy for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

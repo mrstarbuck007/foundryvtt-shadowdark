@@ -1,0 +1,76 @@
+{
+	"_id": "BiHY599DKecWMVBg",
+	"_key": "!actors!BiHY599DKecWMVBg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"TAiOSX0H1MvjEyzf",
+		"ScLa03iCpqa2ij9i",
+		"KmjxETEmYl1fhiQM",
+		"aUZCkxozAauHuUcl",
+		"9erRlXIaM9mAMIU1",
+		"1mmVZIahn2SEEtWP"
+	],
+	"name": "Aranea",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Aranea",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 9,
+				"value": 9
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Hunchbacked, sorcerous giant spider with an exposed, goopy brain inset in the head. Can shapeshift. Often hides amongst mortal society, collecting magic.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 9, <strong>ATK</strong> 1 bite +2 (1d4 + poison) or 1 spell +2, <strong>MV</strong> near (climb), <strong>S</strong> +0, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> +2, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Charm Person (INT Spell)</strong>. DC 11. LV 2 or less, friendship for 1d8 days.</p><p></p><p><strong>Detect Magic (INT Spell)</strong>. Self. DC 11. Detect magic within near.</p><p></p><p><strong>Jaunt (INT Spell)</strong>. Self. DC 12. Teleport within near.</p><p></p><p><strong>Poison</strong>. CON 12+ or paralyzed 1d4 hours.</p><p></p><p><strong>Shapeshift</strong>. In place of attacks, transform into a humanoid or return to their original form. They can only shapeshift into one humanoid form.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "int",
+			"attacks": 1,
+			"bonus": 2
+		}
+	},
+	"type": "NPC"
+}

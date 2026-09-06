@@ -1,0 +1,76 @@
+{
+	"_id": "ulmLROiQuJQGdbmg",
+	"_key": "!actors!ulmLROiQuJQGdbmg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"7UV9Uce3Db87N30Y",
+		"uGYl5Saz99uMHZIC",
+		"hM9oqS9Yij9wUajz",
+		"Cm76c8pGjbjfBhya",
+		"TJSGGVmhGWJlK2wj",
+		"UtCi0GuH2xo306Fx"
+	],
+	"name": "Naga, Slime",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Naga, Slime",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 25,
+				"value": 25
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Slick, slime-drenched cobra with an elderly man's head. Dwell in muck. 13 feet long.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 25, <strong>ATK</strong> 2 bite +4 (1d8 + poison) and 1 spell +4, <strong>MV</strong> near (swim), <strong>S</strong> +3, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +2, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Command Ooze</strong>. Oozes and slimes hearing naga's commands, CHA 15+ or charmed for 1d8 days.</p><p></p><p><strong>Fog (INT Spell)</strong>. DC 12. For 1d4 rounds, fog fills a near-sized cube centered on naga. It spreads around corners. Creatures inside the cloud are blinded.</p><p></p><p><strong>Lightning (INT Spell)</strong>. DC 13. A 5-foot wide line of electricity extending far from naga, 3d6 damage.</p><p></p><p><strong>Magic Bolt (INT Spell)</strong>. DC 11. 1d4 damage to one target within far.</p><p></p><p><strong>Poison</strong>. CON 15+ or paralyzed 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "int",
+			"attacks": 1,
+			"bonus": 4
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,72 @@
+{
+	"_id": "tjOTPGoleWf5450N",
+	"_key": "!actors!tjOTPGoleWf5450N",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"AVEZIUR0QOucpI12",
+		"SRIv9sCM6S9OOcph"
+	],
+	"name": "Leshy, Leaf",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Leshy, Leaf",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": -2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Semi-sentient, kobold-sized bundle of twigs and verdant leaves. Tree-tenders beloved by those who grow orchards.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 4, <strong>ATK</strong> 1 spear (close/near) -1 (1d6), <strong>MV</strong> near, <strong>S</strong> -2, <strong>D</strong> +0, <strong>C</strong> +0, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Drift</strong>. DEX 9+ to take no damage from a fall.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

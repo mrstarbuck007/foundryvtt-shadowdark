@@ -1,0 +1,20 @@
+{
+	"_id": "ATqQ5LkSk5np31jY",
+	"_key": "!actors.items!BHiLaoSidfviMxno.ATqQ5LkSk5np31jY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Change Shape",
+	"system": {
+		"description": "<p>Over [[/r 1d4]] rounds, transforms into a similarly-sized humanoid.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

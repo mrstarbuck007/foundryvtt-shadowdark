@@ -1,0 +1,20 @@
+{
+	"_id": "upSajW02abKsQeIy",
+	"_key": "!actors.items!zscx7OTkXE0KqZKl.upSajW02abKsQeIy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Unquiet Bog",
+	"system": {
+		"description": "<p>Mortals dying in domain rise as swamp mummies at midnight.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

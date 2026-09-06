@@ -1,0 +1,20 @@
+{
+	"_id": "sysM8Ax8StbolF57",
+	"_key": "!actors.items!NHWDDEHfLqyI4oe8.sysM8Ax8StbolF57",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lizard Empathy",
+	"system": {
+		"description": "<p>Command dinosaurs and lizards within near.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

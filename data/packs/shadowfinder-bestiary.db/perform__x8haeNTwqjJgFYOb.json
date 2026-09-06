@@ -1,0 +1,28 @@
+{
+	"_id": "x8haeNTwqjJgFYOb",
+	"_key": "!actors.items!uRFs2MOsbpxMhLqr.x8haeNTwqjJgFYOb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Perform",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All mortals within near, [[check 12 cha]] or fascinated for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

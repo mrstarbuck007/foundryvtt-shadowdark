@@ -1,0 +1,28 @@
+{
+	"_id": "GXpCSHYakHe78Ks0",
+	"_key": "!actors.items!7VsJMwLMsRT2yIlg.GXpCSHYakHe78Ks0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Brand",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Put master's brand on willing mortal and grant them one wish, no spellcasting check. Mortal becomes chaotic, demonically tainted. Brand is always visible, cannot be hidden or concealed.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

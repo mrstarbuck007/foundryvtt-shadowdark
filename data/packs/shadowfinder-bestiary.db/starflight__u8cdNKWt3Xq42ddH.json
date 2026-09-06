@@ -1,0 +1,20 @@
+{
+	"_id": "u8cdNKWt3Xq42ddH",
+	"_key": "!actors.items!GUYa6vucHIFMxiOf.u8cdNKWt3Xq42ddH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Starflight",
+	"system": {
+		"description": "<p>Dragon and riders can survive the interstellar void. Able to fly between worlds in [[/r 1d4]] days.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

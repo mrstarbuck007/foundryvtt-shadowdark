@@ -1,0 +1,75 @@
+{
+	"_id": "Ocn2leWKMNX2pAzq",
+	"_key": "!actors!Ocn2leWKMNX2pAzq",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"OCKczCaYbF3TU8av",
+		"FcDAyDPBoe4aFluJ",
+		"pNB3Wj5LNc0bBXlV",
+		"ehr6xvu8R7whOjHo",
+		"nzGN5zn9NmQqt8Yj"
+	],
+	"name": "Yuki-Onna",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Yuki-Onna",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 18,
+				"value": 18
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Specter of a woman who froze to death. Garbed in mundane clothes, but blue- lipped and radiates cold.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 18, <strong>ATK</strong> 2 frigid touch +4 (2d6) and blizzard, <strong>MV</strong> near (fly), <strong>S</strong> -4, <strong>D</strong> +4, <strong>C</strong> +0, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Blizzard</strong>. Surrounded by freezing fog and snow in a far area around spirit.</p><p></p><p><strong>Greater Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Incorporeal</strong>. In place of attacks, become corporeal or incorporeal.</p><p></p><p><strong>Snow Spirit</strong>. Takes 1d6 damage per round if in an area without snow.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

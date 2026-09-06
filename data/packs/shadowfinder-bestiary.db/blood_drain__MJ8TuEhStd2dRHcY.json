@@ -1,0 +1,20 @@
+{
+	"_id": "MJ8TuEhStd2dRHcY",
+	"_key": "!actors.items!hgGDx1V45oKdHW60.MJ8TuEhStd2dRHcY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"description": "<p>Vampire heals [[/r 2d6]] HP and target permanently loses [[/r 1d4]] CON. At 0 CON, target dies and rises as a vampire spawn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

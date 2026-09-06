@@ -1,0 +1,28 @@
+{
+	"_id": "g1MCSKsi3Tt8HKXB",
+	"_key": "!actors.items!Gayv8MGi0lUxaYgM.g1MCSKsi3Tt8HKXB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Bile Blast",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Gout acidic blast within double near. All creatures in a near-sized cube around where the blast lands, [[check 12 dex]] or [[/r 3d6]] damage. Cannot use again for [[/r 1d6]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

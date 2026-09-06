@@ -1,0 +1,28 @@
+{
+	"_id": "dNRy6JgE4Pe53MgA",
+	"_key": "!actors.items!fg46QMaFKK1TzGhI.dNRy6JgE4Pe53MgA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Pestilent Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a near- sized cube extending from nuckelavee. [[check 12 con]] or [[/r 3d6]] damage and diseased.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

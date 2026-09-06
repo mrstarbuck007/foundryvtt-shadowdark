@@ -1,0 +1,20 @@
+{
+	"_id": "QkCRGMz2TKrmhAsy",
+	"_key": "!actors.items!rb8qKq9hgcZQNC6o.QkCRGMz2TKrmhAsy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Colossus",
+	"system": {
+		"description": "<p>Immune to damage from non-magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

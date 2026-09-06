@@ -1,0 +1,73 @@
+{
+	"_id": "6dk21ckCxlA2IqvH",
+	"_key": "!actors!6dk21ckCxlA2IqvH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"9XPbJ35Lm2pyNiGf",
+		"Dt8a04pTWQzMNQBD",
+		"ivnazxjHTmHobVFF"
+	],
+	"name": "Psychopomp, Yamaraj",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Psychopomp, Yamaraj",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 58,
+				"value": 58
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Misty, black-scaled drake. Judge and arbiter of death, determines where souls go.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 58, <strong>ATK</strong> 3 rend +8 (2d6) or ice breath, <strong>MV</strong> near (fly, swim), <strong>S</strong> +4, <strong>D</strong> +5, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> N, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Ice Breath</strong>. Fills a near-sized cube extending from yamaraj. DEX 15+ or 4d6 damage and frozen for 1 round.</p><p></p><p><strong>Magical Being</strong>. Only damaged by adamantine or magical sources. Immune to cold, healed by electricity.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

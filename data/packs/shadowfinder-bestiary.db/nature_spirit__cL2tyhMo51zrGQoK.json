@@ -1,0 +1,20 @@
+{
+	"_id": "cL2tyhMo51zrGQoK",
+	"_key": "!actors.items!6xUYud3xzPaLm2oe.cL2tyhMo51zrGQoK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Nature Spirit",
+	"system": {
+		"description": "<p>Can instantly transform into panther or back into humanoid. Leaves no tracks.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

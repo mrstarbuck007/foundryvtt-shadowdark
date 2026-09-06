@@ -1,0 +1,20 @@
+{
+	"_id": "fVCtkYIxxakoqtd1",
+	"_key": "!actors.items!ICyyMoAQ6SL54TZd.fVCtkYIxxakoqtd1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>Instantly change to look like any other humanoid.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

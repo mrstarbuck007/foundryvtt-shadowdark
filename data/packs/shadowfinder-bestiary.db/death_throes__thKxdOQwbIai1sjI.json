@@ -1,0 +1,20 @@
+{
+	"_id": "thKxdOQwbIai1sjI",
+	"_key": "!actors.items!EfhOd0x2vFquVOHs.thKxdOQwbIai1sjI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Death Throes",
+	"system": {
+		"description": "<p>When reduced to 0 HP, explodes in shard blast, near-sized cube centered on golem. [[check 15 dex]] or [[/r 2d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

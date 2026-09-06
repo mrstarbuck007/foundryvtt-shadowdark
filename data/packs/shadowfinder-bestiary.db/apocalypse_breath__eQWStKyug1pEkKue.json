@@ -1,0 +1,28 @@
+{
+	"_id": "eQWStKyug1pEkKue",
+	"_key": "!actors.items!n7jJ73Jl0xEN16r5.eQWStKyug1pEkKue",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Apocalypse Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a double near-sized cube extending from horse. [[check 15 dex]] or lose [[/r 2d4]] CON (curse).</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

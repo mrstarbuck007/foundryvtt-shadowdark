@@ -1,0 +1,40 @@
+{
+	"_id": "WVUDr1dSDSf0QOJz",
+	"_key": "!actors.items!crou6vDVkcheApM7.WVUDr1dSDSf0QOJz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "+2 Greatsword",
+	"system": {
+		"attack": {
+			"num": 3
+		},
+		"bonuses": {
+			"attackBonus": 7,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 3
+		},
+		"damage": {
+			"numDice": 1,
+			"special": "",
+			"value": "1d12"
+		},
+		"description": "",
+		"properties": [
+		],
+		"ranges": [
+			"close"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Attack"
+}

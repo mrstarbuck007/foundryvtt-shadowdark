@@ -1,0 +1,28 @@
+{
+	"_id": "9q3jJWx8o1p8LyZu",
+	"_key": "!actors.items!FDffY0qYHg3B6PCI.9q3jJWx8o1p8LyZu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Gibber",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All mortals within near of swarm, [[check 12 wis]] or confused for 1 round. Immune for 1 day if passed check.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

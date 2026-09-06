@@ -1,0 +1,76 @@
+{
+	"_id": "3CBb4Clm9Ocw8HWw",
+	"_key": "!actors!3CBb4Clm9Ocw8HWw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"7e7clX1pCHqMI31t",
+		"tOoDG6sujygdrgzc",
+		"0e8UjXmRyT8OhUtJ",
+		"MF7S4y6P2Eke00dM",
+		"KiLOD3SmrWsScOWz",
+		"efS8tiHNkZJGdsix"
+	],
+	"name": "Soulbound Doll",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Soulbound Doll",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": -3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 9,
+				"value": 9
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A porcelain doll embedded with a soul. Can be loyal protectors or sadistic murderers.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 9, <strong>ATK</strong> 1 dagger +1 (1d4) or 1 spell +2, <strong>MV</strong> near, <strong>S</strong> -3, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +1, <strong>AL</strong> *, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Aid (Lawful CHA Spell)</strong>. DC 11. Heal one creature within close for 1d4 HP.</p><p></p><p><strong>Alignment</strong>. d6: 1. Lawful, 2-3.</p><p></p><p><strong>Guile (Neutral CHA Spell)</strong>. DC 11. LV 2 or less, friendship for 1d8 days.</p><p></p><p><strong>Neutral</strong>. 4-6. Chaotic.</p><p></p><p><strong>Vilify (Chaotic CHA Spell)</strong>. DC 11. 1d6 damage to one creature within close.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "cha",
+			"attacks": 1,
+			"bonus": 2
+		}
+	},
+	"type": "NPC"
+}

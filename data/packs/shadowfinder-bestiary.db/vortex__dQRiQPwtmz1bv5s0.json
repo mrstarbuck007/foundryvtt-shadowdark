@@ -1,0 +1,28 @@
+{
+	"_id": "dQRiQPwtmz1bv5s0",
+	"_key": "!actors.items!8e8wjM1nddMwLeFo.dQRiQPwtmz1bv5s0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Vortex",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Only in water, [[check 15 str]] or sucked under water and drowning. [[check 15 str]] to escape on turn.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "IgW4ujGUiaV0oo8h",
+	"_key": "!actors.items!4rlaxSI8haK90csx.IgW4ujGUiaV0oo8h",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Grod Gland",
+	"system": {
+		"description": "<p>A slain grodair's grod gland produces a constant stream of water for [[/r 2d6]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

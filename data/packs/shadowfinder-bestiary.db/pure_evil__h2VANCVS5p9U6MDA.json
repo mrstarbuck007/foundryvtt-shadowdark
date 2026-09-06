@@ -1,0 +1,20 @@
+{
+	"_id": "h2VANCVS5p9U6MDA",
+	"_key": "!actors.items!q14EeAlYCbrSB2bj.h2VANCVS5p9U6MDA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pure Evil",
+	"system": {
+		"description": "<p>Only damaged by silver weapons or magic sources. Immune to acid and fire. Cannot be held or restrained.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

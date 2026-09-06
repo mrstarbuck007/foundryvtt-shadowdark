@@ -1,0 +1,73 @@
+{
+	"_id": "E72FS90pqGmhzse1",
+	"_key": "!actors!E72FS90pqGmhzse1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"mO7w5PNBrzLHmpCc",
+		"sjkXCyXWS2zgypVh",
+		"oMkFtFaahcwWhgH9"
+	],
+	"name": "Dragon, Bronze",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Dragon, Bronze",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 58,
+				"value": 58
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Bronze scales, thicker than shields, protect this sleek dragon from slingstones and arrows. Large dorsal fin.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 58, <strong>ATK</strong> 3 rend +8 (2d8) or 1 lightning breath, <strong>MV</strong> double near (fly, swim), <strong>S</strong> +4, <strong>D</strong> +0, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> L, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Lightning Breath</strong>. A straight line (5' wide) extending double near from dragon. DEX 15+ or 5d6 damage (DISADV on check if wearing metal armor).</p><p></p><p><strong>Shocking Aura</strong>. Create a far- width lightning aura centered on dragon for 5 rounds, 1d8 damage each round.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

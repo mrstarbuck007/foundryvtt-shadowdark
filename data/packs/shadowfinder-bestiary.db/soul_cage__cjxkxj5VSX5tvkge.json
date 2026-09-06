@@ -1,0 +1,28 @@
+{
+	"_id": "cjxkxj5VSX5tvkge",
+	"_key": "!actors.items!5wGSgbdKI5UVxT5Z.cjxkxj5VSX5tvkge",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Soul Cage",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Incorporeal creatures within near of algae, [[check 15 wis]] or trapped and immobile for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

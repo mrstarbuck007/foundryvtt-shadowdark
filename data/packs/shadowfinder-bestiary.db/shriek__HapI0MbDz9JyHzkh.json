@@ -1,0 +1,28 @@
+{
+	"_id": "HapI0MbDz9JyHzkh",
+	"_key": "!actors.items!NXqomRhNbfXsPAaj.HapI0MbDz9JyHzkh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Shriek",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Emit a double near- width sonic burst, [[check 15 con]] or deafened [[/r 1d4]] rounds. Audible underwater for miles.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

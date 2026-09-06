@@ -1,0 +1,20 @@
+{
+	"_id": "ozxNHFAO1i8VRZRR",
+	"_key": "!actors.items!sRxaWtxKnhZsp5a1.ozxNHFAO1i8VRZRR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Drag",
+	"system": {
+		"description": "<p>Target is pulled near.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

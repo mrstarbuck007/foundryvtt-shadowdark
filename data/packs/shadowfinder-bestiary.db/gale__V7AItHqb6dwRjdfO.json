@@ -1,0 +1,28 @@
+{
+	"_id": "V7AItHqb6dwRjdfO",
+	"_key": "!actors.items!S3kJ43DkvCyU5UgX.V7AItHqb6dwRjdfO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Gale",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Conjure a gale-force wind within far of hag for [[/r 1d4]] rounds, ranged weapons are useless.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

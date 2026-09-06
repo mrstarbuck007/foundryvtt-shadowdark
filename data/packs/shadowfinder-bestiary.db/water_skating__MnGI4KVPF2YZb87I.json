@@ -1,0 +1,20 @@
+{
+	"_id": "MnGI4KVPF2YZb87I",
+	"_key": "!actors.items!aTeMfXNK2011JUyM.MnGI4KVPF2YZb87I",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Water Skating",
+	"system": {
+		"description": "<p>Skim atop water's surface.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

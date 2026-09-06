@@ -1,0 +1,20 @@
+{
+	"_id": "r561DTh1VlitPzrI",
+	"_key": "!actors.items!RapvEv2wKkyEH2oF.r561DTh1VlitPzrI",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pure Evil",
+	"system": {
+		"description": "<p>Only damaged by magic sources. If destroyed, reappears somewhere else in the universe immediately.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

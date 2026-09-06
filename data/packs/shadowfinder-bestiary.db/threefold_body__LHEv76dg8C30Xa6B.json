@@ -1,0 +1,20 @@
+{
+	"_id": "LHEv76dg8C30Xa6B",
+	"_key": "!actors.items!ojw4sTXhe1miY39t.LHEv76dg8C30Xa6B",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Threefold Body",
+	"system": {
+		"description": "<p>Geryon has ADV against effects like blindness or deafness.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

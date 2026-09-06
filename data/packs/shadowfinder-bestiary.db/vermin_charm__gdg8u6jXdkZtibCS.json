@@ -1,0 +1,20 @@
+{
+	"_id": "gdg8u6jXdkZtibCS",
+	"_key": "!actors.items!DkWuciVbEluuSUP1.gdg8u6jXdkZtibCS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Vermin Charm",
+	"system": {
+		"description": "<p>Near, one vermin, [[check 9 cha]] or friendship for [[/r 1d4]] days.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

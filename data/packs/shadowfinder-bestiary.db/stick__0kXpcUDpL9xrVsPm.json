@@ -1,0 +1,20 @@
+{
+	"_id": "0kXpcUDpL9xrVsPm",
+	"_key": "!actors.items!XcyH3wYSLIpP88V9.0kXpcUDpL9xrVsPm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stick",
+	"system": {
+		"description": "<p>On a successful slam or if struck in melee, [[check 12 str]] or adhere to target; auto-hit with slam. [[check 12 str]] on turn to remove.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

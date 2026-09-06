@@ -1,0 +1,20 @@
+{
+	"_id": "l05Dvv1GyUvTtuGT",
+	"_key": "!actors.items!vSFeJeEvsZ1ocZ2M.l05Dvv1GyUvTtuGT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Roar",
+	"system": {
+		"description": "<p>In place of attacks, all creatures who can hear within far [[check 18 cha]] or paralyzed [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

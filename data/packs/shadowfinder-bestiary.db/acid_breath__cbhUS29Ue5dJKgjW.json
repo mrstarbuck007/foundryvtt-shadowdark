@@ -1,0 +1,28 @@
+{
+	"_id": "cbhUS29Ue5dJKgjW",
+	"_key": "!actors.items!wQtc07qHjoa30V53.cbhUS29Ue5dJKgjW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Acid Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A near-sized cube extending from vemerak. [[check 15 dex]] or [[/r 2d8]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

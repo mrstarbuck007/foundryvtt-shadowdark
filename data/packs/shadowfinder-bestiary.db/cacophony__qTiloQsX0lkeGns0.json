@@ -1,0 +1,28 @@
+{
+	"_id": "qTiloQsX0lkeGns0",
+	"_key": "!actors.items!e2EjgId2gGT3udqD.qTiloQsX0lkeGns0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Cacophony",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Creatures within near, [[check 12 wis]] or [[/r 1d4]] WIS damage. Immune for 1 day if passed check.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

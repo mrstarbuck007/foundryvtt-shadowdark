@@ -1,0 +1,20 @@
+{
+	"_id": "66rXBWq7BU8aS3jr",
+	"_key": "!actors.items!bn8gRXhFfJEcGVpg.66rXBWq7BU8aS3jr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Petrify",
+	"system": {
+		"description": "<p>[[check 15 con]] or [[/r 1d6]] DEX damage. Petrified at 0 DEX.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "DqX7Nnej0zUn358q",
+	"_key": "!actors.items!SCcWlcDSpY72BtUx.DqX7Nnej0zUn358q",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ghorus Seed",
+	"system": {
+		"description": "<p>As an action, expel a seed from body. If planted, the seed sprouts into a duplicate of the ghoran in [[/r 2d4]] days, retains memories and skills. Original ghoran dies if seed sprouts.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

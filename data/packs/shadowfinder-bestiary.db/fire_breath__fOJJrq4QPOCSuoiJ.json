@@ -1,0 +1,28 @@
+{
+	"_id": "fOJJrq4QPOCSuoiJ",
+	"_key": "!actors.items!dOtdqf7rArJu9KQ9.fOJJrq4QPOCSuoiJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Fire Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (5' wide) extending near from locust. [[check 9 dex]] or [[/r 1d6]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

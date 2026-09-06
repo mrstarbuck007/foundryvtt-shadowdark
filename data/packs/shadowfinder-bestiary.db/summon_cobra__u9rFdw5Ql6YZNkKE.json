@@ -1,0 +1,30 @@
+{
+	"_id": "u9rFdw5Ql6YZNkKE",
+	"_key": "!actors.items!bngaKiE5hng0wRMZ.u9rFdw5Ql6YZNkKE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Summon Cobra",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Summon [[/r 1d4]] loyal cobras that appear within near. They leave in [[/r 1d4]] rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d4"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

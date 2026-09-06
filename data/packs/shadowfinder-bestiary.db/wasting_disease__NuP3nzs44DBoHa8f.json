@@ -1,0 +1,20 @@
+{
+	"_id": "NuP3nzs44DBoHa8f",
+	"_key": "!actors.items!Vljjf5rrgpVv2VTr.NuP3nzs44DBoHa8f",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Wasting Disease",
+	"system": {
+		"description": "<p>[[check 12 con]] or [[/r 1d4]] CON damage (can't heal while ill). On a natural 1, lose CON permanently. Repeat check once per day; ends on success. Die at 0 CON.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

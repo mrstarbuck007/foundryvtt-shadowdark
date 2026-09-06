@@ -1,0 +1,20 @@
+{
+	"_id": "jiCfj5oqQ8dU68QB",
+	"_key": "!actors.items!rGHwZpGshkOosNOg.jiCfj5oqQ8dU68QB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Madness",
+	"system": {
+		"description": "<p>Warps reality for all mortals within far. Each turn, [[check 18 wis]] or [[/r 2d4]] WIS damage. Insane at 0 WIS.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

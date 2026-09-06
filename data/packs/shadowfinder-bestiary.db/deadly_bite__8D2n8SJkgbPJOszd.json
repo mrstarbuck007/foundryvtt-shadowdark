@@ -1,0 +1,20 @@
+{
+	"_id": "8D2n8SJkgbPJOszd",
+	"_key": "!actors.items!IYzs33MdMUUJKiLe.8D2n8SJkgbPJOszd",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Deadly Bite",
+	"system": {
+		"description": "<p>On a critical hit, [[check 18 con]] or decapitated.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "0kQst0racsm3qNec",
+	"_key": "!actors.items!LGzFoMmOTiscMHYo.0kQst0racsm3qNec",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Air Cyst",
+	"system": {
+		"description": "<p>3/day, harvest a nodule filled with 1 hour of breathable air.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

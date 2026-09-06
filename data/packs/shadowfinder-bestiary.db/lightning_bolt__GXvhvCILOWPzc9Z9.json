@@ -1,0 +1,28 @@
+{
+	"_id": "GXvhvCILOWPzc9Z9",
+	"_key": "!actors.items!4qTRMxIltNvtFXb2.GXvhvCILOWPzc9Z9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Lightning Bolt",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>1/day, bolt of lightning in a straight line (5' wide) extending double near from skrimsl. [[check 15 dex]] or [[/r 3d6]] damage (DISADV on check if wearing metal armor).</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

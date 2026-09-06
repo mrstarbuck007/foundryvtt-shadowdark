@@ -1,0 +1,75 @@
+{
+	"_id": "mdccAJkwDH4a3vzH",
+	"_key": "!actors!mdccAJkwDH4a3vzH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"zvu4Y24jptE6zZTj",
+		"IRb4FOt2tQMSbbW6",
+		"LM0bhEC51W9CUYd0",
+		"1V4TMyAsXT9Hzfgy",
+		"AwAREFeutvOqC1wI"
+	],
+	"name": "Great Old One, Yig",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Great Old One, Yig",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 5
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 72,
+				"value": 72
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 15,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Green-scaled giant with a snake's tail and head, crescent mark on brow. The progenitor of all snakes.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 72, <strong>ATK</strong> 2 bite +10 (3d10 + curse of Yig + poison), <strong>MV</strong> double near (climb, fly, swim), <strong>S</strong> +5, <strong>D</strong> +4, <strong>C</strong> +5, <strong>I</strong> +5, <strong>W</strong> +5, <strong>Ch</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 15</p><p></p>\n\t<p><strong>Curse of Yig</strong>. CHA 18+ or cursed, DISADV against poison.</p><p></p><p><strong>Madness</strong>. Warps reality for all mortals within far. Each turn, WIS 18+ or cursed, DISADV on checks against curses. On success, immune.</p><p></p><p><strong>Poison</strong>. CON 18+ or reduced to 0 HP with a death timer of 1.</p><p></p><p><strong>Pure Evil</strong>. Only damaged by magic sources. If destroyed, reborn from a venomous serpent's egg, matures into Yig over centuries.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

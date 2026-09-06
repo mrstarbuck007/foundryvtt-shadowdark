@@ -1,0 +1,73 @@
+{
+	"_id": "gqGd0Snf9JFqYs8v",
+	"_key": "!actors!gqGd0Snf9JFqYs8v",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"sIIKBcQHs4OaaLrG",
+		"YFcnQat5UAOyUwse",
+		"3LFrzlsxTUiaeKlR"
+	],
+	"name": "Lotus Tree",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Lotus Tree",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 53,
+				"value": 53
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Bright pink tree covered in plump, round fruit. Heady, intoxicating smell.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 53, <strong>ATK</strong> 2 slam +7 (3d6) and hallucinations and hope theft, <strong>MV</strong> close, <strong>S</strong> +5, <strong>D</strong> +2, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +5, <strong>Ch</strong> +4, <strong>AL</strong> N, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Hallucinations</strong>. Mortals in double near of tree or who eat fruit, WIS 15+ or have pleasant visions for 1d10 rounds, seek to eat fruit and protect tree.</p><p></p><p><strong>Hope Theft</strong>. One mortal within double near of tree who has eaten tree's fruit, WIS 15+ or permanently charmed by tree, forgetting all memories and desires. Seeks to protect tree.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

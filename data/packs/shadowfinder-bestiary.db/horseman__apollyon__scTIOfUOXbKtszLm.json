@@ -1,0 +1,74 @@
+{
+	"_id": "scTIOfUOXbKtszLm",
+	"_key": "!actors!scTIOfUOXbKtszLm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"gt7Nw40RDOty3IPR",
+		"8h5dGPGaNX4hmTsu",
+		"7SYIgPODDta1hMKI",
+		"KuU3e8UwLEMEnxGK"
+	],
+	"name": "Horseman, Apollyon",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Horseman, Apollyon",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 5
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 82,
+				"value": 82
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 17,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Skeletal man with a ram's head, wreathed in a cloud of flies. Horseman of Pestilence.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15 (plate mail), <strong>HP</strong> 82, <strong>ATK</strong> 3 scythe +9 (2d4 + soul rot) or 3 longbow (far) +8 (1d8 + soul rot), <strong>MV</strong> near (fly), <strong>S</strong> +6, <strong>D</strong> +4, <strong>C</strong> +6, <strong>I</strong> +5, <strong>W</strong> +5, <strong>Ch</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 17</p><p></p>\n\t<p><strong>Pure Evil</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Soul Rot</strong>. CON 18+ or lose 1d4 CON permanently (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

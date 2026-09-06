@@ -1,0 +1,20 @@
+{
+	"_id": "fO35Ya3ROBMLamgo",
+	"_key": "!actors.items!jg7XV3ia2F15O0WR.fO35Ya3ROBMLamgo",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Luminous",
+	"system": {
+		"description": "<p>Can shed light equal to a candle. Turns into glitter if slain.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

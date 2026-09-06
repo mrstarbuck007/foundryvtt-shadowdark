@@ -1,0 +1,20 @@
+{
+	"_id": "EWcL2sqnn50fM6lw",
+	"_key": "!actors.items!fIP4gVXmghT8UlLa.EWcL2sqnn50fM6lw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Karmic Link",
+	"system": {
+		"description": "<p>When damaged by an attacker, [[check 15 cha]] or aeon takes half damage, and the attacker takes half damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

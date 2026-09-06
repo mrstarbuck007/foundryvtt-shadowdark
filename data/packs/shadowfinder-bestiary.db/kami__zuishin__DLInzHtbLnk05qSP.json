@@ -1,0 +1,74 @@
+{
+	"_id": "DLInzHtbLnk05qSP",
+	"_key": "!actors!DLInzHtbLnk05qSP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"cUpf9gIuZjewoS6k",
+		"jFAmxQVstuS33KBn",
+		"cYT5KvIKoT4bx6BC",
+		"QK5yfRdJX2sNgY9F"
+	],
+	"name": "Kami, Zuishin",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Kami, Zuishin",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 29,
+				"value": 29
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Shrine kami, oni-slayers. Guardians of temples and holy gates. Appears as a faintly glowing suit of armor with an ornate longbow.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15 (plate mail), <strong>HP</strong> 29, <strong>ATK</strong> 2 spear +5 (1d6) or 2 longbow (far) +5 (1d8), <strong>MV</strong> near (fly), <strong>S</strong> +2, <strong>D</strong> +3, <strong>C</strong> +2, <strong>I</strong> +0, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> L, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Healing Arrow</strong>. Kami can choose to fire a healing arrow, heals 1d8 HP.</p><p></p><p><strong>Ward</strong>. Kami protects a temple or shrine. Can merge into warded area and observe everything occurring there. Arms and armor dissolve if slain.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

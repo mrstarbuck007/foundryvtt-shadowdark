@@ -1,0 +1,74 @@
+{
+	"_id": "YMtfTThMtSIOrMmc",
+	"_key": "!actors!YMtfTThMtSIOrMmc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"Qfu4pETgKO1uF9dA",
+		"WDaE048oissarGx1",
+		"Jtn8JUmmZ8O8q9Y9",
+		"EdLZnGP9KVZ03Rbg"
+	],
+	"name": "Android",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Android",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Pale humanoid covered in geometric tattoos. Created fully formed in space-tech forge-vats. Emotionless.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13 (leather), <strong>HP</strong> 4, <strong>ATK</strong> 1 shortsword +1 (1d6), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> +1, <strong>W</strong> +0, <strong>Ch</strong> -2, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Backstab</strong>. Deal x2 damage against surprised creatures.</p><p></p><p><strong>Forge-Made</strong>. ADV against fatigue, immune to disease, fear, and sleep.</p><p></p><p><strong>Stealthy</strong>. ADV on DEX checks to sneak and hide.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

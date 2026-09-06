@@ -1,0 +1,72 @@
+{
+	"_id": "VT49xdsnOPBHEAMg",
+	"_key": "!actors!VT49xdsnOPBHEAMg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"bLc66AqsFPMOdNen",
+		"80YtKx9zwrF5PbUC"
+	],
+	"name": "Sea Urchin, Spear",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Sea Urchin, Spear",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": -3
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 7
+			},
+			"hp": {
+				"max": 10,
+				"value": 10
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "",
+		"notes": "\n\t<p><i>8-foot diameter spherical sea urchin, spear-sized violet spines ending in black tips.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 7, <strong>HP</strong> 10, <strong>ATK</strong> 2 spine dart (near) -1 (1d6 + spines), <strong>MV</strong> close, <strong>S</strong> +2, <strong>D</strong> -3, <strong>C</strong> +1, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Spines</strong>. Creatures hit by or striking urchin in melee CON 9+ or stunned for 1 round.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

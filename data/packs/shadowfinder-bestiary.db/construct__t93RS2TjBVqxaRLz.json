@@ -1,0 +1,20 @@
+{
+	"_id": "t93RS2TjBVqxaRLz",
+	"_key": "!actors.items!aEaRTEYBUB7Eafhl.t93RS2TjBVqxaRLz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Construct",
+	"system": {
+		"description": "<p>Only damaged by adamantine or magical sources. Healed by fire, double damage from cold.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

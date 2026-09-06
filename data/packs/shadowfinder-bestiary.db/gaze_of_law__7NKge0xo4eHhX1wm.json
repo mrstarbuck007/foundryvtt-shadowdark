@@ -1,0 +1,20 @@
+{
+	"_id": "7NKge0xo4eHhX1wm",
+	"_key": "!actors.items!6kLf8xIDEwkDpIxE.7NKge0xo4eHhX1wm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Gaze of Law",
+	"system": {
+		"description": "<p>Can affix a chaotic foe with her gaze. Dies if LV 2 or lower.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

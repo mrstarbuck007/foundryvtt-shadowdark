@@ -1,0 +1,28 @@
+{
+	"_id": "4SU2hrnB7hushsaa",
+	"_key": "!actors.items!RVFAeQ1CkItlhzCc.4SU2hrnB7hushsaa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Gaze",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One target within near, [[check 15 cha]] or [[/r 1d4]] WIS damage, insane at 0 WIS.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

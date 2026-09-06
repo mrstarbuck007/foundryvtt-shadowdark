@@ -1,0 +1,20 @@
+{
+	"_id": "PL2CNfcPx1dypfeh",
+	"_key": "!actors.items!sQpolIowT59Yrkul.PL2CNfcPx1dypfeh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Madness",
+	"system": {
+		"description": "<p>Creatures in near, [[check 12 wis]] on turn or confused.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

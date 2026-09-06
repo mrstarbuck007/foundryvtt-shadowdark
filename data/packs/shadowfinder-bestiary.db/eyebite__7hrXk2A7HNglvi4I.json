@@ -1,0 +1,28 @@
+{
+	"_id": "7hrXk2A7HNglvi4I",
+	"_key": "!actors.items!WKQ0OELF5xHREBxM.7hrXk2A7HNglvi4I",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Eyebite",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>If graeae's eye is within near, can gaze at one mortal, giving ADV or DISADV on their next roll. If the eye is farther than near, the graeae is blind.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

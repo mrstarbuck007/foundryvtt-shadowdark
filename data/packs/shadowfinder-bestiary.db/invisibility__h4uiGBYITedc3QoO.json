@@ -1,0 +1,20 @@
+{
+	"_id": "h4uiGBYITedc3QoO",
+	"_key": "!actors.items!LIYvNckh6aVyeRQj.h4uiGBYITedc3QoO",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Invisibility",
+	"system": {
+		"description": "<p>Turn invisible. Ends if domovoi attacks.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

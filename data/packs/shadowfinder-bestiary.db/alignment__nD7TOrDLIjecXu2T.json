@@ -1,0 +1,20 @@
+{
+	"_id": "nD7TOrDLIjecXu2T",
+	"_key": "!actors.items!saTvRUXG3QDygxJn.nD7TOrDLIjecXu2T",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Alignment",
+	"system": {
+		"description": "<p>Determined by the plane it is aligned with.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

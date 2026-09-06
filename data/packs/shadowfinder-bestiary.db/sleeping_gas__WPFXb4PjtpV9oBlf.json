@@ -1,0 +1,28 @@
+{
+	"_id": "WPFXb4PjtpV9oBlf",
+	"_key": "!actors.items!DFkkzGXeDXD1IPR2.WPFXb4PjtpV9oBlf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Sleeping Gas",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a near- sized cube extending from kamadan. [[check 12 con]] or asleep for [[/r 1d4]] hours.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

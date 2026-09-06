@@ -1,0 +1,20 @@
+{
+	"_id": "wn961Vuz9zswYOQK",
+	"_key": "!actors.items!5w799jZgKjBX6rWX.wn961Vuz9zswYOQK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Beast Mastery",
+	"system": {
+		"description": "<p>Animals hearing Cernunnos, [[check 18 cha]] or utterly charmed for [[/r 1d8]] days.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

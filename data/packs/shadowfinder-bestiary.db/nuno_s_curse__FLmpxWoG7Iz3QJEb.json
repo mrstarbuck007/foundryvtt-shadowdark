@@ -1,0 +1,20 @@
+{
+	"_id": "FLmpxWoG7Iz3QJEb",
+	"_key": "!actors.items!oXKog4tXzXUlK6iZ.FLmpxWoG7Iz3QJEb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Nuno's Curse",
+	"system": {
+		"description": "<p>[[check 18 wis]] or one body part the nuno has touched becomes swollen and pus-filled.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

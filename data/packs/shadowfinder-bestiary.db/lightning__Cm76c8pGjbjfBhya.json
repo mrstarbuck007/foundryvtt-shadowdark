@@ -1,0 +1,30 @@
+{
+	"_id": "Cm76c8pGjbjfBhya",
+	"_key": "!actors.items!ulmLROiQuJQGdbmg.Cm76c8pGjbjfBhya",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Lightning",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>A 5-foot wide line of electricity extending far from naga, [[/r 3d6]] damage.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "far",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

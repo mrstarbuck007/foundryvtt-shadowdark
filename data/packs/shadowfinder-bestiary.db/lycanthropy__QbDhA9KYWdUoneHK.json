@@ -1,0 +1,20 @@
+{
+	"_id": "QbDhA9KYWdUoneHK",
+	"_key": "!actors.items!egBuqUqmZA3fpV6l.QbDhA9KYWdUoneHK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lycanthropy",
+	"system": {
+		"description": "<p>If 12 or more damage from the same wererat, contract lycanthropy.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

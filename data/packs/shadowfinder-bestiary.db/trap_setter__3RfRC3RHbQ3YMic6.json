@@ -1,0 +1,20 @@
+{
+	"_id": "3RfRC3RHbQ3YMic6",
+	"_key": "!actors.items!JgzduMuLfgJZQ4oX.3RfRC3RHbQ3YMic6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Trap-Setter",
+	"system": {
+		"description": "<p>Reset a trap within close. Does not trigger traps or hazards. Can mend or replace traps.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

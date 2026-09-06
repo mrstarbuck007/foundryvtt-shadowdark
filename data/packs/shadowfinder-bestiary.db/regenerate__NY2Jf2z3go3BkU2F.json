@@ -1,0 +1,20 @@
+{
+	"_id": "NY2Jf2z3go3BkU2F",
+	"_key": "!actors.items!ntY2eTWpwXpD5FKm.NY2Jf2z3go3BkU2F",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Regenerate",
+	"system": {
+		"description": "<p>Unless reduced to 0 HP, regains [[/r 3d6]] HP on its turn.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

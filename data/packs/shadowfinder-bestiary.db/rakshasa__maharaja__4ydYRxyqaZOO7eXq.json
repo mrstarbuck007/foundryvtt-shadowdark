@@ -1,0 +1,74 @@
+{
+	"_id": "4ydYRxyqaZOO7eXq",
+	"_key": "!actors!4ydYRxyqaZOO7eXq",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"tPg9G2TVKHadNtZY",
+		"EXUc4tbXgP4aEbK6",
+		"uRsr1qnjfR2xWXtJ",
+		"T94OVfSKmGSbW1LO"
+	],
+	"name": "Rakshasa, Maharaja",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Rakshasa, Maharaja",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 50,
+				"value": 50
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Rakshasa noble dressed in the finest garb. A rakshasa who has spent generations studying the secret prayers may become a maharaja.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 50, <strong>ATK</strong> 4 falchion +7 (2d4), <strong>MV</strong> near (fly), <strong>S</strong> +4, <strong>D</strong> +4, <strong>C</strong> +5, <strong>I</strong> +3, <strong>W</strong> +3, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Impervious</strong>. Only damaged by magical sources. Immune to all hostile spells.</p><p></p><p><strong>Mesmerism</strong>. Can read the minds of all creatures within near. Can instantly take on the illusory appearance of any humanoid.</p><p></p><p><strong>Swift</strong>. ADV on initiative.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

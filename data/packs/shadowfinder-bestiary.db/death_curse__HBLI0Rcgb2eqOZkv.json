@@ -1,0 +1,20 @@
+{
+	"_id": "HBLI0Rcgb2eqOZkv",
+	"_key": "!actors.items!Urk4yfyYKxB1GNO5.HBLI0Rcgb2eqOZkv",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Death Curse",
+	"system": {
+		"description": "<p>When slain, death curses the slayer. [[check 15 wis]] or cursed to be unable to regain HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

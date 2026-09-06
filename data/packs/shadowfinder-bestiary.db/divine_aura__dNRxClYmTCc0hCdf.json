@@ -1,0 +1,20 @@
+{
+	"_id": "dNRxClYmTCc0hCdf",
+	"_key": "!actors.items!vldOMZt2nYjNfFHk.dNRxClYmTCc0hCdf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Divine Aura",
+	"system": {
+		"description": "<p>Hostile spells targeting the archon are DC 15. Weapons and armor dissolve if slain. Servant of the Storm.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

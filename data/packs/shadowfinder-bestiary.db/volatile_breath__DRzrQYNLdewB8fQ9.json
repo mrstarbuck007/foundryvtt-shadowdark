@@ -1,0 +1,28 @@
+{
+	"_id": "DRzrQYNLdewB8fQ9",
+	"_key": "!actors.items!1TQgXtRV0BoYhxL6.DRzrQYNLdewB8fQ9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Volatile Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Hazy, sulfurous gas fills a double near-sized cube extending from targotha. [[check 15 wis]] or confused for [[/r 1d4]] rounds. If exposed to fire, gas explodes, [[check 15 dex]] or [[/r 3d6]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

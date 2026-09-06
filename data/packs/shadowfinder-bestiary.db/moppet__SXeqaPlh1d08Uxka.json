@@ -1,0 +1,20 @@
+{
+	"_id": "SXeqaPlh1d08Uxka",
+	"_key": "!actors.items!JXeYkQ5pJINLUbY8.SXeqaPlh1d08Uxka",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Moppet",
+	"system": {
+		"description": "<p>Don't need to breathe, drink, or eat. Still needs rest.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

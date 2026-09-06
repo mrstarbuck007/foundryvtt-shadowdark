@@ -1,0 +1,30 @@
+{
+	"_id": "bCSRgy4uR9aVjYZC",
+	"_key": "!actors.items!zn5O0UupQ53GigOx.bCSRgy4uR9aVjYZC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Wind Step",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Self. DC 12. Teleport within near.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "self",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

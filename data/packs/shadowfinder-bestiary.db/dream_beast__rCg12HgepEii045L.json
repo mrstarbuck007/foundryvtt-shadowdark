@@ -1,0 +1,20 @@
+{
+	"_id": "rCg12HgepEii045L",
+	"_key": "!actors.items!8TBwhvz4j4FcEGoc.rCg12HgepEii045L",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dream Beast",
+	"system": {
+		"description": "<p>In place of attacks, become corporeal or incorporeal.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,73 @@
+{
+	"_id": "NJfDOVqAhZKJ8hhF",
+	"_key": "!actors!NJfDOVqAhZKJ8hhF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"rVCr1c9qFGJL3UmO",
+		"BC7JkB6CccUj0Iyq",
+		"mHDKk5ljcLlvXL0z"
+	],
+	"name": "Rusalka",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Rusalka",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 47,
+				"value": 47
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Aquatic faerie women with long, slippery black hair. Haunt rivers and waterways near towns and cities. Drowns passersby if not placated with offerings.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 47, <strong>ATK</strong> 2 hair (near) +7 (2d6) or song, <strong>MV</strong> near (swim), <strong>S</strong> +2, <strong>D</strong> +3, <strong>C</strong> +2, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Invisible</strong>. Turn invisible in water. Can sing without becoming visible.</p><p></p><p><strong>Song</strong>. All targets who can hear within double near, CHA 15+ or beguiled and drawn to rusalka for 1d4 rounds. On success, immune for 1 day.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

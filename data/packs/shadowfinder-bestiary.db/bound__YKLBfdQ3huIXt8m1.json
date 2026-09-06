@@ -1,0 +1,20 @@
+{
+	"_id": "YKLBfdQ3huIXt8m1",
+	"_key": "!actors.items!zvyhd20fwm3JeIW9.YKLBfdQ3huIXt8m1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Bound",
+	"system": {
+		"description": "<p>Cannot attack or hinder a creature wearing the deity's holy symbol.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

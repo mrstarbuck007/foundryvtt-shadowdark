@@ -1,0 +1,74 @@
+{
+	"_id": "Z24BWy9XdgxAyVhU",
+	"_key": "!actors!Z24BWy9XdgxAyVhU",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"cnB42FfOKp71yeeW",
+		"6fImAASEZPUr0caY",
+		"chufO31DZGgPVOMc",
+		"eisBsy4QmAQxll2s"
+	],
+	"name": "Cetus",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Cetus",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 39,
+				"value": 39
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Seafoam-green aquatic dragonkin with a shark head and a long, ribbony eel-like body. Powerful but dumb.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 39, <strong>ATK</strong> 2 bite +7 (3d6 + swallow), <strong>MV</strong> double near (swim), <strong>S</strong> +6, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Impossible Leap</strong>. Jump up to far in height and double near in distance, then make 2 bite attacks.</p><p></p><p><strong>Mariner's Misfortune</strong>. Non- aquatic mortals within near, CHA 15+ or cursed with bad luck, rolling checks and attacks with DISADV for 1d4 rounds. On success, immune for 24 hours.</p><p></p><p><strong>Swallow</strong>. On a natural attack roll of 19-20, target is swallowed. Total darkness inside and 2d10 damage per round. Cetus regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

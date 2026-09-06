@@ -1,0 +1,20 @@
+{
+	"_id": "QeHorL9KpMSTL1er",
+	"_key": "!actors.items!b3XcdJFVUeQ14kJZ.QeHorL9KpMSTL1er",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Calming Song",
+	"system": {
+		"description": "<p>While performing, [[check 9 cha]] to take hostile actions against vulpinal or allies. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

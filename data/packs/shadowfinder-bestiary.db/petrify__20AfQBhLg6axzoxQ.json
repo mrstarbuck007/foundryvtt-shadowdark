@@ -1,0 +1,20 @@
+{
+	"_id": "20AfQBhLg6axzoxQ",
+	"_key": "!actors.items!6IRh6cmEdacPRfcY.20AfQBhLg6axzoxQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Petrify",
+	"system": {
+		"description": "<p>Any creature that touches the dracolisk or meets its gaze, [[check 15 con]] or petrified.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

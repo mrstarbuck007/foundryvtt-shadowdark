@@ -1,0 +1,74 @@
+{
+	"_id": "nwNhrjjHXamfsJLh",
+	"_key": "!actors!nwNhrjjHXamfsJLh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"GlMnzMe1d70DfNT1",
+		"F91HUb3XhIb4fVwi",
+		"tu1RlXSmv5dpuB5a",
+		"XxDGugB0twbIMUCi"
+	],
+	"name": "Naga, Lunar",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Naga, Lunar",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 19,
+				"value": 19
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A jet-black cobra with an albino, feminine head with bone-white hair. Renowned astrologers and star-gazers.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 19, <strong>ATK</strong> 2 bite +3 (1d6 + poison) and 1 spell +5, <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> N, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Dominate (CHA Spell)</strong>. DC 14. LV 4 or less, friendship for 1d8 days.</p><p></p><p><strong>Oracle</strong>. 1/day, go into celestial trance and truthfully answer three yes or no questions.</p><p></p><p><strong>Poison</strong>. CON 12+ or paralyzed 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "cha",
+			"attacks": 1,
+			"bonus": 5
+		}
+	},
+	"type": "NPC"
+}

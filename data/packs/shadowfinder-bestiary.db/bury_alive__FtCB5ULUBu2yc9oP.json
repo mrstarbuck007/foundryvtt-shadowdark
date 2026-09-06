@@ -1,0 +1,28 @@
+{
+	"_id": "FtCB5ULUBu2yc9oP",
+	"_key": "!actors.items!RiYcCNOHPnNrbMAB.FtCB5ULUBu2yc9oP",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Bury Alive",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Seal a pit within near, burying a target alive. Suffocate in [[/r 2d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

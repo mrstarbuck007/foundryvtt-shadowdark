@@ -1,0 +1,30 @@
+{
+	"_id": "hK0sLTW4KZYpQczt",
+	"_key": "!actors.items!tbfWzhiyGi05quRL.hK0sLTW4KZYpQczt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Babble",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Focus. One target in near of LV 4 or less is confused, rants madly and acts randomly.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

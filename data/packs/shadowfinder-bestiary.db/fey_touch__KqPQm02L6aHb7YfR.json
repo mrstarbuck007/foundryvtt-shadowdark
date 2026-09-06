@@ -1,0 +1,20 @@
+{
+	"_id": "KqPQm02L6aHb7YfR",
+	"_key": "!actors.items!amRNkOtDAycGNWXx.KqPQm02L6aHb7YfR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fey Touch",
+	"system": {
+		"description": "<p>One target within close, [[check 12 wis]] or dazed for 1 round.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

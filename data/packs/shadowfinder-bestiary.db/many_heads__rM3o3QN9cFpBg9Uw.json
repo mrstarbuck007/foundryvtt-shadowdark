@@ -1,0 +1,20 @@
+{
+	"_id": "rM3o3QN9cFpBg9Uw",
+	"_key": "!actors.items!zjZx179BSag4ewKe.rM3o3QN9cFpBg9Uw",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Many Heads",
+	"system": {
+		"description": "<p>ADV against charm, sleep, confusion, and other mind-altering effects.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

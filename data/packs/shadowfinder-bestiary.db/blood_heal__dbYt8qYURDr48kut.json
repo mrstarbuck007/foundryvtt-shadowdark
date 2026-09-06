@@ -1,0 +1,20 @@
+{
+	"_id": "dbYt8qYURDr48kut",
+	"_key": "!actors.items!cOhystXXF2DVCxNo.dbYt8qYURDr48kut",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Heal",
+	"system": {
+		"description": "<p>Regains 5 HP on a successful claw.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

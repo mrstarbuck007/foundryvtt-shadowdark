@@ -1,0 +1,28 @@
+{
+	"_id": "cNqfxgPbl8ay33fr",
+	"_key": "!actors.items!FFDC97T1EmlCZ4GV.cNqfxgPbl8ay33fr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Thunder Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A double near-size cube of pealing thunder extending from dragon. [[check 15 con]] or [[/r 5d4]] damage and deafened [[/r 1d6]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

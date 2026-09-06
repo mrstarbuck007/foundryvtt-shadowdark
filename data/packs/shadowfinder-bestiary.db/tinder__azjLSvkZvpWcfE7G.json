@@ -1,0 +1,20 @@
+{
+	"_id": "azjLSvkZvpWcfE7G",
+	"_key": "!actors.items!MnfdO8LGmFey3pYu.azjLSvkZvpWcfE7G",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Tinder",
+	"system": {
+		"description": "<p>Double damage from any fire.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

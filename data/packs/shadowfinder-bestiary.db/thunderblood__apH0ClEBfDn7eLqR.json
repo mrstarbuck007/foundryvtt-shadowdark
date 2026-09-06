@@ -1,0 +1,20 @@
+{
+	"_id": "apH0ClEBfDn7eLqR",
+	"_key": "!actors.items!vQs81dunezfJtOdN.apH0ClEBfDn7eLqR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Thunderblood",
+	"system": {
+		"description": "<p>Lightning immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

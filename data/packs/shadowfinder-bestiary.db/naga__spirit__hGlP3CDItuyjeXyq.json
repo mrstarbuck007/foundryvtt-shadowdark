@@ -1,0 +1,74 @@
+{
+	"_id": "hGlP3CDItuyjeXyq",
+	"_key": "!actors!hGlP3CDItuyjeXyq",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"20XF650EWdyXRL1r",
+		"3VanbYu3ubU86ePc",
+		"bgU5ksw7dtkaKYt1",
+		"SxJOF8Xh7pxfWMM8"
+	],
+	"name": "Naga, Spirit",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Naga, Spirit",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 25,
+				"value": 25
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Magic-wielding grey cobra- women looming eight feet high. Elusive, evasive, striving to charm and beguile.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 25, <strong>ATK</strong> 2 bite +3 (2d6 + poison) and 1 spell +3, <strong>MV</strong> near (climb), <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Charm (CHA Spell)</strong>. DC 13. Focus. One target in near range who can see naga is dominated for duration.</p><p></p><p><strong>Illusion (CHA Spell)</strong>. DC 11. Create a convincing visual and/or auditory illusion within near. Lasts 5 rounds.</p><p></p><p><strong>Poison</strong>. CON 15+ or paralyzed 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "cha",
+			"attacks": 1,
+			"bonus": 3
+		}
+	},
+	"type": "NPC"
+}

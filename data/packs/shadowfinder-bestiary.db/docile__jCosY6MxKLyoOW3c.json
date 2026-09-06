@@ -1,0 +1,20 @@
+{
+	"_id": "jCosY6MxKLyoOW3c",
+	"_key": "!actors.items!rnCNjcK0sFHjT2Wr.jCosY6MxKLyoOW3c",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Docile",
+	"system": {
+		"description": "<p>DISADV on morale checks.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

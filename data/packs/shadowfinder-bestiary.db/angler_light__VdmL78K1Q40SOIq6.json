@@ -1,0 +1,20 @@
+{
+	"_id": "VdmL78K1Q40SOIq6",
+	"_key": "!actors.items!EPbwQCdHSQvEEAON.VdmL78K1Q40SOIq6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Angler Light",
+	"system": {
+		"description": "<p>Illuminate head orb, as torch. If extracted from dead ceratioidi, glows like a torch for 1 hour.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

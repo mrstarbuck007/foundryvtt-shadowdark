@@ -1,0 +1,20 @@
+{
+	"_id": "6H0KMyxXEO6Hzu4q",
+	"_key": "!actors.items!Jqj8y3ZsvswS699w.6H0KMyxXEO6Hzu4q",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Implant",
+	"system": {
+		"description": "<p>Lay eggs inside grabbed or helpless mortal. [[check 15 con]] or [[/r 1d4]] CON damage (cannot heal while ill). Repeat check once per hour; ends on success. Die at 0 CON, spawning [[/r 2d6]] lunarma larvae from the corpse.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

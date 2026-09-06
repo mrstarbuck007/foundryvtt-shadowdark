@@ -1,0 +1,20 @@
+{
+	"_id": "U9xSF9tJgursge8P",
+	"_key": "!actors.items!i0tHlbRDL3t8uOfb.U9xSF9tJgursge8P",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ward",
+	"system": {
+		"description": "<p>Kami protects a tree, grove, or other wooded area. Can merge into warded area and observe everything occurring there.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "ECUVN42bLmMB5BoK",
+	"_key": "!actors.items!vkOvj7v12AkjlOD3.ECUVN42bLmMB5BoK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Bristles",
+	"system": {
+		"description": "<p>Creatures touching or striking caterpillar in melee, [[check 9 dex]] or take [[/r 1d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

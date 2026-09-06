@@ -1,0 +1,73 @@
+{
+	"_id": "axLbADfRrMmYDI4g",
+	"_key": "!actors!axLbADfRrMmYDI4g",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"M1vuqcOzWeSwnGHp",
+		"YAWKiSOYykZ32pOu",
+		"o6Wd6zTPaaunURzK"
+	],
+	"name": "Gloomwing",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Gloomwing",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 9,
+				"value": 9
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Purple, velvet-covered moth with 15-foot wide violet wings. Dwellers in shadow and deep, dark places.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 9, <strong>ATK</strong> 1 proboscis +1 (1d4) or implant, <strong>MV</strong> near (fly), <strong>S</strong> +0, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Implant</strong>. Lay eggs inside helpless mortal. CON 15+ or 1d4 CON damage (cannot heal while ill). Repeat check once per day; ends on success. Die at 0 CON, spawning 1d4 tenebrous worms which burst from the corpse and devour it.</p><p></p><p><strong>Stupefy</strong>. Any creature who looks directly at gloomwing, CHA 15+ or stupefied for 1 round.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

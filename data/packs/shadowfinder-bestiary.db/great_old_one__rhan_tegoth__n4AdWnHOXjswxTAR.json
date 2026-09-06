@@ -1,0 +1,75 @@
+{
+	"_id": "n4AdWnHOXjswxTAR",
+	"_key": "!actors!n4AdWnHOXjswxTAR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"WitOrAqNvxNrWglX",
+		"aUryVSOAr1DFHxVf",
+		"GTI754IQkbV04W3i",
+		"lPbpBDAYNNLMSism",
+		"73YYb1Oum9UVM3TR"
+	],
+	"name": "Great Old One, Rhan-Tegoth",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Great Old One, Rhan-Tegoth",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 77,
+				"value": 77
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 16,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Globular spider-thing with six crab-claws, a three-eyed orb- head, and elephantine trunk. Glyphic statues are scattered across existence.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 77, <strong>ATK</strong> 6 claw +6 (2d6 + grab) and 1 feed, <strong>MV</strong> double near (fly, swim), <strong>S</strong> +5, <strong>D</strong> +3, <strong>C</strong> +5, <strong>I</strong> +4, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 16</p><p></p>\n\t<p><strong>Feed</strong>. Drain fluids, CON 15+ or lose 2d4 CON permanently.</p><p></p><p><strong>Grab</strong>. STR 18+ or held. STR 18+ on turn to break free.</p><p></p><p><strong>Madness</strong>. Warps reality for all mortals within far. Each turn, WIS 18+ or DISADV.</p><p></p><p><strong>Pure Evil</strong>. Only damaged by magic sources. Turns into nigh-indestructible statue if reduced to 0 HP, reborn from statue when the stars align.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

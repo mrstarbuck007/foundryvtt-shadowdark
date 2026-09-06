@@ -1,0 +1,20 @@
+{
+	"_id": "cARTc19NuvMbcaLp",
+	"_key": "!actors.items!aSkDIXzhgamRicCb.cARTc19NuvMbcaLp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Gift",
+	"system": {
+		"description": "<p>Brand a willing target with the mark of Hell. Target gains one Tier 3 or lower priest spell. Freely observe via a branded creature's senses. Can inflict [[/r 6d6]] damage on a branded creature at will.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

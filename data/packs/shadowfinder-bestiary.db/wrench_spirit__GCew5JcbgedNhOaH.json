@@ -1,0 +1,20 @@
+{
+	"_id": "GCew5JcbgedNhOaH",
+	"_key": "!actors.items!skBOFrk8ji8bFePy.GCew5JcbgedNhOaH",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Wrench Spirit",
+	"system": {
+		"description": "<p>Esobok tears spirit free from body. Undead of LV 2 or lower are destroyed. Otherwise, [[check 12 cha]] or stunned for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

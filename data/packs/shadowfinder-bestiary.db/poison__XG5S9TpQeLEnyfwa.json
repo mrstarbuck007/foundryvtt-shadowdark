@@ -1,0 +1,20 @@
+{
+	"_id": "XG5S9TpQeLEnyfwa",
+	"_key": "!actors.items!4350iDcr0qwpyq0R.XG5S9TpQeLEnyfwa",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>[[check 15 con]] or take [[/r 1d6]] damage. Paralyzed at 0 DEX.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

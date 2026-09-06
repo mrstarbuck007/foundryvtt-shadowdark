@@ -1,0 +1,20 @@
+{
+	"_id": "dB4L0hE2wsvfgOlt",
+	"_key": "!actors.items!844g5NrocrwBSwHG.dB4L0hE2wsvfgOlt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Aging",
+	"system": {
+		"description": "<p>[[check 15 con]] or age [[/r 1d100]] years.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

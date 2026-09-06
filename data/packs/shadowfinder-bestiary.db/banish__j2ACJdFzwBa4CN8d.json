@@ -1,0 +1,28 @@
+{
+	"_id": "j2ACJdFzwBa4CN8d",
+	"_key": "!actors.items!oTltJj6bhSA6xzzd.j2ACJdFzwBa4CN8d",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Banish",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All extradimensional creatures within near [[check 15 cha]] or sent back to their home planes.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

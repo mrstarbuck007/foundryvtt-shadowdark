@@ -1,0 +1,20 @@
+{
+	"_id": "SRIv9sCM6S9OOcph",
+	"_key": "!actors.items!tjOTPGoleWf5450N.SRIv9sCM6S9OOcph",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Drift",
+	"system": {
+		"description": "<p>[[check 9 dex]] to take no damage from a fall.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

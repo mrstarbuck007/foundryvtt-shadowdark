@@ -1,0 +1,28 @@
+{
+	"_id": "lQhGWIvur78Wq64w",
+	"_key": "!actors.items!3yswa46Ps9ffgL89.lQhGWIvur78Wq64w",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Fire Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a near-sized cube extending from hell hound. [[check 15 dex]] or [[/r 3d8]] damage. Cannot use again for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

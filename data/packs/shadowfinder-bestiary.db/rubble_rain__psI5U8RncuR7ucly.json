@@ -1,0 +1,28 @@
+{
+	"_id": "psI5U8RncuR7ucly",
+	"_key": "!actors.items!63iKzB0LTPq9lkfq.psI5U8RncuR7ucly",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Rubble Rain",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A rain of rocks and stones within near centered on div. All except div, [[check 15 con]] or [[/r 3d6]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

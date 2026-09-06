@@ -1,0 +1,72 @@
+{
+	"_id": "F79dbVZdieuhzFM3",
+	"_key": "!actors!F79dbVZdieuhzFM3",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"3zyP7GAFRy7STz3P",
+		"xwJiZwlF5rlskIcY"
+	],
+	"name": "Gray Render",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Gray Render",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"max": 35,
+				"value": 35
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Smooth-skinned grey ogre. Not innately malicious. Often adopts a village, grazing area, grove, or other place, protecting it passionately.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 35, <strong>ATK</strong> 2 slam +6 (1d8+2), <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +0, <strong>C</strong> +4, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> -1, <strong>AL</strong> N, <strong>LV</strong> 7</p><p></p>\n\t<p><strong>Rend</strong>. Deals an extra die of damage if it hits the same target with both slams.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

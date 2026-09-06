@@ -1,0 +1,28 @@
+{
+	"_id": "t3aIh0rU17r9L2nT",
+	"_key": "!actors.items!kX1QxWrFVRo7l2LN.t3aIh0rU17r9L2nT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Tremors",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All creatures within far, [[check 15 dex]] or fall prone. Can trigger avalanches.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

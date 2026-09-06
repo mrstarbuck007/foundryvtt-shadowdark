@@ -1,0 +1,20 @@
+{
+	"_id": "IGLjEkfy66DXKu4C",
+	"_key": "!actors.items!8oJQfvvrd15fBfDo.IGLjEkfy66DXKu4C",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Water Bubble",
+	"system": {
+		"description": "<p>Can travel on land, surrounded by a near- width water bubble.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

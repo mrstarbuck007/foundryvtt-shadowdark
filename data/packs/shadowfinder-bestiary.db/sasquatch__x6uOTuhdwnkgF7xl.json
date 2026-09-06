@@ -1,0 +1,73 @@
+{
+	"_id": "x6uOTuhdwnkgF7xl",
+	"_key": "!actors!x6uOTuhdwnkgF7xl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"erMYqVajtSXqEn4f",
+		"gJ7OkFg0i5TmFbXg",
+		"ziFETaLORyqSH07c"
+	],
+	"name": "Sasquatch",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Sasquatch",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": -1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 10,
+				"value": 10
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Elusive, shaggy-haired forest humanoids. Pungent and larger than humans, cunning in woodland ways.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 10, <strong>ATK</strong> 1 club +3 (1d4) or 1 rock (near) +1 (1d4), <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -1, <strong>W</strong> -1, <strong>Ch</strong> -1, <strong>AL</strong> N, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Woodland Stride</strong>. Cannot be tracked in forests.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "8g4GjwlmRcEEiPMB",
+	"_key": "!actors.items!HMNksT9NWZeygwjN.8g4GjwlmRcEEiPMB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Supreme Undead",
+	"system": {
+		"description": "<p>Immune to morale checks. Only damaged by magical sources.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

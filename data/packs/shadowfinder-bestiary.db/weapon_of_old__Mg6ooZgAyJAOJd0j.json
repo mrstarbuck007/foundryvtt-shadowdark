@@ -1,0 +1,20 @@
+{
+	"_id": "Mg6ooZgAyJAOJd0j",
+	"_key": "!actors.items!qKcfkWNHQrUqG5fN.Mg6ooZgAyJAOJd0j",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Weapon of Old",
+	"system": {
+		"description": "<p>His staff is a +3 weapon while he wields it.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,73 @@
+{
+	"_id": "bytTVYtf9FhaG8hh",
+	"_key": "!actors!bytTVYtf9FhaG8hh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"mISLMd3k51KOpBjh",
+		"7ZzvQMKoO0HpqqqX",
+		"biM4bKmAOqX1rmSU"
+	],
+	"name": "Azruverda",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Azruverda",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 52,
+				"value": 52
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Wagon-sized fungi-farming beetle with a cloud giant's face. Not hostile, curious about surface folk. Grows geometrically arranged gardens. Vermin whisperer.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 52, <strong>ATK</strong> 2 bite +9 (2d6) or 1 acid spit (far) +7, <strong>MV</strong> near(climb), <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +4, <strong>AL</strong> L, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Acid Spit</strong>. Launch a globule of acidic spittle, 3d6 damage.</p><p></p><p><strong>Vermin Whisperer</strong>. Speak with rats, bats, and other vermin. CHA 15+ or vermin must obey commands for 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

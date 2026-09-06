@@ -1,0 +1,20 @@
+{
+	"_id": "1aeQJWr9zYTu6rUQ",
+	"_key": "!actors.items!VOXu6PvQa0LghIIf.1aeQJWr9zYTu6rUQ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Quills",
+	"system": {
+		"description": "<p>Creatures touching or striking ghawwa in melee take [[/r 1d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

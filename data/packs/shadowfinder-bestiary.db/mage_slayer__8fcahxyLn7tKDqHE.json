@@ -1,0 +1,20 @@
+{
+	"_id": "8fcahxyLn7tKDqHE",
+	"_key": "!actors.items!T498igAGNXCh6Ajb.8fcahxyLn7tKDqHE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mage Slayer",
+	"system": {
+		"description": "<p>Does double damage to spellcasters.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

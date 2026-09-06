@@ -1,0 +1,73 @@
+{
+	"_id": "b9IwuyCTU9PdAyMV",
+	"_key": "!actors!b9IwuyCTU9PdAyMV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"OExme4HBhhlleT2Y",
+		"UC23akcYHYHs3Oxw",
+		"7saCWY4AyT8caWXc"
+	],
+	"name": "Alp",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Alp",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": -1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 31,
+				"value": 31
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Bat-faced, white-fleshed fey goblin that perches atop dreaming mortals and crushes the life out of them.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 31, <strong>ATK</strong> 2 claw +2 (1d4) or perch, <strong>MV</strong> near, <strong>S</strong> +0, <strong>D</strong> +5, <strong>C</strong> +4, <strong>I</strong> +0, <strong>W</strong> -1, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Invisibility</strong>. Turn invisible. Doesn't end if alp attacks.</p><p></p><p><strong>Perch</strong>. Squat atop a sleeping mortal, trapping them in a nightmare and crushing them. On turn, WIS 18+ to awaken or 1d6 damage.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

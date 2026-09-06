@@ -1,0 +1,20 @@
+{
+	"_id": "Sl1nyeIYy6weekOr",
+	"_key": "!actors.items!80WufTNqrJghXtif.Sl1nyeIYy6weekOr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Four Arms",
+	"system": {
+		"description": "<p>One primary hand, can use three other hands to hold objects.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,74 @@
+{
+	"_id": "kX1QxWrFVRo7l2LN",
+	"_key": "!actors!kX1QxWrFVRo7l2LN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"myeI6B8VTBghlUk2",
+		"t3aIh0rU17r9L2nT",
+		"8uWmrdyLOy3IiHpY",
+		"9o56vc3sEeZoh30z"
+	],
+	"name": "Blight, Mountain",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Blight, Mountain",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 40,
+				"value": 40
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Black tarry sludge that makes the air thin and hard to breathe. Mountain pass lurker, enjoys slow killing.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 40, <strong>ATK</strong> 2 tentacle +6 (1d10) or tremors, <strong>MV</strong> near (climb), <strong>S</strong> +5, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> +2, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Hypoxic</strong>. Causes thin air in domain. CON 9+ each hour or 1 CON damage, passing out at 0 CON, death afterwards.</p><p></p><p><strong>Impervious</strong>. Acid immune.</p><p></p><p><strong>Tremors</strong>. All creatures within far, DEX 15+ or fall prone. Can trigger avalanches.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

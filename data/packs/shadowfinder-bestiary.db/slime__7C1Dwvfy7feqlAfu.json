@@ -1,0 +1,20 @@
+{
+	"_id": "7C1Dwvfy7feqlAfu",
+	"_key": "!actors.items!sgmonIR8akThuP8T.7C1Dwvfy7feqlAfu",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Slime",
+	"system": {
+		"description": "<p>The ground within close of a slurk is coated with a slick, greasy slime. [[check 9 dex]] on turn or fall prone.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

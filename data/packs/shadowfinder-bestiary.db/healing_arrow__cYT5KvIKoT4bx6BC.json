@@ -1,0 +1,20 @@
+{
+	"_id": "cYT5KvIKoT4bx6BC",
+	"_key": "!actors.items!DLInzHtbLnk05qSP.cYT5KvIKoT4bx6BC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Healing Arrow",
+	"system": {
+		"description": "<p>Kami can choose to fire a healing arrow, heals [[/r 1d8]] HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

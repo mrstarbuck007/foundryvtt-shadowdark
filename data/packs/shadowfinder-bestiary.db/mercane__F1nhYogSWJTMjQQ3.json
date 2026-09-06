@@ -1,0 +1,72 @@
+{
+	"_id": "F1nhYogSWJTMjQQ3",
+	"_key": "!actors!F1nhYogSWJTMjQQ3",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"Tfh1qjzmGOZb2NJK",
+		"CV70dvBNW4yMqpM8"
+	],
+	"name": "Mercane",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Mercane",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 19,
+				"value": 19
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Tall, blue-skinned humanoid with three-fingers hands and a face full of dozens of eyes. Extraplanar merchants who peddle magical wares.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12 (leather), <strong>HP</strong> 19, <strong>ATK</strong> 2 falchion +1 (1d8), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +2, <strong>AL</strong> N, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Smell Magic</strong>. Mercane can smell magic (like detect magic, but no casting check).</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "UwHFd1bYCIlAMvxr",
+	"_key": "!actors.items!jOxEVUPN89BlaXOI.UwHFd1bYCIlAMvxr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Born of Magic",
+	"system": {
+		"description": "<p>Weapons and armor disintegrate into dust if slain.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

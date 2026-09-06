@@ -1,0 +1,20 @@
+{
+	"_id": "pDMciV3jBfaIapG2",
+	"_key": "!actors.items!f1puQsQbBDtffgqF.pDMciV3jBfaIapG2",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow",
+	"system": {
+		"description": "<p>On a bite attack roll of 19-20, target is swallowed. Total darkness inside and [[/r 2d10]] damage per round. Froghemoth regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

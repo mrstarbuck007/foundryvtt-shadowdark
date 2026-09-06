@@ -1,0 +1,28 @@
+{
+	"_id": "XxF33rm6RsIbUuAF",
+	"_key": "!actors.items!taLitfpYwmYacMfP.XxF33rm6RsIbUuAF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Pit",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Slide under prey, [[check 12 dex]] or fall in, [[/r 1d6]] damage. 1 damage per round from acid.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

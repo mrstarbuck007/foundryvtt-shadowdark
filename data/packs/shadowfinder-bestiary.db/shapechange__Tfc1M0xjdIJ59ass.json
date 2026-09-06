@@ -1,0 +1,20 @@
+{
+	"_id": "Tfc1M0xjdIJ59ass",
+	"_key": "!actors.items!PBtJ7rlNCLPlzW1D.Tfc1M0xjdIJ59ass",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>Assume the form of a child.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "2WQkqu5uyLxtpwi9",
+	"_key": "!actors.items!GXAh72FLSwDIx5qF.2WQkqu5uyLxtpwi9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Smother",
+	"system": {
+		"description": "<p>Wrap around target's head. Cannot see or speak, suffocates in [[/r 2d4]] rounds. Attacks against scroll split damage between scroll and victim.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

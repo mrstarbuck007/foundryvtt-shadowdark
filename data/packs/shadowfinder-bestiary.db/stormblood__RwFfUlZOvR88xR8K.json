@@ -1,0 +1,20 @@
+{
+	"_id": "RwFfUlZOvR88xR8K",
+	"_key": "!actors.items!XZpTazpIM6xaeTCh.RwFfUlZOvR88xR8K",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stormblood",
+	"system": {
+		"description": "<p>Electricity immune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "RzNh0cImREeC4itS",
+	"_key": "!actors.items!QagVoFPptemPQiBT.RzNh0cImREeC4itS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>If wearing feather swan cloak, can assume the form of a swan.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,74 @@
+{
+	"_id": "f1puQsQbBDtffgqF",
+	"_key": "!actors!f1puQsQbBDtffgqF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"EJaDghpopOp4U81p",
+		"snbUXc61IC1MHs45",
+		"bNUCEpaQ7YO51p8M",
+		"pDMciV3jBfaIapG2"
+	],
+	"name": "Froghemoth",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Froghemoth",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 39,
+				"value": 39
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Triple-eyed, green bipedal frog-giant with four tendril arms and a gulping bite.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 39, <strong>ATK</strong> 1 bite +5 (2d6 + swallow) and 2 tendril (near) +5 (1d8), <strong>MV</strong> double near, <strong>S</strong> +5, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> -3, <strong>W</strong> +1, <strong>Ch</strong> -3, <strong>AL</strong> N, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Strange Biology</strong>. Slowed by electricity, but immune to lightning damage.</p><p></p><p><strong>Swallow</strong>. On a bite attack roll of 19-20, target is swallowed. Total darkness inside and 2d10 damage per round. Froghemoth regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

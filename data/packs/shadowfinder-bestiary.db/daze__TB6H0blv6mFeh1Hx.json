@@ -1,0 +1,20 @@
+{
+	"_id": "TB6H0blv6mFeh1Hx",
+	"_key": "!actors.items!ZaRgvnicZoQUxn6s.TB6H0blv6mFeh1Hx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Daze",
+	"system": {
+		"description": "<p>[[check 12 wis]] or overcome by alien psyche and stunned for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

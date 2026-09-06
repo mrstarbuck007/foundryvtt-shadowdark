@@ -1,0 +1,20 @@
+{
+	"_id": "WJxw0ePAi3Ffg7SS",
+	"_key": "!actors.items!SR8GXIrfd0xFb553.WJxw0ePAi3Ffg7SS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Earth-Born",
+	"system": {
+		"description": "<p>+1 AC. Half damage from acid.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

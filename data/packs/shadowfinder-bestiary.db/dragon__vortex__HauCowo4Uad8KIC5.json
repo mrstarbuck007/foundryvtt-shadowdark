@@ -1,0 +1,74 @@
+{
+	"_id": "HauCowo4Uad8KIC5",
+	"_key": "!actors!HauCowo4Uad8KIC5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"VUBnEoJ0IdiciSMP",
+		"63mO5hzJr0N8prcb",
+		"DgmvRXflVpDOd4yK",
+		"LOePR9FuUhGRPVf2"
+	],
+	"name": "Dragon, Vortex",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Dragon, Vortex",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 62,
+				"value": 62
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 13,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Azure dragon whose copper scales form Draconic glyphs. 50 feet long, wind-swift.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 62, <strong>ATK</strong> 3 rend +8 (2d8 + obliterate) or 1 vortex breath, <strong>MV</strong> double near (fly), <strong>S</strong> +5, <strong>D</strong> +0, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> N, <strong>LV</strong> 13</p><p></p>\n\t<p><strong>Fireblood</strong>. Fire immune.</p><p></p><p><strong>Starflight</strong>. Dragon and riders can survive the interstellar void. Able to fly between worlds in 1d4 days.</p><p></p><p><strong>Vortex Breath</strong>. One target with double near of dragon, DEX 15+ or sucked into pocket dimension. Total darkness inside, airless, target starts suffocating. Dragon regurgitates all swallowed if slain.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

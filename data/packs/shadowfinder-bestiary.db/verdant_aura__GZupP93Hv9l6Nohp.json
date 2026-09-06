@@ -1,0 +1,28 @@
+{
+	"_id": "GZupP93Hv9l6Nohp",
+	"_key": "!actors.items!SlWCkLmFlq2pWzGT.GZupP93Hv9l6Nohp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Verdant Aura",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All non-chaotic beings within near regain [[/r 1d6]] HP. Trees and bushes rapidly grow.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

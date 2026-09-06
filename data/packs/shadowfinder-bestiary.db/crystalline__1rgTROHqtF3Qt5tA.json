@@ -1,0 +1,20 @@
+{
+	"_id": "1rgTROHqtF3Qt5tA",
+	"_key": "!actors.items!Lq4lGtbp9CZNU4y8.1rgTROHqtF3Qt5tA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Crystalline",
+	"system": {
+		"description": "<p>Immune to cold, fire. If smashed, splits into two smaller crystals (divide remaining HP between both). Can split up to four times.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

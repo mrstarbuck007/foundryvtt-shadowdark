@@ -1,0 +1,28 @@
+{
+	"_id": "SD7d5wEfUhPaKK0J",
+	"_key": "!actors.items!LBC4U6oRJewub3W5.SD7d5wEfUhPaKK0J",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Spew",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Spew acidic vomit on one target within near, [[check 15 dex]] or [[/r 1d6]] damage and sickened for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

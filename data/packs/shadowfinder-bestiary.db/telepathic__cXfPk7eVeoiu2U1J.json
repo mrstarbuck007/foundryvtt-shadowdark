@@ -1,0 +1,20 @@
+{
+	"_id": "cXfPk7eVeoiu2U1J",
+	"_key": "!actors.items!3GZO9xBHWGLGVkdA.cXfPk7eVeoiu2U1J",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Telepathic",
+	"system": {
+		"description": "<p>Speak mentally with aboleth and deep-sea aberrations on same plane.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

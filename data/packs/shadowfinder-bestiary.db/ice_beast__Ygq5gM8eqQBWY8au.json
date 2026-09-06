@@ -1,0 +1,20 @@
+{
+	"_id": "Ygq5gM8eqQBWY8au",
+	"_key": "!actors.items!ignSsyrjBfcayU3H.Ygq5gM8eqQBWY8au",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ice Beast",
+	"system": {
+		"description": "<p>Immune to cold.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

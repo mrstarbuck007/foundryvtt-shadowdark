@@ -1,0 +1,20 @@
+{
+	"_id": "z9kF5PY95Q2zuNla",
+	"_key": "!actors.items!CqbMRlMo2a5baWTb.z9kF5PY95Q2zuNla",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Light",
+	"system": {
+		"description": "<p>1/day, manifest light (as spell, no spellcasting check).</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

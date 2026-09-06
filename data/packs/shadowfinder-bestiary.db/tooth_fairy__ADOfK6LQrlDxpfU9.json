@@ -1,0 +1,73 @@
+{
+	"_id": "ADOfK6LQrlDxpfU9",
+	"_key": "!actors!ADOfK6LQrlDxpfU9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"uyRZJntb4lBSoNRX",
+		"01kP8pH82rREJD4O",
+		"jYYZgxDn7E4apFYx"
+	],
+	"name": "Tooth Fairy",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Tooth Fairy",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": -1
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": -2
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 3,
+				"value": 3
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Teeny faerie resembling a winged, hairless pink goblin. Carries pliers, collects teeth.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 3, <strong>ATK</strong> 1 plier +1 (1 + pull tooth), <strong>MV</strong> near (fly), <strong>S</strong> -2, <strong>D</strong> +1, <strong>C</strong> -1, <strong>I</strong> -1, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Fairy Dust</strong>. If slain, dissolves into glowing dust (as light spell, but smells disgusting).</p><p></p><p><strong>Pull Tooth</strong>. DEX 9+ or fairy extracts one random tooth, 1 damage.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

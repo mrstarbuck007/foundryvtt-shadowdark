@@ -1,0 +1,73 @@
+{
+	"_id": "zgs0WzTXI08TqB5R",
+	"_key": "!actors!zgs0WzTXI08TqB5R",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"eukAOzTKXaCkgBwj",
+		"AK5SVeh1ja9OleUz",
+		"0aK1rlD3YhND61pE"
+	],
+	"name": "Blightspawn",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Blightspawn",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 15,
+				"value": 15
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Bilious mosquito-demon the size of a man. Gestates inside the faithful of Chaos until their host dies, at which point the spawn emerges.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 15, <strong>ATK</strong> 1 beak +2 (2d6 + blood drain), <strong>MV</strong> near (fly), <strong>S</strong> +4, <strong>D</strong> +3, <strong>C</strong> +2, <strong>I</strong> -1, <strong>W</strong> +2, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Blood Drain</strong>. Attach to bitten target; auto-hit the next round. STR 15+ on turn to remove.</p><p></p><p><strong>Stagnation Aura</strong>. Near-sized slow, lethargic aura centered on spawn. Mortals within WIS 15+ on turn. On failure, can only take action or move. On success, immune for 24 hours.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

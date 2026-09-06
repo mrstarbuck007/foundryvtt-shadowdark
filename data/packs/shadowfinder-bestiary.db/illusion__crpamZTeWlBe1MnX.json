@@ -1,0 +1,20 @@
+{
+	"_id": "crpamZTeWlBe1MnX",
+	"_key": "!actors.items!6WDvncUoIWGcM2xI.crpamZTeWlBe1MnX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Illusion",
+	"system": {
+		"description": "<p>Can instantly take on the illusory appearance of any humanoid.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

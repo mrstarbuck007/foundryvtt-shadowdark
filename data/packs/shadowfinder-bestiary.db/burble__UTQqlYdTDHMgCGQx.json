@@ -1,0 +1,28 @@
+{
+	"_id": "UTQqlYdTDHMgCGQx",
+	"_key": "!actors.items!sa6T8p1ePqNjAPET.UTQqlYdTDHMgCGQx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Burble",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Creatures within near, [[check 15 wis]] on turn or dazed.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

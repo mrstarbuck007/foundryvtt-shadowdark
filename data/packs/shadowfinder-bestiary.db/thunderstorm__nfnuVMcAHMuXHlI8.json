@@ -1,0 +1,28 @@
+{
+	"_id": "nfnuVMcAHMuXHlI8",
+	"_key": "!actors.items!zbwi6T08p8zuDZis.nfnuVMcAHMuXHlI8",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Thunderstorm",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Hurricane winds for [[/r 1d6]] rounds. Ranged weapons are useless, flying enemies [[check 15 str]] or crash.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

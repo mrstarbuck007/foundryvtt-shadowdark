@@ -1,0 +1,20 @@
+{
+	"_id": "Ppo0OLXhZrcs4zJR",
+	"_key": "!actors.items!8glcTYLgvH3PenRZ.Ppo0OLXhZrcs4zJR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Drain Wisdom",
+	"system": {
+		"description": "<p>Target loses [[/r 1d4]] WIS permanently.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

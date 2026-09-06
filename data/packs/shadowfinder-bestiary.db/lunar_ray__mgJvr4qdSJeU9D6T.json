@@ -1,0 +1,28 @@
+{
+	"_id": "mgJvr4qdSJeU9D6T",
+	"_key": "!actors.items!D5J9FQ9RipggyWfF.mgJvr4qdSJeU9D6T",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Lunar Ray",
+	"system": {
+		"attack": {
+			"num": 2
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Straight line (5' wide) extending far from pitri. [[check 15 dex]] or [[/r 4d6]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,73 @@
+{
+	"_id": "Eayu1fKabT9lffs7",
+	"_key": "!actors!Eayu1fKabT9lffs7",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"hgAQ5dM7bZrgJ64u",
+		"vKFKcQS31UhmaYED",
+		"mWU9EcXDkH2eZdcK"
+	],
+	"name": "Thriae, Constructor",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Thriae, Constructor",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 43,
+				"value": 43
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Female bee-giant. Drone, hive building duties. Extrude and mold wax.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 43, <strong>ATK</strong> 2 slam +5 (1d10) or 1 wax blob (near) +5 (encase), <strong>MV</strong> near (fly), <strong>S</strong> +5, <strong>D</strong> +0, <strong>C</strong> +3, <strong>I</strong> -3, <strong>W</strong> +2, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Encase</strong>. Stuck in wax blob, STR 15+ to break free.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

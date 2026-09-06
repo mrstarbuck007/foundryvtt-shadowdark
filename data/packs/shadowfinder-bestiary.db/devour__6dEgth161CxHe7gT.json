@@ -1,0 +1,28 @@
+{
+	"_id": "6dEgth161CxHe7gT",
+	"_key": "!actors.items!FDffY0qYHg3B6PCI.6dEgth161CxHe7gT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Devour",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Chew up and devour wood, bone, organic material, or unconscious or helpless targets in [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "cHcsdBv1XkybzxfT",
+	"_key": "!actors.items!udNWfITPRi3P8YD5.cHcsdBv1XkybzxfT",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Drain",
+	"system": {
+		"description": "<p>[[check 15 cha]] or [[/r 1d6]] WIS damage, dies and becomes juju zombie at 0 WIS.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

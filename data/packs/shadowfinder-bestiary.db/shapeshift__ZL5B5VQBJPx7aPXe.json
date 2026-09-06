@@ -1,0 +1,20 @@
+{
+	"_id": "ZL5B5VQBJPx7aPXe",
+	"_key": "!actors.items!V0eWR8t5zu3yHWLs.ZL5B5VQBJPx7aPXe",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapeshift",
+	"system": {
+		"description": "<p>In place of attacks, transform into a humanoid.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

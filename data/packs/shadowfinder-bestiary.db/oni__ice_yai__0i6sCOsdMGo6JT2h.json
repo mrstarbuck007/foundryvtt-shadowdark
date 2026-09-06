@@ -1,0 +1,75 @@
+{
+	"_id": "0i6sCOsdMGo6JT2h",
+	"_key": "!actors!0i6sCOsdMGo6JT2h",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"vAffAGceg9n8eSKS",
+		"NyElZRxfjKcbJxD8",
+		"tg8KKsc1aLFzDfZh",
+		"uPPTfY3QZOzfXS1t",
+		"pDbxgmd2LIe5TZNb"
+	],
+	"name": "Oni, Ice Yai",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Oni, Ice Yai",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"max": 40,
+				"value": 40
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Blue-skinned, three-eyed ice ogres that live amongst frost giants. Loves fistfights.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 40, <strong>ATK</strong> 3 slam +6 (1d6) or 1 spell +5, <strong>MV</strong> near (fly), <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +4, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Fade (CHA Spell)</strong>. DC 13. Self. Become invisible for 1d4 rounds.</p><p></p><p><strong>Ice Dart (CHA Spell)</strong>. DC 12. One target in far takes 2d6 damage.</p><p></p><p><strong>Shapeshift</strong>. In place of attacks, turn into any humanoid or back into original form.</p><p></p><p><strong>Stagger</strong>. If oni hits the same target with two or more slams, CON 15+ or stunned 1 round.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "cha",
+			"attacks": 1,
+			"bonus": 5
+		}
+	},
+	"type": "NPC"
+}

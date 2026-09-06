@@ -1,0 +1,20 @@
+{
+	"_id": "bHxvtqKPljG0jrL1",
+	"_key": "!actors.items!Qvupdgv0rCNXlIzn.bHxvtqKPljG0jrL1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Chest Bite",
+	"system": {
+		"description": "<p>Deals [[/r 2d8]] damage if it hits the same target with both slams.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

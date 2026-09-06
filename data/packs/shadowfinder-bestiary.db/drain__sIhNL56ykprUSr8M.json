@@ -1,0 +1,20 @@
+{
+	"_id": "sIhNL56ykprUSr8M",
+	"_key": "!actors.items!ZtaCwCjpD8phtqWi.sIhNL56ykprUSr8M",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Drain",
+	"system": {
+		"description": "<p>Target takes [[/r 1d4]] STR damage. At 0 STR, target dies and becomes a shadow.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

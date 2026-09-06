@@ -1,0 +1,20 @@
+{
+	"_id": "zg7Et0befeJ9krv3",
+	"_key": "!actors.items!HzyHN5odTD40ctPT.zg7Et0befeJ9krv3",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sicken",
+	"system": {
+		"description": "<p>[[check 12 con]] or sickened for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

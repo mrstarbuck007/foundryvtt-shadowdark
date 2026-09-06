@@ -1,0 +1,74 @@
+{
+	"_id": "mhPcXY8ZevqgFeeB",
+	"_key": "!actors!mhPcXY8ZevqgFeeB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"lcaP6GQf4BMp8NF3",
+		"3vgES7TRyheeY3v1",
+		"lm8hobyJd0nH4n9S",
+		"mAm0upM5ewfj1Zcp"
+	],
+	"name": "Wild Hunt, Monarch",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Wild Hunt, Monarch",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 62,
+				"value": 62
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 13,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Noble, nearly naked horned fey with a long spear and a golden hunting horn. Leads the Wild Hunt.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 62, <strong>ATK</strong> 3 +3 spear (close/near) +8 (1d6+3) or summon <strong>W</strong>ild Hunt, <strong>MV</strong> double near, <strong>S</strong> +5, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +3, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 13</p><p></p>\n\t<p><strong>Reincarnation</strong>. Reincarnate mortal slain by the Hunt as a Wild Hunt creature.</p><p></p><p><strong>Summon Wild Hunt</strong>. Blow horn, summoning 2d6 Wild Hunt creatures from Faerie, arrive in 1d4 rounds.</p><p></p><p><strong>Wild Hunt</strong>. If slain, spear turns to vines and mud.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

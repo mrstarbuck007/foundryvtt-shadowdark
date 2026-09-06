@@ -1,0 +1,74 @@
+{
+	"_id": "EiSYnF4vWJGvZJq3",
+	"_key": "!actors!EiSYnF4vWJGvZJq3",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"bRIyYbp4JbLfFFvG",
+		"NeRkIMxtvxcqjgwh",
+		"lGknBCwFAn7NjMXY",
+		"6Cx9uehEaeMylqoJ"
+	],
+	"name": "Necrophidius, Greater",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Necrophidius, Greater",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 44,
+				"value": 44
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Forty-foot-long centipede formed of conjoined human skeletons, topped with a giant's skull, burning red eyes. Not undead but created by an insane wizard.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 44, <strong>ATK</strong> 3 bite +5 (2d6) and 1 dance, <strong>MV</strong> near (climb), <strong>S</strong> +3, <strong>D</strong> +2, <strong>C</strong> +4, <strong>I</strong> -3, <strong>W</strong> +0, <strong>Ch</strong> +4, <strong>AL</strong> N, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Construct</strong>. Only damaged by adamantine or magical sources.</p><p></p><p><strong>Dance</strong>. All enemies in near range who can see necrophidius, CHA 15+ or helplessly entranced for 1d4 rounds.</p><p></p><p><strong>Powerful Aura</strong>. Hostile spells targeting the necrophidius are DC 18 to cast.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

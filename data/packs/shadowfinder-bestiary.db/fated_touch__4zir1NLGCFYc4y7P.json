@@ -1,0 +1,20 @@
+{
+	"_id": "4zir1NLGCFYc4y7P",
+	"_key": "!actors.items!QtrigrhmrjP5Vgi1.4zir1NLGCFYc4y7P",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fated Touch",
+	"system": {
+		"description": "<p>Touch only damages creatures that are or were alive.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

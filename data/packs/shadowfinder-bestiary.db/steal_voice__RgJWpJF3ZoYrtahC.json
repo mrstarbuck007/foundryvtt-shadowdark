@@ -1,0 +1,28 @@
+{
+	"_id": "RgJWpJF3ZoYrtahC",
+	"_key": "!actors.items!ba7casTaVPtWCdEg.RgJWpJF3ZoYrtahC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Steal Voice",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Steal the voice of an unconscious target, which the whisperer can replicate perfectly.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

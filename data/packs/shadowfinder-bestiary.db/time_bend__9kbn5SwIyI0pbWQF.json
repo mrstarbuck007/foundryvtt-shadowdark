@@ -1,0 +1,30 @@
+{
+	"_id": "9kbn5SwIyI0pbWQF",
+	"_key": "!actors.items!vSFeJeEvsZ1ocZ2M.9kbn5SwIyI0pbWQF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Time Bend",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>One target in near frozen in time for [[/r 1d4]] rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d4"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

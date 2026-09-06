@@ -1,0 +1,20 @@
+{
+	"_id": "iVxqz9T3So2IzXW5",
+	"_key": "!actors.items!rfKgbU9QaBo3fzyQ.iVxqz9T3So2IzXW5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Appearance",
+	"system": {
+		"description": "<p>Appears as the mortal it was in life.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

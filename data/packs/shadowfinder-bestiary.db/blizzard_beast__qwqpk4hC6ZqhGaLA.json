@@ -1,0 +1,20 @@
+{
+	"_id": "qwqpk4hC6ZqhGaLA",
+	"_key": "!actors.items!NrN5aLetFfEXVWlB.qwqpk4hC6ZqhGaLA",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blizzard Beast",
+	"system": {
+		"description": "<p>Distant-width blizzard extends from akhlut at all times. Leaves no tracks in snow and ice.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

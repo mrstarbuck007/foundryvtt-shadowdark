@@ -1,0 +1,20 @@
+{
+	"_id": "cc5AB6ad9q5JTOCf",
+	"_key": "!actors.items!229eMbdAwKWuYNEy.cc5AB6ad9q5JTOCf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"description": "<p>Attach to bitten target; auto-hit the next round. [[check 9 str]] on turn to remove.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

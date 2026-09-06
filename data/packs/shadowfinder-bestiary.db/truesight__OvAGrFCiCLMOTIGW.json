@@ -1,0 +1,20 @@
+{
+	"_id": "OvAGrFCiCLMOTIGW",
+	"_key": "!actors.items!GKkgHDJMXvT4Pzbs.OvAGrFCiCLMOTIGW",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Truesight",
+	"system": {
+		"description": "<p>Can see all invisible creatures and objects.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

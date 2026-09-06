@@ -1,0 +1,28 @@
+{
+	"_id": "gm3BTmOGusKObOv5",
+	"_key": "!actors.items!agi5s87QKzYKCa3X.gm3BTmOGusKObOv5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Charm",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Near, one creature, [[check 15 cha]] or friendship for [[/r 1d4]] days.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

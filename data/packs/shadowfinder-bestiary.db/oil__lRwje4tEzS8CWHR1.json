@@ -1,0 +1,20 @@
+{
+	"_id": "lRwje4tEzS8CWHR1",
+	"_key": "!actors.items!xDgDRJtlh2QCHuRV.lRwje4tEzS8CWHR1",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Oil",
+	"system": {
+		"description": "<p>Cover target in flammable, sticky oil.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

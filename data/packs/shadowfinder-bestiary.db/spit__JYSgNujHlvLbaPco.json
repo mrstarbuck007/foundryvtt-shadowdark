@@ -1,0 +1,29 @@
+{
+	"_id": "JYSgNujHlvLbaPco",
+	"_key": "!actors.items!if4V0oVf4cJp0NDh.JYSgNujHlvLbaPco",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Spit",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>3/day, spit a stream of venom, hitting all creatures in a straight line out to double near. Creatures struck by the venom [[check 15 con]] or take [[/r 2d6]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+			"doubleNear"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

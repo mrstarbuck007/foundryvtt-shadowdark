@@ -1,0 +1,20 @@
+{
+	"_id": "qReyodhyOFxW06Vl",
+	"_key": "!actors.items!oiUN4qpxvL1US5vb.qReyodhyOFxW06Vl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Flaming",
+	"system": {
+		"description": "<p>Immune to fire. Slam +0 ([[/r 1d4]] damage). Light as torch.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

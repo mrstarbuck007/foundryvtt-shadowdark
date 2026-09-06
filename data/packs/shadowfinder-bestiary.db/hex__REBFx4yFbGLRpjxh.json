@@ -1,0 +1,28 @@
+{
+	"_id": "REBFx4yFbGLRpjxh",
+	"_key": "!actors.items!h7oyxg6RiwUdIInM.REBFx4yFbGLRpjxh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Hex",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Gaze at target in near. [[check 15 cha]] or roll next attack with DISADV. Cannot use again for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

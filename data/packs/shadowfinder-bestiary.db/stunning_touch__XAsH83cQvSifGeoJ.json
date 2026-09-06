@@ -1,0 +1,20 @@
+{
+	"_id": "XAsH83cQvSifGeoJ",
+	"_key": "!actors.items!2fYxFBsIvNj4F5If.XAsH83cQvSifGeoJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stunning Touch",
+	"system": {
+		"description": "<p>[[check 12 con]] or stunned for 1 round.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

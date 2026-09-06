@@ -1,0 +1,28 @@
+{
+	"_id": "4gVdEekSfJFqIkrZ",
+	"_key": "!actors.items!lagVmEJHcVOAJXiV.4gVdEekSfJFqIkrZ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Graft",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>1/day, kyton can add eviscerated flesh into its body, healing all damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

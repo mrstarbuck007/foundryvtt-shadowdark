@@ -1,0 +1,76 @@
+{
+	"_id": "5mT31nZbXirnaHli",
+	"_key": "!actors!5mT31nZbXirnaHli",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"KZQqreYntUagrlYa",
+		"GXBmiNocs8Z8Y09z",
+		"bpQuZEv6bnjn20hK",
+		"En5xzggrOpsb9pdQ",
+		"Rs6gzA8AHz3McbLS",
+		"oKd8mftfYD1SDC6i"
+	],
+	"name": "Colossus, Stone",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Colossus, Stone",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": -1
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 18
+			},
+			"hp": {
+				"max": 87,
+				"value": 87
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 18,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>70-foot-tall mobile structure that resembles an animated gatehouse.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 18, <strong>HP</strong> 87, <strong>ATK</strong> 2 slam (near) +9 (3d10) or 1 trample (near) +9 (4d12) or 2 ballista (far) +9 (2d10), <strong>MV</strong> double near, <strong>S</strong> +6, <strong>D</strong> -1, <strong>C</strong> +6, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -1, <strong>AL</strong> N, <strong>LV</strong> 18</p><p></p>\n\t<p><strong>Antimagic Aura</strong>. A near-sized cube centered on colossus that cancels hostile spells targeting anyone inside the aura.</p><p></p><p><strong>Fortress Form</strong>. As an action, reassemble into a small keep.</p><p></p><p><strong>Golem</strong>. Immune to damage from non-magical sources.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

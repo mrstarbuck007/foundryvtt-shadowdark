@@ -1,0 +1,28 @@
+{
+	"_id": "FcDAyDPBoe4aFluJ",
+	"_key": "!actors.items!Ocn2leWKMNX2pAzq.FcDAyDPBoe4aFluJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Blizzard",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Surrounded by freezing fog and snow in a far area around spirit.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

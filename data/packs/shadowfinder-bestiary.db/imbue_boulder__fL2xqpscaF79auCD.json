@@ -1,0 +1,20 @@
+{
+	"_id": "fL2xqpscaF79auCD",
+	"_key": "!actors.items!iCenwdsACDxZYWzX.fL2xqpscaF79auCD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Imbue Boulder",
+	"system": {
+		"description": "<p>3/day, imbue boulder with magic: Harm. If boulder hits, target goes to 0 HP. Heal. If boulder hits, target regains all HP.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

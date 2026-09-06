@@ -1,0 +1,20 @@
+{
+	"_id": "8MB5RanaiO7syRSf",
+	"_key": "!actors.items!fAqvSj906QIb02gK.8MB5RanaiO7syRSf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Summon Devil",
+	"system": {
+		"description": "<p>1/day, summon a contract devil.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

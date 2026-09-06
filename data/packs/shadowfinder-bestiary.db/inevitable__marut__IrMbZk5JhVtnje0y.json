@@ -1,0 +1,72 @@
+{
+	"_id": "IrMbZk5JhVtnje0y",
+	"_key": "!actors!IrMbZk5JhVtnje0y",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"1ENRUdcDYurrn5y9",
+		"yFZy9vdR1ijK6a5F"
+	],
+	"name": "Inevitable, Marut",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Inevitable, Marut",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 58,
+				"value": 58
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Relentless soldiers of black marble, golden plate armor. Hunt those extending lifespans.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 58, <strong>ATK</strong> 3 slam +7 (2d6 + thunder), <strong>MV</strong> near, <strong>S</strong> +5, <strong>D</strong> +1, <strong>C</strong> +4, <strong>I</strong> +1, <strong>W</strong> +2, <strong>Ch</strong> +4, <strong>AL</strong> L, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Thunder</strong>. CON 15+ or blind and deaf for 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

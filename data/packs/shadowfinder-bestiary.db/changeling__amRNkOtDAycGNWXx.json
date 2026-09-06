@@ -1,0 +1,73 @@
+{
+	"_id": "amRNkOtDAycGNWXx",
+	"_key": "!actors!amRNkOtDAycGNWXx",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"ZTeK68yzaw0dhwb7",
+		"3VIrbzW8dEiieWVw",
+		"KqPQm02L6aHb7YfR"
+	],
+	"name": "Changeling",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Changeling",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": -1
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 9
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Born of a hag and a mortal. Always female, with eyes of two different colors.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 9, <strong>HP</strong> 4, <strong>ATK</strong> 1 dagger +0 (1d4) or 1 spell +2, <strong>MV</strong> near, <strong>S</strong> +0, <strong>D</strong> -1, <strong>C</strong> +0, <strong>I</strong> +1, <strong>W</strong> +0, <strong>Ch</strong> +2, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Beguile (CHA Spell)</strong>. DC 11. Focus. One target in near of LV 2 or less is stupefied for the duration.</p><p></p><p><strong>Fey Touch</strong>. One target within close, WIS 12+ or dazed for 1 round.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "cha",
+			"attacks": 1,
+			"bonus": 2
+		}
+	},
+	"type": "NPC"
+}

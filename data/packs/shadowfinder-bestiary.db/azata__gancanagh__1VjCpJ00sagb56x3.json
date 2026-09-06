@@ -1,0 +1,72 @@
+{
+	"_id": "1VjCpJ00sagb56x3",
+	"_key": "!actors!1VjCpJ00sagb56x3",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"5uY4JX1CSGlTMBMd",
+		"qwaFKJ0DzDfPNDY8"
+	],
+	"name": "Azata, Gancanagh",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Azata, Gancanagh",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 11,
+				"value": 11
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Divine servants of Order who pass as mortal. Wildly passionate, hate succubi. Repelled by smoke.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 11, <strong>ATK</strong> 1 shortsword +2 (1d6) or beguiling gaze, <strong>MV</strong> near, <strong>S</strong> +0, <strong>D</strong> +3, <strong>C</strong> +2, <strong>I</strong> +1, <strong>W</strong> +0, <strong>Ch</strong> +4, <strong>AL</strong> L, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Beguiling Gaze</strong>. One target in near of LV 2 or less, CHA 12+ or charmed for 1d4 days.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

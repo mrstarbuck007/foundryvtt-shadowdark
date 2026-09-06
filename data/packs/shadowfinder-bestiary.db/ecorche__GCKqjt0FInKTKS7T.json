@@ -1,0 +1,73 @@
+{
+	"_id": "GCKqjt0FInKTKS7T",
+	"_key": "!actors!GCKqjt0FInKTKS7T",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"qhrQxeBWNGKNuUAX",
+		"478PvTmUuXbfwd6w",
+		"AtcI02p8LfQmmgKl"
+	],
+	"name": "Ecorche",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Ecorche",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": -1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 49,
+				"value": 49
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Undead, skinless hulk that skins still-living victims. Can wear skins, transforming into the shape of the skinned foe.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 49, <strong>ATK</strong> 2 claw +7 (2d6 + skin), <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +2, <strong>C</strong> +4, <strong>I</strong> -1, <strong>W</strong> -1, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Skin</strong>. If ecorche hits the same target with both claws, CON 15+ or tear target's skin off. If skinned, lose 1 CON permanently per round until magically healed.</p><p></p><p><strong>Wear Skin</strong>. Instead of attacks, can don a mortal's skin, changing shape into the mortal's form.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "EdBkbhz5Cjsvjk8N",
+	"_key": "!actors.items!Qq4amm7CQldvKniy.EdBkbhz5Cjsvjk8N",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Spell Trap",
+	"system": {
+		"description": "<p>When targeted by a spell, glyph traps spell and nullifies it. Spell dissipates after 24 hours, glyph only stores one spell at a time.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

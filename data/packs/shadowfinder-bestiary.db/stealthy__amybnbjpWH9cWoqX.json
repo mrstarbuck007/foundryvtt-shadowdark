@@ -1,0 +1,20 @@
+{
+	"_id": "amybnbjpWH9cWoqX",
+	"_key": "!actors.items!AYLbdlnC4ZFc6a3T.amybnbjpWH9cWoqX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stealthy",
+	"system": {
+		"description": "<p>ADV on checks to sneak and hide.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

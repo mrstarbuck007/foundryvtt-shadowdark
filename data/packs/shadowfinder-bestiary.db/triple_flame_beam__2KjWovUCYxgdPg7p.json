@@ -1,0 +1,28 @@
+{
+	"_id": "2KjWovUCYxgdPg7p",
+	"_key": "!actors.items!fH8ZyrJJ7nTbcbRw.2KjWovUCYxgdPg7p",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Triple Flame Beam",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Three straight lines (5' wide) extending far from Bezravnis. [[check 15 dex]] or [[/r 4d6]] damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

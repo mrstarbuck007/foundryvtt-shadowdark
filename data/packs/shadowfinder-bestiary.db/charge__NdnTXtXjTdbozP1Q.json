@@ -1,0 +1,20 @@
+{
+	"_id": "NdnTXtXjTdbozP1Q",
+	"_key": "!actors.items!Rr4arUYPpHiS1typ.NdnTXtXjTdbozP1Q",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Charge",
+	"system": {
+		"description": "<p>In place of attacks, move up to double near in a straight line and make 1 horn attack. If hit, x2 damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

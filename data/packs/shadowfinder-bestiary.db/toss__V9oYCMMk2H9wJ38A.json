@@ -1,0 +1,20 @@
+{
+	"_id": "V9oYCMMk2H9wJ38A",
+	"_key": "!actors.items!9SDbK3y29BY0DUJj.V9oYCMMk2H9wJ38A",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Toss",
+	"system": {
+		"description": "<p>[[check 15 str]] or thrown [[/r 1d20]] feet in a random direction.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

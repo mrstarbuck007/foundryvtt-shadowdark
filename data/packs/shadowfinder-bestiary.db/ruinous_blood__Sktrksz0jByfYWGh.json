@@ -1,0 +1,20 @@
+{
+	"_id": "Sktrksz0jByfYWGh",
+	"_key": "!actors.items!f98fQV1f8udmoKON.Sktrksz0jByfYWGh",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ruinous Blood",
+	"system": {
+		"description": "<p>Creatures striking ouroboros in melee, [[check 15 cha]] or cursed, transform into venomous snake swarm.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "1gNwykn5rD0bAole",
+	"_key": "!actors.items!Qy1bz1HBwREtM1uI.1gNwykn5rD0bAole",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Frigid Aura",
+	"system": {
+		"description": "<p>Creatures in close [[check 9 con]] on turn or frozen for 1 round.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

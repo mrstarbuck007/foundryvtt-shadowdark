@@ -1,0 +1,72 @@
+{
+	"_id": "wpLMGBzPqKiz2xuX",
+	"_key": "!actors!wpLMGBzPqKiz2xuX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"8euh31YPICrBRYen",
+		"YSAKAcPb7pb8Vrg4"
+	],
+	"name": "Centipede, Giant Whiptail",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Centipede, Giant Whiptail",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -4
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": -3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 15,
+				"value": 15
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Double-tailed, crocodile- length giant centipede. Feeds on dead flesh, only fights to defend a meal.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 15, <strong>ATK</strong> 1 bite +2 (2d4 + poison), <strong>MV</strong> near (climb), <strong>S</strong> +2, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -4, <strong>W</strong> -3, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Poison</strong>. CON 12+ or 1d4 DEX damage, paralyzed at 0 DEX.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

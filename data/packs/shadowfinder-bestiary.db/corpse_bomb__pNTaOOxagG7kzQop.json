@@ -1,0 +1,20 @@
+{
+	"_id": "pNTaOOxagG7kzQop",
+	"_key": "!actors.items!OK9aU1lySBNv806o.pNTaOOxagG7kzQop",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Corpse Bomb",
+	"system": {
+		"description": "<p>All creatures in a near-sized cube around where corpse lands, [[check 12 con]] or diseased.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

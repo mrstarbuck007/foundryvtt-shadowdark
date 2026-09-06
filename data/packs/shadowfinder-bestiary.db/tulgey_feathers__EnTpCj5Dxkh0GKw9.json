@@ -1,0 +1,20 @@
+{
+	"_id": "EnTpCj5Dxkh0GKw9",
+	"_key": "!actors.items!IYzs33MdMUUJKiLe.EnTpCj5Dxkh0GKw9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Tulgey Feathers",
+	"system": {
+		"description": "<p>When dealt damage, jubjub bird becomes immune to that damage type for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

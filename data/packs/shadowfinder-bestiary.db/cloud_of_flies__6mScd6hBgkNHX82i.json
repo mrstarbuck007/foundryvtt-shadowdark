@@ -1,0 +1,28 @@
+{
+	"_id": "6mScd6hBgkNHX82i",
+	"_key": "!actors.items!UJx1DGXfnFGL3E4o.6mScd6hBgkNHX82i",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Cloud Of Flies",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Breathe out a cloud of biting flies that fills a near-sized cube extending from daemon. All mortals, [[check 15 con]] on turn or [[/r 1d8]] damage. Flies stay for 3 rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

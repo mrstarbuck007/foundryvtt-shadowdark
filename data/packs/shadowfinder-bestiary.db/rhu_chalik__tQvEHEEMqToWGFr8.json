@@ -1,0 +1,73 @@
+{
+	"_id": "tQvEHEEMqToWGFr8",
+	"_key": "!actors!tQvEHEEMqToWGFr8",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"7f4kqTb6ONOecBYz",
+		"6quq1R3iYIGkA3XM",
+		"tf6nW95cM1cSgy0E"
+	],
+	"name": "Rhu-Chalik",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Rhu-Chalik",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 21,
+				"value": 21
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Floating black football-sized orb with drooping tendrils and a single milk-white eye.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 21, <strong>ATK</strong> 2 tendril +3 (1d4) or project terror, <strong>MV</strong> double near (fly), <strong>S</strong> +2, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Project Terror</strong>. Mentally transmit terrible visions into mortal minds within near. WIS 15+ or 1d6 WIS damage, coma at 0 WIS.</p><p></p><p><strong>Void Transmission</strong>. Analyze one helpless mortal within close for 1d4 rounds, copying their entire mind and psyche. After analysis is done, transmit the copy to far-away galactic masters.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

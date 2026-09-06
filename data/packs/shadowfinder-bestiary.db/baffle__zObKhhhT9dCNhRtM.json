@@ -1,0 +1,30 @@
+{
+	"_id": "zObKhhhT9dCNhRtM",
+	"_key": "!actors.items!Cw4H8kPD1xeB60Jk.zObKhhhT9dCNhRtM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Baffle",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Focus. One target in near of LV 4 or less is dazed for the duration.</p>",
+		"duration": {
+			"type": "focus",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 3
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "bNUCEpaQ7YO51p8M",
+	"_key": "!actors.items!f1puQsQbBDtffgqF.bNUCEpaQ7YO51p8M",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Strange Biology",
+	"system": {
+		"description": "<p>Slowed by electricity, but immune to lightning damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "rxNcSi8sIGjgRUpl",
+	"_key": "!actors.items!HzyHN5odTD40ctPT.rxNcSi8sIGjgRUpl",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Undead",
+	"system": {
+		"description": "<p>Immune to morale checks.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

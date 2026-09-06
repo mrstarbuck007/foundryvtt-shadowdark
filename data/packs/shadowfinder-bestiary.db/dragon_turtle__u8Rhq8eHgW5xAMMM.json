@@ -1,0 +1,72 @@
+{
+	"_id": "u8Rhq8eHgW5xAMMM",
+	"_key": "!actors!u8Rhq8eHgW5xAMMM",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"kxiz9Hvc5Dl4pIv2",
+		"ZfUdcpSUjKELW3r3"
+	],
+	"name": "Dragon Turtle",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Dragon Turtle",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 42,
+				"value": 42
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 9,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>Huge draconic snapping turtle with a shell that can turn aside ballista bolts.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 42, <strong>ATK</strong> 2 bite +9 (2d10) or 1 steam breath, <strong>MV</strong> near (swim), <strong>S</strong> +3, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +0, <strong>AL</strong> N, <strong>LV</strong> 9</p><p></p>\n\t<p><strong>Steam Breath</strong>. Fills a near- sized cube extending from dragon. CON 15+ or 2d10 damage. Effective above or under water.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

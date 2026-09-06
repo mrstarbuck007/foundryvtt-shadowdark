@@ -1,0 +1,30 @@
+{
+	"_id": "uMxSSeA7jcVH7KvC",
+	"_key": "!actors.items!WhIyC1rcQ5LLgePH.uMxSSeA7jcVH7KvC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Blight",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>[[/r 3d8]] damage, one target within near.</p>",
+		"duration": {
+			"type": "instant",
+			"value": "-1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 4
+	},
+	"type": "Spell"
+}

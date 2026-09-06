@@ -1,0 +1,20 @@
+{
+	"_id": "dyLX9c0x5Isi94dJ",
+	"_key": "!actors.items!9wl15g2r4hgqgUUx.dyLX9c0x5Isi94dJ",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Madness",
+	"system": {
+		"description": "<p>[[check 15 wis]] or become confused and erratic.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

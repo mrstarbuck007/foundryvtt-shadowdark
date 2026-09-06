@@ -1,0 +1,28 @@
+{
+	"_id": "1vTGh012cONhKAT4",
+	"_key": "!actors.items!TO4LQ9xbJv9Mjnco.1vTGh012cONhKAT4",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Fire Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a near-sized cube extending from dragonkin. [[check 15 dex]] or [[/r 2d6]] damage. Cannot use again for [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

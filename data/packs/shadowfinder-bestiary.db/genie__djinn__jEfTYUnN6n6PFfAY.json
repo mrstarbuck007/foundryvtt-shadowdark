@@ -1,0 +1,74 @@
+{
+	"_id": "jEfTYUnN6n6PFfAY",
+	"_key": "!actors!jEfTYUnN6n6PFfAY",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"94c8h6zMHy9ZPMYJ",
+		"y8SPDtM0j4Iu2CCJ",
+		"jWaKqd6cORMaVAeY",
+		"R6OsgLalSgtow9rY"
+	],
+	"name": "Genie, Djinn",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Genie, Djinn",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 48,
+				"value": 48
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Azure-blue, jovial humanoids made of air and roiling wind. Infused with potent magic.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 48, <strong>ATK</strong> 3 scimitar +7 (1d12) or 1 whirlwind, <strong>MV</strong> double near (fly), <strong>S</strong> +4, <strong>D</strong> +4, <strong>C</strong> +3, <strong>I</strong> +4, <strong>W</strong> +3, <strong>Ch</strong> +3, <strong>AL</strong> N, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Impervious</strong>. Only damaged by magical sources.</p><p></p><p><strong>Whirlwind</strong>. Transform into a lashing tornado. All enemies within near DC 18 DEX or thrown 2d100 feet in a random direction.</p><p></p><p><strong>Wish</strong>. Cast wish once a week for a mortal, no spellcasting check.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

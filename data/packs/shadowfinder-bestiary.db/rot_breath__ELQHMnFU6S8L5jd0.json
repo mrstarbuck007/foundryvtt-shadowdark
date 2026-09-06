@@ -1,0 +1,28 @@
+{
+	"_id": "ELQHMnFU6S8L5jd0",
+	"_key": "!actors.items!fV2c4PMhjwhESs0U.ELQHMnFU6S8L5jd0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Rot Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a double near-sized cube with greasy, diseased miasma extending from dragon. All mortals within, exposed to rot.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

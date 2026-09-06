@@ -1,0 +1,20 @@
+{
+	"_id": "UH5uWnM0h2hHG45n",
+	"_key": "!actors.items!9yoxRAct3kwJd7xg.UH5uWnM0h2hHG45n",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Life Drain",
+	"system": {
+		"description": "<p>[[/r 1d4]] CON damage. Death if reduced to 0 CON. Slain mortals become spectres after 1 day.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

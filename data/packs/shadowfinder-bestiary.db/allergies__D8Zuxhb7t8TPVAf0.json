@@ -1,0 +1,20 @@
+{
+	"_id": "D8Zuxhb7t8TPVAf0",
+	"_key": "!actors.items!dMYIveYaAfHvd0VQ.D8Zuxhb7t8TPVAf0",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Allergies",
+	"system": {
+		"description": "<p>Humanoids, except goblins, are allergic. When exposed, [[check 9 con]] or 1 CHA damage, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

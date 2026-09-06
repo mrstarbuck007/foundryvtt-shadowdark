@@ -1,0 +1,75 @@
+{
+	"_id": "I08KbZ510VogBEXR",
+	"_key": "!actors!I08KbZ510VogBEXR",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"8SEDVQS5SMvVjAzE",
+		"mxkRkebQTlazTaWh",
+		"HASLlBWmKBKli2Bg",
+		"fDqqSHmGLhYhULso",
+		"6CK4B42TVHmTharW"
+	],
+	"name": "Empyreal Lord, Black Butterfly",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Empyreal Lord, Black Butterfly",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 6
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 78,
+				"value": 78
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 16,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Shadowy silhouette of a buxom woman with black butterfly wings filled with stars. Embodies the void between worlds.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 78, <strong>ATK</strong> 3 dagger (close/near) +9 (1d4+3) or 1 steal breath, <strong>MV</strong> double near (fly), <strong>S</strong> +4, <strong>D</strong> +6, <strong>C</strong> +6, <strong>I</strong> +4, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> L, <strong>LV</strong> 16</p><p></p>\n\t<p><strong>Avatar</strong>. Only damaged by magic sources.</p><p></p><p><strong>Move Between</strong>. While moving, teleport to any point she can see.</p><p></p><p><strong>Starflight</strong>. Empyreal and those accompanying her can survive the interstellar void. Able to fly between worlds in 1d4 days.</p><p></p><p><strong>Steal Breath</strong>. One creature within close, CON 18+ or unconscious for 1d4 hours.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "3TXgXhkWr7Lxa8oy",
+	"_key": "!actors.items!OuiOGHXPFAFKdTev.3TXgXhkWr7Lxa8oy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Brine Gout",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (1' wide) extending near from mephit, [[check 9 con]] or parched and filled with intense thirst.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

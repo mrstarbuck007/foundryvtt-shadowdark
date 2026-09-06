@@ -1,0 +1,28 @@
+{
+	"_id": "iGqFlYlH54DyKGwE",
+	"_key": "!actors.items!sgzX2luPZltv1TaU.iGqFlYlH54DyKGwE",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Salt Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (5' wide) of desiccating brine, extending double near from dragon. [[check 15 con]] or [[/r 4d6]] damage and [[/r 1d8]] STR damage.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

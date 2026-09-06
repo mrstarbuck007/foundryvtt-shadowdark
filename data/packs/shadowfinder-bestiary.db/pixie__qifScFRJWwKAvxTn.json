@@ -1,0 +1,73 @@
+{
+	"_id": "qifScFRJWwKAvxTn",
+	"_key": "!actors!qifScFRJWwKAvxTn",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"TfqhPswcJz49B58x",
+		"LUhOxS1V4E8tchzX",
+		"RHMIO7Qc1oW2WMHM"
+	],
+	"name": "Pixie",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Pixie",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": -2
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Tiny faerie with rainbow-hued butterfly wings.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 4, <strong>ATK</strong> 1 needle +3 (1) or pixie dust (close), <strong>MV</strong> near (fly), <strong>S</strong> -2, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> +1, <strong>W</strong> +0, <strong>Ch</strong> +1, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Invisibility</strong>. Turn invisible. Ends if pixie attacks.</p><p></p><p><strong>Pixie Dust</strong>. CHA 12+ or one of the following: fall into deep sleep for 1d4 hours, charmed for 1d4 hours, or forget the last 1d4 hours of events.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

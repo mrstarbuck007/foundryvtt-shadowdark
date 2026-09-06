@@ -1,0 +1,20 @@
+{
+	"_id": "6Zt4XPtPEOVMacVz",
+	"_key": "!actors.items!mpGfyhRHoN4B9hXD.6Zt4XPtPEOVMacVz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Aura",
+	"system": {
+		"description": "<p>Always has protection from evil.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

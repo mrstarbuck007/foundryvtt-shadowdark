@@ -1,0 +1,20 @@
+{
+	"_id": "eisBsy4QmAQxll2s",
+	"_key": "!actors.items!Z24BWy9XdgxAyVhU.eisBsy4QmAQxll2s",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow",
+	"system": {
+		"description": "<p>On a natural attack roll of 19-20, target is swallowed. Total darkness inside and [[/r 2d10]] damage per round. Cetus regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

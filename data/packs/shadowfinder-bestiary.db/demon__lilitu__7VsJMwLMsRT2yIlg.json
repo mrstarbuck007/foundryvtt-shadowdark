@@ -1,0 +1,73 @@
+{
+	"_id": "7VsJMwLMsRT2yIlg",
+	"_key": "!actors!7VsJMwLMsRT2yIlg",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"DKuZGpzMOkj3VLPA",
+		"GXpCSHYakHe78Ks0",
+		"bcxtVNEGxAuXQhVU"
+	],
+	"name": "Demon, Lilitu",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Demon, Lilitu",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 41,
+				"value": 41
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Beautiful but eyeless, ivory- skinned demoness with a long, barbed tail. Offers gifts in exchange for a soul pact.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 41, <strong>ATK</strong> 2 claw +4 (1d8) or brand or teleport, <strong>MV</strong> near (fly), <strong>S</strong> +4, <strong>D</strong> +3, <strong>C</strong> +5, <strong>I</strong> +3, <strong>W</strong> +3, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Brand</strong>. Put master's brand on willing mortal and grant them one wish, no spellcasting check. Mortal becomes chaotic, demonically tainted. Brand is always visible, cannot be hidden or concealed.</p><p></p><p><strong>Teleport</strong>. Teleport within distant.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

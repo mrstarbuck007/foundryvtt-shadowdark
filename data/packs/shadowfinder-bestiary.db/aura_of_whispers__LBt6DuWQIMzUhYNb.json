@@ -1,0 +1,20 @@
+{
+	"_id": "LBt6DuWQIMzUhYNb",
+	"_key": "!actors.items!4hZi40tR5DSIoD6T.LBt6DuWQIMzUhYNb",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Aura of Whispers",
+	"system": {
+		"description": "<p>Mortals within near who behold, [[check 15 wis]] or terrified [[/r 1d4]] rounds. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

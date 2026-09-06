@@ -1,0 +1,28 @@
+{
+	"_id": "ptzm6xcX8eyxTIdy",
+	"_key": "!actors.items!eZMTzyOePoBBeLMx.ptzm6xcX8eyxTIdy",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Frenzy",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Alert all formians within distant, who rush to defend the queen.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

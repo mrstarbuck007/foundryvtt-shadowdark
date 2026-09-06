@@ -1,0 +1,20 @@
+{
+	"_id": "chufO31DZGgPVOMc",
+	"_key": "!actors.items!Z24BWy9XdgxAyVhU.chufO31DZGgPVOMc",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mariner's Misfortune",
+	"system": {
+		"description": "<p>Non- aquatic mortals within near, [[check 15 cha]] or cursed with bad luck, rolling checks and attacks with DISADV for [[/r 1d4]] rounds. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "Biq0kAjXXftkYW9b",
+	"_key": "!actors.items!FkzIejFGwuHQ91Dn.Biq0kAjXXftkYW9b",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blur",
+	"system": {
+		"description": "<p>Hazy, flickers and fades, hard to perceive unless insane. Attacks against spawn have DISADV.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

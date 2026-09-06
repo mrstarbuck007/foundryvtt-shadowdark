@@ -1,0 +1,20 @@
+{
+	"_id": "TfD12IwBiAZwDE2v",
+	"_key": "!actors.items!563MaSnyKwMXVT8J.TfD12IwBiAZwDE2v",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Boggling Aura",
+	"system": {
+		"description": "<p>Mortals within near of boggle, on turn, [[check 15 cha]] or burst in laughter. On success, immune for 24 hours.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

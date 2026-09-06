@@ -1,0 +1,74 @@
+{
+	"_id": "oMxrQkeOeSPWGemt",
+	"_key": "!actors!oMxrQkeOeSPWGemt",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"3pCeHnT3z4dIZrfi",
+		"zFb63abs9i9evH6K",
+		"TxW0n2AVGPqtLgLZ",
+		"4aboudET8frJiOsq"
+	],
+	"name": "Archdevil, Baalzebul",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Archdevil, Baalzebul",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 6
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 6
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 5
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 21
+			},
+			"hp": {
+				"max": 105,
+				"value": 105
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 22,
+			"xp": 0
+		},
+		"move": "far",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Jagged black plate mail filled with a cloud of biting black flies. No flesh, glaring red eyes. Wings are swarms.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 21 (+2 plate and +2 shield), <strong>HP</strong> 105, <strong>ATK</strong> 4 +2 longsword +10 (1d8+2) and swarm master, <strong>MV</strong> far (fly), <strong>S</strong> +6, <strong>D</strong> +5, <strong>C</strong> +6, <strong>I</strong> +6, <strong>W</strong> +5, <strong>Ch</strong> +6, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 22</p><p></p>\n\t<p><strong>Impervious</strong>. Cold immune. Only damaged by silver or magical sources. Lord of the Flies. When attacked or a hostile spell is cast at Baalzebul, CHA 18+ or the attacker instead kneels in supplication.</p><p></p><p><strong>Swarm Master</strong>. Swarms will not harm Baalzebul, and he can command them.</p><p></p><p><strong>Usurpation</strong>. When a spell is cast within double near of Baalzebul, he may choose to have the spell also effect him.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

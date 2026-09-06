@@ -1,0 +1,20 @@
+{
+	"_id": "akD1Wb2d5BsGqCWS",
+	"_key": "!actors.items!dRY8FqACJ82S8DrC.akD1Wb2d5BsGqCWS",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Web",
+	"system": {
+		"description": "<p>One target stuck in place. [[check 12 dex]] on turn to escape.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

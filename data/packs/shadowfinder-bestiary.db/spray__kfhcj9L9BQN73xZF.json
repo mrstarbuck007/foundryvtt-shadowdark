@@ -1,0 +1,28 @@
+{
+	"_id": "kfhcj9L9BQN73xZF",
+	"_key": "!actors.items!1eVYwzUn4C8Ni2jr.kfhcj9L9BQN73xZF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Spray",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Spray dirty water at one target in close, [[check 9 dex]] or blind [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "nqL0AFvG8g9eDdVC",
+	"_key": "!actors.items!ttAezHKdvQNwSIB1.nqL0AFvG8g9eDdVC",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mindshock",
+	"system": {
+		"description": "<p>[[check 12 int]] or dazed [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

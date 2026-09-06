@@ -1,0 +1,20 @@
+{
+	"_id": "M2arn0vuQ9H03oAB",
+	"_key": "!actors.items!beUWdtibciUrbagI.M2arn0vuQ9H03oAB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Create Spawn",
+	"system": {
+		"description": "<p>As an action, insert trunk into mortal corpse and detach it. Corpse swells and grows over [[/r 1d6]] rounds before transforming into a behimiron.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

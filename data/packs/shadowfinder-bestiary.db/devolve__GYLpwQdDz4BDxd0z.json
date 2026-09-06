@@ -1,0 +1,28 @@
+{
+	"_id": "GYLpwQdDz4BDxd0z",
+	"_key": "!actors.items!VxN7SXZVOWJGeSsv.GYLpwQdDz4BDxd0z",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Devolve",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Touch one mortal creature, which loses [[/r 1d4]] INT permanently. Degenerates into slime at 0 INT.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

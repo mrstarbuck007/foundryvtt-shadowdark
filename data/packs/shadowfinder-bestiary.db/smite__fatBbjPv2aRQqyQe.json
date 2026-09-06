@@ -1,0 +1,20 @@
+{
+	"_id": "fatBbjPv2aRQqyQe",
+	"_key": "!actors.items!0dEMsQ0ao1RC9Dak.fatBbjPv2aRQqyQe",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Smite",
+	"system": {
+		"description": "<p>1/day, +3 damage to one melee attack.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "FsZBiKuFqcEcMVmp",
+	"_key": "!actors.items!PSq8YMEPsBRkgjI2.FsZBiKuFqcEcMVmp",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Etheric Shift",
+	"system": {
+		"description": "<p>Enter the Ethereal Plane for [[/r 1d4]] rounds. Become incorporeal, can pass through solid walls and objects.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

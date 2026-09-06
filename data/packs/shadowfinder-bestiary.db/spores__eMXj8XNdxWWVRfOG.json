@@ -1,0 +1,20 @@
+{
+	"_id": "eMXj8XNdxWWVRfOG",
+	"_key": "!actors.items!Caa9sOET9D8f3YLY.eMXj8XNdxWWVRfOG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Spores",
+	"system": {
+		"description": "<p>[[check 15 con]] or [[/r 1d6]] CON damage. Dies at 0 INT, spawns an ascomoid [[/r 1d4]] days later.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

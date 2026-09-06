@@ -1,0 +1,20 @@
+{
+	"_id": "hPeCIt8sEw8qrmCB",
+	"_key": "!actors.items!hPfpysLNZn4Ghfz3.hPeCIt8sEw8qrmCB",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Quills",
+	"system": {
+		"description": "<p>Creatures striking bandersnatch in melee take [[/r 2d6]] damage.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

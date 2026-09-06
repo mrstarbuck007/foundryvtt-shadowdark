@@ -1,0 +1,73 @@
+{
+	"_id": "uVviJvFvKAuI1VZN",
+	"_key": "!actors!uVviJvFvKAuI1VZN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"OlgXhThvVG0FhduA",
+		"gTcRdYPHObub4lxU",
+		"p2c2TKxET97YFbXR"
+	],
+	"name": "Aeon, Bythos",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Aeon, Bythos",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 18
+			},
+			"hp": {
+				"max": 56,
+				"value": 56
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Shimmering, vaguely human- shaped cloud of grey mist and never-blinking eyes.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 18, <strong>HP</strong> 56, <strong>ATK</strong> 4 slam +8 (1d6 + age or temporal strike), <strong>MV</strong> near (fly), <strong>S</strong> +2, <strong>D</strong> +2, <strong>C</strong> +2, <strong>I</strong> +3, <strong>W</strong> +4, <strong>Ch</strong> +3, <strong>AL</strong> N, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Age</strong>. CON 15+ or target ages 1d4�10 years, dying if elderly. Restoration reverses aging.</p><p></p><p><strong>Temporal Strike</strong>. WIS 15+ or target disappears, reappearing 1d4 rounds later as if no time passed.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

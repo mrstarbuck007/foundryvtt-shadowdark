@@ -1,0 +1,28 @@
+{
+	"_id": "ftKzWKgzeWYtEsk3",
+	"_key": "!actors.items!oClPZbGN2sb2XPoC.ftKzWKgzeWYtEsk3",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Molten Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line (5' wide) extending double near from linnorm. [[check 15 dex]] or [[/r 3d8]] damage and set aflame.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

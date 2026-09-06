@@ -1,0 +1,20 @@
+{
+	"_id": "Xz4yi7CYjWIUfG5b",
+	"_key": "!actors.items!GdYYwLzu0Be04f3B.Xz4yi7CYjWIUfG5b",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Meld",
+	"system": {
+		"description": "<p>Step inside tree.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

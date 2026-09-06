@@ -1,0 +1,20 @@
+{
+	"_id": "uQWFbCYH2ZFS9ZWq",
+	"_key": "!actors.items!dGf8LfYZ3QFSma29.uQWFbCYH2ZFS9ZWq",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Infernal Contract",
+	"system": {
+		"description": "<p>A mortal can negotiate a price for singing their True Name. Typical offers include a wish (as the spell) or obtaining a devilish servant.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,73 @@
+{
+	"_id": "vrIUF2OPKuUhNFJ5",
+	"_key": "!actors!vrIUF2OPKuUhNFJ5",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"a0z7w0GFCrR5D8F0",
+		"Dyxee45tmxr8mY0w",
+		"vAkbwveXj1NqG0W0"
+	],
+	"name": "Stormghost",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Stormghost",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 40,
+				"value": 40
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Conical, icicle-shaped head atop a brawny milk-white torso, with four insect-like legs ending in sharp points. 8 feet tall, 15-foot leg span. Attacks during blizzards.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 40, <strong>ATK</strong> 2 claw +5 (1d8) or impaling leap, <strong>MV</strong> near (climb), <strong>S</strong> +4, <strong>D</strong> +4, <strong>C</strong> +4, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Camouflage</strong>. Hard to see, ADV to sneak and hide.</p><p></p><p><strong>Impaling Leap</strong>. Jump up to near in height and double near in distance, then make 1 claw attack. If hit, x3 damage.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

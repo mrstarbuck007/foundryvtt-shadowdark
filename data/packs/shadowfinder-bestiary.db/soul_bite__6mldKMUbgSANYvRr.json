@@ -1,0 +1,20 @@
+{
+	"_id": "6mldKMUbgSANYvRr",
+	"_key": "!actors.items!X7jddZcFWhd9ClEh.6mldKMUbgSANYvRr",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Soul Bite",
+	"system": {
+		"description": "<p>Can bite soul of any creature amarok sees, ignoring armor and shields.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,73 @@
+{
+	"_id": "Hjgyv6DhgD1zxdSV",
+	"_key": "!actors!Hjgyv6DhgD1zxdSV",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"TdueK3DAS7Y6YPaG",
+		"FjDF18uKWA6iGmvz",
+		"WJOunO4s0CCSYCG6"
+	],
+	"name": "Bodythief",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Bodythief",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": -3
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 7
+			},
+			"hp": {
+				"max": 48,
+				"value": 48
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "close",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Giant flowering plant-pod that swallows mortals and grows an emotionless pod- clone of the victim.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 7, <strong>HP</strong> 48, <strong>ATK</strong> 3 bite (near) +7 (2d8 + swallow), <strong>MV</strong> close, <strong>S</strong> +4, <strong>D</strong> -3, <strong>C</strong> +3, <strong>I</strong> +3, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Pod Person</strong>. The bodythief can consume a corpse and produce an emotionless pod person clone of that person. Exact duplicate of mortal but chaotic, dull, and vapid.</p><p></p><p><strong>Swallow</strong>. On a natural attack roll of 18-20, target is swallowed. Total darkness inside and 2d10 damage per round. Regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

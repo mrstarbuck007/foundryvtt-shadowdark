@@ -1,0 +1,28 @@
+{
+	"_id": "CvzaOwUB5HQrukzN",
+	"_key": "!actors.items!AAGx8ZkVVhwUuibh.CvzaOwUB5HQrukzN",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Bloodthirst",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>If within close of bleeding creature, regains [[/r 1d6]] HP on its turn.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

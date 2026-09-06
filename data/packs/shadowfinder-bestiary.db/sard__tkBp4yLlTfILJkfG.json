@@ -1,0 +1,74 @@
+{
+	"_id": "tkBp4yLlTfILJkfG",
+	"_key": "!actors!tkBp4yLlTfILJkfG",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"v3ay6uUIPt3Tu5R3",
+		"HYWpDkqz0Tk5YrN4",
+		"7qx9m2wIDfz2dvTJ",
+		"ud9hhXkIwu94rH45"
+	],
+	"name": "Sard",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Sard",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 54,
+				"value": 54
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>An ancient hardwood tree infused with lightning life by the eldest fey. Massive old growth with no leaves, sap is laden with crimson sparks.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 54, <strong>ATK</strong> 2 slams +9 (2d10) or 4 thorns (far) +6 (1d8), <strong>MV</strong> near (climb), <strong>S</strong> +5, <strong>D</strong> +1, <strong>C</strong> +5, <strong>I</strong> -1, <strong>W</strong> +2, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Death Throes</strong>. When reduced to 0 HP, explodes in electrical blast, all within near, CON 15+ or 3d10 damage.</p><p></p><p><strong>Lightning Aura</strong>. Creatures in close CON 15+ on turn or 1d10 damage.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

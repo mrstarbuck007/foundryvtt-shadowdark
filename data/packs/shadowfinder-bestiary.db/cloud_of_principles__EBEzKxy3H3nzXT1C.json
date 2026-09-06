@@ -1,0 +1,20 @@
+{
+	"_id": "EBEzKxy3H3nzXT1C",
+	"_key": "!actors.items!RJejDhzCKvAmKgLT.EBEzKxy3H3nzXT1C",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Cloud of Principles",
+	"system": {
+		"description": "<p>Turn into a gaseous, sparkling cloud filled with ethereal math formulas for 5 rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

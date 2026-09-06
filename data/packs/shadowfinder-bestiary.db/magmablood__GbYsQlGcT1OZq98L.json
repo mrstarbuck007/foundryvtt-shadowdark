@@ -1,0 +1,20 @@
+{
+	"_id": "GbYsQlGcT1OZq98L",
+	"_key": "!actors.items!AppJtip52aiSyF4y.GbYsQlGcT1OZq98L",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Magmablood",
+	"system": {
+		"description": "<p>Fire immune. Double damage from cold.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

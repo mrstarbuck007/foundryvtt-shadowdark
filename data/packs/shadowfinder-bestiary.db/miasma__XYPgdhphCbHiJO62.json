@@ -1,0 +1,20 @@
+{
+	"_id": "XYPgdhphCbHiJO62",
+	"_key": "!actors.items!j1ncRgJ5x0Pv9POG.XYPgdhphCbHiJO62",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Miasma",
+	"system": {
+		"description": "<p>Using its bile breath, create a poison fog centered on dragon, as per cloudkill.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

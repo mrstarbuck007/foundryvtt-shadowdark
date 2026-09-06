@@ -1,0 +1,20 @@
+{
+	"_id": "AjY2b3YATlKok1w9",
+	"_key": "!actors.items!PFXavQaJUboOJBg7.AjY2b3YATlKok1w9",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Undead Passivity",
+	"system": {
+		"description": "<p>Mindless undead are not immediately hostile. Sentient undead may roll Reaction.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

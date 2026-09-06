@@ -1,0 +1,20 @@
+{
+	"_id": "cd99EiaUOcYIQ4CF",
+	"_key": "!actors.items!VUibSkLc3SpNFCXz.cd99EiaUOcYIQ4CF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Plane Shift",
+	"system": {
+		"description": "<p>1/day, can fold space and time, transporting horse and rider to Astral or Ethereal Plane or back to the mortal world.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

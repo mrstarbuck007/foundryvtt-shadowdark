@@ -1,0 +1,20 @@
+{
+	"_id": "lQOXlbVJyiWcfuUk",
+	"_key": "!actors.items!F6IXNKSK6qlK5m7s.lQOXlbVJyiWcfuUk",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Misfortune",
+	"system": {
+		"description": "<p>Mortals within near, [[check 15 cha]] or cursed with bad luck, rolling checks and attacks with DISADV for [[/r 1d4]] rounds. Beings with luck tokens are unaffected by misfortune.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

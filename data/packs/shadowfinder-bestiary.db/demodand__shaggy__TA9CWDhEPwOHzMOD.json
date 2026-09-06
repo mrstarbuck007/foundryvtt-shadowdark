@@ -1,0 +1,75 @@
+{
+	"_id": "TA9CWDhEPwOHzMOD",
+	"_key": "!actors!TA9CWDhEPwOHzMOD",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"omtIzLPGjLzXJvfV",
+		"2yEx81xxdH4hqmBi",
+		"q9kIPbVEyfdaLCcs",
+		"lJgodq8xpFZ5kR3k",
+		"oH43xDUKiRxnPgJP"
+	],
+	"name": "Demodand, Shaggy",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Demodand, Shaggy",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"max": 57,
+				"value": 57
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 12,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>7 feet tall, 600 pounds, massively obese, bat-winged servant of the titans. Furry, roughly human-shaped generals of the thanatotic armies. Demonic in origin.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 57, <strong>ATK</strong> 4 +2 mace +8 (1d6+2) or 2 spell +8, <strong>MV</strong> double near (fly), <strong>S</strong> +4, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 12</p><p></p>\n\t<p><strong>Baffle (INT Spell)</strong>. Focus. DC 15. All foes within double near can't take actions and move in a random direction on their turn.</p><p></p><p><strong>Balefire (INT Spell)</strong>. DC 15. 5d6 damage to one target within far.</p><p></p><p><strong>Pure Evil</strong>. Only damaged by magic sources. Weapons dissolve if slain.</p><p></p><p><strong>Void Shunt (INT Spell)</strong>. DC 15. Plane shift self and all within double near to the Abyss or mortal world.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "int",
+			"attacks": 2,
+			"bonus": 8
+		}
+	},
+	"type": "NPC"
+}

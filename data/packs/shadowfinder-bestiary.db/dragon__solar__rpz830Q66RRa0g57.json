@@ -1,0 +1,74 @@
+{
+	"_id": "rpz830Q66RRa0g57",
+	"_key": "!actors!rpz830Q66RRa0g57",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"lRS3e8FVUuuj2mnR",
+		"HaxfihPcZJDgdVs7",
+		"i8gHKc7YfqpSmbRx",
+		"qCvN1wLsOTPBUz2l"
+	],
+	"name": "Dragon, Solar",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Dragon, Solar",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"max": 61,
+				"value": 61
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 13,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Burnished golden scales with inner light. 60-foot-long drake, translucent wings. Haughty and superior.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16, <strong>HP</strong> 61, <strong>ATK</strong> 3 rend +9 (2d10) or 1 sun breath, <strong>MV</strong> double near (fly), <strong>S</strong> +4, <strong>D</strong> +0, <strong>C</strong> +3, <strong>I</strong> +3, <strong>W</strong> +4, <strong>Ch</strong> +3, <strong>AL</strong> N, <strong>LV</strong> 13</p><p></p>\n\t<p><strong>Starflight</strong>. Dragon and riders can survive the interstellar void. Able to fly between worlds in 1d4 days.</p><p></p><p><strong>Sun Breath</strong>. A straight line (5' wide) of burning sunlight, extending double near from dragon. CON 15+ or 4d10 damage.</p><p></p><p><strong>Sunblood</strong>. Fire immune.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

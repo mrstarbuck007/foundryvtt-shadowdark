@@ -1,0 +1,20 @@
+{
+	"_id": "uTXeaYA6VoHnaQ1v",
+	"_key": "!actors.items!NbtbvkF3FbpyRngy.uTXeaYA6VoHnaQ1v",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Gills, 4",
+	"system": {
+		"description": "<p>Leaping legs.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

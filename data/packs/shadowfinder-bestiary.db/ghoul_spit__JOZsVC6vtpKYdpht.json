@@ -1,0 +1,30 @@
+{
+	"_id": "JOZsVC6vtpKYdpht",
+	"_key": "!actors.items!73Z8TcXhcWO1SAbk.JOZsVC6vtpKYdpht",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Ghoul Spit",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>Spit on a target within near, paralyzed for [[/r 1d4]] rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d4"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

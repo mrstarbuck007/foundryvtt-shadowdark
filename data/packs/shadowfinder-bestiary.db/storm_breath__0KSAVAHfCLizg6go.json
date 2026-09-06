@@ -1,0 +1,28 @@
+{
+	"_id": "0KSAVAHfCLizg6go",
+	"_key": "!actors.items!aQPAOT9EYDYuGbt0.0KSAVAHfCLizg6go",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Storm Breath",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A double near- size cube of obscuring fog and shocking electricity extending from dragon. [[check 15 con]] or [[/r 2d8]] damage. Lasts [[/r 1d4]] rounds, damage each round.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

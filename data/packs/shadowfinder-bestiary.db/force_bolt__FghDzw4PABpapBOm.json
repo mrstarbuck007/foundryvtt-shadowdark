@@ -1,0 +1,29 @@
+{
+	"_id": "FghDzw4PABpapBOm",
+	"_key": "!actors.items!ZPMqC3MrD9xetMnc.FghDzw4PABpapBOm",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Force Bolt",
+	"system": {
+		"attack": {
+			"num": 2
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A glowing bolt of force deals [[/r 1d4]] damage to one target within far.</p>",
+		"properties": [
+		],
+		"ranges": [
+			"far"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,73 @@
+{
+	"_id": "2WFnhR3EMcyY5OiX",
+	"_key": "!actors!2WFnhR3EMcyY5OiX",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"ClFb33X5sRlnmQJi",
+		"ie1Yaz7EztjhVUgt",
+		"e1MnXME3q2ZPuuZs"
+	],
+	"name": "Faun",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Faun",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 9,
+				"value": 9
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 2,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Offspring of a satyr and fey. White goat legs and a human upper torso crested with ram's horns. Oft mistaken for satyrs, but more gregarious.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 9, <strong>ATK</strong> 1 dagger (close/near) +2 (1d4) or shortbow (far) +2 (1d4) or 1 panpipes, <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +2, <strong>AL</strong> N, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Panpipes</strong>. Creatures who can hear within double near CHA 15+ or entranced and jovial for 1 day. Immune for 1 day if passed check.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

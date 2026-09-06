@@ -1,0 +1,73 @@
+{
+	"_id": "d1f7EtbLbdBaPSSz",
+	"_key": "!actors!d1f7EtbLbdBaPSSz",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"XlRqUtuGCxRaXeJR",
+		"xt2ZbrmiXncZEFeE",
+		"t2yB8Sbi7mEFVuDL"
+	],
+	"name": "Golem, Ice",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Golem, Ice",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"max": 17,
+				"value": 17
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3,
+			"xp": 0
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A statue made of transparent ice, formed in the rough shape of a man.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 17, <strong>ATK</strong> 2 slam +3 (1d8), <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +0, <strong>C</strong> +4, <strong>I</strong> -2, <strong>W</strong> +0, <strong>Ch</strong> -2, <strong>AL</strong> N, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Golem</strong>. Only damaged by adamantine or magical sources. Immune to damage from acid, cold, electricity, or non-magical sources. Double damage from any fire.</p><p></p><p><strong>Shard Blast</strong>. When reduced to 0 HP, explodes in icy blast, near-sized cube centered on golem. DEX 12+ or 1d8 damage.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

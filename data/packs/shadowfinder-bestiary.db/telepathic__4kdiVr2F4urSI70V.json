@@ -1,0 +1,20 @@
+{
+	"_id": "4kdiVr2F4urSI70V",
+	"_key": "!actors.items!jvbsdxFhmJCcqd7z.4kdiVr2F4urSI70V",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Telepathic",
+	"system": {
+		"description": "<p>Read the thoughts of all creatures within far.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "fzpImYU5oRlANG1M",
+	"_key": "!actors.items!tfhFgKiooBgBD15x.fzpImYU5oRlANG1M",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Slow Starflight",
+	"system": {
+		"description": "<p>Mi-go can survive the interstellar void. Able to fly between worlds in [[/r 3d20]] months.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "zgWKQoXTWgZVP9w6",
+	"_key": "!actors.items!woyjBrrsMH8txtVq.zgWKQoXTWgZVP9w6",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Infest",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Cover the scalp of helpless or willing host creature, opposed CHA to dominate it until removed.</p>",
+		"properties": [
+		],
+		"ranges": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}

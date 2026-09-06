@@ -1,0 +1,74 @@
+{
+	"_id": "SVON2ExESibNlzOq",
+	"_key": "!actors!SVON2ExESibNlzOq",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"jyqaaV5b4rPqbxmy",
+		"GLoEeZS7iUyIx9sf",
+		"q4VOLCZPejxNPsRW",
+		"cfvN5AqBn98NKrwW"
+	],
+	"name": "Qlippoth, Augnagar",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Qlippoth, Augnagar",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": -1
+			},
+			"int": {
+				"mod": -2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"max": 49,
+				"value": 49
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Abyssal beast from the time before demons. Hideous mash-up of an ogre's head atop a thorax with eight jutting spider legs, each with bat-like webbing. Thirty foot wingspan and weighs 3 tons.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 49, <strong>ATK</strong> 3 claw +8 (2d6 + stinking curse), <strong>MV</strong> double near (climb, fly), <strong>S</strong> +4, <strong>D</strong> -1, <strong>C</strong> +4, <strong>I</strong> -2, <strong>W</strong> +1, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Great Evil</strong>. Only damaged by cold iron or magical sources.</p><p></p><p><strong>Horrific Appearance</strong>. Mortal creatures looking directly at qlippoth, CON 15+ or 1d4 CHA damage. On success, immune for 24 hours.</p><p></p><p><strong>Stinking Curse</strong>. CON 15+ or 1d4 CHA damage (can't heal while ill). Repeat check each day; ends on success. Die and rise as ghast at 0 CHA.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

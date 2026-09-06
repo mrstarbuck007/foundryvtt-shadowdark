@@ -1,0 +1,20 @@
+{
+	"_id": "RWsn2GeeCxQMV12i",
+	"_key": "!actors.items!fXoevt7qokeV8CPu.RWsn2GeeCxQMV12i",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Roar",
+	"system": {
+		"description": "<p>All creatures who can hear within double near [[check 15 cha]] or frightened [[/r 1d4]] rounds.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

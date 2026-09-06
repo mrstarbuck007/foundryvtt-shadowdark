@@ -1,0 +1,20 @@
+{
+	"_id": "OtNFUvFnjbMwONxF",
+	"_key": "!actors.items!7e9W8BS319Z7J5ty.OtNFUvFnjbMwONxF",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Numb",
+	"system": {
+		"description": "<p>[[check 12 con]] or DISADV on checks until warm.</p>",
+		"properties": [
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Feature"
+}

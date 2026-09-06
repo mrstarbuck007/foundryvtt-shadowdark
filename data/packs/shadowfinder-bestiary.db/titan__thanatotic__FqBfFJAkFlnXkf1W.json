@@ -1,0 +1,73 @@
+{
+	"_id": "FqBfFJAkFlnXkf1W",
+	"_key": "!actors!FqBfFJAkFlnXkf1W",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "systems/shadowdark/assets/tokens/cowled_token_red.webp",
+	"items": [
+		"tpa7aVi5NGne20oW",
+		"wAIOUxpz0TeJhrgw",
+		"uuY3swaKSu3dgIeC"
+	],
+	"name": "Titan, Thanatotic",
+	"prototypeToken": {
+		"actorLink": false,
+		"appendNumber": false,
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"name": "Titan, Thanatotic",
+		"texture": {
+			"src": "systems/shadowdark/assets/tokens/cowled_token_red.webp"
+		}
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 15
+			},
+			"hp": {
+				"max": 55,
+				"value": 55
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 11,
+			"xp": 0
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>After the Mortal Wars, these death-bringing titans were banished to the Abyss. Appear as 70-foot-tall, perfectly formed giants garbed in black plate armor.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15 (plate mail), <strong>HP</strong> 55, <strong>ATK</strong> 3 greataxe (near) +10 (3d12 + godslayer) or 1 rock (far) +10 (3d12), <strong>MV</strong> double near, <strong>S</strong> +6, <strong>D</strong> +1, <strong>C</strong> +6, <strong>I</strong> +3, <strong>W</strong> +4, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 11</p><p></p>\n\t<p><strong>Godslayer</strong>. WIS 18+ or unable to cast divine spells for 1d4 rounds.</p><p></p>\n\t<p><i>Shadowfinder Complete Bestiary</i></p>",
+		"spellcasting": {
+			"ability": "",
+			"attacks": 0,
+			"bonus": 0
+		}
+	},
+	"type": "NPC"
+}

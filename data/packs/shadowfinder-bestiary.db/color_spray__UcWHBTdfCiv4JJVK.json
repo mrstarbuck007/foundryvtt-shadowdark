@@ -1,0 +1,30 @@
+{
+	"_id": "UcWHBTdfCiv4JJVK",
+	"_key": "!actors.items!zn5O0UupQ53GigOx.UcWHBTdfCiv4JJVK",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Color Spray",
+	"system": {
+		"alignment": "",
+		"class": [
+		],
+		"description": "<p>One target within near is blinded for 1 round.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1"
+		},
+		"lost": false,
+		"properties": [
+		],
+		"range": "near",
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

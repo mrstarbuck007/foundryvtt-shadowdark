@@ -1,0 +1,29 @@
+{
+	"_id": "6Mb4j5GBn6TQ8Orf",
+	"_key": "!actors.items!UwmqHXEIh1IrcDel.6Mb4j5GBn6TQ8Orf",
+	"effects": [
+	],
+	"flags": {
+	},
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Bomb",
+	"system": {
+		"attack": {
+			"num": 1
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Explosion, near-sized cube area. [[check 15 dex]] or [[/r 3d6]] damage (roll [[/r 1d4]] for bomb type): 1. acid, 2. cold, 3. fire, 4. lightning.</p>",
+		"properties": [
+		],
+		"ranges": [
+			"far"
+		],
+		"source": {
+			"title": "Shadowfinder Complete Bestiary"
+		}
+	},
+	"type": "NPC Special Attack"
+}
