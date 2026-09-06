@@ -106,11 +106,8 @@
 	* Each monster carries the issue artwork as its portrait and token, and credits the artist in its notes
 	* The Hydra Worm is statted with three heads, as its level and hit points are written to scale with the number of heads you give it
 	* Darkest Day is not included, as it is a seasonal event and a d12 table rather than a monster
-- Added a Shadowfinder Bestiary compendium holding 1,532 monsters from the Shadowfinder Complete Bestiary
-	* The 186 monsters the book shares with the core monsters compendium are not duplicated here, so the core versions stay authoritative
-	* Checks are written as clickable rolls rather than the book's `CON 15+` shorthand, matching the rest of the monsters
-	* The elementals the book gives two stat sets are split into a Lesser and a Greater actor
-	* Hydras and the Thessalhydra are statted with three heads, as their level and hit points scale with the number of heads
+- The Shadowfinder Complete Bestiary is available as a separate module, adding its 1,532 monsters as their own compendium so only the tables that want it pay for the download
+	* Install it from https://github.com/mrstarbuck007/foundryvtt-shadowfinder-bestiary
 
 # Bugfixes
 - [#1374] Issue Leveling Up in Foundry
