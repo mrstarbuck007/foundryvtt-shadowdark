@@ -45,6 +45,6 @@ jobs:
         artifacts: './system/system.json, ./shadowdark.zip'
         draft: false
         name: release-${{ env.systemVersion }}
-        prerelease: true
+        prerelease: false
         tag: release-${{ env.systemVersion }}
         token: ${{ secrets.GITHUB_TOKEN }}

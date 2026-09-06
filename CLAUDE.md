@@ -24,7 +24,7 @@ npm run lang           # i18n/*.yaml -> system/i18n/*.json
 npm run packs          # data/packs/**/*.json -> system/packs/ (LevelDB)
 npm run export         # system/packs/ (LevelDB) -> data/packs/**/*.json
 npm run import         # pack data/packs -> system/packs
-npm run notes          # RELEASE_NOTES.md + GitHub wiki -> documentation pack journals
+npm run notes          # RELEASE_NOTES.md -> documentation pack release notes journal
 npm run clean          # remove generated css / i18n / packs
 npm run createSymlinks # symlink Foundry client sources into ./foundry for intellisense
 ```
@@ -131,8 +131,10 @@ CLI, handles both LevelDB and legacy NeDB.
 `.classTalents()`, etc. It scans *all* loaded packs (so module-provided content participates) and applies the
 user's `sourceFilters` setting. Don't query `game.packs` directly for game content; add a method here instead.
 
-`npm run notes` rewrites journal JSON inside `data/packs/documentation.db/` from `RELEASE_NOTES.md` and from
-sections of the GitHub wiki's `Data-Model-References` page — so those journals are generated, not hand-edited.
+`npm run notes` rewrites the release notes journal in `data/packs/documentation.db/` from `RELEASE_NOTES.md`,
+so that one journal is generated rather than hand-edited. The remaining documentation journals (`actor_data`,
+`rolling`, `hooks`) used to be pulled from upstream's GitHub wiki; that fetch was removed, so they are now
+ordinary hand-maintained pack content.
 
 ### Sheets and templates
 

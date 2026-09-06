@@ -7,9 +7,9 @@
 		"minimum": "13",
 		"verified": "14"
 	},
-	"url": "https://github.com/Muttley/foundryvtt-shadowdark",
-	"manifest": "https://github.com/Muttley/foundryvtt-shadowdark/releases/latest/download/system.json",
-	"download": "https://github.com/Muttley/foundryvtt-shadowdark/releases/latest/download/shadowdark.zip",
+	"url": "https://github.com/mrstarbuck007/foundryvtt-shadowdark",
+	"manifest": "https://github.com/mrstarbuck007/foundryvtt-shadowdark/releases/latest/download/system.json",
+	"download": "https://github.com/mrstarbuck007/foundryvtt-shadowdark/releases/latest/download/shadowdark.zip",
 	"authors": [
 		{
 			"name": "Paul Maskelyne",
